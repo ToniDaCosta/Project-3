@@ -1,0 +1,2220 @@
+{
+  "results": [
+    {
+      "fsq_id": "4ca4c2c2750ca093b9262467",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2608,
+      "geocodes": {
+        "main": {
+          "latitude": 41.376799,
+          "longitude": 2.173472
+        },
+        "roof": {
+          "latitude": 41.376799,
+          "longitude": 2.173472
+        }
+      },
+      "link": "/v3/places/4ca4c2c2750ca093b9262467",
+      "location": {
+        "address": "Avenida Drassanes, 14",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Drassanes, 14, 08001 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08001",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial d'Idiomes",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4decc5f888774880e356257f",
+            "categories": [
+              {
+                "id": 12053,
+                "name": "Language School",
+                "short_name": "Language School",
+                "plural_name": "Language Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafeter\u00eda EOIB"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c0cc21fc700c9b66b51a1dd",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5207,
+      "geocodes": {
+        "main": {
+          "latitude": 41.4268,
+          "longitude": 2.13849
+        },
+        "roof": {
+          "latitude": 41.4268,
+          "longitude": 2.13849
+        }
+      },
+      "link": "/v3/places/4c0cc21fc700c9b66b51a1dd",
+      "location": {
+        "address": "Avinguda del Jord\u00e0, 18",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avinguda del Jord\u00e0, 18, 08035 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08035",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial d\u00b4Idiomes Barcelona Vall d\u00b4Hebron",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "594bcb841c675b13b9554617",
+            "categories": [
+              {
+                "id": 13049,
+                "name": "Diner",
+                "short_name": "Diner",
+                "plural_name": "Diners",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar Cafeter\u00eda"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e65d55f52b1260c148e25ae",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14138,
+      "geocodes": {
+        "main": {
+          "latitude": 41.494532,
+          "longitude": 2.077463
+        },
+        "roof": {
+          "latitude": 41.494532,
+          "longitude": 2.077463
+        }
+      },
+      "link": "/v3/places/4e65d55f52b1260c148e25ae",
+      "location": {
+        "address": "Ferrer I Gu\u00e0rdia, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Ferrer I Gu\u00e0rdia, s/n, 08174 Sant Cugat Catalunya",
+        "locality": "Sant Cugat",
+        "postcode": "08174",
+        "region": "Catalunya"
+      },
+      "name": "Agora Sant Cugat International School",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cbda0384495721edb83607a",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18373,
+      "geocodes": {
+        "main": {
+          "latitude": 41.55325,
+          "longitude": 2.112351
+        }
+      },
+      "link": "/v3/places/4cbda0384495721edb83607a",
+      "location": {
+        "address": "Brujas, 165",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Brujas, 165, 08202 Sabadell Catalunya",
+        "locality": "Sabadell",
+        "postcode": "08202",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial D. Idiomes de Sabadell",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d66dd67fd1b8cfab05d16f0",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 881,
+      "geocodes": {
+        "main": {
+          "latitude": 41.400852,
+          "longitude": 2.17776
+        },
+        "roof": {
+          "latitude": 41.400852,
+          "longitude": 2.17776
+        }
+      },
+      "link": "/v3/places/4d66dd67fd1b8cfab05d16f0",
+      "location": {
+        "address": "Avenida Diagonal, 275",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Diagonal, 275, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Centre D'educacio Infantil I Primaria Ramon Llull",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c2857e8ce3fc928ba0b6d88",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1284,
+      "geocodes": {
+        "main": {
+          "latitude": 41.39396,
+          "longitude": 2.202743
+        },
+        "roof": {
+          "latitude": 41.39396,
+          "longitude": 2.202743
+        }
+      },
+      "link": "/v3/places/4c2857e8ce3fc928ba0b6d88",
+      "location": {
+        "address": "Calle Carmen Amaya, 2",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Carmen Amaya, 2, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Vila Ol\u00edmpica",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd8de8452b1a5c6446fff01",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1317,
+      "geocodes": {
+        "main": {
+          "latitude": 41.399027,
+          "longitude": 2.171938
+        },
+        "roof": {
+          "latitude": 41.399027,
+          "longitude": 2.171938
+        }
+      },
+      "link": "/v3/places/4dd8de8452b1a5c6446fff01",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Maristes la Immaculada",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b7d1ae7f964a520bfae2fe3",
+      "categories": [
+        {
+          "id": 15017,
+          "name": "Medical Lab",
+          "short_name": "Medical Lab",
+          "plural_name": "Medical Labs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lab_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1566,
+      "geocodes": {
+        "main": {
+          "latitude": 41.38509,
+          "longitude": 2.19455
+        },
+        "roof": {
+          "latitude": 41.38509,
+          "longitude": 2.19455
+        }
+      },
+      "link": "/v3/places/4b7d1ae7f964a520bfae2fe3",
+      "location": {
+        "address": "Dr. Aiguader, 88",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Dr. Aiguader, 88, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "PRBB - Parc de Recerca Biom\u00e8dica de Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "637638c55580313371ea4c04",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2048,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404544,
+          "longitude": 2.164833
+        }
+      },
+      "link": "/v3/places/637638c55580313371ea4c04",
+      "location": {
+        "address": "Roger de Flor, 291",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Sant Antoni Maria Claret",
+        "formatted_address": "Roger de Flor, 291 (Sant Antoni Maria Claret), 08025 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08025",
+        "region": "Catalunya"
+      },
+      "name": "Kiddys Music",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e68dfc9b0fb8e94c7f9a091",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2600,
+      "geocodes": {
+        "main": {
+          "latitude": 41.415203,
+          "longitude": 2.16726
+        },
+        "roof": {
+          "latitude": 41.415203,
+          "longitude": 2.16726
+        }
+      },
+      "link": "/v3/places/4e68dfc9b0fb8e94c7f9a091",
+      "location": {
+        "address": "Avenida Mare de D\u00e9u de Montserrat, 78",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Mare de D\u00e9u de Montserrat, 78, 08024 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08024",
+        "region": "Catalunya"
+      },
+      "name": "Guinard\u00f3",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd934951f6ee146834dbcdf",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3067,
+      "geocodes": {
+        "main": {
+          "latitude": 41.425468,
+          "longitude": 2.18912
+        },
+        "roof": {
+          "latitude": 41.425468,
+          "longitude": 2.18912
+        }
+      },
+      "link": "/v3/places/4dd934951f6ee146834dbcdf",
+      "location": {
+        "address": "A\u00e7ores, 7",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "A\u00e7ores, 7, 08027 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08027",
+        "region": "Catalunya"
+      },
+      "name": "CEIP Rosa dels Vents",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c90bec44c19ef3bbc467fe1",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3376,
+      "geocodes": {
+        "main": {
+          "latitude": 41.423669,
+          "longitude": 2.208783
+        },
+        "roof": {
+          "latitude": 41.423669,
+          "longitude": 2.208783
+        }
+      },
+      "link": "/v3/places/4c90bec44c19ef3bbc467fe1",
+      "location": {
+        "address": "Empord\u00e0, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Empord\u00e0, s/n, 08020 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08020",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial d'Idiomes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d2ec5bdb97cb1f762299248",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3639,
+      "geocodes": {
+        "main": {
+          "latitude": 41.417227,
+          "longitude": 2.152572
+        }
+      },
+      "link": "/v3/places/4d2ec5bdb97cb1f762299248",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "S/N",
+        "formatted_address": "S/N, 08012 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08012",
+        "region": "Catalunya"
+      },
+      "name": "Escola Virolai",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57fc8ef1498e53983fd9ab8b",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4395,
+      "geocodes": {
+        "main": {
+          "latitude": 41.418648,
+          "longitude": 2.142869
+        }
+      },
+      "link": "/v3/places/57fc8ef1498e53983fd9ab8b",
+      "location": {
+        "address": "Carrer Montorn\u00e9s, 37",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Montorn\u00e9s, 37, 08023 Barcelona Barcelona",
+        "locality": "Barcelona",
+        "postcode": "08023",
+        "region": "Barcelona"
+      },
+      "name": "The English School",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e15cae7d22d026fa771617f",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4579,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.411708,
+          "longitude": 2.135899
+        },
+        "main": {
+          "latitude": 41.41178,
+          "longitude": 2.136
+        }
+      },
+      "link": "/v3/places/4e15cae7d22d026fa771617f",
+      "location": {
+        "address": "Avenida Tibidabo, 16",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Tibidabo, 16, 08022 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08022",
+        "region": "Catalunya"
+      },
+      "name": "Escola Projecte",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e895a762c5bc023fcc50911",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4892,
+      "geocodes": {
+        "main": {
+          "latitude": 41.39262,
+          "longitude": 2.129386
+        }
+      },
+      "link": "/v3/places/4e895a762c5bc023fcc50911",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona",
+        "region": "Barcelona"
+      },
+      "name": "Col.legi Sta. Dorotea",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d90ac6b1716a1438e0267f7",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 5064,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.383242,
+          "longitude": 2.130277
+        },
+        "main": {
+          "latitude": 41.383315,
+          "longitude": 2.130392
+        },
+        "roof": {
+          "latitude": 41.383315,
+          "longitude": 2.130392
+        }
+      },
+      "link": "/v3/places/4d90ac6b1716a1438e0267f7",
+      "location": {
+        "address": "Calle Llu\u00e7\u00e0, 56",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Llu\u00e7\u00e0, 56, 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "A Tempo Estudis Musicals",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f59b66de4b0aaabf486f4ea",
+      "categories": [
+        {
+          "id": 12055,
+          "name": "Nursery School",
+          "short_name": "Nursery School",
+          "plural_name": "Nursery Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5188,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.385021,
+          "longitude": 2.128112
+        },
+        "main": {
+          "latitude": 41.38513,
+          "longitude": 2.128074
+        },
+        "roof": {
+          "latitude": 41.38513,
+          "longitude": 2.128074
+        }
+      },
+      "link": "/v3/places/4f59b66de4b0aaabf486f4ea",
+      "location": {
+        "address": "Carrer Dolors Masferrer, 30",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Dolors Masferrer, 30, 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "Llar d'infants Mickey Mouse",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e2ea007152010789d13f23f",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5444,
+      "geocodes": {
+        "main": {
+          "latitude": 41.359558,
+          "longitude": 2.146768
+        }
+      },
+      "link": "/v3/places/4e2ea007152010789d13f23f",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Passeig de la zona franca",
+        "formatted_address": "Passeig de la zona franca, Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Parc de pr\u00e0ctiques de Tr\u00e0nsit Montju\u00efc",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c177333368220a116593657",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5719,
+      "geocodes": {
+        "main": {
+          "latitude": 41.387792,
+          "longitude": 2.12054
+        }
+      },
+      "link": "/v3/places/4c177333368220a116593657",
+      "location": {
+        "address": "Avinguda Diagonal, 684",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avinguda Diagonal, 684, 08034 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08034",
+        "region": "Catalunya"
+      },
+      "name": "Facultat de Dret UB",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc2d0352a89ef3b1b3ff488",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6077,
+      "geocodes": {
+        "main": {
+          "latitude": 41.394341,
+          "longitude": 2.114898
+        }
+      },
+      "link": "/v3/places/4bc2d0352a89ef3b1b3ff488",
+      "location": {
+        "address": "Calle Cavallers, 69",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Cavallers, 69, 08034 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08034",
+        "region": "Catalunya"
+      },
+      "name": "ESADE Facultad de Derecho",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b9ab695f964a5205dcf35e3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6466,
+      "geocodes": {
+        "main": {
+          "latitude": 41.396389,
+          "longitude": 2.109838
+        },
+        "roof": {
+          "latitude": 41.396389,
+          "longitude": 2.109838
+        }
+      },
+      "link": "/v3/places/4b9ab695f964a5205dcf35e3",
+      "location": {
+        "address": "Avenida Mare de D\u00e9u de Lorda, 2",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Mare de D\u00e9u de Lorda, 2, 08034 Calders Catalunya",
+        "locality": "Calders",
+        "postcode": "08034",
+        "region": "Catalunya"
+      },
+      "name": "Betania Patmos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd948e81f6ee146834ff82d",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6590,
+      "geocodes": {
+        "main": {
+          "latitude": 41.359629,
+          "longitude": 2.127359
+        },
+        "roof": {
+          "latitude": 41.359629,
+          "longitude": 2.127359
+        }
+      },
+      "link": "/v3/places/4dd948e81f6ee146834ff82d",
+      "location": {
+        "address": "Calle Natzaret, 11",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Natzaret, 11, 08902 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08902",
+        "region": "Catalunya"
+      },
+      "name": "Escola Prat de la Manta",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "530f83fa498e5b5885cdbc92",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6844,
+      "geocodes": {
+        "main": {
+          "latitude": 41.360372,
+          "longitude": 2.121489
+        },
+        "roof": {
+          "latitude": 41.360372,
+          "longitude": 2.121489
+        }
+      },
+      "link": "/v3/places/530f83fa498e5b5885cdbc92",
+      "location": {
+        "address": "Calle Aprestadora, 125",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Aprestadora, 125, 08902 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08902",
+        "region": "Catalunya"
+      },
+      "name": "Escola Paco Candel",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5652ea5d498e767f95c7681d",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6913,
+      "geocodes": {
+        "main": {
+          "latitude": 41.386343,
+          "longitude": 2.105883
+        },
+        "roof": {
+          "latitude": 41.386343,
+          "longitude": 2.105883
+        }
+      },
+      "link": "/v3/places/5652ea5d498e767f95c7681d",
+      "location": {
+        "address": "Avenida Esplugues, 38",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Esplugues, 38, 08034 Barcelona Barcelona",
+        "locality": "Barcelona",
+        "postcode": "08034",
+        "region": "Barcelona"
+      },
+      "name": "IES Ausi\u00e0s March",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e75a8e518506506cca43c73",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7959,
+      "geocodes": {
+        "main": {
+          "latitude": 41.382313,
+          "longitude": 2.094364
+        },
+        "roof": {
+          "latitude": 41.382313,
+          "longitude": 2.094364
+        }
+      },
+      "link": "/v3/places/4e75a8e518506506cca43c73",
+      "location": {
+        "address": "Calle Manuel Florent\u00edn P\u00e9rez, 26",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Manuel Florent\u00edn P\u00e9rez, 26, 08950 Esplugues de Llobregat Catalunya",
+        "locality": "Esplugues de Llobregat",
+        "postcode": "08950",
+        "region": "Catalunya"
+      },
+      "name": "Highlands School Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e60889918a8ce02fc014e08",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8737,
+      "geocodes": {
+        "main": {
+          "latitude": 41.383986,
+          "longitude": 2.084527
+        },
+        "roof": {
+          "latitude": 41.383986,
+          "longitude": 2.084527
+        }
+      },
+      "link": "/v3/places/4e60889918a8ce02fc014e08",
+      "location": {
+        "address": "Calle Jaume Balmes, 7",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Jaume Balmes, 7, 08950 Esplugues de Llobregat Catalunya",
+        "locality": "Esplugues de Llobregat",
+        "postcode": "08950",
+        "region": "Catalunya"
+      },
+      "name": "The American School Of Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51a8c7a1498e06d309fd9e7c",
+      "categories": [
+        {
+          "id": 12051,
+          "name": "Driving School",
+          "short_name": "Driving School",
+          "plural_name": "Driving Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10202,
+      "geocodes": {
+        "main": {
+          "latitude": 41.365944,
+          "longitude": 2.073002
+        },
+        "roof": {
+          "latitude": 41.365944,
+          "longitude": 2.073002
+        }
+      },
+      "link": "/v3/places/51a8c7a1498e06d309fd9e7c",
+      "location": {
+        "address": "Calle Domenec I Muntaner, 5",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Domenec I Muntaner, 5, 08970 Sant Joan Desp\u00ed Catalunya",
+        "locality": "Sant Joan Desp\u00ed",
+        "postcode": "08970",
+        "region": "Catalunya"
+      },
+      "name": "Autoescuela Requena",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55fbb005498e0e308f7073f0",
+      "categories": [
+        {
+          "id": 12055,
+          "name": "Nursery School",
+          "short_name": "Nursery School",
+          "plural_name": "Nursery Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10248,
+      "geocodes": {
+        "main": {
+          "latitude": 41.489958,
+          "longitude": 2.189365
+        }
+      },
+      "link": "/v3/places/55fbb005498e0e308f7073f0",
+      "location": {
+        "address": "Calle Jaume Layret, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Jaume Layret, s/n, Montcada Catalunya",
+        "locality": "Montcada",
+        "region": "Catalunya"
+      },
+      "name": "Escola bressol Font Freda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c877e62d8086dcba957a252",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2297,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.385882,
+          "longitude": 2.165162
+        },
+        "main": {
+          "latitude": 41.385784,
+          "longitude": 2.165148
+        },
+        "roof": {
+          "latitude": 41.385784,
+          "longitude": 2.165148
+        }
+      },
+      "link": "/v3/places/4c877e62d8086dcba957a252",
+      "location": {
+        "address": "Calle Pelai, 8",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Pelai, 8, 08001 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08001",
+        "region": "Catalunya"
+      },
+      "name": "Stucom",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bfed6a4daf9c9b69557f9ef",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11159,
+      "geocodes": {
+        "main": {
+          "latitude": 41.469677,
+          "longitude": 2.094243
+        },
+        "roof": {
+          "latitude": 41.469677,
+          "longitude": 2.094243
+        }
+      },
+      "link": "/v3/places/4bfed6a4daf9c9b69557f9ef",
+      "location": {
+        "address": "Avenida Pla del Vinyet, 110",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Pla del Vinyet, 110, 08172 Sant Cugat Catalunya",
+        "locality": "Sant Cugat",
+        "postcode": "08172",
+        "region": "Catalunya"
+      },
+      "name": "Europa International School",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5676d54a498e00b4d6da1378",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11175,
+      "geocodes": {
+        "main": {
+          "latitude": 41.498073,
+          "longitude": 2.17865
+        },
+        "roof": {
+          "latitude": 41.498073,
+          "longitude": 2.17865
+        }
+      },
+      "link": "/v3/places/5676d54a498e00b4d6da1378",
+      "location": {
+        "address": "Moncada I Reixac Calle \u00c1ngel Quimera Nu, 18",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Moncada I Reixac Calle \u00c1ngel Quimera Nu, 18, 08110 Montcada Catalunya",
+        "locality": "Montcada",
+        "postcode": "08110",
+        "region": "Catalunya"
+      },
+      "name": "Mas Rampinyo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d42969af2a6a0937a27d868",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11248,
+      "geocodes": {
+        "main": {
+          "latitude": 41.348861,
+          "longitude": 2.069561
+        },
+        "roof": {
+          "latitude": 41.348861,
+          "longitude": 2.069561
+        }
+      },
+      "link": "/v3/places/4d42969af2a6a0937a27d868",
+      "location": {
+        "address": "Partida Caparrella, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Partida Caparrella, s/n, 25001 Lleida L\u00e9rida",
+        "locality": "Lleida",
+        "postcode": "25001",
+        "region": "L\u00e9rida"
+      },
+      "name": "Federacion Catalana de Tenis",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c86603dd8086dcb05bc9952",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11981,
+      "geocodes": {
+        "main": {
+          "latitude": 41.476755,
+          "longitude": 2.089846
+        },
+        "roof": {
+          "latitude": 41.476755,
+          "longitude": 2.089846
+        }
+      },
+      "link": "/v3/places/4c86603dd8086dcb05bc9952",
+      "location": {
+        "address": "Avenida Ragull, 39",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Ragull, 39, 08173 Sant Cugat Catalunya",
+        "locality": "Sant Cugat",
+        "postcode": "08173",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial d'Idiomes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e69ce42fa76cd0f766a29eb",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13093,
+      "geocodes": {
+        "main": {
+          "latitude": 41.498351,
+          "longitude": 2.105458
+        },
+        "roof": {
+          "latitude": 41.498351,
+          "longitude": 2.105458
+        }
+      },
+      "link": "/v3/places/4e69ce42fa76cd0f766a29eb",
+      "location": {
+        "address": "Avinguda de Can Dom\u00e8nech, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda de Can Dom\u00e8nech, s/n, 08193 Cerdanyola Catalunya",
+        "locality": "Cerdanyola",
+        "postcode": "08193",
+        "region": "Catalunya"
+      },
+      "name": "Facultat de Medicina UAB",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ca03ff92fb1a143cce9fa40",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13360,
+      "geocodes": {
+        "main": {
+          "latitude": 41.500883,
+          "longitude": 2.105536
+        },
+        "roof": {
+          "latitude": 41.500883,
+          "longitude": 2.105536
+        }
+      },
+      "link": "/v3/places/4ca03ff92fb1a143cce9fa40",
+      "location": {
+        "address": "Calle de la Vall Moronta, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Campus UAB",
+        "formatted_address": "Calle de la Vall Moronta, s/n (Campus UAB), 08193 Cerdanyola Catalunya",
+        "locality": "Cerdanyola",
+        "postcode": "08193",
+        "region": "Catalunya"
+      },
+      "name": "Facultat de Dret UAB",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bac8939f964a520daf93ae3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Universitat Aut\u00f2noma de Barcelona"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ece1921e5faa5ec0029b32a",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14401,
+      "geocodes": {
+        "main": {
+          "latitude": 41.492569,
+          "longitude": 2.069768
+        },
+        "roof": {
+          "latitude": 41.492569,
+          "longitude": 2.069768
+        }
+      },
+      "link": "/v3/places/4ece1921e5faa5ec0029b32a",
+      "location": {
+        "address": "Avinguda Generalitat, 199",
+        "address_extended": "201",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda Generalitat, 199, 08174 Sant Cugat Catalunya",
+        "locality": "Sant Cugat",
+        "postcode": "08174",
+        "region": "Catalunya"
+      },
+      "name": "Escola Thau",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e607b4dfa76cd64cd609663",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14870,
+      "geocodes": {
+        "main": {
+          "latitude": 41.510766,
+          "longitude": 2.091411
+        },
+        "roof": {
+          "latitude": 41.510766,
+          "longitude": 2.091411
+        }
+      },
+      "link": "/v3/places/4e607b4dfa76cd64cd609663",
+      "location": {
+        "address": "Carretera Bellaterra, Km 4,6",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carretera Bellaterra, Km 4,6, 08193 Cerdanyola del Vall\u00e8s Catalunya",
+        "locality": "Sabadell",
+        "postcode": "08193",
+        "region": "Catalunya"
+      },
+      "name": "Col.legi la Vall",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b8abf2bf964a5202a7e32e3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17604,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.545761,
+          "longitude": 2.112784
+        },
+        "main": {
+          "latitude": 41.545653,
+          "longitude": 2.112793
+        },
+        "roof": {
+          "latitude": 41.545653,
+          "longitude": 2.112793
+        }
+      },
+      "link": "/v3/places/4b8abf2bf964a5202a7e32e3",
+      "location": {
+        "address": "Carrer Jardi, 72",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Turull",
+        "formatted_address": "Carrer Jardi, 72 (Turull), 08202 Sabadell Catalunya",
+        "locality": "Sabadell",
+        "postcode": "08202",
+        "region": "Catalunya"
+      },
+      "name": "Sant Nicolau",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd8b02de4cd37c893cbcc1c",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17660,
+      "geocodes": {
+        "main": {
+          "latitude": 41.550744,
+          "longitude": 2.245053
+        }
+      },
+      "link": "/v3/places/4dd8b02de4cd37c893cbcc1c",
+      "location": {
+        "address": "Carrer Sentmenat, 4",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Sentmenat, 4, 08192 Montmel\u00f3 Catalunya",
+        "locality": "Montmel\u00f3",
+        "postcode": "08192",
+        "region": "Catalunya"
+      },
+      "name": "Escola de Municipal de M\u00fasica",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e77713ce4cd32543830c88e",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 20921,
+      "geocodes": {
+        "main": {
+          "latitude": 41.27267,
+          "longitude": 2.000048
+        },
+        "roof": {
+          "latitude": 41.27267,
+          "longitude": 2.000048
+        }
+      },
+      "link": "/v3/places/4e77713ce4cd32543830c88e",
+      "location": {
+        "address": "Cam\u00ed de la Pava, 15",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Cam\u00ed de la Pava, 15, 08850 Gav\u00e0 Catalunya",
+        "locality": "Gav\u00e0",
+        "postcode": "08850",
+        "region": "Catalunya"
+      },
+      "name": "Bon Soleil",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ed64b3f4690ad261cb5ef1d",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22234,
+      "geocodes": {
+        "main": {
+          "latitude": 41.275788,
+          "longitude": 1.976248
+        },
+        "roof": {
+          "latitude": 41.275788,
+          "longitude": 1.976248
+        }
+      },
+      "link": "/v3/places/4ed64b3f4690ad261cb5ef1d",
+      "location": {
+        "address": "Pasatge Ferrocarrils, 266",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pasatge Ferrocarrils, 266, 08860 Castelldefels Catalunya",
+        "locality": "Castelldefels",
+        "postcode": "08860",
+        "region": "Catalunya"
+      },
+      "name": "Escola Llu\u00eds Vives",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55804950498eb527582c2ded",
+      "categories": [
+        {
+          "id": 12048,
+          "name": "Community College",
+          "short_name": "Community College",
+          "plural_name": "Community Colleges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/communitycollege_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3566,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.427409,
+          "longitude": 2.171282
+        },
+        "main": {
+          "latitude": 41.427478,
+          "longitude": 2.17115
+        }
+      },
+      "link": "/v3/places/55804950498eb527582c2ded",
+      "location": {
+        "address": "Carrer del Greco, 16",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Passeig Margall",
+        "formatted_address": "Carrer del Greco, 16 (Passeig Margall), 08031 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08031",
+        "region": "Catalunya"
+      },
+      "name": "EPS Centro de Formacion de la Motocicleta",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b9928f0f964a520b36535e3",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10146,
+      "geocodes": {
+        "main": {
+          "latitude": 41.480877,
+          "longitude": 2.237717
+        },
+        "roof": {
+          "latitude": 41.480877,
+          "longitude": 2.237717
+        }
+      },
+      "link": "/v3/places/4b9928f0f964a520b36535e3",
+      "location": {
+        "address": "Carretera de Canyet, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Carretera de Canyet, s/n, 08916 Badalona Catalunya",
+        "locality": "Badalona",
+        "postcode": "08916",
+        "region": "Catalunya"
+      },
+      "name": "Hospital Universitari Germans Trias i Pujol",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d9b40dce086a35dbacdccad",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafeteria Hospital Can Ruti"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bbe01cf8a4fb71344ac3d9d",
+      "categories": [
+        {
+          "id": 12080,
+          "name": "Library",
+          "short_name": "Library",
+          "plural_name": "Libraries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1472,
+      "geocodes": {
+        "main": {
+          "latitude": 41.401412,
+          "longitude": 2.204491
+        },
+        "roof": {
+          "latitude": 41.401412,
+          "longitude": 2.204491
+        }
+      },
+      "link": "/v3/places/4bbe01cf8a4fb71344ac3d9d",
+      "location": {
+        "address": "Joncar, 35",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Joncar, 35, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Biblioteca Poblenou-Manuel Arranz",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d417fd290f9224ba04f101e",
+      "categories": [
+        {
+          "id": 12080,
+          "name": "Library",
+          "short_name": "Library",
+          "plural_name": "Libraries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1019,
+      "geocodes": {
+        "main": {
+          "latitude": 41.392655,
+          "longitude": 2.19771
+        },
+        "roof": {
+          "latitude": 41.392655,
+          "longitude": 2.19771
+        }
+      },
+      "link": "/v3/places/4d417fd290f9224ba04f101e",
+      "location": {
+        "address": "Avinguda del Bogatell, 17",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda del Bogatell, 17, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Biblioteca Xavier Benguerel",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b668eaaf964a52028242be3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "UPF Campus Ciutadella"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4baa5182f964a520725e3ae3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8653,
+      "geocodes": {
+        "main": {
+          "latitude": 41.346641,
+          "longitude": 2.109578
+        },
+        "roof": {
+          "latitude": 41.346641,
+          "longitude": 2.109578
+        }
+      },
+      "link": "/v3/places/4baa5182f964a520725e3ae3",
+      "location": {
+        "address": "Calle Gran V\u00eda de l'Hospitalet, 142",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Gran V\u00eda de l'Hospitalet, 142, 08907 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08907",
+        "region": "Catalunya"
+      },
+      "name": "Metropolitan Gran V\u00eda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bd2c92477b29c74545b8f82",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1354,
+      "geocodes": {
+        "main": {
+          "latitude": 41.385579,
+          "longitude": 2.18636
+        },
+        "roof": {
+          "latitude": 41.385579,
+          "longitude": 2.18636
+        }
+      },
+      "link": "/v3/places/4bd2c92477b29c74545b8f82",
+      "location": {
+        "address": "Laci\u00f3, 1",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Passeig Picasso",
+        "formatted_address": "Laci\u00f3, 1 (Passeig Picasso), 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "CEM Parc de la Ciutadella",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b668eaaf964a52028242be3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "UPF Campus Ciutadella"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b7df5a2f964a52036dc2fe3",
+      "categories": [
+        {
+          "id": 12035,
+          "name": "College Residence Hall",
+          "short_name": "Residence Hall",
+          "plural_name": "College Residence Halls",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/residencehall_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1705,
+      "geocodes": {
+        "main": {
+          "latitude": 41.382625,
+          "longitude": 2.191039
+        }
+      },
+      "link": "/v3/places/4b7df5a2f964a52036dc2fe3",
+      "location": {
+        "address": "Passeig Salvat Papasseit, 4",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Passeig Salvat Papasseit, 4, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Residencia Campus del Mar",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b668eaaf964a52028242be3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "UPF Campus Ciutadella"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc3324d920eb7134a101d2c",
+      "categories": [
+        {
+          "id": 12080,
+          "name": "Library",
+          "short_name": "Library",
+          "plural_name": "Libraries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3856,
+      "geocodes": {
+        "main": {
+          "latitude": 41.378639,
+          "longitude": 2.149179
+        },
+        "roof": {
+          "latitude": 41.378639,
+          "longitude": 2.149179
+        }
+      },
+      "link": "/v3/places/4bc3324d920eb7134a101d2c",
+      "location": {
+        "address": "Vilamar\u00ed, 61",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Vilamar\u00ed, 61, 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Biblioteca Joan Mir\u00f3",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b9ff0f2f964a520484c37e3",
+          "categories": [
+            {
+              "id": 12125,
+              "name": "University",
+              "short_name": "University",
+              "plural_name": "Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 12014,
+              "name": "College Academic Building",
+              "short_name": "Academic Building",
+              "plural_name": "College Academic Buildings",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "EAE Business School"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

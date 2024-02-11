@@ -1,0 +1,2088 @@
+{
+  "results": [
+    {
+      "fsq_id": "4bf819bd5317a5932d2bff7e",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2750,
+      "geocodes": {
+        "main": {
+          "latitude": 37.973406,
+          "longitude": 23.744508
+        }
+      },
+      "link": "/v3/places/4bf819bd5317a5932d2bff7e",
+      "location": {
+        "address": "\u0392\u03b1\u03c3\u03b9\u03bb\u03ad\u03c9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 \u0392' 17-19",
+        "country": "GR",
+        "cross_street": "\u03a1\u03b7\u03b3\u03af\u03bb\u03bb\u03b7\u03c2",
+        "formatted_address": "\u0392\u03b1\u03c3\u03b9\u03bb\u03ad\u03c9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 \u0392' 17-19 (\u03a1\u03b7\u03b3\u03af\u03bb\u03bb\u03b7\u03c2), 106 75 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 75",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u03a9\u03b4\u03b5\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59b7faf16eda027f541036b4",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2"
+          },
+          {
+            "fsq_id": "59ba6a21a4236259f02b35cd",
+            "categories": [
+              {
+                "id": 12041,
+                "name": "College Theater",
+                "short_name": "Theater",
+                "plural_name": "College Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03a3\u03c7\u03bf\u03bb\u03ae \u03a9\u03b4\u03b5\u03af\u03bf\u03c5 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd"
+          },
+          {
+            "fsq_id": "5bf6600f3d4791002c59af3d",
+            "categories": [
+              {
+                "id": 12021,
+                "name": "College Cafeteria",
+                "short_name": "Cafeteria",
+                "plural_name": "College Cafeterias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039a\u03c5\u03bb\u03b9\u03ba\u03b5\u03af\u03bf \u03a9\u03b4\u03b5\u03af\u03bf\u03c5 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ba5f59df964a5205c2b39e3",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6468,
+      "geocodes": {
+        "main": {
+          "latitude": 38.01826,
+          "longitude": 23.780808
+        }
+      },
+      "link": "/v3/places/4ba5f59df964a5205c2b39e3",
+      "location": {
+        "address": "\u03a3\u03c4\u03b5\u03c6\u03ac\u03bd\u03bf\u03c5 \u0394\u03ad\u03bb\u03c4\u03b1 15",
+        "country": "GR",
+        "formatted_address": "\u03a3\u03c4\u03b5\u03c6\u03ac\u03bd\u03bf\u03c5 \u0394\u03ad\u03bb\u03c4\u03b1 15, 154 52",
+        "postcode": "154 52"
+      },
+      "name": "\u03a0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03b1 \u0395\u03bd\u03b7\u03bb\u03af\u03ba\u03c9\u03bd \u039a\u03bf\u03bb\u03bb\u03ad\u03b3\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd-\u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ccef7dd5935bfb7203b705b",
+            "categories": [
+              {
+                "id": 12033,
+                "name": "College Quad",
+                "short_name": "Quad",
+                "plural_name": "College Quads",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/quad_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a3\u0391\u039a\u0391: \u03a3\u03cd\u03bb\u03bb\u03bf\u03b3\u03bf\u03c2 \u0391\u03c0\u03bf\u03c6\u03bf\u03af\u03c4\u03c9\u03bd \u039a\u03bf\u03bb\u03bb\u03b5\u03b3\u03af\u03bf\u03c5 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd - \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e6dc0edb9932d7f63a32a3f",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6032,
+      "geocodes": {
+        "main": {
+          "latitude": 38.013953,
+          "longitude": 23.778277
+        }
+      },
+      "link": "/v3/places/4e6dc0edb9932d7f63a32a3f",
+      "location": {
+        "address": "\u0391\u03c1\u03c3\u03ac\u03ba\u03b7 1",
+        "country": "GR",
+        "formatted_address": "\u0391\u03c1\u03c3\u03ac\u03ba\u03b7 1, 154 52",
+        "postcode": "154 52"
+      },
+      "name": "\u0391\u03c1\u03c3\u03ac\u03ba\u03b5\u03b9\u03b1 \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54034ce4498ef5279c9aeb53",
+      "categories": [
+        {
+          "id": 18075,
+          "name": "Swimming Pool",
+          "short_name": "Pool",
+          "plural_name": "Swimming Pools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18076,
+          "name": "Swim School",
+          "short_name": "Swim School",
+          "plural_name": "Swim Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5418,
+      "geocodes": {
+        "main": {
+          "latitude": 37.958302,
+          "longitude": 23.768212
+        }
+      },
+      "link": "/v3/places/54034ce4498ef5279c9aeb53",
+      "location": {
+        "address": "\u0386\u03bd\u03b8\u03b9\u03bc\u03bf\u03c5 \u0393\u03b1\u03b6\u03ae 2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03bd\u03b8\u03b9\u03bc\u03bf\u03c5 \u0393\u03b1\u03b6\u03ae 2, 162 31 \u0392\u03cd\u03c1\u03c9\u03bd\u03b1\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0392\u03cd\u03c1\u03c9\u03bd\u03b1\u03c2",
+        "postcode": "162 31",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u039a\u03bf\u03bb\u03c5\u03bc\u03b2\u03b7\u03c4\u03ae\u03c1\u03b9\u03bf \u0392\u03cd\u03c1\u03c9\u03bd\u03b1 \" \u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u03a4\u03b1\u03bc\u03c0\u03b1\u03be\u03b7\u03c2 \"",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "57813fa4498ee7f6a9330b8a",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Green Twist cafe"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b5fddb8f964a52028cf29e3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5753,
+      "geocodes": {
+        "main": {
+          "latitude": 38.011916,
+          "longitude": 23.776067
+        }
+      },
+      "link": "/v3/places/4b5fddb8f964a52028cf29e3",
+      "location": {
+        "address": "\u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 & \u03a0\u03b1\u03c0\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03af\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5",
+        "formatted_address": "\u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 & \u03a0\u03b1\u03c0\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03af\u03bf\u03c5 (\u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5), 154 52 \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a8\u03c5\u03c7\u03b9\u03ba\u03cc",
+        "postcode": "154 52",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Moraitis School (\u03a3\u03c7\u03bf\u03bb\u03ae \u039c\u03c9\u03c1\u03b1\u0390\u03c4\u03b7)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ee0d89b93ad1adedc33819f",
+            "categories": [
+              {
+                "id": 12041,
+                "name": "College Theater",
+                "short_name": "Theater",
+                "plural_name": "College Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03ad\u03b1\u03c4\u03c1\u03bf \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 \u039c\u03c9\u03c1\u03b1\u0390\u03c4\u03b7"
+          },
+          {
+            "fsq_id": "50cf1457e4b0c490cfeaf3b8",
+            "categories": [
+              {
+                "id": 12031,
+                "name": "College Library",
+                "short_name": "Library",
+                "plural_name": "College Libraries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 \u039c\u03c9\u03c1\u03b1\u0390\u03c4\u03b7"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5232e943498e91e8bc4b3faf",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4894,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.944672,
+          "longitude": 23.705642
+        },
+        "main": {
+          "latitude": 37.944226,
+          "longitude": 23.705274
+        },
+        "roof": {
+          "latitude": 37.944226,
+          "longitude": 23.705274
+        }
+      },
+      "link": "/v3/places/5232e943498e91e8bc4b3faf",
+      "location": {
+        "address": "\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ae \u03a3\u03bf\u03c6\u03bf\u03cd\u03bb\u03b7 2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ae \u03a3\u03bf\u03c6\u03bf\u03cd\u03bb\u03b7 2, 171 22 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 22",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039b\u03b5\u03cc\u03bd\u03c4\u03b5\u03b9\u03bf \u039b\u03cd\u03ba\u03b5\u03b9\u03bf - \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u03a7\u03c1\u03c5\u03c3\u03cc\u03c3\u03c4\u03bf\u03bc\u03bf\u03c2 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d78741ba56e370483806b67",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11633,
+      "geocodes": {
+        "main": {
+          "latitude": 38.074262,
+          "longitude": 23.791745
+        },
+        "roof": {
+          "latitude": 38.074262,
+          "longitude": 23.791745
+        }
+      },
+      "link": "/v3/places/4d78741ba56e370483806b67",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5 \u03a3\u03bf\u03c6\u03bf\u03ba\u03bb\u03ae 77",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5 \u03a3\u03bf\u03c6\u03bf\u03ba\u03bb\u03ae 77, 141 23 \u039b\u03c5\u03ba\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039b\u03c5\u03ba\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7",
+        "postcode": "141 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "St Catherines British Embassy School",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4da6c63bfa8ca994284db6bd",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11990,
+      "geocodes": {
+        "main": {
+          "latitude": 37.98035,
+          "longitude": 23.855068
+        }
+      },
+      "link": "/v3/places/4da6c63bfa8ca994284db6bd",
+      "location": {
+        "address": "\u03a4\u03ad\u03c1\u03bc\u03b1 \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03af\u03b4\u03bf\u03c5 \u039a\u03ac\u03bd\u03c4\u03b6\u03b1 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7\u03c2",
+        "country": "GR",
+        "formatted_address": "\u03a4\u03ad\u03c1\u03bc\u03b1 \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03af\u03b4\u03bf\u03c5 \u039a\u03ac\u03bd\u03c4\u03b6\u03b1 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7\u03c2, 153 51 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7",
+        "postcode": "153 51",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03c1\u03ac\u03c3\u03bc\u03b5\u03b9\u03bf\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03bf\u03b3\u03b5\u03c1\u03bc\u03b1\u03bd\u03b9\u03ba\u03ae \u03a3\u03c7\u03bf\u03bb\u03ae",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c8dc6441992a1cdb033d8fb",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12816,
+      "geocodes": {
+        "main": {
+          "latitude": 37.98216,
+          "longitude": 23.864579
+        }
+      },
+      "link": "/v3/places/4c8dc6441992a1cdb033d8fb",
+      "location": {
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039a\u03bf\u03bb\u03bb\u03ad\u03b3\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "formatted_address": "\u03c3\u03c4\u03bf \u039a\u03bf\u03bb\u03bb\u03ad\u03b3\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039c\u03c0\u03bf\u03b4\u03bf\u03c3\u03ac\u03ba\u03b5\u03b9\u03bf",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5bd18a3df05ca8002d424e0f",
+            "categories": [
+              {
+                "id": 12014,
+                "name": "College Academic Building",
+                "short_name": "Academic Building",
+                "plural_name": "College Academic Buildings",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03ad\u03b1\u03c4\u03c1\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf\u03cd \u039a\u03bf\u03bb\u03bb\u03b5\u03b3\u03af\u03bf\u03c5 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d32e615c6cba35dc6c7257a",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15329,
+      "geocodes": {
+        "main": {
+          "latitude": 37.998065,
+          "longitude": 23.892872
+        }
+      },
+      "link": "/v3/places/4d32e615c6cba35dc6c7257a",
+      "location": {
+        "address": "\u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03a0\u03b1\u03bd\u03b1\u03b3\u03ad\u03b1",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03a0\u03b1\u03bd\u03b1\u03b3\u03ad\u03b1, 153 51 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7",
+        "postcode": "153 51",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03bf\u03b3\u03b5\u03c1\u03bc\u03b1\u03bd\u03b9\u03ba\u03ae \u0391\u03b3\u03c9\u03b3\u03ae",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4eb799b561af0dda9143e0a7",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16165,
+      "geocodes": {
+        "main": {
+          "latitude": 37.866425,
+          "longitude": 23.821297
+        }
+      },
+      "link": "/v3/places/4eb799b561af0dda9143e0a7",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03ae\u03c1\u03b9\u03b1 \u039a\u03b1\u03af\u03c3\u03b1\u03c1\u03b7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cd2835d773ba1430f48bbe3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10661,
+      "geocodes": {
+        "main": {
+          "latitude": 38.039688,
+          "longitude": 23.820266
+        }
+      },
+      "link": "/v3/places/4cd2835d773ba1430f48bbe3",
+      "location": {
+        "address": "\u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 151",
+        "country": "GR",
+        "formatted_address": "\u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 151, 151 26 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 26",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03ae\u03c1\u03b9\u03b1 \u0394\u03bf\u03cd\u03ba\u03b1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ffd5de8e4b0bbe42c6e5b92",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11686,
+      "geocodes": {
+        "main": {
+          "latitude": 38.005573,
+          "longitude": 23.846944
+        },
+        "roof": {
+          "latitude": 38.005573,
+          "longitude": 23.846944
+        }
+      },
+      "link": "/v3/places/4ffd5de8e4b0bbe42c6e5b92",
+      "location": {
+        "address": "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5, 153 54 \u0393\u03bb\u03c5\u03ba\u03ac \u039d\u03b5\u03c1\u03ac, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03bb\u03c5\u03ba\u03ac \u039d\u03b5\u03c1\u03ac",
+        "postcode": "153 54",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b7\u03c1\u03b9\u03b1 \u039f \u03a0\u03bb\u03b1\u03c4\u03c9\u03bd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b63e133f964a5207c952ae3",
+      "categories": [
+        {
+          "id": 12000,
+          "name": "Community and Government",
+          "short_name": "Community and Government",
+          "plural_name": "Communities and Government",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1723,
+      "geocodes": {
+        "main": {
+          "latitude": 37.978878,
+          "longitude": 23.735026
+        },
+        "roof": {
+          "latitude": 37.978878,
+          "longitude": 23.735026
+        }
+      },
+      "link": "/v3/places/4b63e133f964a5207c952ae3",
+      "location": {
+        "address": "\u039f\u03bc\u03ae\u03c1\u03bf\u03c5 14-16",
+        "country": "GR",
+        "formatted_address": "\u039f\u03bc\u03ae\u03c1\u03bf\u03c5 14-16, 106 72 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 72",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Goethe-Institut Athen",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fad02b0e4b0d4398d739e91",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2545,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.964653,
+          "longitude": 23.724576
+        },
+        "main": {
+          "latitude": 37.964806,
+          "longitude": 23.724483
+        },
+        "roof": {
+          "latitude": 37.964806,
+          "longitude": 23.724483
+        }
+      },
+      "link": "/v3/places/4fad02b0e4b0d4398d739e91",
+      "location": {
+        "address": "\u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5 66",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5 66, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u039e\u03ad\u03bd\u03c9\u03bd \u0393\u03bb\u03c9\u03c3\u03c3\u03ce\u03bd \u03a7\u03ad\u03bb\u03bc\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "56dd0a62cd102abc3460837a",
+      "categories": [
+        {
+          "id": 11026,
+          "name": "Daycare",
+          "short_name": "Daycare",
+          "plural_name": "Daycares",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/daycare_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3142,
+      "geocodes": {
+        "main": {
+          "latitude": 37.984672,
+          "longitude": 23.753779
+        },
+        "roof": {
+          "latitude": 37.984672,
+          "longitude": 23.753779
+        }
+      },
+      "link": "/v3/places/56dd0a62cd102abc3460837a",
+      "location": {
+        "address": "\u039a\u03bf\u03c4\u03c5\u03b1\u03af\u03bf\u03c5 1",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03bf\u03c4\u03c5\u03b1\u03af\u03bf\u03c5 1, 115 21 \u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9",
+        "postcode": "115 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "1\u03bf\u03c2 \u0394\u0397\u039c\u039f\u03a4\u0399\u039a\u039f\u03a3 \u03a0\u0391\u0399\u0394\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u0391\u0398\u039c\u039f\u03a3 \u0391\u039c\u03a0\u0395\u039b\u039f\u039a\u0397\u03a0\u03a9\u039d",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f30c043e4b0e6be3a6ab9d2",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3179,
+      "geocodes": {
+        "main": {
+          "latitude": 38.015216,
+          "longitude": 23.725342
+        }
+      },
+      "link": "/v3/places/4f30c043e4b0e6be3a6ab9d2",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "111 45",
+        "postcode": "111 45"
+      },
+      "name": "65th High School",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "537885a5498ea7d99f676016",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3216,
+      "geocodes": {
+        "main": {
+          "latitude": 37.969213,
+          "longitude": 23.747421
+        },
+        "roof": {
+          "latitude": 37.969213,
+          "longitude": 23.747421
+        }
+      },
+      "link": "/v3/places/537885a5498ea7d99f676016",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "7\u03bf \u0393\u03c5\u03bc\u03bd\u03ac\u03c3\u03b9\u03bf \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 (\u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b9)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5d79d2cceac9650008571ec5",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3588,
+      "geocodes": {
+        "main": {
+          "latitude": 38.01737,
+          "longitude": 23.703962
+        }
+      },
+      "link": "/v3/places/5d79d2cceac9650008571ec5",
+      "location": {
+        "address": "\u0399\u03b8\u03ac\u03ba\u03b7\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0399\u03b8\u03ac\u03ba\u03b7\u03c2, 121 33 \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "postcode": "121 33",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "11\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "509b705ae4b088fdfc4d0f34",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3601,
+      "geocodes": {
+        "main": {
+          "latitude": 37.997435,
+          "longitude": 23.679393
+        }
+      },
+      "link": "/v3/places/509b705ae4b088fdfc4d0f34",
+      "location": {
+        "address": "\u03a0\u039b\u0391\u03a0\u039f\u03a5\u03a4\u0391 11",
+        "country": "GR",
+        "cross_street": "\u03a3\u0399\u03a6\u039d\u039f\u03a5",
+        "formatted_address": "\u03a0\u039b\u0391\u03a0\u039f\u03a5\u03a4\u0391 11 (\u03a3\u0399\u03a6\u039d\u039f\u03a5), \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0399\u0395\u039a \u039f\u0391\u0395\u0394 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "514dbf0ae4b0a1833b5ba30b",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3883,
+      "geocodes": {
+        "main": {
+          "latitude": 37.986429,
+          "longitude": 23.762728
+        }
+      },
+      "link": "/v3/places/514dbf0ae4b0a1833b5ba30b",
+      "location": {
+        "address": "\u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u03bf\u03c5\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 2",
+        "country": "GR",
+        "cross_street": "\u03a6\u03b5\u03b9\u03b4\u03b9\u03c0\u03c0\u03af\u03b4\u03bf\u03c5",
+        "formatted_address": "\u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u03bf\u03c5\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 2 (\u03a6\u03b5\u03b9\u03b4\u03b9\u03c0\u03c0\u03af\u03b4\u03bf\u03c5)"
+      },
+      "name": "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf \u03a9\u03b4\u03b5\u03af\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e9eeaa4f5b95cf4b257b2c0",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4032,
+      "geocodes": {
+        "main": {
+          "latitude": 37.980926,
+          "longitude": 23.673037
+        }
+      },
+      "link": "/v3/places/4e9eeaa4f5b95cf4b257b2c0",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u0399\u0395\u039a \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e9c66382da5e00a2e24da29",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4175,
+      "geocodes": {
+        "main": {
+          "latitude": 37.959479,
+          "longitude": 23.751631
+        },
+        "roof": {
+          "latitude": 37.959479,
+          "longitude": 23.751631
+        }
+      },
+      "link": "/v3/places/4e9c66382da5e00a2e24da29",
+      "location": {
+        "address": "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03ba\u03ae\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 89",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03ba\u03ae\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 89, 162 32 \u0392\u03cd\u03c1\u03c9\u03bd\u03b1\u03c2",
+        "locality": "\u0392\u03cd\u03c1\u03c9\u03bd\u03b1\u03c2",
+        "postcode": "162 32"
+      },
+      "name": "\u0395\u03c5\u03c1\u03c9\u03b3\u03bd\u03c9\u03c3\u03b7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c99c52380958cfabdfd3cd4",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4256,
+      "geocodes": {
+        "main": {
+          "latitude": 37.983488,
+          "longitude": 23.768977
+        },
+        "roof": {
+          "latitude": 37.983488,
+          "longitude": 23.768977
+        }
+      },
+      "link": "/v3/places/4c99c52380958cfabdfd3cd4",
+      "location": {
+        "address": "\u0398\u03b7\u03b2\u03ce\u03bd 2",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "formatted_address": "\u0398\u03b7\u03b2\u03ce\u03bd 2 (\u03c3\u03c4\u03bf \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd), 115 27 \u0393\u03bf\u03c5\u03b4\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 27",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395.\u039a.\u03a0.\u0391.",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54c47434498ed3371d46efa0",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4550,
+      "geocodes": {
+        "main": {
+          "latitude": 37.979099,
+          "longitude": 23.76926
+        },
+        "roof": {
+          "latitude": 37.979099,
+          "longitude": 23.76926
+        }
+      },
+      "link": "/v3/places/54c47434498ed3371d46efa0",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "1\u03bf & 19\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "537848bd498ef9eac446bca0",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4758,
+      "geocodes": {
+        "main": {
+          "latitude": 37.951458,
+          "longitude": 23.688342
+        }
+      },
+      "link": "/v3/places/537848bd498ef9eac446bca0",
+      "location": {
+        "address": "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf\u03c5, \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "12 \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5163fa4ae4b0ee4fb6a092af",
+      "categories": [
+        {
+          "id": 12055,
+          "name": "Nursery School",
+          "short_name": "Nursery School",
+          "plural_name": "Nursery Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4989,
+      "geocodes": {
+        "main": {
+          "latitude": 38.028939,
+          "longitude": 23.739174
+        }
+      },
+      "link": "/v3/places/5163fa4ae4b0ee4fb6a092af",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "1\u03bf \u039d\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fa66fa1e4b01208fb671a01",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5357,
+      "geocodes": {
+        "main": {
+          "latitude": 37.939019,
+          "longitude": 23.722143
+        }
+      },
+      "link": "/v3/places/4fa66fa1e4b01208fb671a01",
+      "location": {
+        "address": "\u0395\u03cd\u03be\u03b5\u03b9\u03bd\u03bf\u03c5 \u03a0\u03cc\u03bd\u03c4\u03bf\u03c5 73",
+        "country": "GR",
+        "cross_street": "\u0391\u03b3\u03af\u03c9\u03bd \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1",
+        "formatted_address": "\u0395\u03cd\u03be\u03b5\u03b9\u03bd\u03bf\u03c5 \u03a0\u03cc\u03bd\u03c4\u03bf\u03c5 73 (\u0391\u03b3\u03af\u03c9\u03bd \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1), 171 41 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "7\u03bf & 15\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ac \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u039d\u03ad\u03b1\u03c2 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fa64b8fe4b0b487ceacd39e",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5456,
+      "geocodes": {
+        "main": {
+          "latitude": 37.998273,
+          "longitude": 23.779061
+        }
+      },
+      "link": "/v3/places/4fa64b8fe4b0b487ceacd39e",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "3\u03bf 4\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf \u03a3\u03c7\u03bf\u03bb\u03b5\u03b9\u03bf \u039d. \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5359fa51498e825eeab9ca55",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5664,
+      "geocodes": {
+        "main": {
+          "latitude": 37.936664,
+          "longitude": 23.727438
+        }
+      },
+      "link": "/v3/places/5359fa51498e825eeab9ca55",
+      "location": {
+        "address": "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c2"
+      },
+      "name": "3\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "562d0bbe498efd46bcb4dcd4",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5677,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.973353,
+          "longitude": 23.780932
+        },
+        "main": {
+          "latitude": 37.973248,
+          "longitude": 23.780809
+        },
+        "roof": {
+          "latitude": 37.973248,
+          "longitude": 23.780809
+        }
+      },
+      "link": "/v3/places/562d0bbe498efd46bcb4dcd4",
+      "location": {
+        "address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf\u03c5 9",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf\u03c5 9, 157 73 \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "157 73",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0399\u0395\u039a \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d3e90ae3ec9a35dad5b5b81",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6201,
+      "geocodes": {
+        "main": {
+          "latitude": 37.931476,
+          "longitude": 23.713284
+        }
+      },
+      "link": "/v3/places/4d3e90ae3ec9a35dad5b5b81",
+      "location": {
+        "address": "\u039b\u03ad\u03c3\u03b2\u03bf\u03c5 4",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03ad\u03c3\u03b2\u03bf\u03c5 4, 171 23 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03ba\u03ae \u03a3\u03c7\u03bf\u03bb\u03ae",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54c4c164498e300def741d30",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6473,
+      "geocodes": {
+        "main": {
+          "latitude": 38.036045,
+          "longitude": 23.758556
+        }
+      },
+      "link": "/v3/places/54c4c164498e300def741d30",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "6\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u039d.\u0399\u03c9\u03bd\u03af\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "506fcb8be4b037830afd7c5c",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6825,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.927625,
+          "longitude": 23.70011
+        },
+        "main": {
+          "latitude": 37.927718,
+          "longitude": 23.699969
+        },
+        "roof": {
+          "latitude": 37.927718,
+          "longitude": 23.699969
+        }
+      },
+      "link": "/v3/places/506fcb8be4b037830afd7c5c",
+      "location": {
+        "address": "\u03a0\u03b1\u03c1\u03b8\u03b5\u03bd\u03ce\u03bd\u03bf\u03c2 47",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b1\u03c1\u03b8\u03b5\u03bd\u03ce\u03bd\u03bf\u03c2 47, \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf"
+      },
+      "name": "10\u03bf \u0394\u0397\u039c\u039f\u03a4\u0399\u039a\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u03a0\u0391\u039b\u0391\u0399\u039f\u03a5 \u03a6\u0391\u039b\u0397\u03a1\u039f\u03a5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "631f4998717a6a3d6a5816f9",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6872,
+      "geocodes": {
+        "main": {
+          "latitude": 37.926181,
+          "longitude": 23.731649
+        }
+      },
+      "link": "/v3/places/631f4998717a6a3d6a5816f9",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "173 42 \u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2",
+        "postcode": "173 42",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "9\u03bf \u039d\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dceacd5b0fb25f6e3497d23",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7669,
+      "geocodes": {
+        "main": {
+          "latitude": 37.918221,
+          "longitude": 23.722877
+        },
+        "roof": {
+          "latitude": 37.918221,
+          "longitude": 23.722877
+        }
+      },
+      "link": "/v3/places/4dceacd5b0fb25f6e3497d23",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0393\u03b5\u03bd\u03bd\u03ac\u03b4\u03b5\u03b9\u03bf\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ea7d218722e38f634b7f901",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7738,
+      "geocodes": {
+        "main": {
+          "latitude": 37.917487,
+          "longitude": 23.715056
+        },
+        "roof": {
+          "latitude": 37.917487,
+          "longitude": 23.715056
+        }
+      },
+      "link": "/v3/places/4ea7d218722e38f634b7f901",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03ae\u03c1\u03b9\u03b1 \u039c\u03b1\u03bb\u03bb\u03b9\u03ac\u03c1\u03b1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f1676bde4b0d59e24f23075",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7950,
+      "geocodes": {
+        "main": {
+          "latitude": 37.987016,
+          "longitude": 23.627604
+        }
+      },
+      "link": "/v3/places/4f1676bde4b0d59e24f23075",
+      "location": {
+        "address": "\u0386\u03b3\u03b3\u03b5\u03bb\u03bf\u03c5 \u03a3\u03b9\u03ba\u03b5\u03bb\u03b9\u03b1\u03bd\u03bf\u03cd",
+        "country": "GR",
+        "cross_street": "\u0392\u03b5\u03c1\u03b3\u03af\u03bd\u03b1\u03c2",
+        "formatted_address": "\u0386\u03b3\u03b3\u03b5\u03bb\u03bf\u03c5 \u03a3\u03b9\u03ba\u03b5\u03bb\u03b9\u03b1\u03bd\u03bf\u03cd (\u0392\u03b5\u03c1\u03b3\u03af\u03bd\u03b1\u03c2), 184 52 \u039d\u03af\u03ba\u03b1\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03af\u03ba\u03b1\u03b9\u03b1",
+        "postcode": "184 52",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "5o \u0393\u03b5\u03bd\u03b9\u03ba\u03cc \u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u039d\u03af\u03ba\u03b1\u03b9\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f7ab431e4b01c9eb38b4126",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8163,
+      "geocodes": {
+        "main": {
+          "latitude": 38.044143,
+          "longitude": 23.777028
+        },
+        "roof": {
+          "latitude": 38.044143,
+          "longitude": 23.777028
+        }
+      },
+      "link": "/v3/places/4f7ab431e4b01c9eb38b4126",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2"
+      },
+      "name": "4o \u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u039d\u03ad\u03bf\u03c5 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "527e0a2d11d28258c0273637",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8217,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.918481,
+          "longitude": 23.753913
+        },
+        "main": {
+          "latitude": 37.91856,
+          "longitude": 23.753842
+        },
+        "roof": {
+          "latitude": 37.91856,
+          "longitude": 23.753842
+        }
+      },
+      "link": "/v3/places/527e0a2d11d28258c0273637",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "15\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ddbe2b2d4c009d3c592dc00",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8597,
+      "geocodes": {
+        "main": {
+          "latitude": 38.022289,
+          "longitude": 23.805846
+        }
+      },
+      "link": "/v3/places/4ddbe2b2d4c009d3c592dc00",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "2\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u03a7\u03b1\u03bb\u03b1\u03bd\u03b4\u03c1\u03af\u03bf\u03c5 \u039b\u03af\u03c4\u03c3\u03b5\u03b9\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "63c6e870634db45fb94770bb",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8631,
+      "geocodes": {
+        "main": {
+          "latitude": 37.952681,
+          "longitude": 23.630079
+        }
+      },
+      "link": "/v3/places/63c6e870634db45fb94770bb",
+      "location": {
+        "address": "\u039c\u03b5\u03c3\u03bf\u03bb\u03bf\u03b3\u03b3\u03af\u03bf\u03c5 145",
+        "country": "GR",
+        "cross_street": "\u03a5\u03c0\u03b1\u03c0\u03b1\u03bd\u03c4\u03ae\u03c2",
+        "formatted_address": "\u039c\u03b5\u03c3\u03bf\u03bb\u03bf\u03b3\u03b3\u03af\u03bf\u03c5 145 (\u03a5\u03c0\u03b1\u03c0\u03b1\u03bd\u03c4\u03ae\u03c2), 185 46 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 46",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae \u03a3\u03c7\u03bf\u03bb\u03ae - \u0389\u03c7\u03c9\u03bd \u0395\u03cd\u03c1\u03c5\u03b8\u03bc\u03c9\u03bd 2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5063dd28e4b0512b9265ed06",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8962,
+      "geocodes": {
+        "main": {
+          "latitude": 37.934526,
+          "longitude": 23.640844
+        }
+      },
+      "link": "/v3/places/5063dd28e4b0512b9265ed06",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "33\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e76c2d1b993a71aa48b5626",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9439,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.016823,
+          "longitude": 23.819401
+        },
+        "main": {
+          "latitude": 38.016914,
+          "longitude": 23.819291
+        },
+        "roof": {
+          "latitude": 38.016914,
+          "longitude": 23.819291
+        }
+      },
+      "link": "/v3/places/4e76c2d1b993a71aa48b5626",
+      "location": {
+        "address": "\u03a5\u03b1\u03ba\u03af\u03bd\u03b8\u03bf\u03c5 25",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a5\u03b1\u03ba\u03af\u03bd\u03b8\u03bf\u03c5 25, \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "2\u03bf \u0395\u03bd\u03b9\u03b1\u03af\u03bf \u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u0391\u03b3\u03af\u03b1\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ddfa2d1ae60c015c09a977e",
+      "categories": [
+        {
+          "id": 11026,
+          "name": "Daycare",
+          "short_name": "Daycare",
+          "plural_name": "Daycares",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/daycare_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12056,
+          "name": "Preschool",
+          "short_name": "Preschool",
+          "plural_name": "Preschools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9444,
+      "geocodes": {
+        "main": {
+          "latitude": 38.007153,
+          "longitude": 23.8232
+        }
+      },
+      "link": "/v3/places/4ddfa2d1ae60c015c09a977e",
+      "location": {
+        "address": "\u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 \u03a0\u03b5\u03bb\u03ac\u03b3\u03bf\u03c5\u03c2 61",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 \u03a0\u03b5\u03bb\u03ac\u03b3\u03bf\u03c5\u03c2 61, 153 43 \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "postcode": "153 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039b\u03bf\u03c5\u03bb\u03bf\u03c5\u03b4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2 - Louloudotopos",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "506d9666e4b0f42ca364b708",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9559,
+      "geocodes": {
+        "main": {
+          "latitude": 38.013495,
+          "longitude": 23.822266
+        },
+        "roof": {
+          "latitude": 38.013495,
+          "longitude": 23.822266
+        }
+      },
+      "link": "/v3/places/506d9666e4b0f42ca364b708",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 414 \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 414 \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, 153 42 \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "postcode": "153 42",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Lab Music Education",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4eba7483e5faa189364a1332",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10215,
+      "geocodes": {
+        "main": {
+          "latitude": 37.899054,
+          "longitude": 23.751309
+        },
+        "roof": {
+          "latitude": 37.899054,
+          "longitude": 23.751309
+        }
+      },
+      "link": "/v3/places/4eba7483e5faa189364a1332",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03ae\u03c1\u03b9\u03b1 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 \u0396\u03ce\u03b7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e1a41a3b61c8f9ada5e159f",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10315,
+      "geocodes": {
+        "main": {
+          "latitude": 38.024173,
+          "longitude": 23.826433
+        },
+        "roof": {
+          "latitude": 38.024173,
+          "longitude": 23.826433
+        }
+      },
+      "link": "/v3/places/4e1a41a3b61c8f9ada5e159f",
+      "location": {
+        "address": "\u0392\u03c1\u03b9\u03bb\u03b7\u03c3\u03c3\u03af\u03c9\u03bd 2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0392\u03c1\u03b9\u03bb\u03b7\u03c3\u03c3\u03af\u03c9\u03bd 2, 152 34 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "152 34",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "5\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u03a7\u03b1\u03bb\u03b1\u03bd\u03b4\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c2add4cd1a10f471625f764",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10667,
+      "geocodes": {
+        "main": {
+          "latitude": 38.010501,
+          "longitude": 23.83653
+        },
+        "roof": {
+          "latitude": 38.010501,
+          "longitude": 23.83653
+        }
+      },
+      "link": "/v3/places/4c2add4cd1a10f471625f764",
+      "location": {
+        "address": "\u03a7\u03bb\u03cc\u03b7\u03c2",
+        "country": "GR",
+        "cross_street": "\u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd",
+        "formatted_address": "\u03a7\u03bb\u03cc\u03b7\u03c2 (\u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd), 153 01 \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "postcode": "153 01",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Lyc\u00e9e Franco-Hell\u00e9nique Eug\u00e8ne Delacroix",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5309a33e498e4d77b2bd4736",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10727,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.021742,
+          "longitude": 23.832613
+        },
+        "main": {
+          "latitude": 38.021879,
+          "longitude": 23.832685
+        },
+        "roof": {
+          "latitude": 38.021879,
+          "longitude": 23.832685
+        }
+      },
+      "link": "/v3/places/5309a33e498e4d77b2bd4736",
+      "location": {
+        "address": "\u03a0\u03af\u03bd\u03b4\u03bf\u03c5 27",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03af\u03bd\u03b4\u03bf\u03c5 27, \u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf \u039a\u03c9\u03c6\u03ce\u03bd \u03ba\u03b1\u03b9 \u0392\u03b1\u03c1\u03c5\u03ba\u03cc\u03c9\u03bd, \u039a\u03bf\u03bd\u03c4\u03cc\u03c0\u03b5\u03c5\u03ba\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 37.9871384,
+          "longitude": 23.7183808
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

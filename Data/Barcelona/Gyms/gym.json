@@ -1,0 +1,2267 @@
+{
+  "results": [
+    {
+      "fsq_id": "541fb79d498edf1964fb6af7",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3092,
+      "geocodes": {
+        "main": {
+          "latitude": 41.411948,
+          "longitude": 2.21964
+        },
+        "roof": {
+          "latitude": 41.411948,
+          "longitude": 2.21964
+        }
+      },
+      "link": "/v3/places/541fb79d498edf1964fb6af7",
+      "location": {
+        "address": "Pla\u00e7a de Llevant, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pla\u00e7a de Llevant, s/n, 08019 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08019",
+        "region": "Catalunya"
+      },
+      "name": "Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4da76e106e81162ae7942454",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6857,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.358484,
+          "longitude": 2.124326
+        },
+        "main": {
+          "latitude": 41.358391,
+          "longitude": 2.124174
+        },
+        "roof": {
+          "latitude": 41.358391,
+          "longitude": 2.124174
+        }
+      },
+      "link": "/v3/places/4da76e106e81162ae7942454",
+      "location": {
+        "address": "Pla\u00e7a D'Europa, 22-24",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Pla\u00e7a D'Europa, 22-24, 08902 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08902",
+        "region": "Catalunya"
+      },
+      "name": "El Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "520ccb75498eb0a677a15ac5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3251,
+      "geocodes": {
+        "main": {
+          "latitude": 41.368857,
+          "longitude": 2.190458
+        },
+        "roof": {
+          "latitude": 41.368857,
+          "longitude": 2.190458
+        }
+      },
+      "link": "/v3/places/520ccb75498eb0a677a15ac5",
+      "location": {
+        "address": "Pla\u00e7a de la Rosa Dels Vents, 1",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pla\u00e7a de la Rosa Dels Vents, 1, Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "W Hotel Gym",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b3cd7cff964a5201e8825e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "W Barcelona"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51758b44498e2324b5398cc7",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3159,
+      "geocodes": {
+        "main": {
+          "latitude": 41.426125,
+          "longitude": 2.185266
+        }
+      },
+      "link": "/v3/places/51758b44498e2324b5398cc7",
+      "location": {
+        "address": "Avenida Meridiana, 333",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Meridiana, 333, 08027 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08027",
+        "region": "Catalunya"
+      },
+      "name": "VivaGym Meridiana",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "6075cd900ec8d4625ddf8e98",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 812,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404614,
+          "longitude": 2.191027
+        }
+      },
+      "link": "/v3/places/6075cd900ec8d4625ddf8e98",
+      "location": {
+        "address": "Avinguda Diagonal, 208",
+        "address_extended": "Westfield Gl\u00f2ries",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Westfield Gl\u00f2ries",
+        "formatted_address": "Avinguda Diagonal, 208 (Westfield Gl\u00f2ries), 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Viva Gym Glories",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4cb0831839458cfa814a03a0",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Gl\u00f2ries Multicines"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "620d429312af611d9f64da89",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1471,
+      "geocodes": {
+        "main": {
+          "latitude": 41.392726,
+          "longitude": 2.171336
+        }
+      },
+      "link": "/v3/places/620d429312af611d9f64da89",
+      "location": {
+        "address": "Calle Bruc, 49",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Bruc, 49, 08009 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08009",
+        "region": "Catalunya"
+      },
+      "name": "Viva Gym Bruc",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "6291cbe9d74437693826e636",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3302,
+      "geocodes": {
+        "main": {
+          "latitude": 41.392241,
+          "longitude": 2.148738
+        }
+      },
+      "link": "/v3/places/6291cbe9d74437693826e636",
+      "location": {
+        "address": "Carrer de Londres, 71",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Londres, 71, 08036 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08036",
+        "region": "Catalunya"
+      },
+      "name": "VivaGym Londres",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "599c47da0d173f04a22c0871",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3813,
+      "geocodes": {
+        "main": {
+          "latitude": 41.381885,
+          "longitude": 2.147109
+        }
+      },
+      "link": "/v3/places/599c47da0d173f04a22c0871",
+      "location": {
+        "address": "Avinguda de Roma, 42",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda de Roma, 42, 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "VivaGym Enten\u00e7a",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5d4aae2c63755d000823bde9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3966,
+      "geocodes": {
+        "main": {
+          "latitude": 41.381185,
+          "longitude": 2.145531
+        }
+      },
+      "link": "/v3/places/5d4aae2c63755d000823bde9",
+      "location": {
+        "address": "Avinguda de Roma, 22",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda de Roma, 22, 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Viva Gym Av. Roma",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5f3048f964a520feab29e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1445,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.401922,
+          "longitude": 2.17111
+        },
+        "main": {
+          "latitude": 41.401771,
+          "longitude": 2.17122
+        },
+        "roof": {
+          "latitude": 41.401771,
+          "longitude": 2.17122
+        }
+      },
+      "link": "/v3/places/4b5f3048f964a520feab29e3",
+      "location": {
+        "address": "Calle Proven\u00e7a, 408",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "C. N\u00e0pols",
+        "formatted_address": "Calle Proven\u00e7a, 408 (C. N\u00e0pols), 08025 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08025",
+        "region": "Catalunya"
+      },
+      "name": "Club Metropolitan",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c7dfff6b33a224bd2bfd981",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1236,
+      "geocodes": {
+        "main": {
+          "latitude": 41.403621,
+          "longitude": 2.200412
+        },
+        "roof": {
+          "latitude": 41.403621,
+          "longitude": 2.200412
+        }
+      },
+      "link": "/v3/places/4c7dfff6b33a224bd2bfd981",
+      "location": {
+        "address": "Carrer de Pallars, 277",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Carrer de Pallars, 277, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "CEM Can Felipa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b619879f964a5204f192ae3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3060,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.398467,
+          "longitude": 2.151117
+        },
+        "main": {
+          "latitude": 41.39837,
+          "longitude": 2.150968
+        },
+        "roof": {
+          "latitude": 41.39837,
+          "longitude": 2.150968
+        }
+      },
+      "link": "/v3/places/4b619879f964a5204f192ae3",
+      "location": {
+        "address": "Carrer de Balmes, 215",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Balmes, 215, 08006 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08006",
+        "region": "Catalunya"
+      },
+      "name": "Club Metropolitan Balmes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54245702498e29fe6f96952e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1069,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.392354,
+          "longitude": 2.176986
+        },
+        "main": {
+          "latitude": 41.392478,
+          "longitude": 2.176902
+        },
+        "roof": {
+          "latitude": 41.392478,
+          "longitude": 2.176902
+        }
+      },
+      "link": "/v3/places/54245702498e29fe6f96952e",
+      "location": {
+        "address": "Calle Ausias Marc, 45",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Ausias Marc, 45, 08010 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08010",
+        "region": "Catalunya"
+      },
+      "name": "CrossFit Eixample",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52fb8c47498e4a82e6f3a53b",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2246,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.388715,
+          "longitude": 2.163441
+        },
+        "main": {
+          "latitude": 41.388832,
+          "longitude": 2.16353
+        },
+        "roof": {
+          "latitude": 41.388832,
+          "longitude": 2.16353
+        }
+      },
+      "link": "/v3/places/52fb8c47498e4a82e6f3a53b",
+      "location": {
+        "address": "Carrer de Balmes, 44",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Balmes, 44, 08007 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08007",
+        "region": "Catalunya"
+      },
+      "name": "Holmes Place Balmes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc09833461576b07d577a32",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5180,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.404958,
+          "longitude": 2.126563
+        },
+        "main": {
+          "latitude": 41.404879,
+          "longitude": 2.126481
+        }
+      },
+      "link": "/v3/places/4bc09833461576b07d577a32",
+      "location": {
+        "address": "Calle Escoles Pies, 105",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "btwn Margenat & l'Esperan\u00e7a st",
+        "formatted_address": "Calle Escoles Pies, 105 (btwn Margenat & l'Esperan\u00e7a st), 08017 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08017",
+        "region": "Catalunya"
+      },
+      "name": "Iradier Club Mujer",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5d9f86f964a520e46329e3",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2736,
+      "geocodes": {
+        "main": {
+          "latitude": 41.373104,
+          "longitude": 2.18862
+        },
+        "roof": {
+          "latitude": 41.373104,
+          "longitude": 2.18862
+        }
+      },
+      "link": "/v3/places/4b5d9f86f964a520e46329e3",
+      "location": {
+        "address": "Pla\u00e7a del Mar, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Pla\u00e7a del Mar, s/n, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Club Nataci\u00f3 Atl\u00e8tic-Barceloneta",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5d172be57edcd200235958f4",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sol\u00e1rium"
+          },
+          {
+            "fsq_id": "5d1721cfca49b3002f80ff04",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sala Fitness"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bcffcbe77b29c7447118a82",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2219,
+      "geocodes": {
+        "main": {
+          "latitude": 41.38887,
+          "longitude": 2.163826
+        }
+      },
+      "link": "/v3/places/4bcffcbe77b29c7447118a82",
+      "location": {
+        "address": "Calle Balmes, 44-46",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Diputaci\u00f3",
+        "formatted_address": "Calle Balmes, 44-46 (Diputaci\u00f3), 08007 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08007",
+        "region": "Catalunya"
+      },
+      "name": "Holmes Place",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b59ee39f964a520c1a128e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4807,
+      "geocodes": {
+        "main": {
+          "latitude": 41.381523,
+          "longitude": 2.133549
+        },
+        "roof": {
+          "latitude": 41.381523,
+          "longitude": 2.133549
+        }
+      },
+      "link": "/v3/places/4b59ee39f964a520c1a128e3",
+      "location": {
+        "address": "Calle Galileu, 186",
+        "address_extended": "Local",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "C. Caballero",
+        "formatted_address": "Calle Galileu, 186 (C. Caballero), 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "Metropolitan Spain",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ca879dbd971b1f732b614e1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3778,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.397136,
+          "longitude": 2.142136
+        },
+        "main": {
+          "latitude": 41.397384,
+          "longitude": 2.142336
+        },
+        "roof": {
+          "latitude": 41.397384,
+          "longitude": 2.142336
+        }
+      },
+      "link": "/v3/places/4ca879dbd971b1f732b614e1",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona",
+        "region": "Barcelona"
+      },
+      "name": "Arsenal Amig\u00f3",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "561cc96a498e8d22e4c32ca5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3378,
+      "geocodes": {
+        "main": {
+          "latitude": 41.385973,
+          "longitude": 2.150183
+        },
+        "roof": {
+          "latitude": 41.385973,
+          "longitude": 2.150183
+        }
+      },
+      "link": "/v3/places/561cc96a498e8d22e4c32ca5",
+      "location": {
+        "address": "Proven\u00e7a, 126",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Proven\u00e7a, 126, 08029 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08029",
+        "region": "Catalunya"
+      },
+      "name": "La Huella Crossfit Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c10a65481e976b0ac780feb",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3520,
+      "geocodes": {
+        "main": {
+          "latitude": 41.429957,
+          "longitude": 2.18635
+        },
+        "roof": {
+          "latitude": 41.429957,
+          "longitude": 2.18635
+        }
+      },
+      "link": "/v3/places/4c10a65481e976b0ac780feb",
+      "location": {
+        "address": "Pg Fabra I Puig, 45",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pg Fabra I Puig, 45, 08030 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08030",
+        "region": "Catalunya"
+      },
+      "name": "Club Natacio Sant Andreu",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c1b21f255e4c9b600e74823",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3726,
+      "geocodes": {
+        "main": {
+          "latitude": 41.378479,
+          "longitude": 2.150979
+        },
+        "roof": {
+          "latitude": 41.378479,
+          "longitude": 2.150979
+        }
+      },
+      "link": "/v3/places/4c1b21f255e4c9b600e74823",
+      "location": {
+        "address": "Diputaci\u00f3, 17",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Diputaci\u00f3, 17, 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Centre Esportiu Joan Mir\u00f3",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fd8e341e4b0f87fa1067fe1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 625,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.394596,
+          "longitude": 2.181717
+        },
+        "main": {
+          "latitude": 41.394629,
+          "longitude": 2.181609
+        },
+        "roof": {
+          "latitude": 41.394629,
+          "longitude": 2.181609
+        }
+      },
+      "link": "/v3/places/4fd8e341e4b0f87fa1067fe1",
+      "location": {
+        "address": "Carrer de Ribes, 25",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Napols",
+        "formatted_address": "Carrer de Ribes, 25 (Napols), 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Reebok Crossfit BCN",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdb1bed3904a593dccc489e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1049,
+      "geocodes": {
+        "main": {
+          "latitude": 41.392158,
+          "longitude": 2.197759
+        },
+        "roof": {
+          "latitude": 41.392158,
+          "longitude": 2.197759
+        }
+      },
+      "link": "/v3/places/4bdb1bed3904a593dccc489e",
+      "location": {
+        "address": "Avenida Ic\u00e0ria, 167",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Ic\u00e0ria, 167, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Nova Ic\u00e0ria Esports Club",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d8a47321508a143bf50211e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4779,
+      "geocodes": {
+        "main": {
+          "latitude": 41.366506,
+          "longitude": 2.148303
+        },
+        "roof": {
+          "latitude": 41.366506,
+          "longitude": 2.148303
+        }
+      },
+      "link": "/v3/places/4d8a47321508a143bf50211e",
+      "location": {
+        "address": "Cami de la Foixarda, 14",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Cami de la Foixarda, 14, 08038 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08038",
+        "region": "Catalunya"
+      },
+      "name": "Climbat Foixarda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d4bf24914f688bf5a0b673a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4019,
+      "geocodes": {
+        "main": {
+          "latitude": 41.376249,
+          "longitude": 2.148901
+        }
+      },
+      "link": "/v3/places/4d4bf24914f688bf5a0b673a",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Gran Via de les Corts Catalanes, 373-385",
+        "formatted_address": "Gran Via de les Corts Catalanes, 373-385, 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Club Metropolitan",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d8b74e599c2a1cdc112a6d7",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Arenas de Barcelona"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "53594a8f498e608f7965b00e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 522,
+      "geocodes": {
+        "main": {
+          "latitude": 41.393061,
+          "longitude": 2.186539
+        },
+        "roof": {
+          "latitude": 41.393061,
+          "longitude": 2.186539
+        }
+      },
+      "link": "/v3/places/53594a8f498e608f7965b00e",
+      "location": {
+        "address": "Carrer Sardenya, 69",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Sardenya, 69, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Anytime Fitness Ciutadella",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56a7e816498e2a603b8dc095",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7694,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.450144,
+          "longitude": 2.248553
+        },
+        "main": {
+          "latitude": 41.449848,
+          "longitude": 2.248335
+        },
+        "roof": {
+          "latitude": 41.449848,
+          "longitude": 2.248335
+        }
+      },
+      "link": "/v3/places/56a7e816498e2a603b8dc095",
+      "location": {
+        "address": "Carrer Sant Miquel, 16",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Sant Miquel, 16, 08911 Badalona Catalunya",
+        "locality": "Badalona",
+        "postcode": "08911",
+        "region": "Catalunya"
+      },
+      "name": "Club Metropolitan",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5adeb8f964a52022d828e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1545,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.404704,
+          "longitude": 2.171613
+        },
+        "main": {
+          "latitude": 41.404562,
+          "longitude": 2.171505
+        },
+        "roof": {
+          "latitude": 41.404562,
+          "longitude": 2.171505
+        }
+      },
+      "link": "/v3/places/4b5adeb8f964a52022d828e3",
+      "location": {
+        "address": "Carrer de Sardenya, 333",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Carrer de Sardenya, 333, 08025 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08025",
+        "region": "Catalunya"
+      },
+      "name": "Claror Sardenya",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51fe2984498ed0945761b822",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1626,
+      "geocodes": {
+        "main": {
+          "latitude": 41.397929,
+          "longitude": 2.168218
+        },
+        "roof": {
+          "latitude": 41.397929,
+          "longitude": 2.168218
+        }
+      },
+      "link": "/v3/places/51fe2984498ed0945761b822",
+      "location": {
+        "address": "Mallorca, 318",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Mallorca, 318, 08037 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08037",
+        "region": "Catalunya"
+      },
+      "name": "AltaFit Diagonal",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50fad484f31cf7784809e770",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10821,
+      "geocodes": {
+        "main": {
+          "latitude": 41.369019,
+          "longitude": 2.063877
+        },
+        "roof": {
+          "latitude": 41.369019,
+          "longitude": 2.063877
+        }
+      },
+      "link": "/v3/places/50fad484f31cf7784809e770",
+      "location": {
+        "address": "Avinguda Barcelona, 45",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Avinguda de la Generalitat",
+        "formatted_address": "Avinguda Barcelona, 45 (Avinguda de la Generalitat), 08970 Sant Joan Desp\u00ed Catalunya",
+        "locality": "Sant Joan Desp\u00ed",
+        "postcode": "08970",
+        "region": "Catalunya"
+      },
+      "name": "Polideportivo Municipal Francesc Calvet",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e43f34bd164821e115c705d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2690,
+      "geocodes": {
+        "main": {
+          "latitude": 41.412289,
+          "longitude": 2.213331
+        },
+        "roof": {
+          "latitude": 41.412289,
+          "longitude": 2.213331
+        }
+      },
+      "link": "/v3/places/4e43f34bd164821e115c705d",
+      "location": {
+        "address": "Calle Pallars, 484",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Pallars, 484, 08019 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08019",
+        "region": "Catalunya"
+      },
+      "name": "CEM Maresme",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bd2c92477b29c74545b8f82",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1354,
+      "geocodes": {
+        "main": {
+          "latitude": 41.385579,
+          "longitude": 2.18636
+        },
+        "roof": {
+          "latitude": 41.385579,
+          "longitude": 2.18636
+        }
+      },
+      "link": "/v3/places/4bd2c92477b29c74545b8f82",
+      "location": {
+        "address": "Laci\u00f3, 1",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Passeig Picasso",
+        "formatted_address": "Laci\u00f3, 1 (Passeig Picasso), 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "CEM Parc de la Ciutadella",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b668eaaf964a52028242be3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "UPF Campus Ciutadella"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5970b122e075506cb416ec9c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2108,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.387983,
+          "longitude": 2.165952
+        },
+        "main": {
+          "latitude": 41.388035,
+          "longitude": 2.165913
+        },
+        "roof": {
+          "latitude": 41.388035,
+          "longitude": 2.165913
+        }
+      },
+      "link": "/v3/places/5970b122e075506cb416ec9c",
+      "location": {
+        "address": "Gran V\u00eda de Les Corts Catalanes, 593",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Gran V\u00eda de Les Corts Catalanes, 593, 08007 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08007",
+        "region": "Catalunya"
+      },
+      "name": "Gimnasio McFIT Barcelona Universitat",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4baa5182f964a520725e3ae3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8653,
+      "geocodes": {
+        "main": {
+          "latitude": 41.346641,
+          "longitude": 2.109578
+        },
+        "roof": {
+          "latitude": 41.346641,
+          "longitude": 2.109578
+        }
+      },
+      "link": "/v3/places/4baa5182f964a520725e3ae3",
+      "location": {
+        "address": "Calle Gran V\u00eda de l'Hospitalet, 142",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Gran V\u00eda de l'Hospitalet, 142, 08907 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08907",
+        "region": "Catalunya"
+      },
+      "name": "Metropolitan Gran V\u00eda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bebe987b3352d7f5af456d2",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2331,
+      "geocodes": {
+        "main": {
+          "latitude": 41.377923,
+          "longitude": 2.176301
+        },
+        "roof": {
+          "latitude": 41.377923,
+          "longitude": 2.176301
+        }
+      },
+      "link": "/v3/places/4bebe987b3352d7f5af456d2",
+      "location": {
+        "address": "La Rambla, 18",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "La Rambla, 18, 08002 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08002",
+        "region": "Catalunya"
+      },
+      "name": "Poliesportiu Municipal Front\u00f3 Colom",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c80b7a4d8086dcb2c166652",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1204,
+      "geocodes": {
+        "main": {
+          "latitude": 41.406923,
+          "longitude": 2.179634
+        },
+        "roof": {
+          "latitude": 41.406923,
+          "longitude": 2.179634
+        }
+      },
+      "link": "/v3/places/4c80b7a4d8086dcb2c166652",
+      "location": {
+        "address": "Carrer de Cartagena, 231",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Cartagena, 231, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Fundacio Privada Claror",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c98dc767b9d370477c5e185",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3740,
+      "geocodes": {
+        "main": {
+          "latitude": 41.427063,
+          "longitude": 2.165741
+        }
+      },
+      "link": "/v3/places/4c98dc767b9d370477c5e185",
+      "location": {
+        "address": "Passeig de la Font D'en Fargas, 6",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Passeig Maragall",
+        "formatted_address": "Passeig de la Font D'en Fargas, 6 (Passeig Maragall), 08032 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08032",
+        "region": "Catalunya"
+      },
+      "name": "Nick Spa & Sports Club",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5f3415a28348bc7d83d48dbb",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Casa Modernista"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda5ef964a520814421e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4626,
+      "geocodes": {
+        "main": {
+          "latitude": 41.385564,
+          "longitude": 2.134994
+        },
+        "roof": {
+          "latitude": 41.385564,
+          "longitude": 2.134994
+        }
+      },
+      "link": "/v3/places/4adcda5ef964a520814421e3",
+      "location": {
+        "address": "Travessera de Les Corts, 252",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Travessera de Les Corts, 252, 08014 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08014",
+        "region": "Catalunya"
+      },
+      "name": "Holmes Place Europolis Les Corts",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b4a808df964a5206e8926e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4278,
+      "geocodes": {
+        "main": {
+          "latitude": 41.393546,
+          "longitude": 2.136552
+        },
+        "roof": {
+          "latitude": 41.393546,
+          "longitude": 2.136552
+        }
+      },
+      "link": "/v3/places/4b4a808df964a5206e8926e3",
+      "location": {
+        "address": "Ganduxer, 25-27",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Ganduxer, 25-27, 08021 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08021",
+        "region": "Catalunya"
+      },
+      "name": "DiR Diagonal",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "50e938e1011cb6d9221ae2db",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piscina DIR Diagonal"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bab5a4cf964a520a7a23ae3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4910,
+      "geocodes": {
+        "main": {
+          "latitude": 41.431167,
+          "longitude": 2.148989
+        }
+      },
+      "link": "/v3/places/4bab5a4cf964a520a7a23ae3",
+      "location": {
+        "address": "Jorge Manrique, 15-19",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Jorge Manrique, 15-19, 08035 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08035",
+        "region": "Catalunya"
+      },
+      "name": "DiR Club Hisp\u00e0",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c8a1e6fe51e6dcbf0cc65de",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3099,
+      "geocodes": {
+        "main": {
+          "latitude": 41.376324,
+          "longitude": 2.163818
+        },
+        "roof": {
+          "latitude": 41.376324,
+          "longitude": 2.163818
+        }
+      },
+      "link": "/v3/places/4c8a1e6fe51e6dcbf0cc65de",
+      "location": {
+        "address": "Comte Borrell, 21-33",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Entre Parlament i Marqu\u00e9s de Campo Sagrado",
+        "formatted_address": "Comte Borrell, 21-33 (Entre Parlament i Marqu\u00e9s de Campo Sagrado), 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Aiguajoc",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57f36ebacd1091bd55931f65",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1199,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.407448,
+          "longitude": 2.180739
+        },
+        "main": {
+          "latitude": 41.407336,
+          "longitude": 2.180823
+        },
+        "roof": {
+          "latitude": 41.407336,
+          "longitude": 2.180823
+        }
+      },
+      "link": "/v3/places/57f36ebacd1091bd55931f65",
+      "location": {
+        "address": "Carrer de Mallorca, 508",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de Mallorca, 508, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Duet Fit Sagrada Familia",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "582c38022db9f323ac069711",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3114,
+      "geocodes": {
+        "main": {
+          "latitude": 41.382032,
+          "longitude": 2.156737
+        }
+      },
+      "link": "/v3/places/582c38022db9f323ac069711",
+      "location": {
+        "address": "Carrer del Comte Borrell, 128",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Gran V\u00eda de les Corts Catalanes",
+        "formatted_address": "Carrer del Comte Borrell, 128 (Gran V\u00eda de les Corts Catalanes), 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "10.01 Health Coach",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e86ba68d22d2da9b5cc2469",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3646,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.386834,
+          "longitude": 2.146454
+        },
+        "main": {
+          "latitude": 41.386935,
+          "longitude": 2.146379
+        },
+        "roof": {
+          "latitude": 41.386935,
+          "longitude": 2.146379
+        }
+      },
+      "link": "/v3/places/4e86ba68d22d2da9b5cc2469",
+      "location": {
+        "address": "Calle C\u00f2rsega, 107",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "C/ Cal\u00e0bria",
+        "formatted_address": "Calle C\u00f2rsega, 107 (C/ Cal\u00e0bria), 08029 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08029",
+        "region": "Catalunya"
+      },
+      "name": "Gimnasio Dona10 Wellness Center",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ea7f76149011f902184af60",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3717,
+      "geocodes": {
+        "main": {
+          "latitude": 41.380382,
+          "longitude": 2.14991
+        },
+        "roof": {
+          "latitude": 41.380382,
+          "longitude": 2.14991
+        }
+      },
+      "link": "/v3/places/4ea7f76149011f902184af60",
+      "location": {
+        "address": "Enten\u00e7a, 102",
+        "address_extended": "Bajo",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Aragon",
+        "formatted_address": "Enten\u00e7a, 102 (Aragon), 08015 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08015",
+        "region": "Catalunya"
+      },
+      "name": "Activitats Esportives Eixample",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda61f964a520a84421e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6831,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.383027,
+          "longitude": 2.106776
+        },
+        "front_door": {
+          "latitude": 41.383016,
+          "longitude": 2.107909
+        },
+        "main": {
+          "latitude": 41.383016,
+          "longitude": 2.107909
+        },
+        "roof": {
+          "latitude": 41.382987,
+          "longitude": 2.108024
+        }
+      },
+      "link": "/v3/places/4adcda61f964a520a84421e3",
+      "location": {
+        "address": "Avenida Diagonal, 673",
+        "address_extended": "685",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Diagonal, 673, 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "David Lloyd Club Tur\u00f3",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54f9a9a7498e6ce6a80fc9e1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3803,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.390058,
+          "longitude": 2.143285
+        },
+        "main": {
+          "latitude": 41.390073,
+          "longitude": 2.143225
+        },
+        "roof": {
+          "latitude": 41.390073,
+          "longitude": 2.143225
+        }
+      },
+      "link": "/v3/places/54f9a9a7498e6ce6a80fc9e1",
+      "location": {
+        "address": "Avenida Josep Tarradellas, 133",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Josep Tarradellas, 133, 08029 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08029",
+        "region": "Catalunya"
+      },
+      "name": "McFit",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e8372fb46908185f6614f51",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2186,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.392897,
+          "longitude": 2.162366
+        },
+        "main": {
+          "latitude": 41.392843,
+          "longitude": 2.162325
+        },
+        "roof": {
+          "latitude": 41.392843,
+          "longitude": 2.162325
+        }
+      },
+      "link": "/v3/places/4e8372fb46908185f6614f51",
+      "location": {
+        "address": "Passatge Domingo, 7",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Passatge Domingo, 7, 08007 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08007",
+        "region": "Catalunya"
+      },
+      "name": "Seven DiR",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c47041319fde21e30f40676",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 18104,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.492862,
+          "longitude": 2.364225
+        },
+        "main": {
+          "latitude": 41.492765,
+          "longitude": 2.364081
+        }
+      },
+      "link": "/v3/places/4c47041319fde21e30f40676",
+      "location": {
+        "address": "Carrer Francesc Mas Abril, 13",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Dels Batlles",
+        "formatted_address": "Carrer Francesc Mas Abril, 13 (Dels Batlles), 08330 Premi\u00e0 de Mar Catalunya",
+        "locality": "Premi\u00e0 de Mar",
+        "postcode": "08330",
+        "region": "Catalunya"
+      },
+      "name": "Centre Esportiu Municipal Premi\u00e0",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

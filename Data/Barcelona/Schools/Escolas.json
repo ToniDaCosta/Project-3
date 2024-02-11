@@ -1,0 +1,491 @@
+{
+  "results": [
+    {
+      "fsq_id": "4fbf55a1e4b07afe94bbe371",
+      "categories": [
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3028,
+      "geocodes": {
+        "main": {
+          "latitude": 41.371192,
+          "longitude": 2.187877
+        },
+        "roof": {
+          "latitude": 41.371192,
+          "longitude": 2.187877
+        }
+      },
+      "link": "/v3/places/4fbf55a1e4b07afe94bbe371",
+      "location": {
+        "address": "Pg. Joan de Borb\u00f3 93",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Club Natacio Barcelona (CNB)",
+        "formatted_address": "Pg. Joan de Borb\u00f3 93 (Club Natacio Barcelona (CNB)), 08039 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08039",
+        "region": "Catalunya"
+      },
+      "name": "Pukas Surf Eskola Barcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda59f964a520074421e3",
+      "categories": [
+        {
+          "id": 17043,
+          "name": "Clothing Store",
+          "short_name": "Apparel",
+          "plural_name": "Clothing Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17048,
+          "name": "Shoe Store",
+          "short_name": "Shoes",
+          "plural_name": "Shoe Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17052,
+          "name": "Women's Store",
+          "short_name": "Women's Store",
+          "plural_name": "Women's Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2156,
+      "geocodes": {
+        "main": {
+          "latitude": 41.394027,
+          "longitude": 2.162021
+        },
+        "roof": {
+          "latitude": 41.394027,
+          "longitude": 2.162021
+        }
+      },
+      "link": "/v3/places/4adcda59f964a520074421e3",
+      "location": {
+        "address": "Pg Gracia, 79",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pg Gracia, 79, 08008 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08008",
+        "region": "Catalunya"
+      },
+      "name": "Escada",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4eb7e9302c5b53141b5d01aa",
+      "categories": [
+        {
+          "id": 17076,
+          "name": "Liquor Store",
+          "short_name": "Liquor Store",
+          "plural_name": "Liquor Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1342,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.385883,
+          "longitude": 2.184317
+        },
+        "main": {
+          "latitude": 41.385932,
+          "longitude": 2.184354
+        },
+        "roof": {
+          "latitude": 41.385932,
+          "longitude": 2.184354
+        }
+      },
+      "link": "/v3/places/4eb7e9302c5b53141b5d01aa",
+      "location": {
+        "address": "Calle Comercial, 13",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Comercial, 13, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Magatzem Escol\u00e0",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ca4c2c2750ca093b9262467",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2608,
+      "geocodes": {
+        "main": {
+          "latitude": 41.376799,
+          "longitude": 2.173472
+        },
+        "roof": {
+          "latitude": 41.376799,
+          "longitude": 2.173472
+        }
+      },
+      "link": "/v3/places/4ca4c2c2750ca093b9262467",
+      "location": {
+        "address": "Avenida Drassanes, 14",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida Drassanes, 14, 08001 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08001",
+        "region": "Catalunya"
+      },
+      "name": "Escola Oficial d'Idiomes",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4decc5f888774880e356257f",
+            "categories": [
+              {
+                "id": 12053,
+                "name": "Language School",
+                "short_name": "Language School",
+                "plural_name": "Language Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafeter\u00eda EOIB"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bbb29733db7b7136cf9239a",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1818,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.409243,
+          "longitude": 2.172473
+        },
+        "main": {
+          "latitude": 41.40913,
+          "longitude": 2.172391
+        },
+        "roof": {
+          "latitude": 41.40913,
+          "longitude": 2.172391
+        }
+      },
+      "link": "/v3/places/4bbb29733db7b7136cf9239a",
+      "location": {
+        "address": "Calle Padilla, 327",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Padilla, 327, Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Escola Sinai Restaurant",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cc32c59dba3ef3b67b70605",
+      "categories": [
+        {
+          "id": 12050,
+          "name": "Culinary School",
+          "short_name": "Culinary School",
+          "plural_name": "Culinary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyClosed",
+      "distance": 2267,
+      "geocodes": {
+        "main": {
+          "latitude": 41.418279,
+          "longitude": 2.189013
+        },
+        "roof": {
+          "latitude": 41.418279,
+          "longitude": 2.189013
+        }
+      },
+      "link": "/v3/places/4cc32c59dba3ef3b67b70605",
+      "location": {
+        "address": "Calle Bofarull, 46",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "C. Felipe II",
+        "formatted_address": "Calle Bofarull, 46 (C. Felipe II), 08027 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08027",
+        "region": "Catalunya"
+      },
+      "name": "Escola de Cuina Terra d'Escudella",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c98ece46ffe8cfafd610130",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 222,
+      "geocodes": {
+        "main": {
+          "latitude": 41.398696,
+          "longitude": 2.18533
+        },
+        "roof": {
+          "latitude": 41.398696,
+          "longitude": 2.18533
+        }
+      },
+      "link": "/v3/places/4c98ece46ffe8cfafd610130",
+      "location": {
+        "address": "Calle Padilla, 155",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Padilla, 155, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Escola Superior de M\u00fasica de Catalunya",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "c913d97438a14ca8b8a0a736",
+      "categories": [
+        {
+          "id": 12011,
+          "name": "Art School",
+          "short_name": "Art School",
+          "plural_name": "Art Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 382,
+      "geocodes": {
+        "main": {
+          "latitude": 41.395927,
+          "longitude": 2.183774
+        },
+        "roof": {
+          "latitude": 41.395927,
+          "longitude": 2.183774
+        }
+      },
+      "link": "/v3/places/c913d97438a14ca8b8a0a736",
+      "location": {
+        "address": "Al\u00ed Bei, 113",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Al\u00ed Bei, 113, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Escola de Ballet Eulalia Blasi",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "12e90ff2067d4cc46fcbb11c",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 522,
+      "geocodes": {
+        "main": {
+          "latitude": 41.395352,
+          "longitude": 2.182277
+        },
+        "roof": {
+          "latitude": 41.395352,
+          "longitude": 2.182277
+        }
+      },
+      "link": "/v3/places/12e90ff2067d4cc46fcbb11c",
+      "location": {
+        "address": "Ribes, 10",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Ribes, 10, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Escola Bressol Municipal el Tren de Fort Pienc",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4eb104868231768562382f7e",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 540,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.401001,
+          "longitude": 2.192347
+        },
+        "main": {
+          "latitude": 41.401117,
+          "longitude": 2.192435
+        },
+        "roof": {
+          "latitude": 41.401117,
+          "longitude": 2.192435
+        }
+      },
+      "link": "/v3/places/4eb104868231768562382f7e",
+      "location": {
+        "address": "Calle Badajoz, 130",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Badajoz, 130, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Escola Especialitzada la Sagrera",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

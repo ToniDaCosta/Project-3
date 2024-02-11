@@ -1,0 +1,2615 @@
+{
+  "results": [
+    {
+      "fsq_id": "4adcdae1f964a520de5821e3",
+      "categories": [
+        {
+          "id": 16007,
+          "name": "Structure",
+          "short_name": "Structure",
+          "plural_name": "Structures",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2851,
+      "geocodes": {
+        "main": {
+          "latitude": 37.968334,
+          "longitude": 23.741112
+        },
+        "roof": {
+          "latitude": 37.968301,
+          "longitude": 23.741345
+        }
+      },
+      "link": "/v3/places/4adcdae1f964a520de5821e3",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03ad\u03c9\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5",
+        "address_extended": "\u039b\u03cc\u03c6\u03bf\u03c2 \u0391\u03c1\u03b4\u03b7\u03c4\u03c4\u03bf\u03cd",
+        "country": "GR",
+        "cross_street": "\u039b\u03cc\u03c6\u03bf\u03c2 \u0391\u03c1\u03b4\u03b7\u03c4\u03c4\u03bf\u03cd",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03ad\u03c9\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5 (\u039b\u03cc\u03c6\u03bf\u03c2 \u0391\u03c1\u03b4\u03b7\u03c4\u03c4\u03bf\u03cd), 11635 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "11635",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Panathenaic Stadium (\u03a0\u03b1\u03bd\u03b1\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf (\u039a\u03b1\u03bb\u03bb\u03b9\u03bc\u03ac\u03c1\u03bc\u03b1\u03c1\u03bf))",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "62c970e4bb7ea76dfd8cf770",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Qu Cafe"
+          },
+          {
+            "fsq_id": "5a425ce0b6eedb5d701389c9",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0386\u03b3\u03b1\u03bb\u03bc\u03b1 \u0395\u03b8\u03bd\u03b9\u03ba\u03bf\u03cd \u0395\u03c5\u03b5\u03c1\u03b3\u03ad\u03c4\u03b7 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 \u0391\u03b2\u03ad\u03c1\u03c9\u03c6"
+          },
+          {
+            "fsq_id": "5d79feb2b0aa4b000864c6b5",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19014,
+                "name": "Hotel",
+                "short_name": "Hotel",
+                "plural_name": "Hotels",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Panathenaic Stadium Museum"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4adcdae1f964a520f75821e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6548,
+      "geocodes": {
+        "main": {
+          "latitude": 37.946518,
+          "longitude": 23.66423
+        }
+      },
+      "link": "/v3/places/4adcdae1f964a520f75821e3",
+      "location": {
+        "address": "\u039a\u03b1\u03c1\u03b1\u03cc\u03bb\u03b7 & \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u03a3\u03bf\u03c6\u03b9\u03b1\u03bd\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+        "formatted_address": "\u039a\u03b1\u03c1\u03b1\u03cc\u03bb\u03b7 & \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 (\u03a3\u03bf\u03c6\u03b9\u03b1\u03bd\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5), 185 47 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 47",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Karaiskaki Stadium (\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u039a\u03b1\u03c1\u03b1\u03ca\u03c3\u03ba\u03ac\u03ba\u03b7)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5bbe3916005ac1002c5d206d",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "ALTERLIFE Absolute - Neo Faliro"
+          },
+          {
+            "fsq_id": "5bbf92dc419a9e002cb00b06",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Red Swim Academy"
+          },
+          {
+            "fsq_id": "59a84d7b26659b4a5e9ec82c",
+            "categories": [
+              {
+                "id": 18064,
+                "name": "Soccer Field",
+                "short_name": "Soccer Field",
+                "plural_name": "Soccer Fields",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 2"
+          },
+          {
+            "fsq_id": "59a95cb2fdb9a734dd5f5e73",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0395\u03ba\u03b4\u03bf\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b5\u03b9\u03c3\u03b9\u03c4\u03b7\u03c1\u03af\u03c9\u03bd \u03a3\u03c4\u03b1\u03b4\u03af\u03bf\u03c5 \u03ba\u03b1\u03c1\u03b1\u03ca\u03c3\u03ba\u03b1\u03ba\u03b7"
+          },
+          {
+            "fsq_id": "5e2889ea7e79b00008dd6825",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sport Caf\u00e9 & Food"
+          },
+          {
+            "fsq_id": "63a3356f94bff14468381178",
+            "categories": [
+              {
+                "id": 18064,
+                "name": "Soccer Field",
+                "short_name": "Soccer Field",
+                "plural_name": "Soccer Fields",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a3\u03c7\u03bf\u03bb\u03ae \u03a0\u03bf\u03b4\u03bf\u03c3\u03c6\u03b1\u03af\u03c1\u03bf\u03c5 \u039a\u03b1\u03c1\u03b1\u03ca\u03c3\u03ba\u03ac\u03ba\u03b7"
+          },
+          {
+            "fsq_id": "4e5cc90e7d8bfb5e36bb6d8f",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd"
+          },
+          {
+            "fsq_id": "55da0ac0498ecbc13399ce87",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 19"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5aab9b07cd441c5c094edefe",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5897,
+      "geocodes": {
+        "main": {
+          "latitude": 38.036954,
+          "longitude": 23.74142
+        }
+      },
+      "link": "/v3/places/5aab9b07cd441c5c094edefe",
+      "location": {
+        "address": "\u039a\u03b1\u03c0\u03c0\u03b1\u03b4\u03bf\u03ba\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "\u03a6\u03c9\u03ba\u03ce\u03bd",
+        "formatted_address": "\u039a\u03b1\u03c0\u03c0\u03b1\u03b4\u03bf\u03ba\u03af\u03b1\u03c2 (\u03a6\u03c9\u03ba\u03ce\u03bd), 143 41 \u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1",
+        "postcode": "143 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0391\u0395\u039a \"\u0391\u03b3\u03b9\u03ac \u03a3\u03bf\u03c6\u03b9\u03ac\"",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "63b97f26d351fd65dfdf3c55",
+            "categories": [
+              {
+                "id": 17117,
+                "name": "Sporting Goods Retail",
+                "short_name": "Sporting Goods Retail",
+                "plural_name": "Sporting Goods Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "AEK FC Store"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c45857a2d3ec9b65a4d30ae",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 11038,
+          "name": "Event Service",
+          "short_name": "Event Services",
+          "plural_name": "Event Services",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/event/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3135,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9872,
+          "longitude": 23.754179
+        }
+      },
+      "link": "/v3/places/4c45857a2d3ec9b65a4d30ae",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 160",
+        "country": "GR",
+        "cross_street": "\u03a0\u03b1\u03bd\u03b1\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03bf\u03cd",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 160 (\u03a0\u03b1\u03bd\u03b1\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03bf\u03cd), 114 71 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "114 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Apostolos Nikolaidis Stadium (\u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u0391\u03c0\u03cc\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 \u039d\u03b9\u03ba\u03bf\u03bb\u03b1\u0390\u03b4\u03b7\u03c2)",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cd5896bb2a43704d4b37e44",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8080,
+      "geocodes": {
+        "main": {
+          "latitude": 38.037716,
+          "longitude": 23.784694
+        }
+      },
+      "link": "/v3/places/4cd5896bb2a43704d4b37e44",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391 \u03a3\u03c0\u03cd\u03c1\u03bf\u03c2 \u039b\u03bf\u03cd\u03b7\u03c2",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37 (\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391 \u03a3\u03c0\u03cd\u03c1\u03bf\u03c2 \u039b\u03bf\u03cd\u03b7\u03c2), 142 35 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "142 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Indoor Basketball Arena (\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u039a\u03b1\u03bb\u03b1\u03b8\u03bf\u03c3\u03c6\u03b1\u03af\u03c1\u03b9\u03c3\u03b7\u03c2)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5aa7fae44c954c4a301168af",
+            "categories": [
+              {
+                "id": 17116,
+                "name": "Souvenir Store",
+                "short_name": "Souvenir Store",
+                "plural_name": "Souvenir Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "PAO Shop OAKA Indoor Hall"
+          },
+          {
+            "fsq_id": "5d10649764102800239f226e",
+            "categories": [
+              {
+                "id": 12019,
+                "name": "College Basketball Court",
+                "short_name": "Basketball",
+                "plural_name": "College Basketball Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_basketball_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Paobc Academy"
+          },
+          {
+            "fsq_id": "5c150d9c92e7a9002c607f19",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bloo Caf\u00e9"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dfe43e2e4cd8e633feafa88",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5508,
+      "geocodes": {
+        "main": {
+          "latitude": 37.999309,
+          "longitude": 23.779354
+        }
+      },
+      "link": "/v3/places/4dfe43e2e4cd8e633feafa88",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039d\u03ad\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Nova Tennis Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e2ebadac65b80dfd8392976",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8476,
+      "geocodes": {
+        "main": {
+          "latitude": 38.041767,
+          "longitude": 23.787371
+        },
+        "roof": {
+          "latitude": 38.041767,
+          "longitude": 23.787371
+        }
+      },
+      "link": "/v3/places/4e2ebadac65b80dfd8392976",
+      "location": {
+        "country": "GR",
+        "cross_street": "Amarysias Artemidos",
+        "formatted_address": "Amarysias Artemidos, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "K1 & K2 Oaka",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "555cb56e498e636bf5ed85eb",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1020,
+      "geocodes": {
+        "main": {
+          "latitude": 37.994991,
+          "longitude": 23.712382
+        },
+        "roof": {
+          "latitude": 37.994991,
+          "longitude": 23.712382
+        }
+      },
+      "link": "/v3/places/555cb56e498e636bf5ed85eb",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Athens Sports Hall Center",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cc46b8c01fb236a85c1abba",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8197,
+      "geocodes": {
+        "main": {
+          "latitude": 38.036789,
+          "longitude": 23.78762
+        },
+        "roof": {
+          "latitude": 38.036789,
+          "longitude": 23.78762
+        }
+      },
+      "link": "/v3/places/4cc46b8c01fb236a85c1abba",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37 (\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391), 151 23 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Stadium (\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf)",
+      "related_places": {
+        "parent": {
+          "fsq_id": "535bbf87498e95d41ec48eef",
+          "categories": [
+            {
+              "id": 18048,
+              "name": "Recreation Center",
+              "short_name": "Recreation Center",
+              "plural_name": "Recreation Centers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u039f\u0391\u039a\u0391 - \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u03a3\u03c0\u03cd\u03c1\u03bf\u03c2 \u039b\u03bf\u03cd\u03b7\u03c2"
+        },
+        "children": [
+          {
+            "fsq_id": "509fdceee4b007e3c2934ab8",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 9"
+          },
+          {
+            "fsq_id": "56bf569ccd10059b1291e814",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 7"
+          },
+          {
+            "fsq_id": "5b1d671569e77b002e0691c9",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039c\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd"
+          },
+          {
+            "fsq_id": "50d352a6e4b0e555fe8e37cc",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03c5\u03c1\u03b1 29\u0391"
+          },
+          {
+            "fsq_id": "50cdf3f2e4b0cc5bc62d5446",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 15"
+          },
+          {
+            "fsq_id": "4fb93116e4b090680f0061dc",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 8"
+          },
+          {
+            "fsq_id": "511fb647e4b027f3748a9788",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 VIP"
+          },
+          {
+            "fsq_id": "565af0ca498e715f667d899f",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 11"
+          },
+          {
+            "fsq_id": "58a9cdd214fb41097a3055b3",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 10"
+          },
+          {
+            "fsq_id": "52d28fbc498e3cdd192997a3",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 5"
+          },
+          {
+            "fsq_id": "522b4c3411d2b45ffb5b2409",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03cd\u03c1\u03b1 1"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d49db4294ab2c0f78da1c0c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6533,
+      "geocodes": {
+        "main": {
+          "latitude": 37.946753,
+          "longitude": 23.664564
+        },
+        "roof": {
+          "latitude": 37.946753,
+          "longitude": 23.664564
+        }
+      },
+      "link": "/v3/places/4d49db4294ab2c0f78da1c0c",
+      "location": {
+        "address": "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03b1\u03c1\u03b1\u03ca\u03c3\u03ba\u03ac\u03ba\u03b7\u03c2",
+        "country": "GR",
+        "formatted_address": "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03b1\u03c1\u03b1\u03ca\u03c3\u03ba\u03ac\u03ba\u03b7\u03c2, 185 47 \u039d\u03ad\u03bf \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03bf \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "185 47",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0398\u03cd\u03c1\u03b1 7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d67b419052ea1cdc6639d49",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8017,
+      "geocodes": {
+        "main": {
+          "latitude": 38.038269,
+          "longitude": 23.782994
+        }
+      },
+      "link": "/v3/places/4d67b419052ea1cdc6639d49",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37 (\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391), 151 23 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Aquatic Center (\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a5\u03b3\u03c1\u03bf\u03cd \u03a3\u03c4\u03af\u03b2\u03bf\u03c5)",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "523374d811d289209316b14b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5056,
+      "geocodes": {
+        "main": {
+          "latitude": 37.942141,
+          "longitude": 23.709772
+        }
+      },
+      "link": "/v3/places/523374d811d289209316b14b",
+      "location": {
+        "address": "\u0391\u03b4\u03b1\u03bc. \u039a\u03bf\u03c1\u03b1\u03ae",
+        "country": "GR",
+        "cross_street": "\u039c\u03b5\u03b3\u03ac\u03bb\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5",
+        "formatted_address": "\u0391\u03b4\u03b1\u03bc. \u039a\u03bf\u03c1\u03b1\u03ae (\u039c\u03b5\u03b3\u03ac\u03bb\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5), \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Milonas Tennis Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bf00ecf51f2c9b66a21f192",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6668,
+      "geocodes": {
+        "main": {
+          "latitude": 37.942519,
+          "longitude": 23.667235
+        },
+        "roof": {
+          "latitude": 37.942519,
+          "longitude": 23.667235
+        }
+      },
+      "link": "/v3/places/4bf00ecf51f2c9b66a21f192",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0395\u03b8\u03bd\u03b1\u03c1\u03c7\u03bf\u03c5 \u039c\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c5",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0395\u03b8\u03bd\u03b1\u03c1\u03c7\u03bf\u03c5 \u039c\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c5, 185 47 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 47",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "SEF - Peace & Friendship Stadium (\u03a3\u0395\u03a6 - \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0395\u03b9\u03c1\u03ae\u03bd\u03b7\u03c2 & \u03a6\u03b9\u03bb\u03af\u03b1\u03c2)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "646e31cdae26fe2264644f8b",
+            "categories": [
+              {
+                "id": 10032,
+                "name": "Night Club",
+                "short_name": "Night Club",
+                "plural_name": "Night Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sabbia Summer Club"
+          },
+          {
+            "fsq_id": "56a6433d38fac19abc00cb76",
+            "categories": [
+              {
+                "id": 18008,
+                "name": "Basketball Court",
+                "short_name": "Basketball Court",
+                "plural_name": "Basketball Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/basketballcourt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd \u03a3.\u0395.\u03a6"
+          },
+          {
+            "fsq_id": "5aaa32d4e1791027c580a5e4",
+            "categories": [
+              {
+                "id": 15026,
+                "name": "Physical Therapy Clinic",
+                "short_name": "Physical Therapy Clinic",
+                "plural_name": "Physical Therapy Clinics",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_doctorsoffice_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Olympiacos B.C. Physiotherapy Room"
+          },
+          {
+            "fsq_id": "5aace3208496ca0ec787aaed",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0391\u03af\u03b8\u03bf\u03c5\u03c3\u03b1 \u039c\u03b5\u03bb\u03b9\u03bd\u03b1 \u039c\u03b5\u03c1\u03ba\u03bf\u03c5\u03c1\u03b7"
+          },
+          {
+            "fsq_id": "5aad30d80a464d63b8859012",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Arena \u03a3\u03b5\u03c6"
+          },
+          {
+            "fsq_id": "5a0eda5e67e5f2046a99f673",
+            "categories": [
+              {
+                "id": 15031,
+                "name": "Doctor's Office",
+                "short_name": "Doctor's Office",
+                "plural_name": "Doctor's Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_doctorsoffice_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0399\u03b1\u03c4\u03c1\u03b5\u03af\u03bf - \u03a3.\u0395.\u03a6."
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "53fee7f1498e93de12022197",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18047,
+          "name": "Tennis Court",
+          "short_name": "Tennis Court",
+          "plural_name": "Tennis Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11424,
+      "geocodes": {
+        "main": {
+          "latitude": 38.046034,
+          "longitude": 23.82551
+        },
+        "roof": {
+          "latitude": 38.046034,
+          "longitude": 23.82551
+        }
+      },
+      "link": "/v3/places/53fee7f1498e93de12022197",
+      "location": {
+        "address": "\u03a3\u03b9\u03c3\u03bc\u03b1\u03bd\u03bf\u03b3\u03bb\u03b5\u03af\u03bf\u03c5 74",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a3\u03b9\u03c3\u03bc\u03b1\u03bd\u03bf\u03b3\u03bb\u03b5\u03af\u03bf\u03c5 74, 151 26 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 26",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Maroussi Tennis Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5a7ee5e4112c6c7084f7345d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6540,
+      "geocodes": {
+        "main": {
+          "latitude": 37.932927,
+          "longitude": 23.689318
+        }
+      },
+      "link": "/v3/places/5a7ee5e4112c6c7084f7345d",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2, 175 61 \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "175 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03cd \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5 \"\u03a3\u03bf\u03c6\u03af\u03b1 \u039c\u03c0\u03b5\u03c6\u03cc\u03bd\"",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5897101401f0776e38bf68b4",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 - \u03a4\u03c1\u03bf\u03ba\u03b1\u03bd\u03c4\u03b5\u03c1\u03cc"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ce77895baa6a1cdfc13286c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18047,
+          "name": "Tennis Court",
+          "short_name": "Tennis Court",
+          "plural_name": "Tennis Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7175,
+      "geocodes": {
+        "main": {
+          "latitude": 38.027526,
+          "longitude": 23.782263
+        }
+      },
+      "link": "/v3/places/4ce77895baa6a1cdfc13286c",
+      "location": {
+        "country": "GR",
+        "cross_street": "Kalliga",
+        "formatted_address": "Kalliga, \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Filothei Tennis Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f69cefde4b06dfbd320b4bf",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18047,
+          "name": "Tennis Court",
+          "short_name": "Tennis Court",
+          "plural_name": "Tennis Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12085,
+      "geocodes": {
+        "main": {
+          "latitude": 38.090933,
+          "longitude": 23.759661
+        }
+      },
+      "link": "/v3/places/4f69cefde4b06dfbd320b4bf",
+      "location": {
+        "address": "\u0394\u03b5\u03ba\u03b5\u03bb\u03b5\u03af\u03b1\u03c2 193",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03b5\u03ba\u03b5\u03bb\u03b5\u03af\u03b1\u03c2 193"
+      },
+      "name": "Acharnai Tennis Academy",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fbcbb527b0cda3aa7e1e813",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5810,
+      "geocodes": {
+        "main": {
+          "latitude": 38.028926,
+          "longitude": 23.678498
+        }
+      },
+      "link": "/v3/places/4fbcbb527b0cda3aa7e1e813",
+      "location": {
+        "address": "\u03a0\u03b5\u03cd\u03ba\u03c9\u03bd 38",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b5\u03cd\u03ba\u03c9\u03bd 38, \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5 - \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a7\u03c9\u03c1\u03ac\u03c6\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ea2b097b80355a981d680a5",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3230,
+      "geocodes": {
+        "main": {
+          "latitude": 37.986867,
+          "longitude": 23.755308
+        },
+        "roof": {
+          "latitude": 37.986867,
+          "longitude": 23.755308
+        }
+      },
+      "link": "/v3/places/4ea2b097b80355a981d680a5",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 160",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u03b3\u03ae\u03c0\u03b5\u03b4\u03bf \u0391\u03c0\u03cc\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 \u039d\u03b9\u03ba\u03bf\u03bb\u03b1\u0390\u03b4\u03b7\u03c2",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 160 (\u03c3\u03c4\u03bf \u03b3\u03ae\u03c0\u03b5\u03b4\u03bf \u0391\u03c0\u03cc\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 \u039d\u03b9\u03ba\u03bf\u03bb\u03b1\u0390\u03b4\u03b7\u03c2), 114 71 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "114 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a4\u03ac\u03c6\u03bf\u03c2 \u03a4\u03bf\u03c5 \u0399\u03bd\u03b4\u03bf\u03cd",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5ae5a207237dee002cdc9f16",
+            "categories": [
+              {
+                "id": 17116,
+                "name": "Souvenir Store",
+                "short_name": "Souvenir Store",
+                "plural_name": "Souvenir Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kalafatis PAO Store"
+          },
+          {
+            "fsq_id": "62b6c35ade8793569e5ec10d",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03b1\u03bb\u03b1\u03c6\u03ac\u03c4\u03b7\u03c2 Cafe"
+          },
+          {
+            "fsq_id": "61e8533184f8b605a9c434b3",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Greens"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "50a13ae2e4b09c8924223366",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16285,
+      "geocodes": {
+        "main": {
+          "latitude": 38.108576,
+          "longitude": 23.822556
+        }
+      },
+      "link": "/v3/places/50a13ae2e4b09c8924223366",
+      "location": {
+        "address": "\u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03af\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03af\u03bf\u03c5, \u039d\u03ad\u03b1 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u039d\u03ad\u03b1\u03c2 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1\u03c2 \u03a6\u03ce\u03c4\u03b7\u03c2 \u0392\u03b1\u03c1\u03b4\u03b1\u03be\u03ae\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e4c15ad52b1075a638641dd",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13305,
+      "geocodes": {
+        "main": {
+          "latitude": 37.870698,
+          "longitude": 23.753756
+        }
+      },
+      "link": "/v3/places/4e4c15ad52b1075a638641dd",
+      "location": {
+        "address": "\u039d\u03b1\u03c0\u03bf\u03bb\u03ad\u03bf\u03bd\u03c4\u03bf\u03c2 \u0396\u03ad\u03c1\u03b2\u03b1 48-56",
+        "country": "GR",
+        "formatted_address": "\u039d\u03b1\u03c0\u03bf\u03bb\u03ad\u03bf\u03bd\u03c4\u03bf\u03c2 \u0396\u03ad\u03c1\u03b2\u03b1 48-56, \u0393\u03bb\u03c5\u03c6\u03ac\u03b4\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03bb\u03c5\u03c6\u03ac\u03b4\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Glyfada Track Stadium (\u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a3\u03c4\u03af\u03b2\u03bf\u03c5 \u0393\u03bb\u03c5\u03c6\u03ac\u03b4\u03b1\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ce9ab6b948f224b3e8af75d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3706,
+      "geocodes": {
+        "main": {
+          "latitude": 37.998452,
+          "longitude": 23.678567
+        }
+      },
+      "link": "/v3/places/4ce9ab6b948f224b3e8af75d",
+      "location": {
+        "address": "\u03a3\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 40",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a3\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 40, 122 43 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+        "postcode": "122 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u0391\u039a \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u0395\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ca0d96c0e9bb1f70bf5fb5f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8668,
+      "geocodes": {
+        "main": {
+          "latitude": 38.03965,
+          "longitude": 23.791602
+        }
+      },
+      "link": "/v3/places/4ca0d96c0e9bb1f70bf5fb5f",
+      "location": {
+        "address": "\u03a0\u03b9\u03c4\u03c4\u03b1\u03c1\u03ac",
+        "country": "GR",
+        "cross_street": "\u0391\u03bc\u03b1\u03c1\u03c5\u03c3\u03af\u03b1\u03c2 \u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03b4\u03bf\u03c2",
+        "formatted_address": "\u03a0\u03b9\u03c4\u03c4\u03b1\u03c1\u03ac (\u0391\u03bc\u03b1\u03c1\u03c5\u03c3\u03af\u03b1\u03c2 \u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03b4\u03bf\u03c2), 151 24 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 24",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Tennis Center (\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u0391\u03bd\u03c4\u03b9\u03c3\u03c6\u03b1\u03af\u03c1\u03b9\u03c3\u03b7\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5227405a11d22c027bba23a1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5695,
+      "geocodes": {
+        "main": {
+          "latitude": 38.03775,
+          "longitude": 23.708141
+        }
+      },
+      "link": "/v3/places/5227405a11d22c027bba23a1",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u038a\u03bb\u03b9\u03bf\u03bd, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u038a\u03bb\u03b9\u03bf\u03bd",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a1\u03b1\u03b4\u03b9\u03bf\u03c6\u03c9\u03bd\u03af\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b499e56f964a520c87126e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3032,
+      "geocodes": {
+        "main": {
+          "latitude": 37.959992,
+          "longitude": 23.714824
+        }
+      },
+      "link": "/v3/places/4b499e56f964a520c87126e3",
+      "location": {
+        "address": "\u0393\u03c1\u03b7\u03b3\u03bf\u03c1\u03af\u03bf\u03c5 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7 28-30",
+        "country": "GR",
+        "formatted_address": "\u0393\u03c1\u03b7\u03b3\u03bf\u03c1\u03af\u03bf\u03c5 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7 28-30, 176 71 \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "postcode": "176 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1\u03c2 \u0393\u03c1\u03b7\u03b3\u03cc\u03c1\u03b7\u03c2 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4eb80c1acc2143e8291392e1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10456,
+      "geocodes": {
+        "main": {
+          "latitude": 37.897914,
+          "longitude": 23.756272
+        }
+      },
+      "link": "/v3/places/4eb80c1acc2143e8291392e1",
+      "location": {
+        "address": "\u039b.\u039a\u03cd\u03c0\u03c1\u03bf\u03c5 & \u03a4\u03c1\u03b9\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2",
+        "country": "GR",
+        "cross_street": "\u03a4\u03c1\u03b9\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 51",
+        "formatted_address": "\u039b.\u039a\u03cd\u03c0\u03c1\u03bf\u03c5 & \u03a4\u03c1\u03b9\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 (\u03a4\u03c1\u03b9\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 51), 164 51",
+        "postcode": "164 51"
+      },
+      "name": "\u0391' \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52d9681b498e31e457881b51",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8046,
+      "geocodes": {
+        "main": {
+          "latitude": 38.039034,
+          "longitude": 23.782684
+        },
+        "roof": {
+          "latitude": 38.039034,
+          "longitude": 23.782684
+        }
+      },
+      "link": "/v3/places/52d9681b498e31e457881b51",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 47",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 47, \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Aerial Dance by Katerina Soldatou",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dc2e7e9d1643ed27a5a6507",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6751,
+      "geocodes": {
+        "main": {
+          "latitude": 38.043843,
+          "longitude": 23.690705
+        }
+      },
+      "link": "/v3/places/4dc2e7e9d1643ed27a5a6507",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d3dda6ffb4c5481cbbce014",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6008,
+      "geocodes": {
+        "main": {
+          "latitude": 37.988832,
+          "longitude": 23.786915
+        },
+        "roof": {
+          "latitude": 37.988832,
+          "longitude": 23.786915
+        }
+      },
+      "link": "/v3/places/4d3dda6ffb4c5481cbbce014",
+      "location": {
+        "address": "\u039d\u03b5\u03c5\u03c1\u03bf\u03ba\u03bf\u03c0\u03af\u03bf\u03c5 4",
+        "country": "GR",
+        "formatted_address": "\u039d\u03b5\u03c5\u03c1\u03bf\u03ba\u03bf\u03c0\u03af\u03bf\u03c5 4, 156 69 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "postcode": "156 69",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0391\u03a3 \u03a0\u0391\u03a0\u0391\u0393\u039f\u03a5 \"\u03a3\u03b1\u03bb\u03bf\u03cd\u03bd\"",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5339b10d11d2c6fa6a1463c7",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6022,
+      "geocodes": {
+        "main": {
+          "latitude": 38.027969,
+          "longitude": 23.763617
+        }
+      },
+      "link": "/v3/places/5339b10d11d2c6fa6a1463c7",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0392\u03b5\u0390\u03ba\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0392\u03b5\u0390\u03ba\u03bf\u03c5 (\u03c3\u03c4\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5), 117 41 \u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9",
+        "postcode": "117 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4e5b11e9c65bcd7cbe4a31cd",
+          "categories": [
+            {
+              "id": 18048,
+              "name": "Recreation Center",
+              "short_name": "Recreation Center",
+              "plural_name": "Recreation Centers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5"
+        },
+        "children": [
+          {
+            "fsq_id": "5bf994ceb3c961002b598545",
+            "categories": [
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Christmas Theater"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e5bdccd45dd705592b61210",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5564,
+      "geocodes": {
+        "main": {
+          "latitude": 37.945008,
+          "longitude": 23.752705
+        }
+      },
+      "link": "/v3/places/4e5bdccd45dd705592b61210",
+      "location": {
+        "address": "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u03a3\u03b1\u03c1\u03c9\u03bd\u03b9\u03ba\u03bf\u03cd",
+        "formatted_address": "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c5 (\u03a3\u03b1\u03c1\u03c9\u03bd\u03b9\u03ba\u03bf\u03cd), 163 45 \u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "postcode": "163 45",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Chalikaki Athletic Centre (\u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a7\u03b1\u03bb\u03b9\u03ba\u03ac\u03ba\u03b9)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bffc384148b9c7486a1faf0",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15029,
+      "geocodes": {
+        "main": {
+          "latitude": 38.099857,
+          "longitude": 23.813278
+        }
+      },
+      "link": "/v3/places/4bffc384148b9c7486a1faf0",
+      "location": {
+        "address": "\u039d\u03af\u03ba\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03bd\u03c4\u03b6\u03ac\u03ba\u03b7",
+        "country": "GR",
+        "cross_street": "\u03a3\u03ba\u03bf\u03c5\u03c6\u03ac",
+        "formatted_address": "\u039d\u03af\u03ba\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03bd\u03c4\u03b6\u03ac\u03ba\u03b7 (\u03a3\u03ba\u03bf\u03c5\u03c6\u03ac), 146 71 \u039d\u03ad\u03b1 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1",
+        "postcode": "146 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a4\u03ad\u03bd\u03bd\u03b9\u03c2 \u039d\u03ad\u03b1\u03c2 \u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ba131c8f964a520d8a037e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10596,
+      "geocodes": {
+        "main": {
+          "latitude": 38.033235,
+          "longitude": 23.824479
+        }
+      },
+      "link": "/v3/places/4ba131c8f964a520d8a037e3",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2 150",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2 150, 152 34 \u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9",
+        "postcode": "152 34",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u03a7\u03b1\u03bb\u03b1\u03bd\u03b4\u03c1\u03af\u03bf\u03c5 \u00ab\u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u03a0\u03ad\u03c1\u03ba\u03b9\u03b6\u03b1\u03c2\u00bb",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "513112ece4b0a24f7dcf2662",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8369,
+      "geocodes": {
+        "main": {
+          "latitude": 38.04234,
+          "longitude": 23.782869
+        },
+        "roof": {
+          "latitude": 38.04234,
+          "longitude": 23.782869
+        }
+      },
+      "link": "/v3/places/513112ece4b0a24f7dcf2662",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Sports Center Athens",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "507aca49e4b01b417ad94161",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5161,
+      "geocodes": {
+        "main": {
+          "latitude": 38.009057,
+          "longitude": 23.770352
+        }
+      },
+      "link": "/v3/places/507aca49e4b01b417ad94161",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4da07e6f5970b1f7360e5b1e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8349,
+      "geocodes": {
+        "main": {
+          "latitude": 37.958901,
+          "longitude": 23.630058
+        }
+      },
+      "link": "/v3/places/4da07e6f5970b1f7360e5b1e",
+      "location": {
+        "address": "\u03a5\u03c0\u03b1\u03c0\u03b1\u03bd\u03c4\u03ae\u03c2",
+        "country": "GR",
+        "cross_street": "\u03a1\u03b1\u03b9\u03b4\u03b5\u03c3\u03c4\u03bf\u03cd",
+        "formatted_address": "\u03a5\u03c0\u03b1\u03c0\u03b1\u03bd\u03c4\u03ae\u03c2 (\u03a1\u03b1\u03b9\u03b4\u03b5\u03c3\u03c4\u03bf\u03cd), 185 46 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 46",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03cc\u03ba\u03bb\u03b5\u03b9\u03bf \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e8b5565b803fd0aa0a1d4d2",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5875,
+      "geocodes": {
+        "main": {
+          "latitude": 37.983181,
+          "longitude": 23.651511
+        },
+        "roof": {
+          "latitude": 37.983181,
+          "longitude": 23.651511
+        }
+      },
+      "link": "/v3/places/4e8b5565b803fd0aa0a1d4d2",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03bf\u03c1\u03c5\u03b4\u03b1\u03bb\u03bb\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03bf\u03c1\u03c5\u03b4\u03b1\u03bb\u03bb\u03cc\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u039a\u03bf\u03c1\u03c5\u03b4\u03b1\u03bb\u03bb\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d6807f7709bb60ce82cb114",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5473,
+      "geocodes": {
+        "main": {
+          "latitude": 38.034523,
+          "longitude": 23.735428
+        }
+      },
+      "link": "/v3/places/4d6807f7709bb60ce82cb114",
+      "location": {
+        "address": "\u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03a4\u03c1\u03c5\u03c0\u03b9\u03ac 15",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03a4\u03c1\u03c5\u03c0\u03b9\u03ac 15, 143 43 \u039d\u03ad\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b7\u03b4\u03cc\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b7\u03b4\u03cc\u03bd\u03b1",
+        "postcode": "143 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0399\u03c9\u03bd\u03b9\u03ba\u03cc\u03c2 \u0396\u03b1\u03c7\u03b1\u03c1\u03af\u03b1\u03c2 \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cfa809120fe3704a3c44df8",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13643,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.005951,
+          "longitude": 23.871988
+        },
+        "main": {
+          "latitude": 38.005839,
+          "longitude": 23.872479
+        }
+      },
+      "link": "/v3/places/4cfa809120fe3704a3c44df8",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f368dc7e4b0d3ab5081db7d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4664,
+      "geocodes": {
+        "main": {
+          "latitude": 37.946268,
+          "longitude": 23.730508
+        }
+      },
+      "link": "/v3/places/4f368dc7e4b0d3ab5081db7d",
+      "location": {
+        "address": "\u0391\u03c1\u03bc\u03b1\u03c4\u03c9\u03bb\u03ce\u03bd 65",
+        "country": "GR",
+        "cross_street": "\u03a0\u03b1\u03c0\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03af\u03bf\u03c5",
+        "formatted_address": "\u0391\u03c1\u03bc\u03b1\u03c4\u03c9\u03bb\u03ce\u03bd 65 (\u03a0\u03b1\u03c0\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03af\u03bf\u03c5), 172 35 \u0394\u03ac\u03c6\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0394\u03ac\u03c6\u03bd\u03b7",
+        "postcode": "172 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03ac\u03c6\u03bd\u03b7\u03c2 \u00ab\u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u039c\u03bf\u03c5\u03c1\u03bf\u03cd\u03c4\u03c3\u03bf\u03c2\u00bb",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d203762f7a9a143b6192b9f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8089,
+      "geocodes": {
+        "main": {
+          "latitude": 38.001699,
+          "longitude": 23.808891
+        }
+      },
+      "link": "/v3/places/4d203762f7a9a143b6192b9f",
+      "location": {
+        "country": "GR",
+        "formatted_address": "155 62 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2",
+        "postcode": "155 62",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ca896a197c8a1cdc21186a5",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7022,
+      "geocodes": {
+        "main": {
+          "latitude": 38.026972,
+          "longitude": 23.780821
+        }
+      },
+      "link": "/v3/places/4ca896a197c8a1cdc21186a5",
+      "location": {
+        "address": "\u039a\u03b1\u03bb\u03b9\u03b3\u03b3\u03ac 77",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03b1\u03bb\u03b9\u03b3\u03b3\u03ac 77, \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5238aa4411d2f95d501645ef",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6538,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9465,
+          "longitude": 23.664407
+        }
+      },
+      "link": "/v3/places/5238aa4411d2f95d501645ef",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039d\u03ad\u03bf \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03bf \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "VIP Lounge",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e0248481495692a4bbba3da",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3174,
+      "geocodes": {
+        "main": {
+          "latitude": 38.004072,
+          "longitude": 23.6893
+        },
+        "roof": {
+          "latitude": 38.004072,
+          "longitude": 23.6893
+        }
+      },
+      "link": "/v3/places/4e0248481495692a4bbba3da",
+      "location": {
+        "address": "\u03a4\u03b6\u03c9\u03bd \u039a\u03ad\u03bd\u03bd\u03b5\u03bd\u03c4\u03c5",
+        "country": "GR",
+        "cross_street": "\u0393\u03b9\u03b1\u03bd\u03bd\u03b9\u03c4\u03c3\u03ce\u03bd",
+        "formatted_address": "\u03a4\u03b6\u03c9\u03bd \u039a\u03ad\u03bd\u03bd\u03b5\u03bd\u03c4\u03c5 (\u0393\u03b9\u03b1\u03bd\u03bd\u03b9\u03c4\u03c3\u03ce\u03bd), 121 31 \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "postcode": "121 31",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5 \"\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u03a0\u03b1\u03c0\u03b1\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5\"",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fb0d9d6108139586bc11b5e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16555,
+      "geocodes": {
+        "main": {
+          "latitude": 37.96735,
+          "longitude": 23.905705
+        }
+      },
+      "link": "/v3/places/4fb0d9d6108139586bc11b5e",
+      "location": {
+        "address": "\u0394\u03b9\u03b1\u03b4\u03cc\u03c7\u03bf\u03c5 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5",
+        "country": "GR",
+        "formatted_address": "\u0394\u03b9\u03b1\u03b4\u03cc\u03c7\u03bf\u03c5 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5, 190 04 \u03a3\u03c0\u03ac\u03c4\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a3\u03c0\u03ac\u03c4\u03b1",
+        "postcode": "190 04",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Spata Municipal Stadium (\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u03a3\u03c0\u03ac\u03c4\u03c9\u03bd \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "522dcbbc11d203bb0e96203a",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 28029,
+      "geocodes": {
+        "main": {
+          "latitude": 38.151578,
+          "longitude": 23.961334
+        }
+      },
+      "link": "/v3/places/522dcbbc11d203bb0e96203a",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u039c\u03b1\u03c1\u03b1\u03b8\u03ce\u03bd\u03b1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ca6f77a14c3370440fbc43b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 25809,
+      "geocodes": {
+        "main": {
+          "latitude": 38.014734,
+          "longitude": 24.010895
+        },
+        "roof": {
+          "latitude": 38.014734,
+          "longitude": 24.010895
+        }
+      },
+      "link": "/v3/places/4ca6f77a14c3370440fbc43b",
+      "location": {
+        "country": "GR",
+        "formatted_address": ""
+      },
+      "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03a1\u03b1\u03c6\u03ae\u03bd\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4adcdae1f964a520e25821e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8000,
+      "geocodes": {
+        "main": {
+          "latitude": 38.04018,
+          "longitude": 23.780371
+        },
+        "roof": {
+          "latitude": 38.04018,
+          "longitude": 23.780371
+        }
+      },
+      "link": "/v3/places/4adcdae1f964a520e25821e3",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2 37 (\u03c3\u03c4\u03bf \u039f\u0391\u039a\u0391), 151 23 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Olympic Velodrome (\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc \u03a0\u03bf\u03b4\u03b7\u03bb\u03b1\u03c4\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cb9c49c0180721ed8099661",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4933,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.943583,
+          "longitude": 23.708754
+        },
+        "main": {
+          "latitude": 37.94345,
+          "longitude": 23.708881
+        },
+        "roof": {
+          "latitude": 37.94345,
+          "longitude": 23.708881
+        }
+      },
+      "link": "/v3/places/4cb9c49c0180721ed8099661",
+      "location": {
+        "address": "\u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c3\u03c4\u03cc\u03bc\u03bf\u03c5 1",
+        "country": "GR",
+        "cross_street": "\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ae \u03a3\u03bf\u03c6\u03bf\u03cd\u03bb\u03b7",
+        "formatted_address": "\u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c3\u03c4\u03cc\u03bc\u03bf\u03c5 1 (\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ae \u03a3\u03bf\u03c6\u03bf\u03cd\u03bb\u03b7), 171 22 \u039d\u03b5\u03ac \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "locality": "\u039d\u03b5\u03ac \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 22"
+      },
+      "name": "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u039d\u03ad\u03b1\u03c2 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dd3e3ca8877a55425c5c3fe",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4686,
+      "geocodes": {
+        "main": {
+          "latitude": 37.979474,
+          "longitude": 23.770996
+        }
+      },
+      "link": "/v3/places/4dd3e3ca8877a55425c5c3fe",
+      "location": {
+        "address": "\u039f\u03c1\u03af\u03c9\u03bd\u03bf\u03c2 10",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039f\u03c1\u03af\u03c9\u03bd\u03bf\u03c2 10, \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c4\u03ac\u03b4\u03b9\u03bf \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 37.9871384,
+          "longitude": 23.7183808
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

@@ -1,0 +1,2382 @@
+{
+  "results": [
+    {
+      "fsq_id": "4db812d3cda10515411fe865",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 5675,
+      "geocodes": {
+        "main": {
+          "latitude": 38.777244,
+          "longitude": -9.095801
+        },
+        "roof": {
+          "latitude": 38.777244,
+          "longitude": -9.095801
+        }
+      },
+      "link": "/v3/places/4db812d3cda10515411fe865",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Gym",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c1ded9cb4e62d7f2d80dd93",
+      "categories": [
+        {
+          "id": 18077,
+          "name": "Gym",
+          "short_name": "Gym",
+          "plural_name": "Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12097,
+          "name": "Social Club",
+          "short_name": "Social Club",
+          "plural_name": "Social Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2346,
+      "geocodes": {
+        "main": {
+          "latitude": 38.749291,
+          "longitude": -9.169415
+        },
+        "roof": {
+          "latitude": 38.749291,
+          "longitude": -9.169415
+        }
+      },
+      "link": "/v3/places/4c1ded9cb4e62d7f2d80dd93",
+      "location": {
+        "address": "Rua Manuel da Fonseca n\u00ba 4B, 1600-308 Lisbon",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Manuel da Fonseca n\u00ba 4B, 1600-308 Lisbon, 1600-308 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-308",
+        "region": "Lisboa"
+      },
+      "name": "The Little Gym",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54fd50cd498e7716c8165939",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2128,
+      "geocodes": {
+        "main": {
+          "latitude": 38.725527,
+          "longitude": -9.15485
+        }
+      },
+      "link": "/v3/places/54fd50cd498e7716c8165939",
+      "location": {
+        "address": "Rua Rodrigo da Fonseca, 88",
+        "country": "PT",
+        "cross_street": "Av. Brancaamp",
+        "formatted_address": "Rua Rodrigo da Fonseca, 88 (Av. Brancaamp), 1099-039 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1099-039",
+        "region": "Lisboa"
+      },
+      "name": "Gym @ Four Season Ritz",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b05889ef964a52017d022e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Four Seasons Hotel Ritz Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5778cadc498ec5cc18a0cb64",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1247,
+      "geocodes": {
+        "main": {
+          "latitude": 38.734843,
+          "longitude": -9.133385
+        },
+        "roof": {
+          "latitude": 38.734843,
+          "longitude": -9.133385
+        }
+      },
+      "link": "/v3/places/5778cadc498ec5cc18a0cb64",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Gym Chez Moi",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5a0416c5f62f2b39d6cf7a6d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2037,
+      "geocodes": {
+        "main": {
+          "latitude": 38.726687,
+          "longitude": -9.15535
+        },
+        "roof": {
+          "latitude": 38.726687,
+          "longitude": -9.15535
+        }
+      },
+      "link": "/v3/places/5a0416c5f62f2b39d6cf7a6d",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Gym @ Intercontinental Lisbon",
+      "related_places": {
+        "parent": {
+          "fsq_id": "546b2c5b498e52a53daebb25",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "InterContinental Lisbon, an IHG Hotel"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5dc3c93d9af85e00087c32f5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3105,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714713,
+          "longitude": -9.140967
+        }
+      },
+      "link": "/v3/places/5dc3c93d9af85e00087c32f5",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Hotel Altis Avenida Fit Gym",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b4b6fcdf964a5209d9b26e3",
+      "categories": [
+        {
+          "id": 18027,
+          "name": "Pilates Studio",
+          "short_name": "Pilates Studio",
+          "plural_name": "Pilates Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1913,
+      "geocodes": {
+        "main": {
+          "latitude": 38.727183,
+          "longitude": -9.153499
+        },
+        "roof": {
+          "latitude": 38.727183,
+          "longitude": -9.153499
+        }
+      },
+      "link": "/v3/places/4b4b6fcdf964a5209d9b26e3",
+      "location": {
+        "address": "Parque Eduardo VII Ed Clube VII",
+        "country": "PT",
+        "cross_street": "R. Castilho",
+        "formatted_address": "Parque Eduardo VII Ed Clube VII (R. Castilho), 1070-099 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-099",
+        "region": "Lisboa"
+      },
+      "name": "Clube VII",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0588a3f964a52075d122e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque Eduardo VII"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54d07e7d498ed6beab997ad1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4005,
+      "geocodes": {
+        "main": {
+          "latitude": 38.768933,
+          "longitude": -9.111941
+        },
+        "roof": {
+          "latitude": 38.768933,
+          "longitude": -9.111941
+        }
+      },
+      "link": "/v3/places/54d07e7d498ed6beab997ad1",
+      "location": {
+        "address": "Avenida de Berlim",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida de Berlim, 1800-039 Lisboa",
+        "locality": "Olivais",
+        "postcode": "1800-039",
+        "region": "Lisboa"
+      },
+      "name": "GO fit",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "56e135ae498e7f764fdece42",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2023,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.724484,
+          "longitude": -9.146242
+        },
+        "main": {
+          "latitude": 38.724601,
+          "longitude": -9.146344
+        },
+        "roof": {
+          "latitude": 38.724601,
+          "longitude": -9.146344
+        }
+      },
+      "link": "/v3/places/56e135ae498e7f764fdece42",
+      "location": {
+        "address": "Rua Alexandre Herculano 2",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Alexandre Herculano 2, 1150-006 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1150-006",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "551bdae9498e05c746f24918",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 481,
+      "geocodes": {
+        "main": {
+          "latitude": 38.744791,
+          "longitude": -9.138807
+        },
+        "roof": {
+          "latitude": 38.744791,
+          "longitude": -9.138807
+        }
+      },
+      "link": "/v3/places/551bdae9498e05c746f24918",
+      "location": {
+        "address": "Avenida de Roma",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida de Roma, 1000-266 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-266",
+        "region": "Lisboa"
+      },
+      "name": "Complexo Desportivo Supera Areeiro",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c68d3c7897b1b8d05cead17",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4178,
+      "geocodes": {
+        "main": {
+          "latitude": 38.705933,
+          "longitude": -9.152978
+        },
+        "roof": {
+          "latitude": 38.705933,
+          "longitude": -9.152978
+        }
+      },
+      "link": "/v3/places/4c68d3c7897b1b8d05cead17",
+      "location": {
+        "address": "Rua da Cintura do Porto a Santos, armazem J",
+        "country": "PT",
+        "formatted_address": "Rua da Cintura do Porto a Santos, armazem J, 1200-109 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-109",
+        "region": "Lisboa"
+      },
+      "name": "Academia Life Club",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5603de1b498e5a4447c2eeee",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 6052,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.782149,
+          "longitude": -9.0957
+        },
+        "main": {
+          "latitude": 38.782314,
+          "longitude": -9.095761
+        },
+        "roof": {
+          "latitude": 38.782314,
+          "longitude": -9.095761
+        }
+      },
+      "link": "/v3/places/5603de1b498e5a4447c2eeee",
+      "location": {
+        "address": "Avenida da Peregrina\u00e7\u00e3o",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida da Peregrina\u00e7\u00e3o, 1990-382 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1990-382",
+        "region": "Lisboa"
+      },
+      "name": "I am Fit",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5b2931cc78782c00349010b2",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1575,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.728769,
+          "longitude": -9.147837
+        },
+        "main": {
+          "latitude": 38.728574,
+          "longitude": -9.147521
+        },
+        "roof": {
+          "latitude": 38.728574,
+          "longitude": -9.147521
+        }
+      },
+      "link": "/v3/places/5b2931cc78782c00349010b2",
+      "location": {
+        "address": "Avenida Fontes Pereira de Melo, 16",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Fontes Pereira de Melo, 16, 1050-121 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-121",
+        "region": "Lisboa"
+      },
+      "name": "Holmes Place",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5d304ef9e299c900085af0cb",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Alquimia Creative Cooking"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4baa5877f964a52068613ae3",
+      "categories": [
+        {
+          "id": 18024,
+          "name": "Cycle Studio",
+          "short_name": "Cycle Studio",
+          "plural_name": "Cycle Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2592,
+      "geocodes": {
+        "main": {
+          "latitude": 38.721432,
+          "longitude": -9.156902
+        },
+        "roof": {
+          "latitude": 38.721432,
+          "longitude": -9.156902
+        }
+      },
+      "link": "/v3/places/4baa5877f964a52068613ae3",
+      "location": {
+        "address": "Pra\u00e7a Gin\u00e1sio Clube Portugu\u00eas, 1",
+        "country": "PT",
+        "formatted_address": "Pra\u00e7a Gin\u00e1sio Clube Portugu\u00eas, 1, 1250-111 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-111",
+        "region": "Lisboa"
+      },
+      "name": "Gin\u00e1sio Clube Portugu\u00eas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e9c76465503cfce7505258a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2788,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720786,
+          "longitude": -9.159798
+        },
+        "roof": {
+          "latitude": 38.720786,
+          "longitude": -9.159798
+        }
+      },
+      "link": "/v3/places/4e9c76465503cfce7505258a",
+      "location": {
+        "address": "Rua D. Jo\u00e3o V, 24",
+        "address_extended": "piso -1",
+        "country": "PT",
+        "formatted_address": "Rua D. Jo\u00e3o V, 24, 1250-091 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-091",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0e2af2f964a5208c5523e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2689,
+      "geocodes": {
+        "main": {
+          "latitude": 38.762351,
+          "longitude": -9.161238
+        },
+        "roof": {
+          "latitude": 38.762351,
+          "longitude": -9.161238
+        }
+      },
+      "link": "/v3/places/4b0e2af2f964a5208c5523e3",
+      "location": {
+        "address": "Rua Professor Fernando Fonseca",
+        "country": "PT",
+        "cross_street": "Alvalade XXI - Pavilh\u00e3o Multidesportivo",
+        "formatted_address": "Rua Professor Fernando Fonseca (Alvalade XXI - Pavilh\u00e3o Multidesportivo), 1600-616 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-616",
+        "region": "Lisboa"
+      },
+      "name": "Holmes Place",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "57b4bc32498e26f0a83db5c9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6428,
+      "geocodes": {
+        "main": {
+          "latitude": 38.723649,
+          "longitude": -9.213827
+        },
+        "roof": {
+          "latitude": 38.723649,
+          "longitude": -9.213827
+        }
+      },
+      "link": "/v3/places/57b4bc32498e26f0a83db5c9",
+      "location": {
+        "address": "Rua Quinta do Paizinho",
+        "country": "PT",
+        "cross_street": "Portela de Carnaxide",
+        "formatted_address": "Rua Quinta do Paizinho (Portela de Carnaxide), 2790-236 Carnaxide",
+        "locality": "Carnaxide",
+        "postcode": "2790-236",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c8143f7e602b1f71525917a",
+      "categories": [
+        {
+          "id": 17101,
+          "name": "Garden Center",
+          "short_name": "Garden Center",
+          "plural_name": "Garden Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/gardencenter_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2108,
+      "geocodes": {
+        "main": {
+          "latitude": 38.755594,
+          "longitude": -9.161463
+        }
+      },
+      "link": "/v3/places/4c8143f7e602b1f71525917a",
+      "location": {
+        "address": "Avenida Prof. Gama Pinto",
+        "country": "PT",
+        "cross_street": "Az. dos Ameixiais",
+        "formatted_address": "Avenida Prof. Gama Pinto (Az. dos Ameixiais), 1600-190 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-190",
+        "region": "Lisboa"
+      },
+      "name": "Complexo de Piscinas do EUL",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b76c3a0f964a520735d2ee3",
+          "categories": [
+            {
+              "id": 12038,
+              "name": "College Stadium",
+              "short_name": "Stadium",
+              "plural_name": "College Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Est\u00e1dio Universit\u00e1rio de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f3cc134e4b0079510346c19",
+      "categories": [
+        {
+          "id": 18024,
+          "name": "Cycle Studio",
+          "short_name": "Cycle Studio",
+          "plural_name": "Cycle Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 630,
+      "geocodes": {
+        "main": {
+          "latitude": 38.736844,
+          "longitude": -9.144028
+        },
+        "roof": {
+          "latitude": 38.736844,
+          "longitude": -9.144028
+        }
+      },
+      "link": "/v3/places/4f3cc134e4b0079510346c19",
+      "location": {
+        "address": "Avenida Defensores de Chaves 45 B",
+        "country": "PT",
+        "cross_street": "Av. Ant\u00f3nio Jos\u00e9 de Almeida",
+        "formatted_address": "Avenida Defensores de Chaves 45 B (Av. Ant\u00f3nio Jos\u00e9 de Almeida), 1000-112 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-112",
+        "region": "Lisboa"
+      },
+      "name": "Holmes Place",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b3099936bd36b002c2a5464",
+            "categories": [
+              {
+                "id": 11124,
+                "name": "Office",
+                "short_name": "Office",
+                "plural_name": "Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bose GBS"
+          },
+          {
+            "fsq_id": "5aba49ab4a1cc07b067753a9",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Alquimia"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d19dcefd56e8eecee4061b6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3468,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.711532,
+          "longitude": -9.139636
+        },
+        "main": {
+          "latitude": 38.711532,
+          "longitude": -9.139763
+        },
+        "roof": {
+          "latitude": 38.711532,
+          "longitude": -9.139763
+        }
+      },
+      "link": "/v3/places/4d19dcefd56e8eecee4061b6",
+      "location": {
+        "address": "Rua do Carmo 29",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua do Carmo 29, 1200-093 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-093",
+        "region": "Lisboa"
+      },
+      "name": "Envy Health & Fitness",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "53d10339498e62a73435162d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2727,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.76374,
+          "longitude": -9.159363
+        },
+        "main": {
+          "latitude": 38.763763,
+          "longitude": -9.159382
+        }
+      },
+      "link": "/v3/places/53d10339498e62a73435162d",
+      "location": {
+        "address": "Rua Francisco Stromp N\u00ba14",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Francisco Stromp N\u00ba14, 1600-410 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-410",
+        "region": "Lisboa"
+      },
+      "name": "Pump Fitness Spirit Alvalade",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b489cb6dff8150039e0f304",
+            "categories": [
+              {
+                "id": 13000,
+                "name": "Dining and Drinking",
+                "short_name": "Dining and Drinking",
+                "plural_name": "Dining and Drinking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Euforia de Sabores - Unipessoal"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e427303ae60f5540b40551d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7988,
+      "geocodes": {
+        "main": {
+          "latitude": 38.695573,
+          "longitude": -9.212919
+        },
+        "roof": {
+          "latitude": 38.695573,
+          "longitude": -9.212919
+        }
+      },
+      "link": "/v3/places/4e427303ae60f5540b40551d",
+      "location": {
+        "address": "Rua Lu\u00eds Braille 120",
+        "address_extended": "lt. e, 1400-031 lisboa",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Lu\u00eds Braille 120, 1400-405 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1400-405",
+        "region": "Lisboa"
+      },
+      "name": "Infante Sagres - Nautilus Health Club",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "53e46a4f498eb8e9dbdc6491",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2139,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.723586,
+          "longitude": -9.139733
+        },
+        "main": {
+          "latitude": 38.723654,
+          "longitude": -9.139552
+        },
+        "roof": {
+          "latitude": 38.723654,
+          "longitude": -9.139552
+        }
+      },
+      "link": "/v3/places/53e46a4f498eb8e9dbdc6491",
+      "location": {
+        "address": "Rua Gomes Freire n\u00ba 8",
+        "country": "PT",
+        "cross_street": "Campo M\u00e1rtires da P\u00e1tria",
+        "formatted_address": "Rua Gomes Freire n\u00ba 8 (Campo M\u00e1rtires da P\u00e1tria), 1150-179 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1150-179",
+        "region": "Lisboa"
+      },
+      "name": "The Bakery CrossFit",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "610ac68453573a4935e1eed6",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Bakery Caf\u00e9"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "57926e66498e390c2d866d68",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 479,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.739215,
+          "longitude": -9.147064
+        },
+        "main": {
+          "latitude": 38.739339,
+          "longitude": -9.147083
+        },
+        "roof": {
+          "latitude": 38.739339,
+          "longitude": -9.147083
+        }
+      },
+      "link": "/v3/places/57926e66498e390c2d866d68",
+      "location": {
+        "address": "Avenida Elias Garcia 76",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Elias Garcia 76, 1050-053 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-053",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "58f522d3419a9e48f49b2b0a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1293,
+      "geocodes": {
+        "main": {
+          "latitude": 38.75269,
+          "longitude": -9.151053
+        }
+      },
+      "link": "/v3/places/58f522d3419a9e48f49b2b0a",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "GO Fit Campo Grande",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0588a2f964a52017d122e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardim do Campo Grande"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f57a574e4b0d4675f819ffa",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 8608,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.765184,
+          "longitude": -9.238672
+        },
+        "main": {
+          "latitude": 38.765441,
+          "longitude": -9.238646
+        },
+        "roof": {
+          "latitude": 38.765441,
+          "longitude": -9.238646
+        }
+      },
+      "link": "/v3/places/4f57a574e4b0d4675f819ffa",
+      "location": {
+        "address": "Rua Vitor Manuel Tavares Ferreira, 80",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Vitor Manuel Tavares Ferreira, 80, Falagueira",
+        "locality": "Falagueira"
+      },
+      "name": "Jarda Gym",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5845a81c4f218a0b9b429b57",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3861,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.708297,
+          "longitude": -9.150525
+        },
+        "main": {
+          "latitude": 38.708279,
+          "longitude": -9.15073
+        },
+        "roof": {
+          "latitude": 38.708279,
+          "longitude": -9.15073
+        }
+      },
+      "link": "/v3/places/5845a81c4f218a0b9b429b57",
+      "location": {
+        "address": "Rua do Instituto Industrial 7",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua do Instituto Industrial 7, 1200-225 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-225",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d5c20a5b9b2a1430f5f728c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4435,
+      "geocodes": {
+        "main": {
+          "latitude": 38.782443,
+          "longitude": -9.153581
+        },
+        "roof": {
+          "latitude": 38.782443,
+          "longitude": -9.153581
+        }
+      },
+      "link": "/v3/places/4d5c20a5b9b2a1430f5f728c",
+      "location": {
+        "address": "Rua Jo\u00e3o Amaral",
+        "country": "PT",
+        "formatted_address": "Rua Jo\u00e3o Amaral, 1750-423 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1750-423",
+        "region": "Lisboa"
+      },
+      "name": "Pista de Atletismo Municipal Prof. Moniz Pereira",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5560dbc5498ea88df3f6322e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11379,
+      "geocodes": {
+        "main": {
+          "latitude": 38.844104,
+          "longitude": -9.162135
+        },
+        "roof": {
+          "latitude": 38.844104,
+          "longitude": -9.162135
+        }
+      },
+      "link": "/v3/places/5560dbc5498ea88df3f6322e",
+      "location": {
+        "address": "Rua Marechal Carmona",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Marechal Carmona, 2670-012 Loures",
+        "locality": "Loures",
+        "postcode": "2670-012",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54cce218498e0db58a5a70d7",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6779,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.724184,
+          "longitude": -9.218147
+        },
+        "main": {
+          "latitude": 38.724289,
+          "longitude": -9.2182
+        },
+        "roof": {
+          "latitude": 38.724289,
+          "longitude": -9.2182
+        }
+      },
+      "link": "/v3/places/54cce218498e0db58a5a70d7",
+      "location": {
+        "address": "Rua Alto do Montijo 11, 11 A",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Alto do Montijo 11, 11 A, 2790-143 Carnaxide",
+        "locality": "Carnaxide",
+        "postcode": "2790-143",
+        "region": "Lisboa"
+      },
+      "name": "Solinca Health & Fitness Club Alfragide",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b589a10f964a5209e6028e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14685,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714168,
+          "longitude": -9.308992
+        },
+        "roof": {
+          "latitude": 38.714168,
+          "longitude": -9.308992
+        }
+      },
+      "link": "/v3/places/4b589a10f964a5209e6028e3",
+      "location": {
+        "address": "Lagoas Park",
+        "address_extended": "lt. 6",
+        "country": "PT",
+        "formatted_address": "Lagoas Park, 2740-244 Porto Salvo",
+        "locality": "Porto Salvo",
+        "postcode": "2740-244",
+        "region": "Lisboa"
+      },
+      "name": "Club L - Lagoas Health Club",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c4983b6a3ace21ed915b23b",
+          "categories": [
+            {
+              "id": 16030,
+              "name": "Other Great Outdoors",
+              "short_name": "Other Outdoors",
+              "plural_name": "Other Great Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 19020,
+              "name": "Parking",
+              "short_name": "Parking",
+              "plural_name": "Parking",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Lagoas Park"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e11bdc4091adaa956fbfdb4",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 8809,
+      "geocodes": {
+        "main": {
+          "latitude": 38.760918,
+          "longitude": -9.24255
+        }
+      },
+      "link": "/v3/places/4e11bdc4091adaa956fbfdb4",
+      "location": {
+        "address": "Pra\u00e7a Ernesto Melo Antunes",
+        "address_extended": "lj 8f",
+        "country": "PT",
+        "cross_street": "Av. Cardoso Lopes",
+        "formatted_address": "Pra\u00e7a Ernesto Melo Antunes (Av. Cardoso Lopes), 2700-003 Amadora",
+        "locality": "Amadora",
+        "postcode": "2700-003",
+        "region": "Lisboa"
+      },
+      "name": "Club L - Villa Park Health Club",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e10ff1a7d8b4d5613d74ade",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3752,
+      "geocodes": {
+        "main": {
+          "latitude": 38.747147,
+          "longitude": -9.186669
+        },
+        "roof": {
+          "latitude": 38.747147,
+          "longitude": -9.186669
+        }
+      },
+      "link": "/v3/places/4e10ff1a7d8b4d5613d74ade",
+      "location": {
+        "address": "Estrada de Benfica",
+        "address_extended": "lojas 404 e 406",
+        "country": "PT",
+        "formatted_address": "Estrada de Benfica, 1500-101 Lisboa",
+        "locality": "Benfica",
+        "postcode": "1500-101",
+        "region": "Lisboa"
+      },
+      "name": "Jazzy Life Club - S. Domingos Benfica",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d6d1ffdfbf0a093bda8fb8c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5342,
+      "geocodes": {
+        "main": {
+          "latitude": 38.774655,
+          "longitude": -9.097752
+        },
+        "roof": {
+          "latitude": 38.774655,
+          "longitude": -9.097752
+        }
+      },
+      "link": "/v3/places/4d6d1ffdfbf0a093bda8fb8c",
+      "location": {
+        "address": "Avenida D. Jo\u00e3o II",
+        "address_extended": "lt. 1.19.03/c, edificio panoramic",
+        "country": "PT",
+        "cross_street": "Av. da Boa Esperan\u00e7a",
+        "formatted_address": "Avenida D. Jo\u00e3o II (Av. da Boa Esperan\u00e7a), 1990-098 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1990-098",
+        "region": "Lisboa"
+      },
+      "name": "Holmes Place Parque das Na\u00e7\u00f5es",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b9c6553f964a520936536e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3732,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752703,
+          "longitude": -9.184713
+        }
+      },
+      "link": "/v3/places/4b9c6553f964a520936536e3",
+      "location": {
+        "address": "Avenida General Norton de Matos, Lisbon",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida General Norton de Matos, Lisbon, 1500-313 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-313",
+        "region": "Lisboa"
+      },
+      "name": "Jazzy Life Club",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e68b05362e1a02a611ed6dc",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15760,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.603773,
+          "longitude": -9.182796
+        },
+        "main": {
+          "latitude": 38.604147,
+          "longitude": -9.182765
+        },
+        "roof": {
+          "latitude": 38.604147,
+          "longitude": -9.182765
+        }
+      },
+      "link": "/v3/places/4e68b05362e1a02a611ed6dc",
+      "location": {
+        "address": "Rua das Quintinhas 15",
+        "country": "PT",
+        "formatted_address": "Rua das Quintinhas 15, Almada",
+        "locality": "Almada",
+        "region": "Set\u00fabal"
+      },
+      "name": "Aquafitness",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c29e1fbed0ac9b6006062aa",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14060,
+      "geocodes": {
+        "main": {
+          "latitude": 38.624666,
+          "longitude": -9.20287
+        },
+        "roof": {
+          "latitude": 38.624666,
+          "longitude": -9.20287
+        }
+      },
+      "link": "/v3/places/4c29e1fbed0ac9b6006062aa",
+      "location": {
+        "address": "Rua Helena F\u00e9lix 75",
+        "country": "PT",
+        "formatted_address": "Rua Helena F\u00e9lix 75, 2820-266 Almada",
+        "locality": "Almada",
+        "postcode": "2820-266",
+        "region": "Set\u00fabal"
+      },
+      "name": "Aquafitness Health Club's",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4de7fd2fe4cd157353eb5b53",
+      "categories": [
+        {
+          "id": 18024,
+          "name": "Cycle Studio",
+          "short_name": "Cycle Studio",
+          "plural_name": "Cycle Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2021,
+      "geocodes": {
+        "main": {
+          "latitude": 38.742099,
+          "longitude": -9.123121
+        },
+        "roof": {
+          "latitude": 38.742099,
+          "longitude": -9.123121
+        }
+      },
+      "link": "/v3/places/4de7fd2fe4cd157353eb5b53",
+      "location": {
+        "address": "Rua Robalo Gouveia",
+        "country": "PT",
+        "formatted_address": "Rua Robalo Gouveia, 1900-392 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1900-392",
+        "region": "Lisboa"
+      },
+      "name": "Squash Olaias",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e9e8f4b2c5b47f3f51d707e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17616,
+      "geocodes": {
+        "main": {
+          "latitude": 38.699798,
+          "longitude": -9.339387
+        },
+        "roof": {
+          "latitude": 38.699798,
+          "longitude": -9.339387
+        }
+      },
+      "link": "/v3/places/4e9e8f4b2c5b47f3f51d707e",
+      "location": {
+        "address": "Urbaniza\u00e7\u00e3o Checlos",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Urbaniza\u00e7\u00e3o Checlos, 2775-571 Cascais",
+        "locality": "Cascais",
+        "postcode": "2775-571",
+        "region": "Lisboa"
+      },
+      "name": "Mr Big Evolution",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d7621eebd735481dee510b3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1855,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.741604,
+          "longitude": -9.123294
+        },
+        "main": {
+          "latitude": 38.741608,
+          "longitude": -9.123134
+        },
+        "roof": {
+          "latitude": 38.741608,
+          "longitude": -9.123134
+        }
+      },
+      "link": "/v3/places/4d7621eebd735481dee510b3",
+      "location": {
+        "address": "Rua Robalo Gouveia",
+        "country": "PT",
+        "formatted_address": "Rua Robalo Gouveia, 1900-392 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1900-392",
+        "region": "Lisboa"
+      },
+      "name": "Equinow - Fitness & Aqua Club",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5084f80be4b0211348031330",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 939,
+      "geocodes": {
+        "main": {
+          "latitude": 38.734647,
+          "longitude": -9.139495
+        },
+        "roof": {
+          "latitude": 38.734647,
+          "longitude": -9.139495
+        }
+      },
+      "link": "/v3/places/5084f80be4b0211348031330",
+      "location": {
+        "address": "Rua Visconde de Santar\u00e9m 69",
+        "country": "PT",
+        "formatted_address": "Rua Visconde de Santar\u00e9m 69, 1000-005 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-005",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "51445f9ae4b09e1f52611206",
+      "categories": [
+        {
+          "id": 18077,
+          "name": "Gym",
+          "short_name": "Gym",
+          "plural_name": "Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6093,
+      "geocodes": {
+        "main": {
+          "latitude": 38.782142,
+          "longitude": -9.192265
+        },
+        "roof": {
+          "latitude": 38.782142,
+          "longitude": -9.192265
+        }
+      },
+      "link": "/v3/places/51445f9ae4b09e1f52611206",
+      "location": {
+        "address": "C. C. Strada Shopping & Fashion Outlet",
+        "country": "PT",
+        "cross_street": "Estrada da Pai\u00e3",
+        "formatted_address": "C. C. Strada Shopping & Fashion Outlet (Estrada da Pai\u00e3), 2675-626 Odivelas",
+        "locality": "Odivelas",
+        "postcode": "2675-626",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut Odivelas",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b648891f964a5207bbb2ae3",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Strada Shopping & Fashion Outlet"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5710bda3498e00f31f2ce828",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9736,
+      "geocodes": {
+        "main": {
+          "latitude": 38.65821,
+          "longitude": -9.173802
+        },
+        "roof": {
+          "latitude": 38.65821,
+          "longitude": -9.173802
+        }
+      },
+      "link": "/v3/places/5710bda3498e00f31f2ce828",
+      "location": {
+        "address": "Parque comercial exterior",
+        "address_extended": "lj pc2",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Parque comercial exterior, 2815-500 Almada",
+        "locality": "Almada",
+        "postcode": "2815-500",
+        "region": "Set\u00fabal"
+      },
+      "name": "Jo\u00e3o Marujo - Fitness Hut",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b520830f964a520a76227e3",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Almada F\u00f3rum"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5cd2847b8b98fd002c696895",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 399,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743323,
+          "longitude": -9.139145
+        }
+      },
+      "link": "/v3/places/5cd2847b8b98fd002c696895",
+      "location": {
+        "address": "Avenida de Roma, 15",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida de Roma, 15, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b9809c0f964a520f82735e3",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Centro Comercial Acqua Roma"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "533dd575498ed2f0bf72a656",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1374,
+      "geocodes": {
+        "main": {
+          "latitude": 38.730747,
+          "longitude": -9.148237
+        },
+        "roof": {
+          "latitude": 38.730747,
+          "longitude": -9.148237
+        }
+      },
+      "link": "/v3/places/533dd575498ed2f0bf72a656",
+      "location": {
+        "address": "Rua Tom\u00e1s Ribeiro 65",
+        "country": "PT",
+        "cross_street": "Picoas Plaza",
+        "formatted_address": "Rua Tom\u00e1s Ribeiro 65 (Picoas Plaza), 1050-010 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-010",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0a16baf964a520b02123e3",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Picoas Plaza"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "55477ba4498e4078cb680a41",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 8684,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.716769,
+          "longitude": -9.238097
+        },
+        "main": {
+          "latitude": 38.716662,
+          "longitude": -9.238068
+        },
+        "roof": {
+          "latitude": 38.716662,
+          "longitude": -9.238068
+        }
+      },
+      "link": "/v3/places/55477ba4498e4078cb680a41",
+      "location": {
+        "address": "Avenida 25 de Abril de 1974",
+        "country": "PT",
+        "cross_street": "Linda-a-Velha",
+        "formatted_address": "Avenida 25 de Abril de 1974 (Linda-a-Velha), 2795-195 Linda-a-Velha",
+        "locality": "Oeiras",
+        "postcode": "2795-195",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "614600c18797c45bb166c64b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3627,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.772733,
+          "longitude": -9.159743
+        },
+        "main": {
+          "latitude": 38.77253,
+          "longitude": -9.159776
+        },
+        "roof": {
+          "latitude": 38.77253,
+          "longitude": -9.159776
+        }
+      },
+      "link": "/v3/places/614600c18797c45bb166c64b",
+      "location": {
+        "address": "Rua Cordeiro Ferreira, 9",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Cordeiro Ferreira, 9, 1750-071 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1750-071",
+        "region": "Lisboa"
+      },
+      "name": "Fitness Hut Lumiar",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c91c1787088a143a6c1b343",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1570,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.729596,
+          "longitude": -9.150961
+        },
+        "main": {
+          "latitude": 38.729743,
+          "longitude": -9.150796
+        },
+        "roof": {
+          "latitude": 38.729743,
+          "longitude": -9.150796
+        }
+      },
+      "link": "/v3/places/4c91c1787088a143a6c1b343",
+      "location": {
+        "address": "Avenida Sidonio Pais, 16",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Sidonio Pais, 16, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Casa Vinyasa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "50c0fc96e4b0fd98fffe53a3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18262,
+      "geocodes": {
+        "main": {
+          "latitude": 38.781394,
+          "longitude": -9.348436
+        },
+        "roof": {
+          "latitude": 38.781394,
+          "longitude": -9.348436
+        }
+      },
+      "link": "/v3/places/50c0fc96e4b0fd98fffe53a3",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "100% Fit Clube",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0e29def964a5207e5523e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2660,
+      "geocodes": {
+        "main": {
+          "latitude": 38.722779,
+          "longitude": -9.160805
+        },
+        "roof": {
+          "latitude": 38.722779,
+          "longitude": -9.160805
+        }
+      },
+      "link": "/v3/places/4b0e29def964a5207e5523e3",
+      "location": {
+        "address": "Rua Silva Carvalho, 321",
+        "country": "PT",
+        "cross_street": "Edif\u00edcio Amoreiras Plaza, 321 - 2\u00baPiso",
+        "formatted_address": "Rua Silva Carvalho, 321 (Edif\u00edcio Amoreiras Plaza, 321 - 2\u00baPiso), 1250-212 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-212",
+        "region": "Lisboa"
+      },
+      "name": "Holmes Place Amoreiras",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 38.7425777,
+          "longitude": -9.1436525
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

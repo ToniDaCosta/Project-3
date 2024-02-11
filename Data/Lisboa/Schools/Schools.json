@@ -1,0 +1,2315 @@
+{
+  "results": [
+    {
+      "fsq_id": "4d07afbe54d0236a7f84ffd5",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 718,
+      "geocodes": {
+        "main": {
+          "latitude": 38.738252,
+          "longitude": -9.150053
+        },
+        "roof": {
+          "latitude": 38.738252,
+          "longitude": -9.150053
+        }
+      },
+      "link": "/v3/places/4d07afbe54d0236a7f84ffd5",
+      "location": {
+        "address": "Avenidamarqu\u00eas de tomar n 91, lisboa",
+        "country": "PT",
+        "cross_street": "Av. Visc. Valbom",
+        "formatted_address": "Avenidamarqu\u00eas de tomar n 91, lisboa (Av. Visc. Valbom), 1069-181 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1069-181",
+        "region": "Lisboa"
+      },
+      "name": "Citeforma",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c838fa8d6ebbfb7f62552a4",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1025,
+      "geocodes": {
+        "main": {
+          "latitude": 38.750881,
+          "longitude": -9.148776
+        }
+      },
+      "link": "/v3/places/4c838fa8d6ebbfb7f62552a4",
+      "location": {
+        "address": "Campo Grande 56",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Campo Grande 56, 1700-093 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1700-093",
+        "region": "Lisboa"
+      },
+      "name": "Rumos",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b56cba2f964a520691b28e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1210,
+      "geocodes": {
+        "main": {
+          "latitude": 38.735178,
+          "longitude": -9.136561
+        },
+        "roof": {
+          "latitude": 38.735178,
+          "longitude": -9.136561
+        }
+      },
+      "link": "/v3/places/4b56cba2f964a520691b28e3",
+      "location": {
+        "address": "Avenida Manuel Maia 2",
+        "country": "PT",
+        "formatted_address": "Avenida Manuel Maia 2, 1000-201 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-201",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio do Sagrado Cora\u00e7\u00e3o de Maria",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4dbc396c0437955ec02ca82d",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1988,
+      "geocodes": {
+        "main": {
+          "latitude": 38.75958,
+          "longitude": -9.151388
+        },
+        "roof": {
+          "latitude": 38.75958,
+          "longitude": -9.151388
+        }
+      },
+      "link": "/v3/places/4dbc396c0437955ec02ca82d",
+      "location": {
+        "address": "Rua das Murtas",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua das Murtas, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio de S\u00e3o Vicente de Paulo",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c4dc9d9db2c20a1b0766973",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2241,
+      "geocodes": {
+        "main": {
+          "latitude": 38.725406,
+          "longitude": -9.157467
+        },
+        "roof": {
+          "latitude": 38.725406,
+          "longitude": -9.157467
+        }
+      },
+      "link": "/v3/places/4c4dc9d9db2c20a1b0766973",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Externato do Parque - Irm\u00e3s Doroteias",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cb738ef9c7ba35d808a9706",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2506,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720333,
+          "longitude": -9.139684
+        }
+      },
+      "link": "/v3/places/4cb738ef9c7ba35d808a9706",
+      "location": {
+        "address": "Campo M\u00e1rtires P\u00e1tria 130",
+        "country": "PT",
+        "formatted_address": "Campo M\u00e1rtires P\u00e1tria 130, 1169-056 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1169-056",
+        "region": "Lisboa"
+      },
+      "name": "Faculdade de Ci\u00eancias M\u00e9dicas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b9f50f4f964a520491c37e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2520,
+      "geocodes": {
+        "main": {
+          "latitude": 38.759104,
+          "longitude": -9.164329
+        },
+        "roof": {
+          "latitude": 38.759104,
+          "longitude": -9.164329
+        }
+      },
+      "link": "/v3/places/4b9f50f4f964a520491c37e3",
+      "location": {
+        "address": "Rua Professor Francisco Lucas Pires",
+        "country": "PT",
+        "formatted_address": "Rua Professor Francisco Lucas Pires, 1600-891 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-891",
+        "region": "Lisboa"
+      },
+      "name": "Escola Alem\u00e3 de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "57dd1c17498ead919167bf8c",
+      "categories": [
+        {
+          "id": 12054,
+          "name": "Music School",
+          "short_name": "Music School",
+          "plural_name": "Music Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_music_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2783,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.744409,
+          "longitude": -9.175739
+        },
+        "main": {
+          "latitude": 38.744398,
+          "longitude": -9.175511
+        },
+        "roof": {
+          "latitude": 38.744398,
+          "longitude": -9.175511
+        }
+      },
+      "link": "/v3/places/57dd1c17498ead919167bf8c",
+      "location": {
+        "address": "Rua Duarte Galv\u00e3o, 14a",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Duarte Galv\u00e3o, 14a, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Os Violinos de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4edfcbbb93ad7f74f919b4e0",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2827,
+      "geocodes": {
+        "main": {
+          "latitude": 38.767533,
+          "longitude": -9.150373
+        },
+        "roof": {
+          "latitude": 38.767533,
+          "longitude": -9.150373
+        }
+      },
+      "link": "/v3/places/4edfcbbb93ad7f74f919b4e0",
+      "location": {
+        "address": "Avenida Maria Helena Vieira da Silva",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Maria Helena Vieira da Silva, 1750-184 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1750-184",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio de S\u00e3o Tom\u00e1s",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5224b8ee11d2d5708bb96329",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3186,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720519,
+          "longitude": -9.167154
+        },
+        "roof": {
+          "latitude": 38.720519,
+          "longitude": -9.167154
+        }
+      },
+      "link": "/v3/places/5224b8ee11d2d5708bb96329",
+      "location": {
+        "address": "Rua Tenente Ferreira Dur\u00e3o N\u00b02",
+        "address_extended": "r/c dto.",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Tenente Ferreira Dur\u00e3o N\u00b02, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Neuropa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cc2e279306e224b5602936c",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3480,
+      "geocodes": {
+        "main": {
+          "latitude": 38.769922,
+          "longitude": -9.16242
+        },
+        "roof": {
+          "latitude": 38.769922,
+          "longitude": -9.16242
+        }
+      },
+      "link": "/v3/places/4cc2e279306e224b5602936c",
+      "location": {
+        "address": "Rua Lu\u00eds F Branco",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Lu\u00eds F Branco, 1600-488 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-488",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria do Lumiar",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d87100902eb54813f2263f5",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3697,
+      "geocodes": {
+        "main": {
+          "latitude": 38.774186,
+          "longitude": -9.158525
+        },
+        "roof": {
+          "latitude": 38.774186,
+          "longitude": -9.158525
+        }
+      },
+      "link": "/v3/places/4d87100902eb54813f2263f5",
+      "location": {
+        "address": "Estrada da Torre, 28",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Estrada da Torre, 28, 1769-004 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1769-004",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio S\u00e3o Jo\u00e3o de Brito",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4cd48c957da9a35db54ce4b9",
+            "categories": [
+              {
+                "id": 12017,
+                "name": "College Auditorium",
+                "short_name": "Auditorium",
+                "plural_name": "College Auditoriums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/auditorium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Audit\u00f3rio - Col\u00e9gio S\u00e3o Joao de Brito"
+          },
+          {
+            "fsq_id": "4f997e10e4b02ab0858cf771",
+            "categories": [
+              {
+                "id": 12027,
+                "name": "College Gym",
+                "short_name": "Gym",
+                "plural_name": "College Gyms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavilh\u00e3o - Col\u00e9gio S\u00e3o Jo\u00e3o de Brito"
+          },
+          {
+            "fsq_id": "4f6a46bbe4b0a3b9b3332244",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Igreja - Col\u00e9gio S\u00e3o Jo\u00e3o de Brito"
+          },
+          {
+            "fsq_id": "54205ec8498ef421d546f074",
+            "categories": [
+              {
+                "id": 12014,
+                "name": "College Academic Building",
+                "short_name": "Academic Building",
+                "plural_name": "College Academic Buildings",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sala de Conven\u00e7\u00f5es - Col\u00e9gio S\u00e3o Jo\u00e3o de Brito"
+          },
+          {
+            "fsq_id": "523ac62f498e24c8f34c9b4b",
+            "categories": [
+              {
+                "id": 12000,
+                "name": "Community and Government",
+                "short_name": "Community and Government",
+                "plural_name": "Communities and Government",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Associa\u00e7\u00e3o de Pais dos Alunos do Col\u00e9gio S. Jo\u00e3o de Brito"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cc9ba1d7151721e14a56837",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3841,
+      "geocodes": {
+        "main": {
+          "latitude": 38.713792,
+          "longitude": -9.168133
+        },
+        "roof": {
+          "latitude": 38.713792,
+          "longitude": -9.168133
+        }
+      },
+      "link": "/v3/places/4cc9ba1d7151721e14a56837",
+      "location": {
+        "address": "Pra\u00e7a S. Jo\u00e3o Bosco, 34",
+        "country": "PT",
+        "cross_street": "Rua Saraiva de Carvalho",
+        "formatted_address": "Pra\u00e7a S. Jo\u00e3o Bosco, 34 (Rua Saraiva de Carvalho), 1399-007 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1399-007",
+        "region": "Lisboa"
+      },
+      "name": "Oficinas de S. Jos\u00e9 - Associa\u00e7\u00e3o Educativa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4eca694e0e017e2f9d497c74",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3921,
+      "geocodes": {
+        "main": {
+          "latitude": 38.760081,
+          "longitude": -9.183666
+        },
+        "roof": {
+          "latitude": 38.760081,
+          "longitude": -9.183666
+        }
+      },
+      "link": "/v3/places/4eca694e0e017e2f9d497c74",
+      "location": {
+        "address": "Largo da Luz",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Largo da Luz, 1600-498 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-498",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio Militar",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f2a8926e4b05b4a40c050f4",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 4287,
+      "geocodes": {
+        "main": {
+          "latitude": 38.770413,
+          "longitude": -9.108224
+        },
+        "roof": {
+          "latitude": 38.770413,
+          "longitude": -9.108224
+        }
+      },
+      "link": "/v3/places/4f2a8926e4b05b4a40c050f4",
+      "location": {
+        "address": "Avenida Dr. Francisco Lu\u00eds Gomes",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Dr. Francisco Lu\u00eds Gomes, 1800-178 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1800-178",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Ant\u00f3nio Dam\u00e1sio",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d244b1a2ac6f04d32ce3345",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4723,
+      "geocodes": {
+        "main": {
+          "latitude": 38.781001,
+          "longitude": -9.120468
+        }
+      },
+      "link": "/v3/places/4d244b1a2ac6f04d32ce3345",
+      "location": {
+        "address": "Rua Vice",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Vice, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "ECL -Escola de Com\u00e9rcio de LISBOA",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c98689c671db60c3721b9f6",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7208,
+      "geocodes": {
+        "main": {
+          "latitude": 38.710208,
+          "longitude": -9.216001
+        },
+        "roof": {
+          "latitude": 38.710208,
+          "longitude": -9.216001
+        }
+      },
+      "link": "/v3/places/4c98689c671db60c3721b9f6",
+      "location": {
+        "address": "Avenida das Descobertas 27",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida das Descobertas 27, 1400-091 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1400-091",
+        "region": "Lisboa"
+      },
+      "name": "Externato de S\u00e3o Jos\u00e9",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ebd71e6be7bf3d84f458656",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7626,
+      "geocodes": {
+        "main": {
+          "latitude": 38.80297,
+          "longitude": -9.185513
+        },
+        "roof": {
+          "latitude": 38.80297,
+          "longitude": -9.185513
+        }
+      },
+      "link": "/v3/places/4ebd71e6be7bf3d84f458656",
+      "location": {
+        "address": "Lg. da Escola Secund\u00e1ria, Apartado 214",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lg. da Escola Secund\u00e1ria, Apartado 214, 2620-439 Ramada",
+        "locality": "Ramada",
+        "postcode": "2620-439",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria da Ramada",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4db666ad316a3bec5269fb49",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9452,
+      "geocodes": {
+        "main": {
+          "latitude": 38.706419,
+          "longitude": -9.242523
+        },
+        "roof": {
+          "latitude": 38.706419,
+          "longitude": -9.242523
+        }
+      },
+      "link": "/v3/places/4db666ad316a3bec5269fb49",
+      "location": {
+        "address": "Rua Manuel Ferreira",
+        "country": "PT",
+        "formatted_address": "Rua Manuel Ferreira, 2795-133 Linda-a-Velha",
+        "locality": "Oeiras",
+        "postcode": "2795-133",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Am\u00e9lia Rey Cola\u00e7o",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ce405291594236aa17cfa49",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9525,
+      "geocodes": {
+        "main": {
+          "latitude": 38.754284,
+          "longitude": -9.252139
+        },
+        "roof": {
+          "latitude": 38.754284,
+          "longitude": -9.252139
+        }
+      },
+      "link": "/v3/places/4ce405291594236aa17cfa49",
+      "location": {
+        "address": "Avenida Comandante Paiva Couceiro",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Comandante Paiva Couceiro, 2745-190 Sintra",
+        "locality": "Sintra",
+        "postcode": "2745-190",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Padre Alberto Neto",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f16960ce4b03f4c04c556cc",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11399,
+      "geocodes": {
+        "main": {
+          "latitude": 38.757955,
+          "longitude": -9.273788
+        },
+        "roof": {
+          "latitude": 38.757955,
+          "longitude": -9.273788
+        }
+      },
+      "link": "/v3/places/4f16960ce4b03f4c04c556cc",
+      "location": {
+        "address": "Rua dos Jasmins",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua dos Jasmins, Tercena",
+        "locality": "Tercena"
+      },
+      "name": "Escola Eb1 Massam\u00e1",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e81ebf7469032a28cc6769b",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12853,
+      "geocodes": {
+        "main": {
+          "latitude": 38.627738,
+          "longitude": -9.126288
+        },
+        "roof": {
+          "latitude": 38.627738,
+          "longitude": -9.126288
+        }
+      },
+      "link": "/v3/places/4e81ebf7469032a28cc6769b",
+      "location": {
+        "address": "Rua Infante Dom Augusto",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Infante Dom Augusto, 2845-115 Amora",
+        "locality": "Amora",
+        "postcode": "2845-115",
+        "region": "Set\u00fabal"
+      },
+      "name": "Centro de Forma\u00e7\u00e3o Profissional do Seixal",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "51082f90e4b0449887d10838",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11965,
+      "geocodes": {
+        "main": {
+          "latitude": 38.707791,
+          "longitude": -9.274264
+        },
+        "roof": {
+          "latitude": 38.707791,
+          "longitude": -9.274264
+        }
+      },
+      "link": "/v3/places/51082f90e4b0449887d10838",
+      "location": {
+        "address": "Rua Dona Simoa Godinho",
+        "country": "PT",
+        "cross_street": "Caxias",
+        "formatted_address": "Rua Dona Simoa Godinho (Caxias), 2760-187 Caxias",
+        "locality": "Oeiras",
+        "postcode": "2760-187",
+        "region": "Lisboa"
+      },
+      "name": "Agrupamento de Escolas de S\u00e3o Bruno",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e1340d4ae602afe96ccf270",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11980,
+      "geocodes": {
+        "main": {
+          "latitude": 38.657876,
+          "longitude": -9.05893
+        },
+        "roof": {
+          "latitude": 38.657876,
+          "longitude": -9.05893
+        }
+      },
+      "link": "/v3/places/4e1340d4ae602afe96ccf270",
+      "location": {
+        "address": "Rua Maria Lamas",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Maria Lamas, 2830-088 Barreiro",
+        "locality": "Barreiro",
+        "postcode": "2830-088",
+        "region": "Set\u00fabal"
+      },
+      "name": "Escola Secund\u00e1ria Augusto Cabrita",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4df50a1052b100c2d80001eb",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12652,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.655705,
+          "longitude": -9.238108
+        },
+        "main": {
+          "latitude": 38.655897,
+          "longitude": -9.238172
+        },
+        "roof": {
+          "latitude": 38.655897,
+          "longitude": -9.238172
+        }
+      },
+      "link": "/v3/places/4df50a1052b100c2d80001eb",
+      "location": {
+        "address": "Rua Jorge Gomes Vieira",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Jorge Gomes Vieira, 2825-434 Costa da Caparica",
+        "locality": "Costa da Caparica",
+        "postcode": "2825-434",
+        "region": "Set\u00fabal"
+      },
+      "name": "Escola B\u00e1sica Jos\u00e9 Cardoso Pires",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c8b4cf59ef0224bbb0c637b",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 13190,
+      "geocodes": {
+        "main": {
+          "latitude": 38.850307,
+          "longitude": -9.079663
+        },
+        "roof": {
+          "latitude": 38.850307,
+          "longitude": -9.079663
+        }
+      },
+      "link": "/v3/places/4c8b4cf59ef0224bbb0c637b",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Santa Iria de Az\u00f3ia",
+        "locality": "Loures",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio Bartolomeu Dias",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "62693c6d33ee8342194a6f81",
+      "categories": [
+        {
+          "id": 12051,
+          "name": "Driving School",
+          "short_name": "Driving School",
+          "plural_name": "Driving Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13566,
+      "geocodes": {
+        "main": {
+          "latitude": 38.620941,
+          "longitude": -9.12882
+        },
+        "roof": {
+          "latitude": 38.620941,
+          "longitude": -9.12882
+        }
+      },
+      "link": "/v3/places/62693c6d33ee8342194a6f81",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "2845-612 Amora",
+        "locality": "Amora",
+        "postcode": "2845-612",
+        "region": "Set\u00fabal"
+      },
+      "name": "Forus Escola de Condu\u00e7\u00e3o",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "529303be11d265445047d2ef",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14002,
+      "geocodes": {
+        "main": {
+          "latitude": 38.73404,
+          "longitude": -9.304667
+        },
+        "roof": {
+          "latitude": 38.73404,
+          "longitude": -9.304667
+        }
+      },
+      "link": "/v3/places/529303be11d265445047d2ef",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Escola Aquilino Ribeiro",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d517c20e0275481ff1babb6",
+      "categories": [
+        {
+          "id": 11026,
+          "name": "Daycare",
+          "short_name": "Daycare",
+          "plural_name": "Daycares",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/daycare_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 14076,
+      "geocodes": {
+        "main": {
+          "latitude": 38.8593,
+          "longitude": -9.080123
+        },
+        "roof": {
+          "latitude": 38.8593,
+          "longitude": -9.080123
+        }
+      },
+      "link": "/v3/places/4d517c20e0275481ff1babb6",
+      "location": {
+        "address": "Avenida Professor Doutor Egas Moniz",
+        "address_extended": "lt. c, casal da serra, p\u00f3voa de santa iria",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Professor Doutor Egas Moniz, 2625-147 P\u00f3voa de Santa Iria",
+        "locality": "Vila Franca de Xira",
+        "postcode": "2625-147",
+        "region": "Lisboa"
+      },
+      "name": "Creche Chuxinhas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f303b45e4b0c1a81ba7e6be",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14291,
+      "geocodes": {
+        "main": {
+          "latitude": 38.697155,
+          "longitude": -9.298352
+        },
+        "roof": {
+          "latitude": 38.697155,
+          "longitude": -9.298352
+        }
+      },
+      "link": "/v3/places/4f303b45e4b0c1a81ba7e6be",
+      "location": {
+        "address": "Rua Carlos Vieira Ramos",
+        "country": "PT",
+        "formatted_address": "Rua Carlos Vieira Ramos, 2774-516 Pa\u00e7o de Arcos",
+        "locality": "Oeiras",
+        "postcode": "2774-516",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Lu\u00eds de Freitas Branco",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "508155a1e4b0921f5b5bfbdc",
+            "categories": [
+              {
+                "id": 12080,
+                "name": "Library",
+                "short_name": "Library",
+                "plural_name": "Libraries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Biblioteca da Escola Secund\u00e1ria Lu\u00eds de Freitas Branco"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cf3f1816c29236ab49e73a2",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14324,
+      "geocodes": {
+        "main": {
+          "latitude": 38.697499,
+          "longitude": -9.298466
+        },
+        "roof": {
+          "latitude": 38.697499,
+          "longitude": -9.298466
+        }
+      },
+      "link": "/v3/places/4cf3f1816c29236ab49e73a2",
+      "location": {
+        "address": "Rua Carlos Vieira Ramos, 10",
+        "country": "PT",
+        "formatted_address": "Rua Carlos Vieira Ramos, 10, 2770-217 Pa\u00e7o de Arcos",
+        "locality": "Oeiras",
+        "postcode": "2770-217",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio da Torre",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d3c3cf0457cb60c60dfeda4",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14751,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.610434,
+          "longitude": -9.13371
+        },
+        "main": {
+          "latitude": 38.610079,
+          "longitude": -9.133645
+        }
+      },
+      "link": "/v3/places/4d3c3cf0457cb60c60dfeda4",
+      "location": {
+        "address": "Avenida Central",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Central, 2845-193",
+        "locality": "Foros de Amora",
+        "postcode": "2845-193",
+        "region": "Set\u00fabal"
+      },
+      "name": "Escola B\u00e1sica de Foros de Amora, Seixal",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d3c5a4e14aa8cfac6c0a85e",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 14847,
+      "geocodes": {
+        "main": {
+          "latitude": 38.86381,
+          "longitude": -9.071615
+        },
+        "roof": {
+          "latitude": 38.86381,
+          "longitude": -9.071615
+        }
+      },
+      "link": "/v3/places/4d3c5a4e14aa8cfac6c0a85e",
+      "location": {
+        "address": "Rua Am\u00e9rico Costa",
+        "country": "PT",
+        "formatted_address": "Rua Am\u00e9rico Costa, 2625-160 Vila Franca de Xira",
+        "locality": "P\u00f3voa de Santa Iria",
+        "postcode": "2625-160",
+        "region": "Lisboa"
+      },
+      "name": "Escola Eb 2, 3 D. Martinho Vaz de Castelo Branco",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f45f0abe4b0288c75689c4b",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 15680,
+      "geocodes": {
+        "main": {
+          "latitude": 38.794225,
+          "longitude": -9.312014
+        },
+        "roof": {
+          "latitude": 38.794225,
+          "longitude": -9.312014
+        }
+      },
+      "link": "/v3/places/4f45f0abe4b0288c75689c4b",
+      "location": {
+        "address": "Avenida Doutor Ant\u00f3nio Nabais 71/3",
+        "country": "PT",
+        "formatted_address": "Avenida Doutor Ant\u00f3nio Nabais 71/3, 2605-121 Sintra",
+        "locality": "Sintra",
+        "postcode": "2605-121",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio Vasco da Gama",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4dd6abf9d1647fcf3e3791b1",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15781,
+      "geocodes": {
+        "main": {
+          "latitude": 38.782613,
+          "longitude": -9.318381
+        },
+        "roof": {
+          "latitude": 38.782613,
+          "longitude": -9.318381
+        }
+      },
+      "link": "/v3/places/4dd6abf9d1647fcf3e3791b1",
+      "location": {
+        "address": "Avenida Pedro Nunes",
+        "country": "PT",
+        "formatted_address": "Avenida Pedro Nunes, Sintra",
+        "locality": "Rio de Mouro",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Leal da C\u00e2mara",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4caaf1492f08236af2d68161",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16395,
+      "geocodes": {
+        "main": {
+          "latitude": 38.686044,
+          "longitude": -9.31724
+        },
+        "roof": {
+          "latitude": 38.686044,
+          "longitude": -9.31724
+        }
+      },
+      "link": "/v3/places/4caaf1492f08236af2d68161",
+      "location": {
+        "address": "Rua Liceu",
+        "country": "PT",
+        "cross_street": "R. D. Duarte",
+        "formatted_address": "Rua Liceu (R. D. Duarte), 2780-061 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "2780-061",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Sebasti\u00e3o e Silva",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f1e941ee4b07fde7ea48781",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17420,
+      "geocodes": {
+        "main": {
+          "latitude": 38.699141,
+          "longitude": -9.336012
+        },
+        "roof": {
+          "latitude": 38.699141,
+          "longitude": -9.336012
+        }
+      },
+      "link": "/v3/places/4f1e941ee4b07fde7ea48781",
+      "location": {
+        "address": "Rua da Escola Secund\u00e1ria de Carcavelos",
+        "country": "PT",
+        "formatted_address": "Rua da Escola Secund\u00e1ria de Carcavelos, 2779-510 Cascais",
+        "locality": "Cascais",
+        "postcode": "2779-510",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria de Carcavelos",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d1124a9e8aff04d90716f1a",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18219,
+      "geocodes": {
+        "main": {
+          "latitude": 38.692315,
+          "longitude": -9.343434
+        },
+        "roof": {
+          "latitude": 38.692315,
+          "longitude": -9.343434
+        }
+      },
+      "link": "/v3/places/4d1124a9e8aff04d90716f1a",
+      "location": {
+        "address": "Avenida Maristas 175",
+        "country": "PT",
+        "formatted_address": "Avenida Maristas 175, 2775-243 Parede",
+        "locality": "Carcavelos",
+        "postcode": "2775-243",
+        "region": "Lisboa"
+      },
+      "name": "Col\u00e9gio Marista de Carcavelos",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ee0ae2549010b2991c9ede3",
+            "categories": [
+              {
+                "id": 12027,
+                "name": "College Gym",
+                "short_name": "Gym",
+                "plural_name": "College Gyms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavilh\u00e3o Maristas de Carcavelos"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4deb72cd52b11677f05568bd",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19019,
+      "geocodes": {
+        "main": {
+          "latitude": 38.797062,
+          "longitude": -9.351586
+        },
+        "roof": {
+          "latitude": 38.797062,
+          "longitude": -9.351586
+        }
+      },
+      "link": "/v3/places/4deb72cd52b11677f05568bd",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Sintra",
+        "locality": "Sintra",
+        "region": "Lisboa"
+      },
+      "name": "Escola Basica Ferreira de Castro",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f291148e4b0c56e6e63a598",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 20737,
+      "geocodes": {
+        "main": {
+          "latitude": 38.768873,
+          "longitude": -9.380564
+        }
+      },
+      "link": "/v3/places/4f291148e4b0c56e6e63a598",
+      "location": {
+        "country": "PT",
+        "cross_street": "Rua Ant\u00f3nio dos Reis",
+        "formatted_address": "Rua Ant\u00f3nio dos Reis, Sintra",
+        "locality": "Sintra",
+        "region": "Lisboa"
+      },
+      "name": "Cais",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ba08fb0f964a520577237e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 21299,
+      "geocodes": {
+        "main": {
+          "latitude": 38.701904,
+          "longitude": -9.383595
+        },
+        "roof": {
+          "latitude": 38.701904,
+          "longitude": -9.383595
+        }
+      },
+      "link": "/v3/places/4ba08fb0f964a520577237e3",
+      "location": {
+        "address": "Rua Brito Camacho",
+        "country": "PT",
+        "formatted_address": "Rua Brito Camacho, 2769-501 Cascais",
+        "locality": "Cascais",
+        "postcode": "2769-501",
+        "region": "Lisboa"
+      },
+      "name": "Liceu de S\u00e3o Jo\u00e3o do Estoril",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4fb6532de4b0be3c195fb250",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22697,
+      "geocodes": {
+        "main": {
+          "latitude": 38.735003,
+          "longitude": -9.405335
+        }
+      },
+      "link": "/v3/places/4fb6532de4b0be3c195fb250",
+      "location": {
+        "address": "Rua Cidade de Luanda",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Cidade de Luanda, 2645-074 Cascais",
+        "locality": "Cascais",
+        "postcode": "2645-074",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Ibn Mucana",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b99476df964a520c46f35e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22815,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.705066,
+          "longitude": -9.40276
+        },
+        "main": {
+          "latitude": 38.705218,
+          "longitude": -9.40238
+        },
+        "roof": {
+          "latitude": 38.705218,
+          "longitude": -9.40238
+        }
+      },
+      "link": "/v3/places/4b99476df964a520c46f35e3",
+      "location": {
+        "address": "Avenida Fausto de Figueiredo",
+        "country": "PT",
+        "formatted_address": "Avenida Fausto de Figueiredo, 2765-245 Estoril",
+        "locality": "Estoril",
+        "postcode": "2765-245",
+        "region": "Lisboa"
+      },
+      "name": "Colegio Salesianos Estoril",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e6dc8c3b9932d7f63a5e332",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 23985,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714278,
+          "longitude": -9.417862
+        },
+        "roof": {
+          "latitude": 38.714278,
+          "longitude": -9.417862
+        }
+      },
+      "link": "/v3/places/4e6dc8c3b9932d7f63a5e332",
+      "location": {
+        "address": "Avenida de Sintra, 1451",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida de Sintra, 1451, 2756-502 Cascais",
+        "locality": "Cascais",
+        "postcode": "2756-502",
+        "region": "Lisboa"
+      },
+      "name": "Colegio Amor de Deus",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f950114e4b05b20f1b6d18c",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 26004,
+      "geocodes": {
+        "main": {
+          "latitude": 38.69776,
+          "longitude": -9.438038
+        }
+      },
+      "link": "/v3/places/4f950114e4b05b20f1b6d18c",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Externato Nossa Senhora do Rosario",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4deb52a8ae60e98923701514",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 28145,
+      "geocodes": {
+        "main": {
+          "latitude": 38.575114,
+          "longitude": -8.900326
+        }
+      },
+      "link": "/v3/places/4deb52a8ae60e98923701514",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Palmela",
+        "locality": "Palmela",
+        "region": "Set\u00fabal"
+      },
+      "name": "Escola Basica dos 2 e 3 Ciclos Hermenegildo Capelo",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d7fa4aeb25d6dcbe89ed142",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1559,
+      "geocodes": {
+        "main": {
+          "latitude": 38.736625,
+          "longitude": -9.127273
+        },
+        "roof": {
+          "latitude": 38.736625,
+          "longitude": -9.127273
+        }
+      },
+      "link": "/v3/places/4d7fa4aeb25d6dcbe89ed142",
+      "location": {
+        "address": "Rua Coronel Ferreira Amaral",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Coronel Ferreira Amaral, 1900-165 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1900-165",
+        "region": "Lisboa"
+      },
+      "name": "Escola Secund\u00e1ria Art\u00edstica Ant\u00f3nio Arroio",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c64044de1621b8db34d2753",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1592,
+      "geocodes": {
+        "main": {
+          "latitude": 38.739775,
+          "longitude": -9.161241
+        },
+        "roof": {
+          "latitude": 38.739775,
+          "longitude": -9.161241
+        }
+      },
+      "link": "/v3/places/4c64044de1621b8db34d2753",
+      "location": {
+        "address": "Rua Prof. Lima Basto",
+        "country": "PT",
+        "formatted_address": "Rua Prof. Lima Basto, 1070-000 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-000",
+        "region": "Lisboa"
+      },
+      "name": "Instituto Portugu\u00eas de Oncologia de Francisco Gentil",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "596e2c035c68382210459850",
+            "categories": [
+              {
+                "id": 15014,
+                "name": "Hospital",
+                "short_name": "Hospital",
+                "plural_name": "Hospitals",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ipo - Servi\u00e7o de Oncologia"
+          },
+          {
+            "fsq_id": "4d42a0397fb05481c5b96c79",
+            "categories": [
+              {
+                "id": 12063,
+                "name": "Trade School",
+                "short_name": "Trade School",
+                "plural_name": "Trade Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Escola de Enfermagem Francisco Gentil"
+          },
+          {
+            "fsq_id": "56468443498e2e7655fc65a2",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tanque"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a9f964a52015d322e3",
+      "categories": [
+        {
+          "id": 12125,
+          "name": "University",
+          "short_name": "University",
+          "plural_name": "Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1682,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752939,
+          "longitude": -9.157813
+        }
+      },
+      "link": "/v3/places/4b0588a9f964a52015d322e3",
+      "location": {
+        "address": "Alameda da Universidade",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Alameda da Universidade, 1649-004 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1649-004",
+        "region": "Lisboa"
+      },
+      "name": "Universidade de Lisboa",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d55391ccc65a14345724b5e",
+            "categories": [
+              {
+                "id": 12031,
+                "name": "College Library",
+                "short_name": "Library",
+                "plural_name": "College Libraries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17018,
+                "name": "Bookstore",
+                "short_name": "Bookstore",
+                "plural_name": "Bookstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Biblioteca da Faculdade de Direito da Universidade de Lisboa"
+          },
+          {
+            "fsq_id": "4edddfc7f790c04549c7b5e5",
+            "categories": [
+              {
+                "id": 12021,
+                "name": "College Cafeteria",
+                "short_name": "Cafeteria",
+                "plural_name": "College Cafeterias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Surbias Gourmet - Faculdade de Direito da Universidade de Lisboa"
+          },
+          {
+            "fsq_id": "4c723b6dd944224b85240c29",
+            "categories": [
+              {
+                "id": 12015,
+                "name": "College Administrative Building",
+                "short_name": "Administrative Building",
+                "plural_name": "College Administrative Buildings",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/administrativebuilding_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Universidade T\u00e9cnica de Lisboa - Reitoria"
+          },
+          {
+            "fsq_id": "4c29c468ed0ac9b6383862aa",
+            "categories": [
+              {
+                "id": 12021,
+                "name": "College Cafeteria",
+                "short_name": "Cafeteria",
+                "plural_name": "College Cafeterias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cantina 1"
+          },
+          {
+            "fsq_id": "4d07a8be37036dcb0eec22fb",
+            "categories": [
+              {
+                "id": 12014,
+                "name": "College Academic Building",
+                "short_name": "Academic Building",
+                "plural_name": "College Academic Buildings",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Instituto de Ci\u00eancias Sociais da Universidade de Lisboa"
+          },
+          {
+            "fsq_id": "4f201e10e4b053ed9aaa221a",
+            "categories": [
+              {
+                "id": 12014,
+                "name": "College Academic Building",
+                "short_name": "Academic Building",
+                "plural_name": "College Academic Buildings",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Instituto de Educa\u00e7\u00e3o da Universidade de Lisboa"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ca371ce750ca09318f91867",
+      "categories": [
+        {
+          "id": 15054,
+          "name": "Veterinarian",
+          "short_name": "Veterinarians",
+          "plural_name": "Veterinarians",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_veterinarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5361,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714727,
+          "longitude": -9.194585
+        },
+        "roof": {
+          "latitude": 38.714727,
+          "longitude": -9.194585
+        }
+      },
+      "link": "/v3/places/4ca371ce750ca09318f91867",
+      "location": {
+        "address": "Avenida Universidade T\u00e9cnico Polo Universit\u00e1rio Ajuda",
+        "country": "PT",
+        "formatted_address": "Avenida Universidade T\u00e9cnico Polo Universit\u00e1rio Ajuda, 1300-666 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1300-666",
+        "region": "Lisboa"
+      },
+      "name": "Hospital VET Escolar Faculdade Medicina Veterin\u00e1ria",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 38.7425777,
+          "longitude": -9.1436525
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

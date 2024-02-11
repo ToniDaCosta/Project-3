@@ -1,0 +1,2722 @@
+{
+  "results": [
+    {
+      "fsq_id": "54743ebb498ef79ce227ed4c",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13032,
+          "name": "Cafe, Coffee, and Tea House",
+          "short_name": "Cafe, Coffee, and Tea House",
+          "plural_name": "Cafes, Coffee, and Tea Houses",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1353,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.978776,
+          "longitude": 23.729889
+        },
+        "main": {
+          "latitude": 37.978934,
+          "longitude": 23.730015
+        },
+        "roof": {
+          "latitude": 37.978934,
+          "longitude": 23.730015
+        }
+      },
+      "link": "/v3/places/54743ebb498ef79ce227ed4c",
+      "location": {
+        "address": "\u03a0\u03c1\u03b1\u03be\u03b9\u03c4\u03ad\u03bb\u03bf\u03c5\u03c2 30",
+        "country": "GR",
+        "cross_street": "\u03a3\u03ba\u03bf\u03c5\u03bb\u03b5\u03bd\u03af\u03bf\u03c5",
+        "formatted_address": "\u03a0\u03c1\u03b1\u03be\u03b9\u03c4\u03ad\u03bb\u03bf\u03c5\u03c2 30 (\u03a3\u03ba\u03bf\u03c5\u03bb\u03b5\u03bd\u03af\u03bf\u03c5), 105 61 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The Clumsies",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54aed3fe498e6c5dd5fe325b",
+      "categories": [
+        {
+          "id": 13024,
+          "name": "Whisky Bar",
+          "short_name": "Whisky Bar",
+          "plural_name": "Whisky Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3156,
+      "geocodes": {
+        "main": {
+          "latitude": 37.976233,
+          "longitude": 23.751668
+        }
+      },
+      "link": "/v3/places/54aed3fe498e6c5dd5fe325b",
+      "location": {
+        "address": "\u03a7\u03b1\u03c4\u03b6\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u039c\u03ad\u03be\u03b7 7",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a7\u03b1\u03c4\u03b6\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u039c\u03ad\u03be\u03b7 7, 115 28 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 28",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "CV Distiller",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52c5649f498e744133cc38c0",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1653,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.984195,
+          "longitude": 23.736836
+        },
+        "main": {
+          "latitude": 37.984256,
+          "longitude": 23.736908
+        },
+        "roof": {
+          "latitude": 37.984256,
+          "longitude": 23.736908
+        }
+      },
+      "link": "/v3/places/52c5649f498e744133cc38c0",
+      "location": {
+        "address": "\u0392\u03b1\u03bb\u03c4\u03b5\u03c4\u03c3\u03af\u03bf\u03c5 21",
+        "country": "GR",
+        "cross_street": "\u039c\u03b1\u03c5\u03c1\u03bf\u03bc\u03b9\u03c7\u03ac\u03bb\u03b7",
+        "formatted_address": "\u0392\u03b1\u03bb\u03c4\u03b5\u03c4\u03c3\u03af\u03bf\u03c5 21 (\u039c\u03b1\u03c5\u03c1\u03bf\u03bc\u03b9\u03c7\u03ac\u03bb\u03b7), 106 80 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 80",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Warehouse Speciality Blends",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "53d153b0498ecb9b012987ac",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13177,
+          "name": "Greek Restaurant",
+          "short_name": "Greek",
+          "plural_name": "Greek Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1541,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.975803,
+          "longitude": 23.728627
+        },
+        "main": {
+          "latitude": 37.975963,
+          "longitude": 23.728663
+        },
+        "roof": {
+          "latitude": 37.975963,
+          "longitude": 23.728663
+        }
+      },
+      "link": "/v3/places/53d153b0498ecb9b012987ac",
+      "location": {
+        "address": "\u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 66-68",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2 66-68, 105 63 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 63",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Vintage Wine Bar & Bistro",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "57bb3480498eb5ac67b7881a",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1607,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.974323,
+          "longitude": 23.710293
+        },
+        "main": {
+          "latitude": 37.974172,
+          "longitude": 23.710398
+        },
+        "roof": {
+          "latitude": 37.974172,
+          "longitude": 23.710398
+        }
+      },
+      "link": "/v3/places/57bb3480498eb5ac67b7881a",
+      "location": {
+        "address": "\u0391\u03bb\u03ba\u03bc\u03ae\u03bd\u03b7\u03c2 7",
+        "country": "GR",
+        "cross_street": "\u0398\u03b5\u03b1\u03bd\u03bf\u03cd\u03c2",
+        "formatted_address": "\u0391\u03bb\u03ba\u03bc\u03ae\u03bd\u03b7\u03c2 7 (\u0398\u03b5\u03b1\u03bd\u03bf\u03cd\u03c2), 118 53 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "118 53",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Upupa Epops - The Bar",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52b45b33498ec4eceb367aff",
+      "categories": [
+        {
+          "id": 13010,
+          "name": "Dive Bar",
+          "short_name": "Dive Bar",
+          "plural_name": "Dive Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 506,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.982964,
+          "longitude": 23.720137
+        },
+        "main": {
+          "latitude": 37.982826,
+          "longitude": 23.720201
+        },
+        "roof": {
+          "latitude": 37.982826,
+          "longitude": 23.720201
+        }
+      },
+      "link": "/v3/places/52b45b33498ec4eceb367aff",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03bf\u03c5 31",
+        "country": "GR",
+        "cross_street": "\u0393\u03b9\u03b1\u03c4\u03c1\u03ac\u03ba\u03bf\u03c5",
+        "formatted_address": "\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03bf\u03c5 31 (\u0393\u03b9\u03b1\u03c4\u03c1\u03ac\u03ba\u03bf\u03c5), 104 36 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 36",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039c\u03c0\u03bb\u03b5 \u03a0\u03b1\u03c0\u03b1\u03b3\u03ac\u03bb\u03bf\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c7d84aab7fbef3be1203514",
+      "categories": [
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13024,
+          "name": "Whisky Bar",
+          "short_name": "Whisky Bar",
+          "plural_name": "Whisky Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2302,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.97913,
+          "longitude": 23.742689
+        },
+        "main": {
+          "latitude": 37.979262,
+          "longitude": 23.742657
+        },
+        "roof": {
+          "latitude": 37.979262,
+          "longitude": 23.742657
+        }
+      },
+      "link": "/v3/places/4c7d84aab7fbef3be1203514",
+      "location": {
+        "address": "\u0394\u03b5\u03b9\u03bd\u03bf\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2 4",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03b5\u03b9\u03bd\u03bf\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2 4, 106 75 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 75",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Jazz In Jazz",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d67ba83cba6a35d1024d0c1",
+      "categories": [
+        {
+          "id": 13018,
+          "name": "Pub",
+          "short_name": "Pub",
+          "plural_name": "Pubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8237,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.02096,
+          "longitude": 23.801852
+        },
+        "main": {
+          "latitude": 38.021022,
+          "longitude": 23.801875
+        },
+        "roof": {
+          "latitude": 38.021022,
+          "longitude": 23.801875
+        }
+      },
+      "link": "/v3/places/4d67ba83cba6a35d1024d0c1",
+      "location": {
+        "address": "\u03a7\u03b1\u03ca\u03bc\u03b1\u03bd\u03c4\u03ac 25",
+        "country": "GR",
+        "formatted_address": "\u03a7\u03b1\u03ca\u03bc\u03b1\u03bd\u03c4\u03ac 25, 152 34 \u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9",
+        "postcode": "152 34",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The Local Pub",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b8589b7f964a5201f6431e3",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1826,
+      "geocodes": {
+        "main": {
+          "latitude": 37.981609,
+          "longitude": 23.738168
+        },
+        "roof": {
+          "latitude": 37.981609,
+          "longitude": 23.738168
+        }
+      },
+      "link": "/v3/places/4b8589b7f964a5201f6431e3",
+      "location": {
+        "address": "\u03a3\u03b9\u03bd\u03ac 50",
+        "country": "GR",
+        "cross_street": "\u0391\u03bd\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+        "formatted_address": "\u03a3\u03b9\u03bd\u03ac 50 (\u0391\u03bd\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5), 106 72 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 72",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Scala Vinoteca",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "510fb7c9e4b09bd907be2b99",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7101,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.004324,
+          "longitude": 23.796563
+        },
+        "main": {
+          "latitude": 38.004176,
+          "longitude": 23.796442
+        },
+        "roof": {
+          "latitude": 38.004176,
+          "longitude": 23.796442
+        }
+      },
+      "link": "/v3/places/510fb7c9e4b09bd907be2b99",
+      "location": {
+        "address": "\u03a6\u03b1\u03bd\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7\u03c2 8",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a6\u03b1\u03bd\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7\u03c2 8, 155 61 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2",
+        "locality": "\u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2",
+        "postcode": "155 61"
+      },
+      "name": "Bootleg",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e197030b0fb8567c6766425",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5588,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.035403,
+          "longitude": 23.735875
+        },
+        "main": {
+          "latitude": 38.035295,
+          "longitude": 23.735777
+        },
+        "roof": {
+          "latitude": 38.035295,
+          "longitude": 23.735777
+        }
+      },
+      "link": "/v3/places/4e197030b0fb8567c6766425",
+      "location": {
+        "address": "\u0392\u03c1\u03c5\u03bf\u03cd\u03bb\u03c9\u03bd 20",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0392\u03c1\u03c5\u03bf\u03cd\u03bb\u03c9\u03bd 20, 143 41 \u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1",
+        "postcode": "143 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0392 \u039a\u03bf\u03c5\u03c4\u03af",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52f376ff498efa3ea8b4d2ae",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13057,
+          "name": "Gastropub",
+          "short_name": "Gastropub",
+          "plural_name": "Gastropubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8865,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.931359,
+          "longitude": 23.645964
+        },
+        "main": {
+          "latitude": 37.931472,
+          "longitude": 23.645836
+        },
+        "roof": {
+          "latitude": 37.931472,
+          "longitude": 23.645836
+        }
+      },
+      "link": "/v3/places/52f376ff498efa3ea8b4d2ae",
+      "location": {
+        "address": "\u03a0\u03ac\u03c1\u03b3\u03b1\u03c2 1",
+        "country": "GR",
+        "cross_street": "\u0391\u03ba\u03c4\u03ae \u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2",
+        "formatted_address": "\u03a0\u03ac\u03c1\u03b3\u03b1\u03c2 1 (\u0391\u03ba\u03c4\u03ae \u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2), 185 37 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 37",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Corks & Forks",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "538616a5498e3e40a58c50ec",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2483,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.965714,
+          "longitude": 23.710006
+        },
+        "main": {
+          "latitude": 37.965842,
+          "longitude": 23.709983
+        },
+        "roof": {
+          "latitude": 37.965842,
+          "longitude": 23.709983
+        }
+      },
+      "link": "/v3/places/538616a5498e3e40a58c50ec",
+      "location": {
+        "address": "\u0399\u03bf\u03bb\u03ac\u03bf\u03c5 29 & \u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae\u03c2 1",
+        "country": "GR",
+        "cross_street": "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae\u03c2 1",
+        "formatted_address": "\u0399\u03bf\u03bb\u03ac\u03bf\u03c5 29 & \u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae\u03c2 1 (\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae\u03c2 1), 118 52 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "118 52",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0395\u03c0\u03af \u03c4\u03b7\u03c2 \u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae\u03c2 cafe cocktail bar",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "577bbac8498ee0fd51828c2b",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1884,
+      "geocodes": {
+        "main": {
+          "latitude": 37.997651,
+          "longitude": 23.735419
+        }
+      },
+      "link": "/v3/places/577bbac8498ee0fd51828c2b",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1 \u0391\u03b3.\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0391\u03b3. \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1 \u0391\u03b3.\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03bf\u03c5 (\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0391\u03b3. \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5), 113 61 \u039a\u03c5\u03c8\u03ad\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03c5\u03c8\u03ad\u03bb\u03b7",
+        "postcode": "113 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0392\u03b9\u03bb\u03b1\u03c4\u03b6",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5770dec8498e436584647fc4",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5681,
+      "geocodes": {
+        "main": {
+          "latitude": 38.035664,
+          "longitude": 23.738825
+        }
+      },
+      "link": "/v3/places/5770dec8498e436584647fc4",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0394\u03b5\u03ba\u03b5\u03bb\u03b5\u03af\u03b1\u03c2 120",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0394\u03b5\u03ba\u03b5\u03bb\u03b5\u03af\u03b1\u03c2 120, 143 41 \u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1",
+        "postcode": "143 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "BARATIN Drink & Dine Home Bar",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "55809189498efcbfc3c09938",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13032,
+          "name": "Cafe, Coffee, and Tea House",
+          "short_name": "Cafe, Coffee, and Tea House",
+          "plural_name": "Cafes, Coffee, and Tea Houses",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11508,
+      "geocodes": {
+        "main": {
+          "latitude": 37.991117,
+          "longitude": 23.849702
+        }
+      },
+      "link": "/v3/places/55809189498efcbfc3c09938",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039b\u03b1\u03c5\u03c1\u03af\u03bf\u03c5 7",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039b\u03b1\u03c5\u03c1\u03af\u03bf\u03c5 7, \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Brokies MoodBar",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "570558cd498ea1545c069601",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13387,
+          "name": "Winery",
+          "short_name": "Winery",
+          "plural_name": "Wineries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7767,
+      "geocodes": {
+        "main": {
+          "latitude": 37.950282,
+          "longitude": 23.642727
+        }
+      },
+      "link": "/v3/places/570558cd498ea1545c069601",
+      "location": {
+        "address": "\u03a0\u03bf\u03bb\u03c5\u03b4\u03b5\u03cd\u03ba\u03bf\u03c5\u03c2 39",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03bf\u03bb\u03c5\u03b4\u03b5\u03cd\u03ba\u03bf\u03c5\u03c2 39, 185 45 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 45",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Paleo",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5b4b8a10acb00b003902e554",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6076,
+      "geocodes": {
+        "main": {
+          "latitude": 37.976511,
+          "longitude": 23.650327
+        }
+      },
+      "link": "/v3/places/5b4b8a10acb00b003902e554",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "\u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 57",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 (\u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 57), 181 20 \u039a\u03bf\u03c1\u03c5\u03b4\u03b1\u03bb\u03bb\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03bf\u03c1\u03c5\u03b4\u03b1\u03bb\u03bb\u03cc\u03c2",
+        "postcode": "181 20",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Malt",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b7ffbf3f964a5209c4830e3",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21109,
+      "geocodes": {
+        "main": {
+          "latitude": 37.953491,
+          "longitude": 23.736698
+        },
+        "roof": {
+          "latitude": 37.953491,
+          "longitude": 23.736698
+        }
+      },
+      "link": "/v3/places/4b7ffbf3f964a5209c4830e3",
+      "location": {
+        "address": "\u039c\u03b1\u03c1\u03af\u03bd\u03b1 \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2",
+        "country": "GR",
+        "formatted_address": "\u039c\u03b1\u03c1\u03af\u03bd\u03b1 \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2, 166 71 \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7",
+        "postcode": "166 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Moorings Cafe Bar Restaurant",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4de65308ae607cf34471f5c4",
+          "categories": [
+            {
+              "id": 16018,
+              "name": "Harbor or Marina",
+              "short_name": "Harbor / Marina",
+              "plural_name": "Harbors or Marinas",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Astir Marina"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "569dd70d498e718d4eaaf294",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2242,
+      "geocodes": {
+        "main": {
+          "latitude": 37.968316,
+          "longitude": 23.72736
+        },
+        "roof": {
+          "latitude": 37.968316,
+          "longitude": 23.72736
+        }
+      },
+      "link": "/v3/places/569dd70d498e718d4eaaf294",
+      "location": {
+        "address": "\u039a\u03b1\u03b2\u03b1\u03bb\u03bb\u03cc\u03c4\u03b9 2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03b1\u03b2\u03b1\u03bb\u03bb\u03cc\u03c4\u03b9 2, 117 42 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "117 42",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Little Tree Books & Coffee",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5374e6b9498e90c75ce9c0b4",
+      "categories": [
+        {
+          "id": 13184,
+          "name": "Meze Restaurant",
+          "short_name": "Meze Restaurants",
+          "plural_name": "Meze Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1008,
+      "geocodes": {
+        "main": {
+          "latitude": 37.979968,
+          "longitude": 23.725805
+        },
+        "roof": {
+          "latitude": 37.979968,
+          "longitude": 23.725805
+        }
+      },
+      "link": "/v3/places/5374e6b9498e90c75ce9c0b4",
+      "location": {
+        "address": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2 1",
+        "country": "GR",
+        "cross_street": "\u0395\u03c5\u03c1\u03b9\u03c0\u03af\u03b4\u03bf\u03c5 52",
+        "formatted_address": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2 1 (\u0395\u03c5\u03c1\u03b9\u03c0\u03af\u03b4\u03bf\u03c5 52), 105 52 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 52",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a4\u03b1 \u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03b9\u03b4\u03b9\u03ba\u03b1 \u03a4\u03bf\u03c5 \u03a6\u03b1\u03bd\u03b7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4adcdadff964a520255821e3",
+      "categories": [
+        {
+          "id": 16045,
+          "name": "Roof Deck",
+          "short_name": "Roof Deck",
+          "plural_name": "Roof Decks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1922,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9762,
+          "longitude": 23.735449
+        },
+        "roof": {
+          "latitude": 37.9762,
+          "longitude": 23.735449
+        }
+      },
+      "link": "/v3/places/4adcdadff964a520255821e3",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a3\u03c5\u03bd\u03c4\u03ac\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf Hotel Grande Bretagne",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a3\u03c5\u03bd\u03c4\u03ac\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 (\u03c3\u03c4\u03bf Hotel Grande Bretagne), 105 64 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 64",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "GB Roof Garden Restaurant",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcdadef964a520b75721e3",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Grand Bretagne Hotel Athens"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54df4f1f498ea6f176c0ac7d",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2348,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.967035,
+          "longitude": 23.727038
+        },
+        "main": {
+          "latitude": 37.967143,
+          "longitude": 23.727031
+        },
+        "roof": {
+          "latitude": 37.967143,
+          "longitude": 23.727031
+        }
+      },
+      "link": "/v3/places/54df4f1f498ea6f176c0ac7d",
+      "location": {
+        "address": "\u03a4\u03c3\u03ac\u03bc\u03b7 \u039a\u03b1\u03c1\u03b1\u03c4\u03ac\u03c3\u03bf\u03c5 2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a4\u03c3\u03ac\u03bc\u03b7 \u039a\u03b1\u03c1\u03b1\u03c4\u03ac\u03c3\u03bf\u03c5 2, 117 42 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "117 42",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Lotte",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c9767007605199c9799c8a3",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1730,
+      "geocodes": {
+        "main": {
+          "latitude": 37.973493,
+          "longitude": 23.727897
+        }
+      },
+      "link": "/v3/places/4c9767007605199c9799c8a3",
+      "location": {
+        "address": "\u039c\u03bd\u03b7\u03c3\u03b9\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2 23",
+        "country": "GR",
+        "formatted_address": "\u039c\u03bd\u03b7\u03c3\u03b9\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2 23, 105 56 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 56",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Yiasemi (\u0393\u03b9\u03b1\u03c3\u03b5\u03bc\u03af)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e688530b99320740ff006b2",
+      "categories": [
+        {
+          "id": 13177,
+          "name": "Greek Restaurant",
+          "short_name": "Greek",
+          "plural_name": "Greek Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 758,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.980473,
+          "longitude": 23.717227
+        },
+        "main": {
+          "latitude": 37.980504,
+          "longitude": 23.717213
+        },
+        "roof": {
+          "latitude": 37.980504,
+          "longitude": 23.717213
+        }
+      },
+      "link": "/v3/places/4e688530b99320740ff006b2",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd 10 \u03ba\u03b1\u03b9 \u0393\u03c1\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd",
+        "country": "GR",
+        "cross_street": "\u0393\u03c1\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd 10 \u03ba\u03b1\u03b9 \u0393\u03c1\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd (\u0393\u03c1\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd), 104 35 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a1\u03b1\u03ba\u03bf\u03c1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ef9b798c512f2277a858659",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3705,
+      "geocodes": {
+        "main": {
+          "latitude": 37.983553,
+          "longitude": 23.760427
+        }
+      },
+      "link": "/v3/places/4ef9b798c512f2277a858659",
+      "location": {
+        "address": "\u0386\u03b3\u03b3\u03b5\u03bb\u03bf\u03c5 \u03a0\u03c5\u03c1\u03c1\u03ae 3",
+        "country": "GR",
+        "cross_street": "\u0395\u03c5\u03ae\u03bd\u03bf\u03c5",
+        "formatted_address": "\u0386\u03b3\u03b3\u03b5\u03bb\u03bf\u03c5 \u03a0\u03c5\u03c1\u03c1\u03ae 3 (\u0395\u03c5\u03ae\u03bd\u03bf\u03c5), 115 27 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 27",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Espressaki",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4adcdadef964a520b75721e3",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1919,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9762,
+          "longitude": 23.735449
+        },
+        "roof": {
+          "latitude": 37.9762,
+          "longitude": 23.735449
+        }
+      },
+      "link": "/v3/places/4adcdadef964a520b75721e3",
+      "location": {
+        "country": "GR",
+        "cross_street": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a3\u03c5\u03bd\u03c4\u03ac\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a3\u03c5\u03bd\u03c4\u03ac\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2, 105 64",
+        "postcode": "105 64"
+      },
+      "name": "Grand Bretagne Hotel Athens",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4adcdae2f964a520365921e3",
+            "categories": [
+              {
+                "id": 11073,
+                "name": "Spa",
+                "short_name": "Spa",
+                "plural_name": "Spas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "GB Spa"
+          },
+          {
+            "fsq_id": "4adcdadff964a520295821e3",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "GB Pool Bar"
+          },
+          {
+            "fsq_id": "4d95e07c0caaa143fe7468b3",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Alexander's Cigar Lounge"
+          },
+          {
+            "fsq_id": "4adcdadff964a520265821e3",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Winter Garden"
+          },
+          {
+            "fsq_id": "4adcdadff964a520255821e3",
+            "categories": [
+              {
+                "id": 16045,
+                "name": "Roof Deck",
+                "short_name": "Roof Deck",
+                "plural_name": "Roof Decks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "GB Roof Garden Restaurant"
+          },
+          {
+            "fsq_id": "4cab04caf47ea14389a08721",
+            "categories": [
+              {
+                "id": 13177,
+                "name": "Greek Restaurant",
+                "short_name": "Greek",
+                "plural_name": "Greek Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "GB Corner"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "561cf822498ee62a4ef8f9f9",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2275,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.967774,
+          "longitude": 23.726705
+        },
+        "main": {
+          "latitude": 37.967864,
+          "longitude": 23.726719
+        },
+        "roof": {
+          "latitude": 37.967864,
+          "longitude": 23.726719
+        }
+      },
+      "link": "/v3/places/561cf822498ee62a4ef8f9f9",
+      "location": {
+        "address": "\u0396\u03ae\u03c4\u03c1\u03bf\u03c5 20",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0396\u03ae\u03c4\u03c1\u03bf\u03c5 20, 117 42 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "117 42",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Drupes & Drips",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "50dca4d6e4b0e3204791fb1c",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3658,
+      "geocodes": {
+        "main": {
+          "latitude": 37.957146,
+          "longitude": 23.701324
+        },
+        "roof": {
+          "latitude": 37.957146,
+          "longitude": 23.701324
+        }
+      },
+      "link": "/v3/places/50dca4d6e4b0e3204791fb1c",
+      "location": {
+        "address": "\u03a3\u03b1\u03c0\u03c6\u03bf\u03cd\u03c2 96",
+        "country": "GR",
+        "formatted_address": "\u03a3\u03b1\u03c0\u03c6\u03bf\u03cd\u03c2 96, 176 76 \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "postcode": "176 76",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Momo",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f6a4568e4b0b8a882593b86",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3499,
+      "geocodes": {
+        "main": {
+          "latitude": 38.011807,
+          "longitude": 23.693201
+        }
+      },
+      "link": "/v3/places/4f6a4568e4b0b8a882593b86",
+      "location": {
+        "address": "\u0391\u03b9\u03bc\u03b9\u03bb\u03af\u03bf\u03c5 \u0392\u03b5\u03ac\u03ba\u03b7 29",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b9\u03bc\u03b9\u03bb\u03af\u03bf\u03c5 \u0392\u03b5\u03ac\u03ba\u03b7 29, 121 34 \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "postcode": "121 34",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Mind The Cup",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "511a7a9de4b0e1cd52ee11df",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3306,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.965172,
+          "longitude": 23.743783
+        },
+        "main": {
+          "latitude": 37.965026,
+          "longitude": 23.743627
+        },
+        "roof": {
+          "latitude": 37.965026,
+          "longitude": 23.743627
+        }
+      },
+      "link": "/v3/places/511a7a9de4b0e1cd52ee11df",
+      "location": {
+        "address": "\u0395\u03bc\u03c0\u03b5\u03b4\u03bf\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2 28-30",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03bc\u03c0\u03b5\u03b4\u03bf\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2 28-30, 116 35 \u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b9",
+        "postcode": "116 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Superfly Cafe",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bf189db52bda5935faab1b7",
+      "categories": [
+        {
+          "id": 13184,
+          "name": "Meze Restaurant",
+          "short_name": "Meze Restaurants",
+          "plural_name": "Meze Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1617,
+      "geocodes": {
+        "main": {
+          "latitude": 37.987919,
+          "longitude": 23.736821
+        }
+      },
+      "link": "/v3/places/4bf189db52bda5935faab1b7",
+      "location": {
+        "address": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b4\u03c1\u03bf\u03bc\u03af\u03bf\u03c5 69",
+        "country": "GR",
+        "formatted_address": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b4\u03c1\u03bf\u03bc\u03af\u03bf\u03c5 69, 106 83 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 83",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bc\u03b1 \u039b\u03ac\u03c7\u03b5\u03b9 \u03c3\u03c4\u03b7\u03c2 \u039d\u03b5\u03c6\u03ad\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "542c4351498ef04caf8dcca5",
+      "categories": [
+        {
+          "id": 17080,
+          "name": "Wine Store",
+          "short_name": "Wine Store",
+          "plural_name": "Wine Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2295,
+      "geocodes": {
+        "main": {
+          "latitude": 37.976707,
+          "longitude": 23.741284
+        },
+        "roof": {
+          "latitude": 37.976707,
+          "longitude": 23.741284
+        }
+      },
+      "link": "/v3/places/542c4351498ef04caf8dcca5",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a6\u03b9\u03bb\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 15",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a6\u03b9\u03bb\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 15, 106 73 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "106 73",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Mr Vertigo",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54aeb60d498e4cfa4fa6dcd6",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13040,
+          "name": "Dessert Shop",
+          "short_name": "Desserts",
+          "plural_name": "Dessert Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1787,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.981348,
+          "longitude": 23.737388
+        },
+        "main": {
+          "latitude": 37.981461,
+          "longitude": 23.737324
+        },
+        "roof": {
+          "latitude": 37.981461,
+          "longitude": 23.737324
+        }
+      },
+      "link": "/v3/places/54aeb60d498e4cfa4fa6dcd6",
+      "location": {
+        "address": "\u03a3\u03af\u03bd\u03b1 21",
+        "country": "GR",
+        "cross_street": "\u03a3\u03ba\u03bf\u03c5\u03c6\u03ac",
+        "formatted_address": "\u03a3\u03af\u03bd\u03b1 21 (\u03a3\u03ba\u03bf\u03c5\u03c6\u03ac), 106 80 \u039a\u03bf\u03bb\u03c9\u03bd\u03ac\u03ba\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03bf\u03bb\u03c9\u03bd\u03ac\u03ba\u03b9",
+        "postcode": "106 80",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03bf\u03c1\u03c4\u03b1\u03c4\u03af\u03c6",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5335a5fd498e6694ffbf5d0e",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13309,
+          "name": "Middle Eastern Restaurant",
+          "short_name": "Middle Eastern",
+          "plural_name": "Middle Eastern Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1298,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.978159,
+          "longitude": 23.727864
+        },
+        "main": {
+          "latitude": 37.978241,
+          "longitude": 23.727821
+        },
+        "roof": {
+          "latitude": 37.978241,
+          "longitude": 23.727821
+        }
+      },
+      "link": "/v3/places/5335a5fd498e6694ffbf5d0e",
+      "location": {
+        "address": "\u039a\u03b1\u03c1\u03cc\u03c1\u03b7 23 \u03ba\u03b1\u03b9 \u0391\u03b9\u03cc\u03bb\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u0391\u03b3\u03ac\u03b8\u03c9\u03bd\u03bf\u03c2",
+        "formatted_address": "\u039a\u03b1\u03c1\u03cc\u03c1\u03b7 23 \u03ba\u03b1\u03b9 \u0391\u03b9\u03cc\u03bb\u03bf\u03c5 (\u0391\u03b3\u03ac\u03b8\u03c9\u03bd\u03bf\u03c2), 105 51 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 51",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Feyrouz",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c038ca13f03b713b6fb5141",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13040,
+          "name": "Dessert Shop",
+          "short_name": "Desserts",
+          "plural_name": "Dessert Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 854,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.985423,
+          "longitude": 23.72785
+        },
+        "main": {
+          "latitude": 37.985465,
+          "longitude": 23.727693
+        },
+        "roof": {
+          "latitude": 37.985465,
+          "longitude": 23.727693
+        }
+      },
+      "link": "/v3/places/4c038ca13f03b713b6fb5141",
+      "location": {
+        "address": "\u039c\u03b1\u03c1\u03af\u03ba\u03b1\u03c2 \u039a\u03bf\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03b7 10",
+        "country": "GR",
+        "cross_street": "\u0392\u03b5\u03c1\u03b1\u03bd\u03b6\u03ad\u03c1\u03bf\u03c5",
+        "formatted_address": "\u039c\u03b1\u03c1\u03af\u03ba\u03b1\u03c2 \u039a\u03bf\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03b7 10 (\u0392\u03b5\u03c1\u03b1\u03bd\u03b6\u03ad\u03c1\u03bf\u03c5), 104 32 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 32",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a3\u03c4\u03ac\u03bd\u03b7 \u0393\u03b1\u03bb\u03b1\u03ba\u03c4\u03bf\u03c0\u03c9\u03bb\u03b5\u03af\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5618bcdf498ebf51a4df1c9f",
+      "categories": [
+        {
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "short_name": "Sushi",
+          "plural_name": "Sushi Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1882,
+      "geocodes": {
+        "main": {
+          "latitude": 37.974472,
+          "longitude": 23.732407
+        },
+        "roof": {
+          "latitude": 37.974472,
+          "longitude": 23.732407
+        }
+      },
+      "link": "/v3/places/5618bcdf498ebf51a4df1c9f",
+      "location": {
+        "address": "\u03a3\u03ba\u03bf\u03cd\u03c6\u03bf\u03c5 6",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a3\u03ba\u03bf\u03cd\u03c6\u03bf\u03c5 6, 105 57 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 57",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Sushimou",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "570eaab8498e5a49b03627fb",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13184,
+          "name": "Meze Restaurant",
+          "short_name": "Meze Restaurants",
+          "plural_name": "Meze Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 757,
+      "geocodes": {
+        "main": {
+          "latitude": 37.98295,
+          "longitude": 23.711553
+        }
+      },
+      "link": "/v3/places/570eaab8498e5a49b03627fb",
+      "location": {
+        "address": "\u03a0\u03ad\u03bb\u03bb\u03b7\u03c2 30",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03ad\u03bb\u03bb\u03b7\u03c2 30, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039b\u03ac\u03b9\u03ba\u03b1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b0028f8f964a520063b22e3",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 12434,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.070876,
+          "longitude": 23.812399
+        },
+        "main": {
+          "latitude": 38.070985,
+          "longitude": 23.812476
+        }
+      },
+      "link": "/v3/places/4b0028f8f964a520063b22e3",
+      "location": {
+        "address": "\u0391\u03b3\u03af\u03c9\u03bd \u0398\u03b5\u03bf\u03b4\u03ce\u03c1\u03c9\u03bd 10",
+        "country": "GR",
+        "formatted_address": "\u0391\u03b3\u03af\u03c9\u03bd \u0398\u03b5\u03bf\u03b4\u03ce\u03c1\u03c9\u03bd 10, 145 62 \u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac",
+        "postcode": "145 62",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039c\u03ad\u03bd\u03c4\u03b1",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f5f7428e4b03142f5d02c40",
+      "categories": [
+        {
+          "id": 13188,
+          "name": "Souvlaki Shop",
+          "short_name": "Souvlaki",
+          "plural_name": "Souvlaki Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/souvlaki_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 671,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.981214,
+          "longitude": 23.716361
+        },
+        "main": {
+          "latitude": 37.981185,
+          "longitude": 23.716327
+        },
+        "roof": {
+          "latitude": 37.981185,
+          "longitude": 23.716327
+        }
+      },
+      "link": "/v3/places/4f5f7428e4b03142f5d02c40",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd 29",
+        "country": "GR",
+        "cross_street": "\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03bf\u03c5",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd 29 (\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03bf\u03c5), 104 35 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Elvis (\u0388\u03bb\u03b2\u03b9\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54b6daee498ef4e2757f9f82",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1202,
+      "geocodes": {
+        "main": {
+          "latitude": 37.991636,
+          "longitude": 23.730872
+        }
+      },
+      "link": "/v3/places/54b6daee498ef4e2757f9f82",
+      "location": {
+        "address": "\u0391\u03b9\u03bd\u03b9\u03b1\u03bd\u03bf\u03c2 1",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b9\u03bd\u03b9\u03b1\u03bd\u03bf\u03c2 1, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Match Point",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54be590c498efb9243b80242",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4418,
+      "geocodes": {
+        "main": {
+          "latitude": 37.968242,
+          "longitude": 23.762754
+        }
+      },
+      "link": "/v3/places/54be590c498efb9243b80242",
+      "location": {
+        "address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf\u03c5 163",
+        "country": "GR",
+        "cross_street": "\u039d\u03b9\u03ba\u03bf\u03bc\u03b7\u03b4\u03b5\u03af\u03b1\u03c2",
+        "formatted_address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf\u03c5 163 (\u039d\u03b9\u03ba\u03bf\u03bc\u03b7\u03b4\u03b5\u03af\u03b1\u03c2), 161 22 \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+        "postcode": "161 22",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Stylitis (\u03a3\u03c4\u03c5\u03bb\u03af\u03c4\u03b7\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "55156e65498eb8bdba7fd799",
+      "categories": [
+        {
+          "id": 13182,
+          "name": "Kafenio",
+          "short_name": "Kafenia",
+          "plural_name": "Kafenios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 942,
+      "geocodes": {
+        "main": {
+          "latitude": 37.980571,
+          "longitude": 23.725487
+        },
+        "roof": {
+          "latitude": 37.980571,
+          "longitude": 23.725487
+        }
+      },
+      "link": "/v3/places/55156e65498eb8bdba7fd799",
+      "location": {
+        "address": "\u0398\u03b5\u03ac\u03c4\u03c1\u03bf\u03c5 7",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0398\u03b5\u03ac\u03c4\u03c1\u03bf\u03c5 7, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a4\u03b7\u03c2 \u0398\u03b5\u03ac\u03c4\u03c1\u03bf\u03c5 \u03a4\u03bf \u03a3\u03c4\u03ad\u03ba\u03b9",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fda2c73e4b022c15e22a24e",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13048,
+          "name": "Pie Shop",
+          "short_name": "Pie Shop",
+          "plural_name": "Pie Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pieshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13184,
+          "name": "Meze Restaurant",
+          "short_name": "Meze Restaurants",
+          "plural_name": "Meze Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2918,
+      "geocodes": {
+        "main": {
+          "latitude": 37.971547,
+          "longitude": 23.745
+        },
+        "roof": {
+          "latitude": 37.971547,
+          "longitude": 23.745
+        }
+      },
+      "link": "/v3/places/4fda2c73e4b022c15e22a24e",
+      "location": {
+        "address": "\u0391\u03c1\u03c1\u03b9\u03b1\u03bd\u03bf\u03cd 31-33",
+        "country": "GR",
+        "formatted_address": "\u0391\u03c1\u03c1\u03b9\u03b1\u03bd\u03bf\u03cd 31-33, 116 35 \u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b9",
+        "postcode": "116 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Press Cafe",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "51a0b3d7498e40837d593d93",
+      "categories": [
+        {
+          "id": 13049,
+          "name": "Diner",
+          "short_name": "Diner",
+          "plural_name": "Diners",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13067,
+          "name": "African Restaurant",
+          "short_name": "African",
+          "plural_name": "African Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/african_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13144,
+          "name": "Falafel Restaurant",
+          "short_name": "Falafel",
+          "plural_name": "Falafel Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/falafel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1284,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.978333,
+          "longitude": 23.728014
+        },
+        "main": {
+          "latitude": 37.978356,
+          "longitude": 23.727915
+        },
+        "roof": {
+          "latitude": 37.978356,
+          "longitude": 23.727915
+        }
+      },
+      "link": "/v3/places/51a0b3d7498e40837d593d93",
+      "location": {
+        "address": "\u0391\u03b9\u03cc\u03bb\u03bf\u03c5 51",
+        "country": "GR",
+        "formatted_address": "\u0391\u03b9\u03cc\u03bb\u03bf\u03c5 51, 105 51 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 51",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Falafellas",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5679c79c498e5a11fca9e97e",
+      "categories": [
+        {
+          "id": 13049,
+          "name": "Diner",
+          "short_name": "Diner",
+          "plural_name": "Diners",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13310,
+          "name": "Modern European Restaurant",
+          "short_name": "Modern European",
+          "plural_name": "Modern European Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2996,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.977807,
+          "longitude": 23.750442
+        },
+        "main": {
+          "latitude": 37.977926,
+          "longitude": 23.750412
+        },
+        "roof": {
+          "latitude": 37.977926,
+          "longitude": 23.750412
+        }
+      },
+      "link": "/v3/places/5679c79c498e5a11fca9e97e",
+      "location": {
+        "address": "\u03a5\u03c8\u03b7\u03bb\u03ac\u03bd\u03c4\u03bf\u03c5 63",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a5\u03c8\u03b7\u03bb\u03ac\u03bd\u03c4\u03bf\u03c5 63, 115 21 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Simul",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "508d008f498edfd68573240a",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3571,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.991483,
+          "longitude": 23.677894
+        },
+        "main": {
+          "latitude": 37.991625,
+          "longitude": 23.677926
+        }
+      },
+      "link": "/v3/places/508d008f498edfd68573240a",
+      "location": {
+        "address": "\u039c\u03ac\u03c1\u03ba\u03bf\u03c5 \u039c\u03c0\u03cc\u03c4\u03c3\u03b1\u03c1\u03b7 1",
+        "country": "GR",
+        "formatted_address": "\u039c\u03ac\u03c1\u03ba\u03bf\u03c5 \u039c\u03c0\u03cc\u03c4\u03c3\u03b1\u03c1\u03b7 1, 122 43 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+        "postcode": "122 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Qahwa Coffee Bar",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c0a2ad4340720a168f78593",
+      "categories": [
+        {
+          "id": 16020,
+          "name": "Historic and Protected Site",
+          "short_name": "Historic and Protected Site",
+          "plural_name": "Historic and Protected Sites",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1320,
+      "geocodes": {
+        "main": {
+          "latitude": 37.97553,
+          "longitude": 23.721606
+        }
+      },
+      "link": "/v3/places/4c0a2ad4340720a168f78593",
+      "location": {
+        "address": "\u0391\u03b4\u03c1\u03b9\u03b1\u03bd\u03bf\u03cd 24",
+        "country": "GR",
+        "formatted_address": "\u0391\u03b4\u03c1\u03b9\u03b1\u03bd\u03bf\u03cd 24, 105 55 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 55",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Temple of Hephaistos (\u039d\u03b1\u03cc\u03c2 \u0397\u03c6\u03b1\u03af\u03c3\u03c4\u03bf\u03c5)",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcdadff964a5205f5821e3",
+          "categories": [
+            {
+              "id": 16020,
+              "name": "Historic and Protected Site",
+              "short_name": "Historic and Protected Site",
+              "plural_name": "Historic and Protected Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0391\u03c1\u03c7\u03b1\u03af\u03b1 \u0391\u03b3\u03bf\u03c1\u03ac \u0391\u03b8\u03b7\u03bd\u03ce\u03bd"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c91202a7088a143fe59ae43",
+      "categories": [
+        {
+          "id": 13177,
+          "name": "Greek Restaurant",
+          "short_name": "Greek",
+          "plural_name": "Greek Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4088,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.013674,
+          "longitude": 23.750769
+        },
+        "main": {
+          "latitude": 38.013535,
+          "longitude": 23.75072
+        },
+        "roof": {
+          "latitude": 38.013535,
+          "longitude": 23.75072
+        }
+      },
+      "link": "/v3/places/4c91202a7088a143fe59ae43",
+      "location": {
+        "address": "\u03a0\u03c5\u03b8\u03b1\u03b3\u03cc\u03c1\u03b1 1 & \u039b. \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5 100",
+        "country": "GR",
+        "cross_street": "\u03a0\u03c5\u03b8\u03b1\u03b3\u03cc\u03c1\u03b1 1",
+        "formatted_address": "\u03a0\u03c5\u03b8\u03b1\u03b3\u03cc\u03c1\u03b1 1 & \u039b. \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5 100 (\u03a0\u03c5\u03b8\u03b1\u03b3\u03cc\u03c1\u03b1 1), 111 46 \u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9",
+        "postcode": "111 46",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Lefkes (\u039b\u03b5\u03cd\u03ba\u03b5\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "51f25134498ea592618fa2d9",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1736,
+      "geocodes": {
+        "main": {
+          "latitude": 37.976926,
+          "longitude": 23.733331
+        }
+      },
+      "link": "/v3/places/51f25134498ea592618fa2d9",
+      "location": {
+        "address": "\u0392\u03bf\u03c5\u03bb\u03ae\u03c2 7",
+        "country": "GR",
+        "cross_street": "\u03a3\u03c4\u03bf\u03ac \u039c\u03c0\u03bf\u03bb\u03ac\u03bd\u03b7",
+        "formatted_address": "\u0392\u03bf\u03c5\u03bb\u03ae\u03c2 7 (\u03a3\u03c4\u03bf\u03ac \u039c\u03c0\u03bf\u03bb\u03ac\u03bd\u03b7), 105 62 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 62",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Kaya",
+      "related_places": {
+        "parent": {
+          "fsq_id": "58566c059dc8d0682948d697",
+          "categories": [
+            {
+              "id": 17115,
+              "name": "Shopping Plaza",
+              "short_name": "Shopping Plaza",
+              "plural_name": "Shopping Plazas",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u03a3\u03c4\u03bf\u03ac \u039c\u03c0\u03bf\u03bb\u03ac\u03bd\u03b7"
+        }
+      },
+      "timezone": "Europe/Athens"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 37.9871384,
+          "longitude": 23.7183808
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

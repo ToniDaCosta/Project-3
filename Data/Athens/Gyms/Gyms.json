@@ -1,0 +1,2101 @@
+{
+  "results": [
+    {
+      "fsq_id": "5a8b426861e53b1f76c60c15",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 350,
+      "geocodes": {
+        "main": {
+          "latitude": 37.984987,
+          "longitude": 23.721305
+        }
+      },
+      "link": "/v3/places/5a8b426861e53b1f76c60c15",
+      "location": {
+        "country": "GR",
+        "cross_street": "Megalou Alexandro",
+        "formatted_address": "Megalou Alexandro, 104 37 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 37",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Gym",
+      "related_places": {
+        "parent": {
+          "fsq_id": "58354d729900e6088ca094ee",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Wyndham Grand Athens"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f948295e4b032461a3be38c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2042,
+      "geocodes": {
+        "main": {
+          "latitude": 37.989306,
+          "longitude": 23.741411
+        },
+        "roof": {
+          "latitude": 37.989306,
+          "longitude": 23.741411
+        }
+      },
+      "link": "/v3/places/4f948295e4b032461a3be38c",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d2c9001342d6dcb109d20cb",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 420,
+      "geocodes": {
+        "main": {
+          "latitude": 37.988725,
+          "longitude": 23.722794
+        }
+      },
+      "link": "/v3/places/4d2c9001342d6dcb109d20cb",
+      "location": {
+        "address": "\u03a8\u03b1\u03c1\u03ce\u03bd 38-40",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a8\u03b1\u03c1\u03ce\u03bd 38-40, 104 38 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "104 38",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "BodyShape gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e0d9a6a62e1d5a30cf879d1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1164,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.978469,
+          "longitude": 23.711037
+        },
+        "main": {
+          "latitude": 37.978294,
+          "longitude": 23.710977
+        },
+        "roof": {
+          "latitude": 37.978294,
+          "longitude": 23.710977
+        }
+      },
+      "link": "/v3/places/4e0d9a6a62e1d5a30cf879d1",
+      "location": {
+        "address": "\u03a0\u03b5\u03c1\u03c3\u03b5\u03c6\u03cc\u03bd\u03b7\u03c2 49",
+        "country": "GR",
+        "formatted_address": "\u03a0\u03b5\u03c1\u03c3\u03b5\u03c6\u03cc\u03bd\u03b7\u03c2 49, 118 54 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "118 54",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Gym Spot",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54cb996a498ed9d4e7173cd6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2089,
+      "geocodes": {
+        "main": {
+          "latitude": 37.978891,
+          "longitude": 23.739733
+        },
+        "roof": {
+          "latitude": 37.978891,
+          "longitude": 23.739733
+        }
+      },
+      "link": "/v3/places/54cb996a498ed9d4e7173cd6",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Athlesis Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52da8ea8498eca668999a075",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4234,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.979026,
+          "longitude": 23.765563
+        },
+        "main": {
+          "latitude": 37.978817,
+          "longitude": 23.765505
+        },
+        "roof": {
+          "latitude": 37.978817,
+          "longitude": 23.765505
+        }
+      },
+      "link": "/v3/places/52da8ea8498eca668999a075",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c4\u03c1\u03b1\u03c4\u03ac\u03c1\u03c7\u03b7 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c5 30 \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c4\u03c1\u03b1\u03c4\u03ac\u03c1\u03c7\u03b7 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c5 30 \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2, 157 71 \u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2",
+        "postcode": "157 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Hyper Progressive GYM",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dce3135b0fb25f6e33dd389",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2012,
+      "geocodes": {
+        "main": {
+          "latitude": 37.997385,
+          "longitude": 23.737107
+        },
+        "roof": {
+          "latitude": 37.997385,
+          "longitude": 23.737107
+        }
+      },
+      "link": "/v3/places/4dce3135b0fb25f6e33dd389",
+      "location": {
+        "address": "\u039a\u03c5\u03c8\u03ad\u03bb\u03b7\u03c2 32",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03c5\u03c8\u03ad\u03bb\u03b7\u03c2 32, 113 62 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "113 62",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Golden Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d049580c2e537046d96b967",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4511,
+      "geocodes": {
+        "main": {
+          "latitude": 38.016128,
+          "longitude": 23.754384
+        },
+        "roof": {
+          "latitude": 38.016128,
+          "longitude": 23.754384
+        }
+      },
+      "link": "/v3/places/4d049580c2e537046d96b967",
+      "location": {
+        "address": "\u0392\u03b5\u0390\u03ba\u03bf\u03c5 35",
+        "country": "GR",
+        "formatted_address": "\u0392\u03b5\u0390\u03ba\u03bf\u03c5 35, 111 46 \u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9",
+        "postcode": "111 46",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Golden Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "50bcd1b3e4b07b04b541ffb8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4017,
+      "geocodes": {
+        "main": {
+          "latitude": 38.011969,
+          "longitude": 23.751513
+        },
+        "roof": {
+          "latitude": 38.011969,
+          "longitude": 23.751513
+        }
+      },
+      "link": "/v3/places/50bcd1b3e4b07b04b541ffb8",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "111 47 \u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9",
+        "postcode": "111 47",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Avelkiou Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d3f02e28edf370460b9c9a5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3691,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.98824,
+          "longitude": 23.760592
+        },
+        "main": {
+          "latitude": 37.988397,
+          "longitude": 23.760628
+        },
+        "roof": {
+          "latitude": 37.988397,
+          "longitude": 23.760628
+        }
+      },
+      "link": "/v3/places/4d3f02e28edf370460b9c9a5",
+      "location": {
+        "address": "\u0388\u03c3\u03bb\u03b9\u03bd 21 & \u039a\u03b1\u03c1\u03b1\u03b2\u03b1\u03b3\u03b3\u03ad\u03bb\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03cd 7",
+        "country": "GR",
+        "cross_street": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03cd \u039a\u03b1\u03c1\u03b1\u03b2\u03b1\u03b3\u03b3\u03ad\u03bb\u03b7 7",
+        "formatted_address": "\u0388\u03c3\u03bb\u03b9\u03bd 21 & \u039a\u03b1\u03c1\u03b1\u03b2\u03b1\u03b3\u03b3\u03ad\u03bb\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03cd 7 (\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03cd \u039a\u03b1\u03c1\u03b1\u03b2\u03b1\u03b3\u03b3\u03ad\u03bb\u03b7 7), 115 23 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Guinness Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d80db288edaa143af40f739",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3745,
+      "geocodes": {
+        "main": {
+          "latitude": 37.968445,
+          "longitude": 23.753924
+        }
+      },
+      "link": "/v3/places/4d80db288edaa143af40f739",
+      "location": {
+        "address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 12 \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+        "country": "GR",
+        "cross_street": "\u0394\u03b1\u03bc\u03ac\u03c1\u03b5\u03c9\u03c2",
+        "formatted_address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 12 \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae (\u0394\u03b1\u03bc\u03ac\u03c1\u03b5\u03c9\u03c2), \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "FitnessPlus Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d94734a3048b1f758c03064",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3386,
+      "geocodes": {
+        "main": {
+          "latitude": 37.962964,
+          "longitude": 23.741665
+        },
+        "roof": {
+          "latitude": 37.962964,
+          "longitude": 23.741665
+        }
+      },
+      "link": "/v3/places/4d94734a3048b1f758c03064",
+      "location": {
+        "address": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03bf\u03cd 190",
+        "country": "GR",
+        "formatted_address": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03bf\u03cd 190, 116 31 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "116 31",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Pagratio Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d3de30314aa8cfa1bceb75e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4569,
+      "geocodes": {
+        "main": {
+          "latitude": 37.946187,
+          "longitude": 23.71699
+        },
+        "roof": {
+          "latitude": 37.946187,
+          "longitude": 23.71699
+        }
+      },
+      "link": "/v3/places/4d3de30314aa8cfa1bceb75e",
+      "location": {
+        "address": "\u0391\u03b3\u03af\u03b1\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2 13",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b3\u03af\u03b1\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2 13, 171 23 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Corpus Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5627c257498e9ab9106b02c2",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2554,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.989754,
+          "longitude": 23.747449
+        },
+        "main": {
+          "latitude": 37.989864,
+          "longitude": 23.747468
+        },
+        "roof": {
+          "latitude": 37.989864,
+          "longitude": 23.747468
+        }
+      },
+      "link": "/v3/places/5627c257498e9ab9106b02c2",
+      "location": {
+        "address": "\u03a0\u03b1\u03c1\u03ac\u03c3\u03c7\u03bf\u03c5 80",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b1\u03c1\u03ac\u03c3\u03c7\u03bf\u03c5 80"
+      },
+      "name": "Gyzi Base Gym George Papadimakis",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4df8627dd164d347cc726d2d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3574,
+      "geocodes": {
+        "main": {
+          "latitude": 37.955239,
+          "longitude": 23.711949
+        },
+        "roof": {
+          "latitude": 37.955239,
+          "longitude": 23.711949
+        }
+      },
+      "link": "/v3/places/4df8627dd164d347cc726d2d",
+      "location": {
+        "address": "\u039b\u03b1\u03b3\u03bf\u03c5\u03bc\u03b9\u03c4\u03b6\u03ae 6",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b1\u03b3\u03bf\u03c5\u03bc\u03b9\u03c4\u03b6\u03ae 6, \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Pitbull Gym",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ef0ba872c5b9617dabb986d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3900,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.954956,
+          "longitude": 23.736243
+        },
+        "main": {
+          "latitude": 37.955039,
+          "longitude": 23.736432
+        },
+        "roof": {
+          "latitude": 37.955039,
+          "longitude": 23.736432
+        }
+      },
+      "link": "/v3/places/4ef0ba872c5b9617dabb986d",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2 171",
+        "country": "GR",
+        "cross_street": "4\u03bf\u03c2 \u03cc\u03c1\u03bf\u03c6\u03bf\u03c2",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2 171 (4\u03bf\u03c2 \u03cc\u03c1\u03bf\u03c6\u03bf\u03c2), 172 37 \u0394\u03ac\u03c6\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0394\u03ac\u03c6\u03bd\u03b7",
+        "postcode": "172 37",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "'Gym Fanatic' Fitness Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "582f332104aa4f5e814cd12c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2461,
+      "geocodes": {
+        "main": {
+          "latitude": 37.966386,
+          "longitude": 23.728397
+        },
+        "roof": {
+          "latitude": 37.966386,
+          "longitude": 23.728397
+        }
+      },
+      "link": "/v3/places/582f332104aa4f5e814cd12c",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Adidas Runbase",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b7573e1f964a520550d2ee3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1814,
+      "geocodes": {
+        "main": {
+          "latitude": 37.976885,
+          "longitude": 23.734476
+        },
+        "roof": {
+          "latitude": 37.976885,
+          "longitude": 23.734476
+        }
+      },
+      "link": "/v3/places/4b7573e1f964a520550d2ee3",
+      "location": {
+        "address": "\u0392\u03bf\u03c5\u03ba\u03bf\u03c5\u03c1\u03b5\u03c3\u03c4\u03af\u03bf\u03c5 4",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf City Link",
+        "formatted_address": "\u0392\u03bf\u03c5\u03ba\u03bf\u03c5\u03c1\u03b5\u03c3\u03c4\u03af\u03bf\u03c5 4 (\u03c3\u03c4\u03bf City Link), 105 64 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "105 64",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Holmes Place",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f4e04f3e4b088c4aed9b518",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4960,
+      "geocodes": {
+        "main": {
+          "latitude": 37.956254,
+          "longitude": 23.677409
+        }
+      },
+      "link": "/v3/places/4f4e04f3e4b088c4aed9b518",
+      "location": {
+        "address": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2 17 \u039c\u03bf\u03c3\u03c7\u03b1\u03c4\u03bf",
+        "country": "GR",
+        "cross_street": "\u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2",
+        "formatted_address": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2 17 \u039c\u03bf\u03c3\u03c7\u03b1\u03c4\u03bf (\u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2), 183 46 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "183 46",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Reebok CrossFit Primal",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "536b915c498ebe8f9c9651b9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2989,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.964798,
+          "longitude": 23.699424
+        },
+        "main": {
+          "latitude": 37.964853,
+          "longitude": 23.699241
+        },
+        "roof": {
+          "latitude": 37.964853,
+          "longitude": 23.699241
+        }
+      },
+      "link": "/v3/places/536b915c498ebe8f9c9651b9",
+      "location": {
+        "address": "\u039a\u03bf\u03c1\u03c5\u03b6\u03ae 28",
+        "country": "GR",
+        "formatted_address": "\u039a\u03bf\u03c1\u03c5\u03b6\u03ae 28, 177 78 \u03a4\u03b1\u03cd\u03c1\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c2",
+        "postcode": "177 78",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The Concept \u03a4\u03b1\u03c5\u03c1\u03bf\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "509bc99be4b09d90f56e18eb",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2688,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.988738,
+          "longitude": 23.749019
+        },
+        "main": {
+          "latitude": 37.988509,
+          "longitude": 23.748977
+        },
+        "roof": {
+          "latitude": 37.988509,
+          "longitude": 23.748977
+        }
+      },
+      "link": "/v3/places/509bc99be4b09d90f56e18eb",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 122",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 122, 114 71 \u0391\u03b8\u03ae\u03bd\u03b1 7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "114 71",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Personal Studio by George Papadimakis",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d38846e0f81b60c88b2403a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2454,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.976236,
+          "longitude": 23.742789
+        },
+        "main": {
+          "latitude": 37.976185,
+          "longitude": 23.742662
+        },
+        "roof": {
+          "latitude": 37.976185,
+          "longitude": 23.742662
+        }
+      },
+      "link": "/v3/places/4d38846e0f81b60c88b2403a",
+      "location": {
+        "address": "\u0397\u03c1\u03bf\u03b4\u03cc\u03c4\u03bf\u03c5 5",
+        "country": "GR",
+        "formatted_address": "\u0397\u03c1\u03bf\u03b4\u03cc\u03c4\u03bf\u03c5 5, 101 66 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "101 66",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The Fitting Room",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5130c1cfe4b01507de9f9a05",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2469,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.007832,
+          "longitude": 23.708454
+        },
+        "main": {
+          "latitude": 38.007911,
+          "longitude": 23.708343
+        }
+      },
+      "link": "/v3/places/5130c1cfe4b01507de9f9a05",
+      "location": {
+        "address": "\u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c5 \u039b\u03b1\u03b4\u03ac 21",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c5 \u039b\u03b1\u03b4\u03ac 21, \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Royal CrossFit",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "51c9b338498eb586edd11866",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1409,
+      "geocodes": {
+        "main": {
+          "latitude": 37.977417,
+          "longitude": 23.707973
+        }
+      },
+      "link": "/v3/places/51c9b338498eb586edd11866",
+      "location": {
+        "address": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03c5\u03c0\u03bf\u03bb\u03b5\u03c9\u03c2 31",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03c5\u03c0\u03bf\u03bb\u03b5\u03c9\u03c2 31, \u0393\u03ba\u03ac\u03b6\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03ba\u03ac\u03b6\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Zarou Zone",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5539072c498e430c856224e2",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6172,
+      "geocodes": {
+        "main": {
+          "latitude": 38.038522,
+          "longitude": 23.745163
+        }
+      },
+      "link": "/v3/places/5539072c498e430c856224e2",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Exclusive Fitness Box Philadelphia",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5a1c19e60802d406e4b3c568",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7017,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.015057,
+          "longitude": 23.790245
+        },
+        "main": {
+          "latitude": 38.014801,
+          "longitude": 23.790437
+        },
+        "roof": {
+          "latitude": 38.014801,
+          "longitude": 23.790437
+        }
+      },
+      "link": "/v3/places/5a1c19e60802d406e4b3c568",
+      "location": {
+        "address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 43",
+        "country": "GR",
+        "cross_street": "\u03a3\u03b1\u03c1\u03b1\u03bd\u03c4\u03b1\u03c0\u03cc\u03c1\u03bf\u03c5",
+        "formatted_address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 43 (\u03a3\u03b1\u03c1\u03b1\u03bd\u03c4\u03b1\u03c0\u03cc\u03c1\u03bf\u03c5), 152 32 \u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03bb\u03ac\u03bd\u03b4\u03c1\u03b9",
+        "postcode": "152 32",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Icon Fitness - Chalandri",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5310a3c6498e444e2c277d0b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5030,
+      "geocodes": {
+        "main": {
+          "latitude": 37.941973,
+          "longitude": 23.7139
+        },
+        "roof": {
+          "latitude": 37.941973,
+          "longitude": 23.7139
+        }
+      },
+      "link": "/v3/places/5310a3c6498e444e2c277d0b",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03b5\u03bb\u03bf\u03c5 95",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03b5\u03bb\u03bf\u03c5 95, 171 23 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Cross Training Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "53738447498e865f9d86ea17",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1647,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.975284,
+          "longitude": 23.707258
+        },
+        "main": {
+          "latitude": 37.975108,
+          "longitude": 23.707283
+        },
+        "roof": {
+          "latitude": 37.975108,
+          "longitude": 23.707283
+        }
+      },
+      "link": "/v3/places/53738447498e865f9d86ea17",
+      "location": {
+        "address": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5 \u03c4\u03bf\u03c5 \u039c\u03b5\u03b3\u03ac\u03bb\u03bf\u03c5 44",
+        "country": "GR",
+        "cross_street": "\u03a6\u03c1\u03b5\u03b1\u03c1\u03af\u03c9\u03bd 1",
+        "formatted_address": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5 \u03c4\u03bf\u03c5 \u039c\u03b5\u03b3\u03ac\u03bb\u03bf\u03c5 44 (\u03a6\u03c1\u03b5\u03b1\u03c1\u03af\u03c9\u03bd 1), 118 54 \u0393\u03ba\u03ac\u03b6\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03ba\u03ac\u03b6\u03b9",
+        "postcode": "118 54",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Gazibox Crossfit",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52fca419498e6648db41eef6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3561,
+      "geocodes": {
+        "main": {
+          "latitude": 37.991447,
+          "longitude": 23.67824
+        }
+      },
+      "link": "/v3/places/52fca419498e6648db41eef6",
+      "location": {
+        "address": "\u039c\u03ac\u03c1\u03ba\u03bf\u03c5 \u039c\u03c0\u03cc\u03c4\u03c3\u03b1\u03c1\u03b7 5",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039c\u03ac\u03c1\u03ba\u03bf\u03c5 \u039c\u03c0\u03cc\u03c4\u03c3\u03b1\u03c1\u03b7 5, 122 41 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+        "postcode": "122 41",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "2 Be Fit",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "540d5ca4498ebedbd4bf6ae8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6175,
+      "geocodes": {
+        "main": {
+          "latitude": 37.935266,
+          "longitude": 23.743673
+        }
+      },
+      "link": "/v3/places/540d5ca4498ebedbd4bf6ae8",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2 403",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03b3\u03bc\u03ad\u03bd\u03b7\u03c2 403, \u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The concept group fitness terminals",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "501cf15ce4b07ccc382b3381",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7150,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.926573,
+          "longitude": 23.690589
+        },
+        "main": {
+          "latitude": 37.926676,
+          "longitude": 23.690724
+        },
+        "roof": {
+          "latitude": 37.926676,
+          "longitude": 23.690724
+        }
+      },
+      "link": "/v3/places/501cf15ce4b07ccc382b3381",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "175 61 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "postcode": "175 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Corpo Fitness Studio",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52d50762498e33c39e2f758b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5014,
+      "geocodes": {
+        "main": {
+          "latitude": 38.000018,
+          "longitude": 23.773418
+        },
+        "roof": {
+          "latitude": 38.000018,
+          "longitude": 23.773418
+        }
+      },
+      "link": "/v3/places/52d50762498e33c39e2f758b",
+      "location": {
+        "address": "\u0391\u03b4\u03c1\u03b9\u03b1\u03bd\u03b5\u03af\u03bf\u03c5 44",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03b4\u03c1\u03b9\u03b1\u03bd\u03b5\u03af\u03bf\u03c5 44, 115 25 \u039d\u03ad\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc",
+        "postcode": "115 25",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Crossfit Psychiko Nine 76",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "536cead311d2d553fa19b541",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6559,
+      "geocodes": {
+        "main": {
+          "latitude": 37.929384,
+          "longitude": 23.703034
+        }
+      },
+      "link": "/v3/places/536cead311d2d553fa19b541",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bc\u03c6\u03b9\u03b8\u03ad\u03b1\u03c2 103",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bc\u03c6\u03b9\u03b8\u03ad\u03b1\u03c2 103, 175 63 \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "175 63",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Heartbeat Training Studio",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "52dd3f6f11d2d5132e84fbc6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4122,
+      "geocodes": {
+        "main": {
+          "latitude": 37.987049,
+          "longitude": 23.765304
+        },
+        "roof": {
+          "latitude": 37.987049,
+          "longitude": 23.765304
+        }
+      },
+      "link": "/v3/places/52dd3f6f11d2d5132e84fbc6",
+      "location": {
+        "address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 130",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 130, 115 26 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 26",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Cross Garage",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "574f120b498e159ee163138e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6684,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.042594,
+          "longitude": 23.688578
+        },
+        "main": {
+          "latitude": 38.042486,
+          "longitude": 23.688727
+        }
+      },
+      "link": "/v3/places/574f120b498e159ee163138e",
+      "location": {
+        "address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 39",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2 39, 132 31 \u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+        "postcode": "132 31",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "The cor of fitness",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f0b19dee4b000dd781cee14",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3706,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.954084,
+          "longitude": 23.713651
+        },
+        "main": {
+          "latitude": 37.953934,
+          "longitude": 23.713768
+        },
+        "roof": {
+          "latitude": 37.953934,
+          "longitude": 23.713768
+        }
+      },
+      "link": "/v3/places/4f0b19dee4b000dd781cee14",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c5\u03b3\u03b3\u03c1\u03bf\u03cd 147",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c5\u03b3\u03b3\u03c1\u03bf\u03cd 147, 171 21",
+        "postcode": "171 21"
+      },
+      "name": "Reborn Training",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dadb4d6a86e0d401b8d530d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3200,
+      "geocodes": {
+        "main": {
+          "latitude": 38.014755,
+          "longitude": 23.707762
+        }
+      },
+      "link": "/v3/places/4dadb4d6a86e0d401b8d530d",
+      "location": {
+        "address": "\u03a3\u03bf\u03bb\u03c9\u03bc\u03bf\u03cd 59",
+        "country": "GR",
+        "cross_street": "\u03a7\u03b1\u03c1\u03b9\u03bb\u03ac\u03bf\u03c5 \u03a4\u03c1\u03b9\u03ba\u03bf\u03cd\u03c0\u03b7",
+        "formatted_address": "\u03a3\u03bf\u03bb\u03c9\u03bc\u03bf\u03cd 59 (\u03a7\u03b1\u03c1\u03b9\u03bb\u03ac\u03bf\u03c5 \u03a4\u03c1\u03b9\u03ba\u03bf\u03cd\u03c0\u03b7), 121 33 \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "postcode": "121 33",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Yava Fitness Center - Burnazi",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "54562915498ea04d5b48cba9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7101,
+      "geocodes": {
+        "main": {
+          "latitude": 37.926267,
+          "longitude": 23.743368
+        },
+        "roof": {
+          "latitude": 37.926267,
+          "longitude": 23.743368
+        }
+      },
+      "link": "/v3/places/54562915498ea04d5b48cba9",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Twins Fit Aliki & Maria Dimakopoulou",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "538469d6498e22b2a68f8b62",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4873,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9965,
+          "longitude": 23.772518
+        },
+        "roof": {
+          "latitude": 37.9965,
+          "longitude": 23.772518
+        }
+      },
+      "link": "/v3/places/538469d6498e22b2a68f8b62",
+      "location": {
+        "address": "\u039c\u03b9\u03c7\u03b1\u03ae\u03bb \u039c\u03c9\u03c1\u03b1\u03af\u03c4\u03b7 66",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039c\u03b9\u03c7\u03b1\u03ae\u03bb \u039c\u03c9\u03c1\u03b1\u03af\u03c4\u03b7 66, 115 25 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 25",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Personal Group by George Papadimakis (\u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d0a2f99d4018cfadf594628",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8356,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.052,
+          "longitude": 23.766689
+        },
+        "main": {
+          "latitude": 38.051837,
+          "longitude": 23.766805
+        },
+        "roof": {
+          "latitude": 38.051837,
+          "longitude": 23.766805
+        }
+      },
+      "link": "/v3/places/4d0a2f99d4018cfadf594628",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5 404 \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5 404 \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf, 141 22 \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf",
+        "postcode": "141 22",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "La Fitness",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5c508b79a9e402002cbe863f",
+            "categories": [
+              {
+                "id": 13059,
+                "name": "Juice Bar",
+                "short_name": "Juice Bar",
+                "plural_name": "Juice Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L.A. Flavours"
+          },
+          {
+            "fsq_id": "5f20576317bc50354d9209e3",
+            "categories": [
+              {
+                "id": 11073,
+                "name": "Spa",
+                "short_name": "Spa",
+                "plural_name": "Spas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L.A. Wellness"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "56a27933498e4d8ed37873b8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8515,
+      "geocodes": {
+        "main": {
+          "latitude": 37.913118,
+          "longitude": 23.743606
+        },
+        "roof": {
+          "latitude": 37.913118,
+          "longitude": 23.743606
+        }
+      },
+      "link": "/v3/places/56a27933498e4d8ed37873b8",
+      "location": {
+        "address": "\u03a0\u0391\u03a1\u039f\u0394\u039f\u03a3 \u0399. \u039c\u039f\u03a5\u03a4\u0391\u03a6\u0397 1",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u0391\u03a1\u039f\u0394\u039f\u03a3 \u0399. \u039c\u039f\u03a5\u03a4\u0391\u03a6\u0397 1, 164 52 \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "postcode": "164 52",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Melekos Health Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d39c1ce63052d43143eaac5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7836,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.924973,
+          "longitude": 23.762265
+        },
+        "main": {
+          "latitude": 37.924731,
+          "longitude": 23.761878
+        },
+        "roof": {
+          "latitude": 37.924731,
+          "longitude": 23.761878
+        }
+      },
+      "link": "/v3/places/4d39c1ce63052d43143eaac5",
+      "location": {
+        "address": "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03b7\u03bd\u03bf\u03cd & \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03b7\u03bd\u03bf\u03cd & \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2, \u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03bf\u03bb\u03c5\u03bc\u03b2\u03b7\u03c4\u03ae\u03c1\u03b9\u03bf \u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4faa93f5e4b070f16d7d283a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3832,
+      "geocodes": {
+        "main": {
+          "latitude": 37.952912,
+          "longitude": 23.71591
+        },
+        "roof": {
+          "latitude": 37.952912,
+          "longitude": 23.71591
+        }
+      },
+      "link": "/v3/places/4faa93f5e4b070f16d7d283a",
+      "location": {
+        "address": "\u0399\u03c9\u03bd\u03af\u03b1\u03c2 4",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0399\u03c9\u03bd\u03af\u03b1\u03c2 4, 171 21 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Fitness Elite",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "51a76e07498e249247fd435e",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7558,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.038885,
+          "longitude": 23.774409
+        },
+        "main": {
+          "latitude": 38.038789,
+          "longitude": 23.774528
+        },
+        "roof": {
+          "latitude": 38.038789,
+          "longitude": 23.774528
+        }
+      },
+      "link": "/v3/places/51a76e07498e249247fd435e",
+      "location": {
+        "address": "\u0391\u03bd\u03b8\u03c1\u03b1\u03ba\u03bf\u03c1\u03cd\u03c7\u03c9\u03bd 14",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0391\u03bd\u03b8\u03c1\u03b1\u03ba\u03bf\u03c1\u03cd\u03c7\u03c9\u03bd 14, 142 35 \u039a\u03b1\u03bb\u03bf\u03b3\u03c1\u03ad\u03b6\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bf\u03b3\u03c1\u03ad\u03b6\u03b1",
+        "postcode": "142 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Studio Kinisis",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "535e8ff8498e70b6d39042ad",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3852,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.953102,
+          "longitude": 23.710139
+        },
+        "main": {
+          "latitude": 37.953234,
+          "longitude": 23.710036
+        },
+        "roof": {
+          "latitude": 37.953234,
+          "longitude": 23.710036
+        }
+      },
+      "link": "/v3/places/535e8ff8498e70b6d39042ad",
+      "location": {
+        "address": "\u0394\u03bf\u03ca\u03c1\u03ac\u03bd\u03b7\u03c2 72",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0394\u03bf\u03ca\u03c1\u03ac\u03bd\u03b7\u03c2 72, 176 80 \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "postcode": "176 80",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Fitness Games",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "517960d2e4b02b50146ec2b8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11910,
+      "geocodes": {
+        "main": {
+          "latitude": 38.010233,
+          "longitude": 23.851174
+        }
+      },
+      "link": "/v3/places/517960d2e4b02b50146ec2b8",
+      "location": {
+        "address": "\u039c\u03bf\u03bd\u03ae\u03c2 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03bf\u03c5 7",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039c\u03bf\u03bd\u03ae\u03c2 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03bf\u03c5 7, 153 44 \u0393\u03ad\u03c1\u03b1\u03ba\u03b1\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03ad\u03c1\u03b1\u03ba\u03b1\u03c2",
+        "postcode": "153 44",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "CrossFit North Zone",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5155ce31e4b05d4941255a02",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8363,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.913367,
+          "longitude": 23.736052
+        },
+        "main": {
+          "latitude": 37.91326,
+          "longitude": 23.736141
+        },
+        "roof": {
+          "latitude": 37.91326,
+          "longitude": 23.736141
+        }
+      },
+      "link": "/v3/places/5155ce31e4b05d4941255a02",
+      "location": {
+        "address": "\u03a1\u03cc\u03b4\u03c9\u03bd 6",
+        "country": "GR",
+        "cross_street": "\u039a\u03c5\u03b2\u03ad\u03bb\u03b7\u03c2",
+        "formatted_address": "\u03a1\u03cc\u03b4\u03c9\u03bd 6 (\u039a\u03c5\u03b2\u03ad\u03bb\u03b7\u03c2), 174 56 \u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "postcode": "174 56",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Workout Hall",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "516afd2e29a6340fb04dafe9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8178,
+      "geocodes": {
+        "main": {
+          "latitude": 37.952157,
+          "longitude": 23.63632
+        }
+      },
+      "link": "/v3/places/516afd2e29a6340fb04dafe9",
+      "location": {
+        "address": "\u03a0\u03b1\u03c0\u03b1\u03c3\u03c4\u03c1\u03ac\u03c4\u03bf\u03c5 60",
+        "country": "GR",
+        "cross_street": "\u0398\u03b5\u03c1\u03bc\u03bf\u03c0\u03c5\u03bb\u03ce\u03bd",
+        "formatted_address": "\u03a0\u03b1\u03c0\u03b1\u03c3\u03c4\u03c1\u03ac\u03c4\u03bf\u03c5 60 (\u0398\u03b5\u03c1\u03bc\u03bf\u03c0\u03c5\u03bb\u03ce\u03bd), 185 45 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
+        "postcode": "185 45",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "CrossFit Piraeus",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "592c78589b047373f10f833c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11543,
+      "geocodes": {
+        "main": {
+          "latitude": 38.009816,
+          "longitude": 23.847018
+        }
+      },
+      "link": "/v3/places/592c78589b047373f10f833c",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "153 54",
+        "postcode": "153 54"
+      },
+      "name": "Alterlife Boutique - Stavros",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bf802ed92d1952144255a1f",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10689,
+      "geocodes": {
+        "main": {
+          "latitude": 38.033366,
+          "longitude": 23.825763
+        },
+        "roof": {
+          "latitude": 38.033366,
+          "longitude": 23.825763
+        }
+      },
+      "link": "/v3/places/4bf802ed92d1952144255a1f",
+      "location": {
+        "address": "25\u03b7\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5 15\u0391",
+        "country": "GR",
+        "cross_street": "\u03a6\u03bb\u03c9\u03c1\u03b9\u03bd\u03b7\u03c2",
+        "formatted_address": "25\u03b7\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5 15\u0391 (\u03a6\u03bb\u03c9\u03c1\u03b9\u03bd\u03b7\u03c2), 152 35 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "152 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "New Yorkers Fitness Club",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 37.9871384,
+          "longitude": 23.7183808
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

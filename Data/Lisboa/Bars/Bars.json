@@ -1,0 +1,5760 @@
+{
+  "results": [
+    {
+      "fsq_id": "54b076cf498e5e44af67b414",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3723,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.709069,
+          "longitude": -9.143583
+        },
+        "main": {
+          "latitude": 38.709083,
+          "longitude": -9.143729
+        },
+        "roof": {
+          "latitude": 38.709083,
+          "longitude": -9.143729
+        }
+      },
+      "link": "/v3/places/54b076cf498e5e44af67b414",
+      "location": {
+        "address": "Rua das Flores, 41-43",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua das Flores, 41-43, 1200-193 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-193",
+        "region": "Lisboa"
+      },
+      "name": "By The Wine - Jos\u00e9 Maria da Fonseca",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d261a2cf9406dcbdaf6918d",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3388,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.71205,
+          "longitude": -9.14373
+        },
+        "main": {
+          "latitude": 38.712044,
+          "longitude": -9.143872
+        },
+        "roof": {
+          "latitude": 38.712044,
+          "longitude": -9.143872
+        }
+      },
+      "link": "/v3/places/4d261a2cf9406dcbdaf6918d",
+      "location": {
+        "address": "Rua do Norte, 81",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua do Norte, 81, 1200-284 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-284",
+        "region": "Lisboa"
+      },
+      "name": "Grapes & Bites",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a1f964a520dbd022e3",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3188,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714204,
+          "longitude": -9.149793
+        },
+        "roof": {
+          "latitude": 38.714204,
+          "longitude": -9.149793
+        }
+      },
+      "link": "/v3/places/4b0588a1f964a520dbd022e3",
+      "location": {
+        "address": "Rua Ruben A Leit\u00e3o 17A",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Ruben A Leit\u00e3o 17A, 1200-392 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-392",
+        "region": "Lisboa"
+      },
+      "name": "Cinco Lounge",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b749f3df964a52051e82de3",
+      "categories": [
+        {
+          "id": 10032,
+          "name": "Night Club",
+          "short_name": "Night Club",
+          "plural_name": "Night Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13021,
+          "name": "Speakeasy",
+          "short_name": "Speakeasy",
+          "plural_name": "Speakeasies",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/secretbar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3256,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714001,
+          "longitude": -9.152002
+        },
+        "roof": {
+          "latitude": 38.714001,
+          "longitude": -9.152002
+        }
+      },
+      "link": "/v3/places/4b749f3df964a52051e82de3",
+      "location": {
+        "address": "Travessa Santa Teresa 28",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Travessa Santa Teresa 28, 1200-405 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-405",
+        "region": "Lisboa"
+      },
+      "name": "Foxtrot",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "515b057f19a9e498d9667bc8",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3276,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.714796,
+          "longitude": -9.130959
+        },
+        "main": {
+          "latitude": 38.714859,
+          "longitude": -9.130835
+        },
+        "roof": {
+          "latitude": 38.714859,
+          "longitude": -9.130835
+        }
+      },
+      "link": "/v3/places/515b057f19a9e498d9667bc8",
+      "location": {
+        "address": "Cal\u00e7ada da Gra\u00e7a, 10 A/B",
+        "country": "PT",
+        "cross_street": "Largo Rodrigues de Freitas",
+        "formatted_address": "Cal\u00e7ada da Gra\u00e7a, 10 A/B (Largo Rodrigues de Freitas), 1100-266 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-266",
+        "region": "Lisboa"
+      },
+      "name": "Gra\u00e7a do Vinho",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "55ba7aba498e9ddd9b783507",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2921,
+      "geocodes": {
+        "main": {
+          "latitude": 38.716759,
+          "longitude": -9.136538
+        },
+        "roof": {
+          "latitude": 38.716759,
+          "longitude": -9.136538
+        }
+      },
+      "link": "/v3/places/55ba7aba498e9ddd9b783507",
+      "location": {
+        "address": "Centro Comercial Martim Moniz6",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Centro Comercial Martim Moniz6, 1100-341 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-341",
+        "region": "Lisboa"
+      },
+      "name": "Topo",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c6fb531fa49a1cddbb9a3e3",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Centro Comercial Martim Moniz"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c608105b6f3be9ad97c5f73",
+      "categories": [
+        {
+          "id": 13018,
+          "name": "Pub",
+          "short_name": "Pub",
+          "plural_name": "Pubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 313,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.744651,
+          "longitude": -9.141045
+        },
+        "main": {
+          "latitude": 38.744704,
+          "longitude": -9.141055
+        },
+        "roof": {
+          "latitude": 38.744704,
+          "longitude": -9.141055
+        }
+      },
+      "link": "/v3/places/4c608105b6f3be9ad97c5f73",
+      "location": {
+        "address": "Avenida Sacadura Cabral, 18",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Sacadura Cabral, 18, 1000-274 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-274",
+        "region": "Lisboa"
+      },
+      "name": "Cockpit Bar",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "56477699498e8cd956c8a9b3",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2883,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.716706,
+          "longitude": -9.148437
+        },
+        "main": {
+          "latitude": 38.716874,
+          "longitude": -9.148352
+        },
+        "roof": {
+          "latitude": 38.716874,
+          "longitude": -9.148352
+        }
+      },
+      "link": "/v3/places/56477699498e8cd956c8a9b3",
+      "location": {
+        "address": "Pra\u00e7a do Pr\u00edncipe Real, 26",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Pra\u00e7a do Pr\u00edncipe Real, 26, 1250-184 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-184",
+        "region": "Lisboa"
+      },
+      "name": "Gin Lovers Principe Real",
+      "related_places": {
+        "parent": {
+          "fsq_id": "522a163e11d23b844a3b4357",
+          "categories": [
+            {
+              "id": 17000,
+              "name": "Retail",
+              "short_name": "Retail",
+              "plural_name": "Retail",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Embaixada"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "51239061e4b0bcef9d6c5a05",
+      "categories": [
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13057,
+          "name": "Gastropub",
+          "short_name": "Gastropub",
+          "plural_name": "Gastropubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2543,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720821,
+          "longitude": -9.134548
+        },
+        "roof": {
+          "latitude": 38.720821,
+          "longitude": -9.134548
+        }
+      },
+      "link": "/v3/places/51239061e4b0bcef9d6c5a05",
+      "location": {
+        "address": "Largo do Intendente, 45",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Largo do Intendente, 45, 1100-285 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-285"
+      },
+      "name": "Casa Independente",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5b4928789f8a9f002c28cc08",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2875,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.718344,
+          "longitude": -9.131856
+        },
+        "main": {
+          "latitude": 38.718439,
+          "longitude": -9.131838
+        },
+        "roof": {
+          "latitude": 38.718439,
+          "longitude": -9.131838
+        }
+      },
+      "link": "/v3/places/5b4928789f8a9f002c28cc08",
+      "location": {
+        "address": "Rua Damasceno Monteiro 8A, Lisbon 1170-108 Portugal",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Damasceno Monteiro 8A, Lisbon 1170-108 Portugal, 1170-313 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1170-313",
+        "region": "Lisboa"
+      },
+      "name": "Taproom Oitava Colina",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "554656dc498e12237beb2162",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3152,
+      "geocodes": {
+        "main": {
+          "latitude": 38.716516,
+          "longitude": -9.129279
+        },
+        "roof": {
+          "latitude": 38.716516,
+          "longitude": -9.129279
+        }
+      },
+      "link": "/v3/places/554656dc498e12237beb2162",
+      "location": {
+        "address": "Rua da Voz do Oper\u00e1rio 60",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua da Voz do Oper\u00e1rio 60, 1070-087 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-087",
+        "region": "Lisboa"
+      },
+      "name": "Damas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5ca0f8bc9e3b65002cd0f1ec",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3334,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.714434,
+          "longitude": -9.156862
+        },
+        "main": {
+          "latitude": 38.714364,
+          "longitude": -9.15685
+        },
+        "roof": {
+          "latitude": 38.714364,
+          "longitude": -9.15685
+        }
+      },
+      "link": "/v3/places/5ca0f8bc9e3b65002cd0f1ec",
+      "location": {
+        "address": "Rua de Santo Amaro 66A",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua de Santo Amaro 66A, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Senhor Uva",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "57364fdc498ebbf24700b03e",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13029,
+          "name": "Brewery",
+          "short_name": "Brewery",
+          "plural_name": "Breweries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3550,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.738891,
+          "longitude": -9.103147
+        },
+        "main": {
+          "latitude": 38.738841,
+          "longitude": -9.102962
+        },
+        "roof": {
+          "latitude": 38.738841,
+          "longitude": -9.102962
+        }
+      },
+      "link": "/v3/places/57364fdc498ebbf24700b03e",
+      "location": {
+        "address": "Rua do A\u00e7\u00facar, 83",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua do A\u00e7\u00facar, 83, 1950-006 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1950-006",
+        "region": "Lisboa"
+      },
+      "name": "F\u00e1brica da Musa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "507dd62ee4b0a8d59beeb44b",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3464,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.711294,
+          "longitude": -9.143735
+        },
+        "main": {
+          "latitude": 38.711292,
+          "longitude": -9.143668
+        },
+        "roof": {
+          "latitude": 38.711292,
+          "longitude": -9.143668
+        }
+      },
+      "link": "/v3/places/507dd62ee4b0a8d59beeb44b",
+      "location": {
+        "address": "Rua do Norte 33, Lisbon 1200-283 Portugal",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua do Norte 33, Lisbon 1200-283 Portugal, 1200-141 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-141",
+        "region": "Lisboa"
+      },
+      "name": "BacoAlto",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "61810718d7c24f5ed95dea92",
+      "categories": [
+        {
+          "id": 13013,
+          "name": "Hotel Bar",
+          "short_name": "Hotel Bar",
+          "plural_name": "Hotel Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3676,
+      "geocodes": {
+        "main": {
+          "latitude": 38.709586,
+          "longitude": -9.140484
+        }
+      },
+      "link": "/v3/places/61810718d7c24f5ed95dea92",
+      "location": {
+        "address": "Rua Capello 5",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Capello 5, 1200-087 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-087",
+        "region": "Lisboa"
+      },
+      "name": "Rocco",
+      "related_places": {
+        "parent": {
+          "fsq_id": "615ffee0db41540e62d53879",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Ivens"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5ce87d5a1af852002cf50b17",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3802,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.708398,
+          "longitude": -9.146319
+        },
+        "main": {
+          "latitude": 38.708504,
+          "longitude": -9.146296
+        },
+        "roof": {
+          "latitude": 38.708504,
+          "longitude": -9.146296
+        }
+      },
+      "link": "/v3/places/5ce87d5a1af852002cf50b17",
+      "location": {
+        "address": "Rua de S\u00e3o Paulo 200, Lisbon 1200-429 Portugal",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua de S\u00e3o Paulo 200, Lisbon 1200-429 Portugal, 1200-429 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-429",
+        "region": "Lisboa"
+      },
+      "name": "Far\u00e8s",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5206c36411d2a651b1b41a51",
+      "categories": [
+        {
+          "id": 13007,
+          "name": "Beer Garden",
+          "short_name": "Beer Garden",
+          "plural_name": "Beer Gardens",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4124,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.705551,
+          "longitude": -9.141559
+        },
+        "main": {
+          "latitude": 38.705556,
+          "longitude": -9.14156
+        },
+        "roof": {
+          "latitude": 38.705556,
+          "longitude": -9.14156
+        }
+      },
+      "link": "/v3/places/5206c36411d2a651b1b41a51",
+      "location": {
+        "address": "Avenida da Ribeira das Naus",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida da Ribeira das Naus, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Quiosque Ribeira das Naus",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cd1cdc57f56a143d4a8d6a6",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2260,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.72231,
+          "longitude": -9.146035
+        },
+        "main": {
+          "latitude": 38.722197,
+          "longitude": -9.146165
+        },
+        "roof": {
+          "latitude": 38.722197,
+          "longitude": -9.146165
+        }
+      },
+      "link": "/v3/places/4cd1cdc57f56a143d4a8d6a6",
+      "location": {
+        "address": "Rua Rodrigues Sampaio, 33-35",
+        "country": "PT",
+        "formatted_address": "Rua Rodrigues Sampaio, 33-35, 1150-278 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1150-278",
+        "region": "Lisboa"
+      },
+      "name": "Rubro Avenida",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ec0fcbe0cd6d2a16f6eac32",
+      "categories": [
+        {
+          "id": 10032,
+          "name": "Night Club",
+          "short_name": "Night Club",
+          "plural_name": "Night Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3928,
+      "geocodes": {
+        "main": {
+          "latitude": 38.707219,
+          "longitude": -9.143596
+        },
+        "roof": {
+          "latitude": 38.707219,
+          "longitude": -9.143596
+        }
+      },
+      "link": "/v3/places/4ec0fcbe0cd6d2a16f6eac32",
+      "location": {
+        "address": "Rua do Alecrim, 19",
+        "country": "PT",
+        "formatted_address": "Rua do Alecrim, 19, 1200-292 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-292",
+        "region": "Lisboa"
+      },
+      "name": "Pens\u00e3o Amor",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5373a554498e2f50c9362585",
+            "categories": [
+              {
+                "id": 17001,
+                "name": "Adult Store",
+                "short_name": "Adult Store",
+                "plural_name": "Adult Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/stripclub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Purple Rose - Erotic Luxury"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "56929539498e43f06f414c22",
+      "categories": [
+        {
+          "id": 13052,
+          "name": "Food Court",
+          "short_name": "Food Court",
+          "plural_name": "Food Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3950,
+      "geocodes": {
+        "main": {
+          "latitude": 38.707049,
+          "longitude": -9.145948
+        },
+        "roof": {
+          "latitude": 38.707049,
+          "longitude": -9.145948
+        }
+      },
+      "link": "/v3/places/56929539498e43f06f414c22",
+      "location": {
+        "address": "Avenida 24 de Julho, 49",
+        "country": "PT",
+        "cross_street": "Pra\u00e7a Dom Lu\u00eds I",
+        "formatted_address": "Avenida 24 de Julho, 49 (Pra\u00e7a Dom Lu\u00eds I), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Time Out Market Lisboa",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4beecf9a5e7b9c745a15b58d",
+          "categories": [
+            {
+              "id": 17065,
+              "name": "Farmers Market",
+              "short_name": "Farmers Market",
+              "plural_name": "Farmers Markets",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17069,
+              "name": "Grocery Store",
+              "short_name": "Grocery Store",
+              "plural_name": "Grocery Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Mercado da Ribeira"
+        },
+        "children": [
+          {
+            "fsq_id": "58225a39f595847cd39ca638",
+            "categories": [
+              {
+                "id": 10032,
+                "name": "Night Club",
+                "short_name": "Night Club",
+                "plural_name": "Night Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rive-Rouge"
+          },
+          {
+            "fsq_id": "5823abeab04e981d142f62da",
+            "categories": [
+              {
+                "id": 11000,
+                "name": "Business and Professional Services",
+                "short_name": "Business and Professional Services",
+                "plural_name": "Business and Professional Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Second Home"
+          },
+          {
+            "fsq_id": "6300e19db1051611a532cc00",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "O Frade"
+          },
+          {
+            "fsq_id": "577943d8498e14147f2635ce",
+            "categories": [
+              {
+                "id": 13342,
+                "name": "Soup Spot",
+                "short_name": "Soup Spot",
+                "plural_name": "Soup Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/soup_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Creme de la Creme"
+          },
+          {
+            "fsq_id": "5b37807a9e0d54002cef8b99",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ground Burger"
+          },
+          {
+            "fsq_id": "5378a3a3498ec4917a1db066",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Caf\u00e9 de S\u00e3o Bento @mercadodaribeira"
+          },
+          {
+            "fsq_id": "5c7be7467c891c002d974555",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aperol Spritz"
+          },
+          {
+            "fsq_id": "534bf385498e433e242d95a1",
+            "categories": [
+              {
+                "id": 17062,
+                "name": "Chocolate Store",
+                "short_name": "Chocolate Store",
+                "plural_name": "Chocolate Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Arcadia"
+          },
+          {
+            "fsq_id": "5708017b498e15063703d104",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque do Cais"
+          },
+          {
+            "fsq_id": "5405fc94498e173769016e11",
+            "categories": [
+              {
+                "id": 13059,
+                "name": "Juice Bar",
+                "short_name": "Juice Bar",
+                "plural_name": "Juice Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Compal Frutologica"
+          },
+          {
+            "fsq_id": "538a0eb9498e0f4310eb0091",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13046,
+                "name": "Ice Cream Parlor",
+                "short_name": "Ice Cream",
+                "plural_name": "Ice Cream Parlors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Santini"
+          },
+          {
+            "fsq_id": "59ddfc66b1538e71307f096c",
+            "categories": [
+              {
+                "id": 13382,
+                "name": "Snack Place",
+                "short_name": "Snacks",
+                "plural_name": "Snack Places",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Frutos Secos do Mercado"
+          },
+          {
+            "fsq_id": "53794192498e9620f18139c4",
+            "categories": [
+              {
+                "id": 13039,
+                "name": "Deli",
+                "short_name": "Deli",
+                "plural_name": "Delis",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Manteigaria Silva"
+          },
+          {
+            "fsq_id": "5d98c4f26b856700082b31e1",
+            "categories": [
+              {
+                "id": 17080,
+                "name": "Wine Store",
+                "short_name": "Wine Store",
+                "plural_name": "Wine Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Garrafeira Nacional"
+          },
+          {
+            "fsq_id": "53790fbb498e865c40d92491",
+            "categories": [
+              {
+                "id": 13347,
+                "name": "Tapas Restaurant",
+                "short_name": "Tapas",
+                "plural_name": "Tapas Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Croqueteria"
+          },
+          {
+            "fsq_id": "58ab363d23188e3a4491ced8",
+            "categories": [
+              {
+                "id": 13002,
+                "name": "Bakery",
+                "short_name": "Bakery",
+                "plural_name": "Bakeries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Manteigaria Silva"
+          },
+          {
+            "fsq_id": "54ecebc3498ef860b6d1f77f",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Marlene Vieira - O Sabor do Saber Portugu\u00eas"
+          },
+          {
+            "fsq_id": "5a9aa40fdff815665e668c1b",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Olh\u00f3 Bacalhau"
+          },
+          {
+            "fsq_id": "560145c5498ee96810cfea72",
+            "categories": [
+              {
+                "id": 13338,
+                "name": "Seafood Restaurant",
+                "short_name": "Seafood",
+                "plural_name": "Seafood Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monte Mar"
+          },
+          {
+            "fsq_id": "63ee85cd75dd0f17f64151cc",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Susana Felicidade"
+          },
+          {
+            "fsq_id": "5b1993734c9be6002c39bffe",
+            "categories": [
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L'Eclair"
+          },
+          {
+            "fsq_id": "537b7699498edb1da558e360",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Honorato Hamburgueres Artesanais"
+          },
+          {
+            "fsq_id": "53bfd699498e90ad46a3ca2a",
+            "categories": [
+              {
+                "id": 13057,
+                "name": "Gastropub",
+                "short_name": "Gastropub",
+                "plural_name": "Gastropubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cozinha da Felicidade"
+          },
+          {
+            "fsq_id": "564c2aaf498e06188bd97dde",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estudio Time Out"
+          },
+          {
+            "fsq_id": "5ac8b295911fc41079196960",
+            "categories": [
+              {
+                "id": 17057,
+                "name": "Food and Beverage Retail",
+                "short_name": "Food & Beverage",
+                "plural_name": "Food and Beverage Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Recorda\u00e7\u00e3o de Sintra"
+          },
+          {
+            "fsq_id": "5741b534498e0b6768b31b30",
+            "categories": [
+              {
+                "id": 17003,
+                "name": "Arts and Crafts Store",
+                "short_name": "Arts and Crafts Store",
+                "plural_name": "Arts and Crafts Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/artstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Toranja"
+          },
+          {
+            "fsq_id": "5404ae63498ea34259774392",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque do Caf\u00e9"
+          },
+          {
+            "fsq_id": "5d98c3f9d628da0008001fa1",
+            "categories": [
+              {
+                "id": 13002,
+                "name": "Bakery",
+                "short_name": "Bakery",
+                "plural_name": "Bakeries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tartine"
+          },
+          {
+            "fsq_id": "53825404498e1b7adfc71c3a",
+            "categories": [
+              {
+                "id": 13334,
+                "name": "Sandwich Spot",
+                "short_name": "Sandwich Spot",
+                "plural_name": "Sandwich Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "O Prego da Peixaria"
+          },
+          {
+            "fsq_id": "537b8181498e48d2ddf485d4",
+            "categories": [
+              {
+                "id": 13072,
+                "name": "Asian Restaurant",
+                "short_name": "Asian",
+                "plural_name": "Asian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Asian Lab by Sushi Caf\u00e9"
+          },
+          {
+            "fsq_id": "5b198f34ca18ea0039dbaa56",
+            "categories": [
+              {
+                "id": 17100,
+                "name": "Newsstand",
+                "short_name": "Newsstand",
+                "plural_name": "Newsstands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/newsstand_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Espao Time Out"
+          },
+          {
+            "fsq_id": "5589b883498ea3f0154b8a2d",
+            "categories": [
+              {
+                "id": 17086,
+                "name": "Kitchen Supply Store",
+                "short_name": "Kitchen Supply",
+                "plural_name": "Kitchen Supply Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_butcher_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A Vida Portuguesa"
+          },
+          {
+            "fsq_id": "53e7a8eb498ee0a808147223",
+            "categories": [
+              {
+                "id": 13276,
+                "name": "Sushi Restaurant",
+                "short_name": "Sushi",
+                "plural_name": "Sushi Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Confraria Sushi do Mercado"
+          },
+          {
+            "fsq_id": "62cc1510422a875f9532ce5a",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Vincent Farges"
+          },
+          {
+            "fsq_id": "5bb8e4d06336be002c8b3f37",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "TimeOut Lisbon"
+          },
+          {
+            "fsq_id": "579f9525498e0ef6cbed8527",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13338,
+                "name": "Seafood Restaurant",
+                "short_name": "Seafood",
+                "plural_name": "Seafood Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Balc\u00e3o da Esquina"
+          },
+          {
+            "fsq_id": "53833cf5498ecd1450a0732b",
+            "categories": [
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "N\u00f3s \u00e9 mais bolos"
+          },
+          {
+            "fsq_id": "537dfd49498e352d65d213b2",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque Chef Alexandre Silva"
+          },
+          {
+            "fsq_id": "5b7fe832a0215b002c6cf341",
+            "categories": [
+              {
+                "id": 13064,
+                "name": "Pizzeria",
+                "short_name": "Pizza",
+                "plural_name": "Pizzerias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Zero Zero"
+          },
+          {
+            "fsq_id": "5d5468e4582d590008a7ffce",
+            "categories": [
+              {
+                "id": 11105,
+                "name": "Industrial Equipment Supplier",
+                "short_name": "Industrial Equipment Supplier",
+                "plural_name": "Industrial Equipment Suppliers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jo\u00e3o Rodrigues"
+          },
+          {
+            "fsq_id": "5395b180498e71ebadc01af1",
+            "categories": [
+              {
+                "id": 13027,
+                "name": "Bistro",
+                "short_name": "Bistro",
+                "plural_name": "Bistros",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Henrique S\u00e1 Pessoa"
+          },
+          {
+            "fsq_id": "4b771854f964a520d47c2ee3",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurante Pap'A\u00e7orda"
+          },
+          {
+            "fsq_id": "53a5f787498ea7107da9d6e2",
+            "categories": [
+              {
+                "id": 13338,
+                "name": "Seafood Restaurant",
+                "short_name": "Seafood",
+                "plural_name": "Seafood Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Marisqueira Azul"
+          },
+          {
+            "fsq_id": "57b9eef6498e6b1fc18548e1",
+            "categories": [
+              {
+                "id": 13025,
+                "name": "Wine Bar",
+                "short_name": "Wine Bar",
+                "plural_name": "Wine Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "O bar da Odete"
+          },
+          {
+            "fsq_id": "61cc706e0f8b1740521cb334",
+            "categories": [
+              {
+                "id": 13045,
+                "name": "Gelato Shop",
+                "short_name": "Gelato",
+                "plural_name": "Gelato Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gelato Davvero"
+          },
+          {
+            "fsq_id": "6128eb82a1cbe32f8186a6eb",
+            "categories": [
+              {
+                "id": 13043,
+                "name": "Donut Shop",
+                "short_name": "Donuts",
+                "plural_name": "Donut Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Crush Doughnuts"
+          },
+          {
+            "fsq_id": "540602cb498e30d5fd3eb4fa",
+            "categories": [
+              {
+                "id": 13338,
+                "name": "Seafood Restaurant",
+                "short_name": "Seafood",
+                "plural_name": "Seafood Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sea Me - Peixaria Moderna"
+          },
+          {
+            "fsq_id": "5f144e736cb4cc4def2acc92",
+            "categories": [
+              {
+                "id": 11056,
+                "name": "Food and Beverage Service",
+                "short_name": "Food Service",
+                "plural_name": "Food and Beverage Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Delivery Point TimeOut Market"
+          },
+          {
+            "fsq_id": "5b199486c21cb1002c71eb14",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Studio Time Out"
+          },
+          {
+            "fsq_id": "53b693cc498e018010aa2acc",
+            "categories": [
+              {
+                "id": 13302,
+                "name": "Mediterranean Restaurant",
+                "short_name": "Mediterranean",
+                "plural_name": "Mediterranean Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Miguel Castro e Silva"
+          },
+          {
+            "fsq_id": "5a8d8d88a87921024dcd99f7",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque Licor Beir\u00e3o"
+          },
+          {
+            "fsq_id": "550b52f0498e392224b7d77f",
+            "categories": [
+              {
+                "id": 13055,
+                "name": "Fried Chicken Joint",
+                "short_name": "Fried Chicken",
+                "plural_name": "Fried Chicken Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Miguel Laffan"
+          },
+          {
+            "fsq_id": "57d6a34b498e4e9091a8dd80",
+            "categories": [
+              {
+                "id": 13058,
+                "name": "Hot Dog Joint",
+                "short_name": "Hot Dogs",
+                "plural_name": "Hot Dog Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Hot Dog Cascais"
+          },
+          {
+            "fsq_id": "537b6d74498ecd7783947b45",
+            "categories": [
+              {
+                "id": 13006,
+                "name": "Beer Bar",
+                "short_name": "Beer Bar",
+                "plural_name": "Beer Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13007,
+                "name": "Beer Garden",
+                "short_name": "Beer Garden",
+                "plural_name": "Beer Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Super Bock Beer Experience"
+          },
+          {
+            "fsq_id": "57b8bee8498ef53d87b85f64",
+            "categories": [
+              {
+                "id": 12050,
+                "name": "Culinary School",
+                "short_name": "Culinary School",
+                "plural_name": "Culinary Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Academia TimeOut"
+          },
+          {
+            "fsq_id": "5b19923fd552c7002ccb2d84",
+            "categories": [
+              {
+                "id": 13334,
+                "name": "Sandwich Spot",
+                "short_name": "Sandwich Spot",
+                "plural_name": "Sandwich Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Leitao da Ribeira"
+          },
+          {
+            "fsq_id": "5f92d003611ddd18e2a7efb0",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pin\u00f3quio"
+          },
+          {
+            "fsq_id": "5b5b6e958c35dc002cf30e0d",
+            "categories": [
+              {
+                "id": 17062,
+                "name": "Chocolate Store",
+                "short_name": "Chocolate Store",
+                "plural_name": "Chocolate Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bettina Corallo"
+          },
+          {
+            "fsq_id": "5e5130460f683f000896a9e8",
+            "categories": [
+              {
+                "id": 17060,
+                "name": "Candy Store",
+                "short_name": "Candy Store",
+                "plural_name": "Candy Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pudim do Abade"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "52a5102a11d25addad453474",
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "short_name": "Burgers",
+          "plural_name": "Burger Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13068,
+          "name": "American Restaurant",
+          "short_name": "American",
+          "plural_name": "American Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1221,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.735255,
+          "longitude": -9.154639
+        },
+        "main": {
+          "latitude": 38.73541,
+          "longitude": -9.154459
+        },
+        "roof": {
+          "latitude": 38.73541,
+          "longitude": -9.154459
+        }
+      },
+      "link": "/v3/places/52a5102a11d25addad453474",
+      "location": {
+        "address": "Avenida Ant\u00f3nio Augusto de Aguiar, 148",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Ant\u00f3nio Augusto de Aguiar, 148, 1050-021 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-021",
+        "region": "Lisboa"
+      },
+      "name": "Ground Burger",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "52460c0411d257044620c355",
+      "categories": [
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3265,
+      "geocodes": {
+        "main": {
+          "latitude": 38.714233,
+          "longitude": -9.145118
+        },
+        "roof": {
+          "latitude": 38.714233,
+          "longitude": -9.145118
+        }
+      },
+      "link": "/v3/places/52460c0411d257044620c355",
+      "location": {
+        "address": "Rua dos Mouros n19 e 21",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua dos Mouros n19 e 21, 1200-281 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-281",
+        "region": "Lisboa"
+      },
+      "name": "Tapa Bucho",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "533c57b7498e0e43da25a6bf",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3392,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.712083,
+          "longitude": -9.142389
+        },
+        "main": {
+          "latitude": 38.712114,
+          "longitude": -9.142319
+        },
+        "roof": {
+          "latitude": 38.712114,
+          "longitude": -9.142319
+        }
+      },
+      "link": "/v3/places/533c57b7498e0e43da25a6bf",
+      "location": {
+        "address": "Rua Nova da Trindade, 16C",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Nova da Trindade, 16C, 1200-303 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-303",
+        "region": "Lisboa"
+      },
+      "name": "O Purista - Barbi\u00e8re",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54216a7e498e556bb4940785",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3716,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.70962,
+          "longitude": -9.136407
+        },
+        "main": {
+          "latitude": 38.709676,
+          "longitude": -9.136264
+        },
+        "roof": {
+          "latitude": 38.709676,
+          "longitude": -9.136264
+        }
+      },
+      "link": "/v3/places/54216a7e498e556bb4940785",
+      "location": {
+        "address": "Rua da Prata 52",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua da Prata 52, 1100-419 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-419",
+        "region": "Lisboa"
+      },
+      "name": "Da Prata 52",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ccec934aa25a35da490220f",
+      "categories": [
+        {
+          "id": 13067,
+          "name": "African Restaurant",
+          "short_name": "African",
+          "plural_name": "African Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/african_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 914,
+      "geocodes": {
+        "main": {
+          "latitude": 38.73707,
+          "longitude": -9.151371
+        },
+        "roof": {
+          "latitude": 38.73707,
+          "longitude": -9.151371
+        }
+      },
+      "link": "/v3/places/4ccec934aa25a35da490220f",
+      "location": {
+        "address": "Avenida Conde Valbom, 71A",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Conde Valbom, 71A, 1050-067 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-067",
+        "region": "Lisboa"
+      },
+      "name": "Restaurante Laurentina - O Rei do Bacalhau",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b5a1211f964a52076ab28e3",
+      "categories": [
+        {
+          "id": 13079,
+          "name": "Brazilian Restaurant",
+          "short_name": "Brazilian",
+          "plural_name": "Brazilian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13383,
+          "name": "Steakhouse",
+          "short_name": "Steakhouse",
+          "plural_name": "Steakhouses",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 984,
+      "geocodes": {
+        "main": {
+          "latitude": 38.733559,
+          "longitude": -9.14277
+        },
+        "roof": {
+          "latitude": 38.733559,
+          "longitude": -9.14277
+        }
+      },
+      "link": "/v3/places/4b5a1211f964a52076ab28e3",
+      "location": {
+        "address": "Avenida Defensores de Chaves, 14 C",
+        "country": "PT",
+        "formatted_address": "Avenida Defensores de Chaves, 14 C, 1000-117 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-117",
+        "region": "Lisboa"
+      },
+      "name": "\u00c0 Parte",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c9e5f792fb1a1433ff2e940",
+      "categories": [
+        {
+          "id": 13029,
+          "name": "Brewery",
+          "short_name": "Brewery",
+          "plural_name": "Breweries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2564,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720278,
+          "longitude": -9.135726
+        },
+        "roof": {
+          "latitude": 38.720278,
+          "longitude": -9.135726
+        }
+      },
+      "link": "/v3/places/4c9e5f792fb1a1433ff2e940",
+      "location": {
+        "address": "Avenida Almirante Reis 1",
+        "country": "PT",
+        "formatted_address": "Avenida Almirante Reis 1, 1150-007 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1150-007",
+        "region": "Lisboa"
+      },
+      "name": "Cervejaria Ramiro",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f0cacfbe4b0dfc4356a5515",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3224,
+      "geocodes": {
+        "main": {
+          "latitude": 38.715509,
+          "longitude": -9.132756
+        },
+        "roof": {
+          "latitude": 38.715509,
+          "longitude": -9.132756
+        }
+      },
+      "link": "/v3/places/4f0cacfbe4b0dfc4356a5515",
+      "location": {
+        "address": "Costa do Castelo 75 Garagem Theater, Lisbon 1100-178 Portugal",
+        "country": "PT",
+        "formatted_address": "Costa do Castelo 75 Garagem Theater, Lisbon 1100-178 Portugal, 1100-178 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-178",
+        "region": "Lisboa"
+      },
+      "name": "Caf\u00e9 da Garagem",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4e7f8cbbcc2101b4ffa138f3",
+          "categories": [
+            {
+              "id": 10043,
+              "name": "Theater",
+              "short_name": "Theater",
+              "plural_name": "Theaters",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Teatro Taborda"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4beecf9a5e7b9c745a15b58d",
+      "categories": [
+        {
+          "id": 17065,
+          "name": "Farmers Market",
+          "short_name": "Farmers Market",
+          "plural_name": "Farmers Markets",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17069,
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3948,
+      "geocodes": {
+        "main": {
+          "latitude": 38.706902,
+          "longitude": -9.145768
+        },
+        "roof": {
+          "latitude": 38.706902,
+          "longitude": -9.145768
+        }
+      },
+      "link": "/v3/places/4beecf9a5e7b9c745a15b58d",
+      "location": {
+        "address": "Avenida 24 de Julho",
+        "country": "PT",
+        "formatted_address": "Avenida 24 de Julho, 1200-479 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-479",
+        "region": "Lisboa"
+      },
+      "name": "Mercado da Ribeira",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5fff08819a58fc0b07164335",
+            "categories": [
+              {
+                "id": 17056,
+                "name": "Flower Store",
+                "short_name": "Flower Store",
+                "plural_name": "Flower Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/flowershop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Florista Santos"
+          },
+          {
+            "fsq_id": "56929539498e43f06f414c22",
+            "categories": [
+              {
+                "id": 13052,
+                "name": "Food Court",
+                "short_name": "Food Court",
+                "plural_name": "Food Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Time Out Market Lisboa"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a6f964a52058d222e3",
+      "categories": [
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2029,
+      "geocodes": {
+        "main": {
+          "latitude": 38.734531,
+          "longitude": -9.164548
+        },
+        "roof": {
+          "latitude": 38.734531,
+          "longitude": -9.164548
+        }
+      },
+      "link": "/v3/places/4b0588a6f964a52058d222e3",
+      "location": {
+        "address": "Rua Campolide 258",
+        "country": "PT",
+        "formatted_address": "Rua Campolide 258, 1070-039 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-039",
+        "region": "Lisboa"
+      },
+      "name": "A Tasquinha do Lagarto",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b3cda52f964a520428825e3",
+      "categories": [
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5343,
+      "geocodes": {
+        "main": {
+          "latitude": 38.703404,
+          "longitude": -9.178763
+        },
+        "roof": {
+          "latitude": 38.703404,
+          "longitude": -9.178763
+        }
+      },
+      "link": "/v3/places/4b3cda52f964a520428825e3",
+      "location": {
+        "address": "Rua Rodrigues Faria 103",
+        "country": "PT",
+        "formatted_address": "Rua Rodrigues Faria 103, 1300-501 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1300-501",
+        "region": "Lisboa"
+      },
+      "name": "LX Factory",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ebd926e02d5e32b7bf3b466",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kiss the Cook"
+          },
+          {
+            "fsq_id": "5a5662266a59502e45bc1e99",
+            "categories": [
+              {
+                "id": 17003,
+                "name": "Arts and Crafts Store",
+                "short_name": "Arts and Crafts Store",
+                "plural_name": "Arts and Crafts Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/artstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fica - Oficina Criativa"
+          },
+          {
+            "fsq_id": "5131ffdae4b02e87036444df",
+            "categories": [
+              {
+                "id": 17089,
+                "name": "Gift Store",
+                "short_name": "Gift Store",
+                "plural_name": "Gift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bairro Arte"
+          },
+          {
+            "fsq_id": "6283ebeef455971237be359b",
+            "categories": [
+              {
+                "id": 11056,
+                "name": "Food and Beverage Service",
+                "short_name": "Food Service",
+                "plural_name": "Food and Beverage Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Casa Portuguesa do Pastel de Bacalhau"
+          },
+          {
+            "fsq_id": "5d26677c7cf25000237b78fc",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "O Lote"
+          },
+          {
+            "fsq_id": "5ac7789381635b0fab70fea5",
+            "categories": [
+              {
+                "id": 13058,
+                "name": "Hot Dog Joint",
+                "short_name": "Hot Dogs",
+                "plural_name": "Hot Dog Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Dogs"
+          },
+          {
+            "fsq_id": "5379f8c8498ea6c44266d614",
+            "categories": [
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A Pra\u00e7a"
+          },
+          {
+            "fsq_id": "50ad4777e4b0f32f45d76e24",
+            "categories": [
+              {
+                "id": 13276,
+                "name": "Sushi Restaurant",
+                "short_name": "Sushi",
+                "plural_name": "Sushi Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sushi Factory"
+          },
+          {
+            "fsq_id": "59ad67248e886a2b384bb1e1",
+            "categories": [
+              {
+                "id": 13303,
+                "name": "Mexican Restaurant",
+                "short_name": "Mexican",
+                "plural_name": "Mexican Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mez Cais LX"
+          },
+          {
+            "fsq_id": "5af868f2336273002c0432b6",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gin Royal"
+          },
+          {
+            "fsq_id": "5953f93a3c858d4f1e91f75a",
+            "categories": [
+              {
+                "id": 11036,
+                "name": "Entertainment Service",
+                "short_name": "Entertainment Service",
+                "plural_name": "Entertainment Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lx Escape"
+          },
+          {
+            "fsq_id": "60bfc1319bf0196c3313bd42",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "USAXE Club"
+          },
+          {
+            "fsq_id": "64626c14415ac5137072deed",
+            "categories": [
+              {
+                "id": 17138,
+                "name": "Vintage and Thrift Store",
+                "short_name": "Vintage and Thrift Store",
+                "plural_name": "Vintage and Thrift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rozza Vintage"
+          },
+          {
+            "fsq_id": "5b86d39d1953f3002c09a394",
+            "categories": [
+              {
+                "id": 17020,
+                "name": "Boutique",
+                "short_name": "Boutique",
+                "plural_name": "Boutiques",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Shown Clothing & Gift"
+          },
+          {
+            "fsq_id": "5a04a2d90802d42aa2f78a9b",
+            "categories": [
+              {
+                "id": 11167,
+                "name": "Technology Business",
+                "short_name": "Technology Business",
+                "plural_name": "Technology Business",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Startup Guide Store"
+          },
+          {
+            "fsq_id": "5b056c738a6f17002cd9dc45",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Coolnvintage"
+          },
+          {
+            "fsq_id": "62ebc9775f82564cd870d48a",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ementa Store"
+          },
+          {
+            "fsq_id": "62ebc7f3eb89431d38cf15ab",
+            "categories": [
+              {
+                "id": 17113,
+                "name": "Record Store",
+                "short_name": "Record Store",
+                "plural_name": "Record Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/record_shop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bones Records"
+          },
+          {
+            "fsq_id": "59ff02df4186861cd1eb2721",
+            "categories": [
+              {
+                "id": 17069,
+                "name": "Grocery Store",
+                "short_name": "Grocery Store",
+                "plural_name": "Grocery Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Organii Eco Market"
+          },
+          {
+            "fsq_id": "4bd987b1e914a59390cb56fa",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cantina LX Factory"
+          },
+          {
+            "fsq_id": "5d921df56db35b00078ad908",
+            "categories": [
+              {
+                "id": 11061,
+                "name": "Health and Beauty Service",
+                "short_name": "Health and Beauty Service",
+                "plural_name": "Health and Beauty Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Benamor"
+          },
+          {
+            "fsq_id": "522f0e0f2fc6e806fee1c244",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Burger Factory"
+          },
+          {
+            "fsq_id": "5d25ca1a2081a20023086760",
+            "categories": [
+              {
+                "id": 13079,
+                "name": "Brazilian Restaurant",
+                "short_name": "Brazilian",
+                "plural_name": "Brazilian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boqueir\u00e3o Sabor A Brasil"
+          },
+          {
+            "fsq_id": "5d73c59dea4bf40007355ae7",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jameson Distillery On Tour - Lx Factory"
+          },
+          {
+            "fsq_id": "5dcd566660fb4e0008b5add8",
+            "categories": [
+              {
+                "id": 17024,
+                "name": "Camera Store",
+                "short_name": "Camera Store",
+                "plural_name": "Camera Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/camerastore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Vintage Dream Camera"
+          },
+          {
+            "fsq_id": "5aaadb9b531593779dbaf279",
+            "categories": [
+              {
+                "id": 13026,
+                "name": "BBQ Joint",
+                "short_name": "BBQ",
+                "plural_name": "BBQ Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cucurico"
+          },
+          {
+            "fsq_id": "577fd5c7498ecb4ed1713332",
+            "categories": [
+              {
+                "id": 11001,
+                "name": "Advertising Agency",
+                "short_name": "Advertising Agency",
+                "plural_name": "Advertising Agencies",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ideias Indom\u00e1veis"
+          },
+          {
+            "fsq_id": "60df6140bae1ba105163e49a",
+            "categories": [
+              {
+                "id": 13029,
+                "name": "Brewery",
+                "short_name": "Brewery",
+                "plural_name": "Breweries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Beers Factory"
+          },
+          {
+            "fsq_id": "63d7d5dbd4c47251240d8bc2",
+            "categories": [
+              {
+                "id": 17113,
+                "name": "Record Store",
+                "short_name": "Record Store",
+                "plural_name": "Record Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/record_shop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jazz Messengers"
+          },
+          {
+            "fsq_id": "4cc0750b020d4688c87c6838",
+            "categories": [
+              {
+                "id": 11169,
+                "name": "Website Designer",
+                "short_name": "Website Designer",
+                "plural_name": "Website Designers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Curiosidade Digital"
+          },
+          {
+            "fsq_id": "5ff4ae2d7f09066e32b37c4f",
+            "categories": [
+              {
+                "id": 13303,
+                "name": "Mexican Restaurant",
+                "short_name": "Mexican",
+                "plural_name": "Mexican Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mex Factory"
+          },
+          {
+            "fsq_id": "6297c63efb295a144a19d5f6",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Micro Burger"
+          },
+          {
+            "fsq_id": "63b5b7e2997e5762cb01b608",
+            "categories": [
+              {
+                "id": 13323,
+                "name": "Peruvian Roast Chicken Joint",
+                "short_name": "Peruvian Roast Chicken",
+                "plural_name": "Peruvian Roast Chicken Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/peruvian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chickinho"
+          },
+          {
+            "fsq_id": "58fb7d7dd7627e4dd36ae9c4",
+            "categories": [
+              {
+                "id": 13025,
+                "name": "Wine Bar",
+                "short_name": "Wine Bar",
+                "plural_name": "Wine Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Central da Avenida"
+          },
+          {
+            "fsq_id": "62ebc91ace6b821ca9290750",
+            "categories": [
+              {
+                "id": 17138,
+                "name": "Vintage and Thrift Store",
+                "short_name": "Vintage and Thrift Store",
+                "plural_name": "Vintage and Thrift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Garage Sale"
+          },
+          {
+            "fsq_id": "4d5693f1143ca0934becbcfc",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Caf\u00e9 na F\u00e1brica"
+          },
+          {
+            "fsq_id": "62e257cd45b12a5a6b020daf",
+            "categories": [
+              {
+                "id": 13381,
+                "name": "Smoothie Shop",
+                "short_name": "Smoothie Shop",
+                "plural_name": "Smoothie Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fred\u2019s"
+          },
+          {
+            "fsq_id": "5ce06f21f870fd002cf22019",
+            "categories": [
+              {
+                "id": 10004,
+                "name": "Art Gallery",
+                "short_name": "Art Gallery",
+                "plural_name": "Art Galleries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Casa70"
+          },
+          {
+            "fsq_id": "53163387498e2af1de47c537",
+            "categories": [
+              {
+                "id": 17002,
+                "name": "Antique Store",
+                "short_name": "Antiques",
+                "plural_name": "Antique Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/antique_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Muitomuito"
+          },
+          {
+            "fsq_id": "5ad1c52d3e6741122b953928",
+            "categories": [
+              {
+                "id": 11030,
+                "name": "Design Studio",
+                "short_name": "Design",
+                "plural_name": "Design Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/design_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Dubalacobaco"
+          },
+          {
+            "fsq_id": "59ef5b49c5b11c23f74d5fb8",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Stone Lifestyle"
+          },
+          {
+            "fsq_id": "4ca245ad750ca093acf20e67",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13299,
+                "name": "Malay Restaurant",
+                "short_name": "Malay",
+                "plural_name": "Malay Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/malaysian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Malaca Too"
+          },
+          {
+            "fsq_id": "56ad0e59498eed48210d01ea",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13070,
+                "name": "Argentinian Restaurant",
+                "short_name": "Argentinian",
+                "plural_name": "Argentinian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Chanta"
+          },
+          {
+            "fsq_id": "618edfff30eb6831990023f3",
+            "categories": [
+              {
+                "id": 13072,
+                "name": "Asian Restaurant",
+                "short_name": "Asian",
+                "plural_name": "Asian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Matchamama"
+          },
+          {
+            "fsq_id": "61157a0d7b94ce1bfd4d287c",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "LXHostel Bar"
+          },
+          {
+            "fsq_id": "609d9a3e28ba2d5418d0d98c",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boro God\u00f3"
+          },
+          {
+            "fsq_id": "553123e3498eade00e4e8ebd",
+            "categories": [
+              {
+                "id": 17060,
+                "name": "Candy Store",
+                "short_name": "Candy Store",
+                "plural_name": "Candy Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17068,
+                "name": "Gourmet Store",
+                "short_name": "Gourmet",
+                "plural_name": "Gourmet Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17076,
+                "name": "Liquor Store",
+                "short_name": "Liquor Store",
+                "plural_name": "Liquor Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "More Than Wine"
+          },
+          {
+            "fsq_id": "50b93fa0e4b063c748302aa3",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Espa\u00e7o Brasil"
+          },
+          {
+            "fsq_id": "556dab32498e7338f7fc57fc",
+            "categories": [
+              {
+                "id": 11065,
+                "name": "Body Piercing Shop",
+                "short_name": "Body Piercing Shop",
+                "plural_name": "Body Piercing Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/piercing_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Queen Of Hearts Tattoos - Lx Factory"
+          },
+          {
+            "fsq_id": "59ef63d046e1b6579b21bb28",
+            "categories": [
+              {
+                "id": 17042,
+                "name": "Children's Clothing Store",
+                "short_name": "Children's Clothing Store",
+                "plural_name": "Children's Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_kids_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Petit Love"
+          },
+          {
+            "fsq_id": "59cbf15060255e1072a664ef",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Showu"
+          },
+          {
+            "fsq_id": "59ef5c703362737451b093dc",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Be Concept Store"
+          },
+          {
+            "fsq_id": "63b5afd8f0ce682a796a526b",
+            "categories": [
+              {
+                "id": 13019,
+                "name": "Rooftop Bar",
+                "short_name": "Rooftop Bar",
+                "plural_name": "Rooftop Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "LX Rooftop Bar"
+          },
+          {
+            "fsq_id": "5d04d680e8f92800237cac3d",
+            "categories": [
+              {
+                "id": 13002,
+                "name": "Bakery",
+                "short_name": "Bakery",
+                "plural_name": "Bakeries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A Nata do Lx"
+          },
+          {
+            "fsq_id": "5d4f1e980da7ea000b81e48c",
+            "categories": [
+              {
+                "id": 13006,
+                "name": "Beer Bar",
+                "short_name": "Beer Bar",
+                "plural_name": "Beer Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Unico On Tap"
+          },
+          {
+            "fsq_id": "5b9568babed4830039329475",
+            "categories": [
+              {
+                "id": 10004,
+                "name": "Art Gallery",
+                "short_name": "Art Gallery",
+                "plural_name": "Art Galleries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "VIZINHOS Art Gallery"
+          },
+          {
+            "fsq_id": "5e3f38586d0be0000870b760",
+            "categories": [
+              {
+                "id": 13011,
+                "name": "Gay Bar",
+                "short_name": "Gay Bar",
+                "plural_name": "Gay Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/gaybar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Dragtaste"
+          },
+          {
+            "fsq_id": "5d74da70528cb800088ac748",
+            "categories": [
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Salamaria"
+          },
+          {
+            "fsq_id": "5ad1c67d0d8a0f0fbc89fd99",
+            "categories": [
+              {
+                "id": 11022,
+                "name": "Campaign Office",
+                "short_name": "Campaign",
+                "plural_name": "Campaign Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ideias Indom\u00e1veis"
+          },
+          {
+            "fsq_id": "5dcea57b51b2650008b700d2",
+            "categories": [
+              {
+                "id": 17066,
+                "name": "Fish Market",
+                "short_name": "Fish Market",
+                "plural_name": "Fish Markets",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_fishmarket_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Comur. A Conserveira de Portugal"
+          },
+          {
+            "fsq_id": "57472772498e8320e07c253a",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13046,
+                "name": "Ice Cream Parlor",
+                "short_name": "Ice Cream",
+                "plural_name": "Ice Cream Parlors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chef Nino - LXFactory"
+          },
+          {
+            "fsq_id": "5b86d0e467e5f2002c8190fb",
+            "categories": [
+              {
+                "id": 17020,
+                "name": "Boutique",
+                "short_name": "Boutique",
+                "plural_name": "Boutiques",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fuckdup"
+          },
+          {
+            "fsq_id": "5b9bb54b8ad62e0039411c54",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Brigadeirando"
+          },
+          {
+            "fsq_id": "642d9853814e5a53611e9483",
+            "categories": [
+              {
+                "id": 17126,
+                "name": "Skate Store",
+                "short_name": "Skate Store",
+                "plural_name": "Skate Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skate_park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Streetz"
+          },
+          {
+            "fsq_id": "646bbc443ccdb60681d200f9",
+            "categories": [
+              {
+                "id": 13381,
+                "name": "Smoothie Shop",
+                "short_name": "Smoothie Shop",
+                "plural_name": "Smoothie Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Oak Berry Lxfactory"
+          },
+          {
+            "fsq_id": "5b636bf38496ca002c3ac52a",
+            "categories": [
+              {
+                "id": 17045,
+                "name": "Jewelry Store",
+                "short_name": "Jewelry",
+                "plural_name": "Jewelry Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "BERGUE | Jewelry Tailors"
+          },
+          {
+            "fsq_id": "4d4b2d7416a2ba7a621d8bde",
+            "categories": [
+              {
+                "id": 17060,
+                "name": "Candy Store",
+                "short_name": "Candy Store",
+                "plural_name": "Candy Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Landeau Chocolate"
+          },
+          {
+            "fsq_id": "5bd742001acf11002cad9fba",
+            "categories": [
+              {
+                "id": 13000,
+                "name": "Dining and Drinking",
+                "short_name": "Dining and Drinking",
+                "plural_name": "Dining and Drinking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Veggie Wave"
+          },
+          {
+            "fsq_id": "54bbfa46498e3c65bab67417",
+            "categories": [
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "LXeeseCake"
+          },
+          {
+            "fsq_id": "58c15a3c76b8b25cb5a1987d",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13134,
+                "name": "Comfort Food Restaurant",
+                "short_name": "Comfort Food",
+                "plural_name": "Comfort Food Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Therapist"
+          },
+          {
+            "fsq_id": "559a94bd498ecc6bc8ae99bc",
+            "categories": [
+              {
+                "id": 11001,
+                "name": "Advertising Agency",
+                "short_name": "Advertising Agency",
+                "plural_name": "Advertising Agencies",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sonder People"
+          },
+          {
+            "fsq_id": "62726a84ad4de81b73014b19",
+            "categories": [
+              {
+                "id": 19013,
+                "name": "Hostel",
+                "short_name": "Hostel",
+                "plural_name": "Hostels",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "LX Hostel"
+          },
+          {
+            "fsq_id": "4c18d478838020a1ecb3e461",
+            "categories": [
+              {
+                "id": 17018,
+                "name": "Bookstore",
+                "short_name": "Bookstore",
+                "plural_name": "Bookstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ler Devagar"
+          },
+          {
+            "fsq_id": "5d20ce8da24dd70023a1424c",
+            "categories": [
+              {
+                "id": 17089,
+                "name": "Gift Store",
+                "short_name": "Gift Store",
+                "plural_name": "Gift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Re_Member Lisboa"
+          },
+          {
+            "fsq_id": "55d06e31498ee45205d9bfd1",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Wish - Slow Coffee House"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54d373dd498eea537858da6d",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2320,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.723425,
+          "longitude": -9.154408
+        },
+        "main": {
+          "latitude": 38.723484,
+          "longitude": -9.154295
+        },
+        "roof": {
+          "latitude": 38.723484,
+          "longitude": -9.154295
+        }
+      },
+      "link": "/v3/places/54d373dd498eea537858da6d",
+      "location": {
+        "address": "Rua Artilharia 1, 16B",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Artilharia 1, 16B, 1250-039 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-039",
+        "region": "Lisboa"
+      },
+      "name": "Forno d'Oro",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d3051245acfa35d69dff7cb",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 812,
+      "geocodes": {
+        "main": {
+          "latitude": 38.73864,
+          "longitude": -9.151451
+        },
+        "roof": {
+          "latitude": 38.73864,
+          "longitude": -9.151451
+        }
+      },
+      "link": "/v3/places/4d3051245acfa35d69dff7cb",
+      "location": {
+        "address": "Avenida Elias Garcia, 172A",
+        "country": "PT",
+        "formatted_address": "Avenida Elias Garcia, 172A, 1050-103 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-103",
+        "region": "Lisboa"
+      },
+      "name": "Casa Nepalesa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bb6f76f2ea195217473ac2f",
+      "categories": [
+        {
+          "id": 19013,
+          "name": "Hostel",
+          "short_name": "Hostel",
+          "plural_name": "Hostels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3753,
+      "geocodes": {
+        "main": {
+          "latitude": 38.709181,
+          "longitude": -9.137808
+        },
+        "roof": {
+          "latitude": 38.709181,
+          "longitude": -9.137808
+        }
+      },
+      "link": "/v3/places/4bb6f76f2ea195217473ac2f",
+      "location": {
+        "address": "Rua de S\u00e3o Juli\u00e3o, 148",
+        "country": "PT",
+        "formatted_address": "Rua de S\u00e3o Juli\u00e3o, 148, 1100-527 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-527",
+        "region": "Lisboa"
+      },
+      "name": "Yes! Lisbon Hostel",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54e90096498e7c3cfcd81b31",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13058,
+          "name": "Hot Dog Joint",
+          "short_name": "Hot Dogs",
+          "plural_name": "Hot Dog Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1412,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.752996,
+          "longitude": -9.152846
+        },
+        "main": {
+          "latitude": 38.753114,
+          "longitude": -9.152892
+        },
+        "roof": {
+          "latitude": 38.753114,
+          "longitude": -9.152892
+        }
+      },
+      "link": "/v3/places/54e90096498e7c3cfcd81b31",
+      "location": {
+        "address": "Rua Dr. Jo\u00e3o Soares, 8B",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Dr. Jo\u00e3o Soares, 8B, 1600-062 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-062",
+        "region": "Lisboa"
+      },
+      "name": "Frankie",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "58d515210b56560fa5ebd9d0",
+      "categories": [
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2486,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.720217,
+          "longitude": -9.14507
+        },
+        "main": {
+          "latitude": 38.720303,
+          "longitude": -9.144972
+        },
+        "roof": {
+          "latitude": 38.720303,
+          "longitude": -9.144972
+        }
+      },
+      "link": "/v3/places/58d515210b56560fa5ebd9d0",
+      "location": {
+        "address": "Avenida da Liberdade, 182-184",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida da Liberdade, 182-184, 1250-146 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-146",
+        "region": "Lisboa"
+      },
+      "name": "JNcQUOI",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54f627e9498ec2da3d098dbb",
+      "categories": [
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3619,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.713598,
+          "longitude": -9.124258
+        },
+        "main": {
+          "latitude": 38.713698,
+          "longitude": -9.124194
+        },
+        "roof": {
+          "latitude": 38.713698,
+          "longitude": -9.124194
+        }
+      },
+      "link": "/v3/places/54f627e9498ec2da3d098dbb",
+      "location": {
+        "address": "Cal\u00e7ada do Forte, 22",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Cal\u00e7ada do Forte, 22, 1100-256 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-256",
+        "region": "Lisboa"
+      },
+      "name": "Taberna Sal Grosso",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a2f964a5200dd122e3",
+      "categories": [
+        {
+          "id": 16046,
+          "name": "Scenic Lookout",
+          "short_name": "Scenic Lookout",
+          "plural_name": "Scenic Lookouts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3039,
+      "geocodes": {
+        "main": {
+          "latitude": 38.715135,
+          "longitude": -9.144277
+        }
+      },
+      "link": "/v3/places/4b0588a2f964a5200dd122e3",
+      "location": {
+        "address": "Rua de S\u00e3o Pedro de Alc\u00e2ntara",
+        "country": "PT",
+        "formatted_address": "Rua de S\u00e3o Pedro de Alc\u00e2ntara, 1250-238 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-238",
+        "region": "Lisboa"
+      },
+      "name": "Miradouro de S\u00e3o Pedro de Alc\u00e2ntara",
+      "related_places": {
+        "parent": {
+          "fsq_id": "519df286498eb0c0ec8789b5",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardim Ant\u00f3nio Nobre"
+        },
+        "children": [
+          {
+            "fsq_id": "59c79ef0f5e9d70dc1b46ec8",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Miradouro"
+          },
+          {
+            "fsq_id": "5d111d64d5d77a0023eb24b1",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ceviche & Pisco Bar"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "54bad076498ec5c2691012ed",
+      "categories": [
+        {
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "short_name": "Sushi",
+          "plural_name": "Sushi Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1041,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.736098,
+          "longitude": -9.152281
+        },
+        "main": {
+          "latitude": 38.736119,
+          "longitude": -9.152153
+        },
+        "roof": {
+          "latitude": 38.736119,
+          "longitude": -9.152153
+        }
+      },
+      "link": "/v3/places/54bad076498ec5c2691012ed",
+      "location": {
+        "address": "Rua Marqu\u00eas S\u00e1 da Bandeira, 46",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Marqu\u00eas S\u00e1 da Bandeira, 46, 1050-165 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-165",
+        "region": "Lisboa"
+      },
+      "name": "Go Juu",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c49f90c20ab1b8d092e7f17",
+      "categories": [
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3866,
+      "geocodes": {
+        "main": {
+          "latitude": 38.708403,
+          "longitude": -9.153135
+        },
+        "roof": {
+          "latitude": 38.708403,
+          "longitude": -9.153135
+        }
+      },
+      "link": "/v3/places/4c49f90c20ab1b8d092e7f17",
+      "location": {
+        "address": "Avenida D. Carlos I 55",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida D. Carlos I 55, 1200-647 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-647",
+        "region": "Lisboa"
+      },
+      "name": "Restaurante Frade dos Mares",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e21eed688774a43b76f56f3",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3858,
+      "geocodes": {
+        "main": {
+          "latitude": 38.710071,
+          "longitude": -9.159376
+        },
+        "roof": {
+          "latitude": 38.710071,
+          "longitude": -9.159376
+        }
+      },
+      "link": "/v3/places/4e21eed688774a43b76f56f3",
+      "location": {
+        "address": "Rua das Trinas, 129",
+        "address_extended": "r/c",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua das Trinas, 129, 1200-857 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-857",
+        "region": "Lisboa"
+      },
+      "name": "Clube de Jornalistas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c2deb464e132d7ff7289ddf",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3629,
+      "geocodes": {
+        "main": {
+          "latitude": 38.709859,
+          "longitude": -9.141401
+        },
+        "roof": {
+          "latitude": 38.709859,
+          "longitude": -9.141401
+        }
+      },
+      "link": "/v3/places/4c2deb464e132d7ff7289ddf",
+      "location": {
+        "address": "Largo de S\u00e3o Carlos 10",
+        "country": "PT",
+        "formatted_address": "Largo de S\u00e3o Carlos 10, 1200-410 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-410",
+        "region": "Lisboa"
+      },
+      "name": "Restaurante Belcanto",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "527c01b4498e3ab1a13dae47",
+      "categories": [
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3652,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.709867,
+          "longitude": -9.149225
+        },
+        "main": {
+          "latitude": 38.70987,
+          "longitude": -9.149197
+        },
+        "roof": {
+          "latitude": 38.70987,
+          "longitude": -9.149197
+        }
+      },
+      "link": "/v3/places/527c01b4498e3ab1a13dae47",
+      "location": {
+        "address": "Travessa do Alcaide 4C",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Travessa do Alcaide 4C, 1200-013 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-013",
+        "region": "Lisboa"
+      },
+      "name": "Fumeiro de Santa Catarina",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d09e3bb9de0b1f7c6258053",
+      "categories": [
+        {
+          "id": 10027,
+          "name": "Museum",
+          "short_name": "Museum",
+          "plural_name": "Museums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1103,
+      "geocodes": {
+        "main": {
+          "latitude": 38.737389,
+          "longitude": -9.154629
+        },
+        "roof": {
+          "latitude": 38.737389,
+          "longitude": -9.154629
+        }
+      },
+      "link": "/v3/places/4d09e3bb9de0b1f7c6258053",
+      "location": {
+        "address": "Avenida de Berna, 45 A",
+        "country": "PT",
+        "cross_street": "217823000",
+        "formatted_address": "Avenida de Berna, 45 A (217823000), 1050-039 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1050-039",
+        "region": "Lisboa"
+      },
+      "name": "Calouste Gulbenkian Foundation (Funda\u00e7\u00e3o Calouste Gulbenkian)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "6463c9a3aa991641f59f7a3d",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Foyer 1\u00ba Andar"
+          },
+          {
+            "fsq_id": "4ed10c9be5faa5ec03890b9c",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10042,
+                "name": "Opera House",
+                "short_name": "Opera House",
+                "plural_name": "Opera Houses",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_operahouse_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grande Audit\u00f3rio Gulbenkian"
+          },
+          {
+            "fsq_id": "50e576e0e4b08ec8fa3be2bb",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu Calouste Gulbenkian"
+          },
+          {
+            "fsq_id": "4bd836cc35aad13ad54c90f3",
+            "categories": [
+              {
+                "id": 10028,
+                "name": "Art Museum",
+                "short_name": "Art Museum",
+                "plural_name": "Art Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16047,
+                "name": "Sculpture Garden",
+                "short_name": "Sculpture",
+                "plural_name": "Sculpture Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim da Funda\u00e7\u00e3o Calouste Gulbenkian"
+          },
+          {
+            "fsq_id": "4c7128e59c6d6dcb668ed47a",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafetaria do Centro de Arte Moderna"
+          },
+          {
+            "fsq_id": "51f11065498ea20715d0c641",
+            "categories": [
+              {
+                "id": 13046,
+                "name": "Ice Cream Parlor",
+                "short_name": "Ice Cream",
+                "plural_name": "Ice Cream Parlors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Geladaria do Centro Interpretativo da Funda\u00e7\u00e3o Gulbenkian"
+          },
+          {
+            "fsq_id": "4b0588a3f964a5208dd122e3",
+            "categories": [
+              {
+                "id": 10004,
+                "name": "Art Gallery",
+                "short_name": "Art Gallery",
+                "plural_name": "Art Galleries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro de Arte Moderna Jos\u00e9 de Azeredo Perdig\u00e3o"
+          },
+          {
+            "fsq_id": "53c56c6a498ee49c143d9e47",
+            "categories": [
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11029,
+                "name": "Convention Center",
+                "short_name": "Convention Center",
+                "plural_name": "Convention Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Audit\u00f3rio II Gulbenkian"
+          },
+          {
+            "fsq_id": "50d7296be4b079543cd19c4b",
+            "categories": [
+              {
+                "id": 17018,
+                "name": "Bookstore",
+                "short_name": "Bookstore",
+                "plural_name": "Bookstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Livraria da Gulbenkian"
+          },
+          {
+            "fsq_id": "4b0588a5f964a520f1d122e3",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafetaria da Funda\u00e7\u00e3o Gulbenkian"
+          },
+          {
+            "fsq_id": "4d2b368e6e27a1437aae3524",
+            "categories": [
+              {
+                "id": 12080,
+                "name": "Library",
+                "short_name": "Library",
+                "plural_name": "Libraries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Biblioteca de Arte da Funda\u00e7\u00e3o Calouste Gulbenkian"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "51226c72e4b002b6fa144b52",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2378,
+      "geocodes": {
+        "main": {
+          "latitude": 38.72447,
+          "longitude": -9.158473
+        },
+        "roof": {
+          "latitude": 38.72447,
+          "longitude": -9.158473
+        }
+      },
+      "link": "/v3/places/51226c72e4b002b6fa144b52",
+      "location": {
+        "address": "Avenida Engenheiro Duarte Pacheco 15",
+        "country": "PT",
+        "formatted_address": "Avenida Engenheiro Duarte Pacheco 15, 1070-100 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-100",
+        "region": "Lisboa"
+      },
+      "name": "EPIC SANA Lisboa Hotel",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "51763519e4b03b4fa07e5c8e",
+            "categories": [
+              {
+                "id": 11073,
+                "name": "Spa",
+                "short_name": "Spa",
+                "plural_name": "Spas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sayanna Wellness SPA"
+          },
+          {
+            "fsq_id": "53bd41f1498e6968baae1483",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "UpScale Bar"
+          },
+          {
+            "fsq_id": "5883afcf2f91cb3bc7b8113b",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gym @ Epic Sana"
+          },
+          {
+            "fsq_id": "571ebd1a498e3f1c20b49dcd",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Epic Sana Roof Bar"
+          },
+          {
+            "fsq_id": "621546cabb8e8f188219b0df",
+            "categories": [
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Allora"
+          },
+          {
+            "fsq_id": "5d2af87899a98b00235b7de2",
+            "categories": [
+              {
+                "id": 13028,
+                "name": "Breakfast Spot",
+                "short_name": "Breakfast",
+                "plural_name": "Breakfast Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Breakfast - Epic Sana Lisboa"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d1e3f5bd7b0b1f7ab52029f",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "short_name": "Plaza",
+          "plural_name": "Plazas",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3566,
+      "geocodes": {
+        "main": {
+          "latitude": 38.710674,
+          "longitude": -9.142195
+        },
+        "roof": {
+          "latitude": 38.710674,
+          "longitude": -9.142195
+        }
+      },
+      "link": "/v3/places/4d1e3f5bd7b0b1f7ab52029f",
+      "location": {
+        "address": "Largo do Chiado 8",
+        "country": "PT",
+        "formatted_address": "Largo do Chiado 8, 1200-108 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1200-108",
+        "region": "Lisboa"
+      },
+      "name": "Largo do Chiado",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "629735491905ab31325b63a5",
+            "categories": [
+              {
+                "id": 19043,
+                "name": "Bus Stop",
+                "short_name": "Bus Stop",
+                "plural_name": "Bus Stops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Paragem Carris C10514 Chiado"
+          },
+          {
+            "fsq_id": "5da6e475f906430008b8fc68",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estatua de Antonio Ribeiro Chiado"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c482d3719fde21e7c960a76",
+      "categories": [
+        {
+          "id": 10056,
+          "name": "Zoo",
+          "short_name": "Zoo",
+          "plural_name": "Zoos",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2232,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743107,
+          "longitude": -9.169216
+        },
+        "roof": {
+          "latitude": 38.743107,
+          "longitude": -9.169216
+        }
+      },
+      "link": "/v3/places/4c482d3719fde21e7c960a76",
+      "location": {
+        "address": "Estrada de Benfica 158/160",
+        "country": "PT",
+        "formatted_address": "Estrada de Benfica 158/160, 1549-004 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1549-004",
+        "region": "Lisboa"
+      },
+      "name": "Jardim Zool\u00f3gico de Lisboa",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4e99c39eb8f7831365fe6fe1",
+            "categories": [
+              {
+                "id": 10056,
+                "name": "Zoo",
+                "short_name": "Zoo",
+                "plural_name": "Zoos",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Animax"
+          },
+          {
+            "fsq_id": "518130c6498ee3c67ebff9b5",
+            "categories": [
+              {
+                "id": 10016,
+                "name": "Exhibit",
+                "short_name": "Exhibit",
+                "plural_name": "Exhibits",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aldeia dos Macacos"
+          },
+          {
+            "fsq_id": "4e4526751495455b10d5f137",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le\u00f5es Marinhos"
+          },
+          {
+            "fsq_id": "50c4a709e4b0e0fa3565cb26",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ba\u00eda dos Golfinhos"
+          },
+          {
+            "fsq_id": "4e22d01bb0fbdf9ba7b7bd8f",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Templo dos Chimpanz\u00e9s"
+          },
+          {
+            "fsq_id": "4efdb1bf6da1cd0356c1958d",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bosque Encantado"
+          },
+          {
+            "fsq_id": "551ec568498e71559f871ca2",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19050,
+                "name": "Tram Station",
+                "short_name": "Tram",
+                "plural_name": "Tram Stations",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bingo do Jardim Zool\u00f3gico de Lisboa"
+          },
+          {
+            "fsq_id": "59945f56e679bc6750647cb8",
+            "categories": [
+              {
+                "id": 10056,
+                "name": "Zoo",
+                "short_name": "Zoo",
+                "plural_name": "Zoos",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Girafa-de-angola"
+          },
+          {
+            "fsq_id": "50015b26e4b0bc516f3e4e1a",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Reptil\u00e1rio"
+          },
+          {
+            "fsq_id": "62b5a3e640b89b1ce05b99e0",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Barzoo"
+          },
+          {
+            "fsq_id": "4c5d4f1b7735c9b66ba28e72",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13145,
+                "name": "Fast Food Restaurant",
+                "short_name": "Fast Food",
+                "plural_name": "Fast Food Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "McDonald's"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a2f964a52008d122e3",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "short_name": "Plaza",
+          "plural_name": "Plazas",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3909,
+      "geocodes": {
+        "main": {
+          "latitude": 38.707826,
+          "longitude": -9.136661
+        }
+      },
+      "link": "/v3/places/4b0588a2f964a52008d122e3",
+      "location": {
+        "address": "Terreiro do Pa\u00e7o",
+        "country": "PT",
+        "formatted_address": "Terreiro do Pa\u00e7o, 1100-148 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-148",
+        "region": "Lisboa"
+      },
+      "name": "Pra\u00e7a do Com\u00e9rcio",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "50c10e52e4b0f848d5e103af",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Est\u00e1tua de Dom Jos\u00e9 I"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5159a55e067d89f46c77589e",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3771,
+      "geocodes": {
+        "main": {
+          "latitude": 38.710165,
+          "longitude": -9.130516
+        },
+        "roof": {
+          "latitude": 38.710165,
+          "longitude": -9.130516
+        }
+      },
+      "link": "/v3/places/5159a55e067d89f46c77589e",
+      "location": {
+        "address": "Travessa das Merceeiras, 27",
+        "country": "PT",
+        "cross_street": "Alfama",
+        "formatted_address": "Travessa das Merceeiras, 27 (Alfama), 1100-348 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1100-348",
+        "region": "Lisboa"
+      },
+      "name": "Memmo Alfama",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5433dcad498ee31baa876c29",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 608,
+      "geocodes": {
+        "main": {
+          "latitude": 38.737275,
+          "longitude": -9.141893
+        },
+        "roof": {
+          "latitude": 38.737275,
+          "longitude": -9.141893
+        }
+      },
+      "link": "/v3/places/5433dcad498ee31baa876c29",
+      "location": {
+        "address": "Avenida Defensores de Chaves 24 B",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Defensores de Chaves 24 B, 1000-117 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1000-117",
+        "region": "Lisboa"
+      },
+      "name": "Gula's for Kitchen Lover's",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 38.7425777,
+          "longitude": -9.1436525
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

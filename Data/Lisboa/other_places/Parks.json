@@ -1,0 +1,3586 @@
+{
+  "results": [
+    {
+      "fsq_id": "4be1b27dae55a5935f3c5b62",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1119,
+      "geocodes": {
+        "main": {
+          "latitude": 38.737068,
+          "longitude": -9.132833
+        }
+      },
+      "link": "/v3/places/4be1b27dae55a5935f3c5b62",
+      "location": {
+        "address": "Alameda Dom Afonso Henriques",
+        "country": "PT",
+        "cross_street": "Av. Almirante Reis",
+        "formatted_address": "Alameda Dom Afonso Henriques (Av. Almirante Reis), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque da Fonte Luminosa",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "50d39c49e4b0200540d6070d",
+            "categories": [
+              {
+                "id": 19013,
+                "name": "Hostel",
+                "short_name": "Hostel",
+                "plural_name": "Hostels",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19014,
+                "name": "Hotel",
+                "short_name": "Hotel",
+                "plural_name": "Hotels",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fonte Luminosa"
+          },
+          {
+            "fsq_id": "5d9136929923820008f8d8f7",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil D. Afonso Henriques"
+          },
+          {
+            "fsq_id": "5ee3b85ff23b0559a7ec3d51",
+            "categories": [
+              {
+                "id": 13382,
+                "name": "Snack Place",
+                "short_name": "Snacks",
+                "plural_name": "Snack Places",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque de Waffles"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a3f964a52075d122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1742,
+      "geocodes": {
+        "main": {
+          "latitude": 38.727874,
+          "longitude": -9.152194
+        }
+      },
+      "link": "/v3/places/4b0588a3f964a52075d122e3",
+      "location": {
+        "country": "PT",
+        "cross_street": "Pr. Marqu\u00eas de Pombal",
+        "formatted_address": "Pr. Marqu\u00eas de Pombal, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque Eduardo VII",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "57d909b3cd100b84fe3eb070",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Miradouro do Parque Eduardo Vii"
+          },
+          {
+            "fsq_id": "4dbb239893a08f92749ce929",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim Am\u00e1lia Rodrigues"
+          },
+          {
+            "fsq_id": "4c8cfe6b55fba093b23a64ab",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque infantil do Parque Eduardo VII"
+          },
+          {
+            "fsq_id": "630792d8eb82983cdb920d25",
+            "categories": [
+              {
+                "id": 10017,
+                "name": "Fair",
+                "short_name": "Fair",
+                "plural_name": "Fairs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/fair_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Stand da Acapo Na Feira do Livro de Lisboa"
+          },
+          {
+            "fsq_id": "504c9d6ce4b0a294baafb2fd",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Central Parque Quiosque"
+          },
+          {
+            "fsq_id": "61bd1ab2a20a9b3ae1f23ca9",
+            "categories": [
+              {
+                "id": 14004,
+                "name": "Festival",
+                "short_name": "Festival",
+                "plural_name": "Festivals",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/event/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Wonderland Lisboa"
+          },
+          {
+            "fsq_id": "50e9a26fe4b0924932b5cb6e",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19020,
+                "name": "Parking",
+                "short_name": "Parking",
+                "plural_name": "Parking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavilh\u00e3o Carlos Lopes"
+          },
+          {
+            "fsq_id": "5ae855381c062d0032a1f05a",
+            "categories": [
+              {
+                "id": 13064,
+                "name": "Pizzeria",
+                "short_name": "Pizza",
+                "plural_name": "Pizzerias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Central Pizza Quiosques"
+          },
+          {
+            "fsq_id": "5a4137fdbcbf7a68d973073c",
+            "categories": [
+              {
+                "id": 13051,
+                "name": "Fish and Chips Shop",
+                "short_name": "Fish and Chips Shop",
+                "plural_name": "Fish and Chips Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fishandchips_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sai Fish"
+          },
+          {
+            "fsq_id": "5f04d49b41bc080fec611e39",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Taps The Sea"
+          },
+          {
+            "fsq_id": "4b0588a2f964a52014d122e3",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estufa Fria"
+          },
+          {
+            "fsq_id": "4b4b6fcdf964a5209d9b26e3",
+            "categories": [
+              {
+                "id": 18027,
+                "name": "Pilates Studio",
+                "short_name": "Pilates Studio",
+                "plural_name": "Pilates Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Clube VII"
+          },
+          {
+            "fsq_id": "4b0588a6f964a5205fd222e3",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurante Eleven"
+          },
+          {
+            "fsq_id": "63179b860e4f1f7810bf896e",
+            "categories": [
+              {
+                "id": 11131,
+                "name": "Outdoor Event Space",
+                "short_name": "Outdoor Event Space",
+                "plural_name": "Outdoor Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Feira Do Livro De Lisboa 2023"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a2f964a52017d122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1806,
+      "geocodes": {
+        "main": {
+          "latitude": 38.756776,
+          "longitude": -9.153793
+        },
+        "roof": {
+          "latitude": 38.756776,
+          "longitude": -9.153793
+        }
+      },
+      "link": "/v3/places/4b0588a2f964a52017d122e3",
+      "location": {
+        "address": "Campo Grande",
+        "country": "PT",
+        "cross_street": "Av. Brasil",
+        "formatted_address": "Campo Grande (Av. Brasil), 1700-090 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1700-090",
+        "region": "Lisboa"
+      },
+      "name": "Jardim do Campo Grande",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "52927cd311d23b77da74b6fc",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Padel Campo Grande"
+          },
+          {
+            "fsq_id": "4b0588a4f964a52098d122e3",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu da Cidade"
+          },
+          {
+            "fsq_id": "541589c1498e6856c63788d3",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Casa do Lago"
+          },
+          {
+            "fsq_id": "52936c5f11d2f4cc8974427c",
+            "categories": [
+              {
+                "id": 16033,
+                "name": "Dog Park",
+                "short_name": "Dog Park",
+                "plural_name": "Dog Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Canino do Campo Grande"
+          },
+          {
+            "fsq_id": "5934341d35dfa7668c5221d0",
+            "categories": [
+              {
+                "id": 12000,
+                "name": "Community and Government",
+                "short_name": "Community and Government",
+                "plural_name": "Communities and Government",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Caleidosc\u00f3pio"
+          },
+          {
+            "fsq_id": "56feba37498e9197b97d9c36",
+            "categories": [
+              {
+                "id": 13031,
+                "name": "Burger Joint",
+                "short_name": "Burgers",
+                "plural_name": "Burger Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13145,
+                "name": "Fast Food Restaurant",
+                "short_name": "Fast Food",
+                "plural_name": "Fast Food Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "McDonald's"
+          },
+          {
+            "fsq_id": "4d177eee816af04d1d944fc2",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Igreja Paroquial do Campo Grande"
+          },
+          {
+            "fsq_id": "5d34adf3e30d57000761182c",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Deja Vu"
+          },
+          {
+            "fsq_id": "58f522d3419a9e48f49b2b0a",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "GO Fit Campo Grande"
+          },
+          {
+            "fsq_id": "615570b407f22f635c23ba67",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim Infantil do Campo Grande"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a2f964a52014d122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1742,
+      "geocodes": {
+        "main": {
+          "latitude": 38.729568,
+          "longitude": -9.154986
+        },
+        "roof": {
+          "latitude": 38.729568,
+          "longitude": -9.154986
+        }
+      },
+      "link": "/v3/places/4b0588a2f964a52014d122e3",
+      "location": {
+        "address": "Parque Eduardo VII",
+        "country": "PT",
+        "formatted_address": "Parque Eduardo VII, 1070-099 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-099",
+        "region": "Lisboa"
+      },
+      "name": "Estufa Fria",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0588a3f964a52075d122e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque Eduardo VII"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bc1ef2c2a89ef3b03e5f288",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3217,
+      "geocodes": {
+        "main": {
+          "latitude": 38.771248,
+          "longitude": -9.155848
+        },
+        "roof": {
+          "latitude": 38.771248,
+          "longitude": -9.155848
+        }
+      },
+      "link": "/v3/places/4bc1ef2c2a89ef3b03e5f288",
+      "location": {
+        "address": "Rua Arnaldo Ferreira, 4J",
+        "country": "PT",
+        "cross_street": "Quinta das Conchas",
+        "formatted_address": "Rua Arnaldo Ferreira, 4J (Quinta das Conchas), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque da Quinta das Conchas",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "593be1529e0d54794dba6409",
+            "categories": [
+              {
+                "id": 17069,
+                "name": "Grocery Store",
+                "short_name": "Grocery Store",
+                "plural_name": "Grocery Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Urban Market Alta de Lisboa"
+          },
+          {
+            "fsq_id": "616567b647abf812c8d0d578",
+            "categories": [
+              {
+                "id": 12056,
+                "name": "Preschool",
+                "short_name": "Preschool",
+                "plural_name": "Preschools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Escola L\u00e1 Fora"
+          },
+          {
+            "fsq_id": "4c8252d3d34ca143fd7e2a80",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurante O Conchas"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "50c4a709e4b0e0fa3565cb26",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2355,
+      "geocodes": {
+        "main": {
+          "latitude": 38.742436,
+          "longitude": -9.170831
+        }
+      },
+      "link": "/v3/places/50c4a709e4b0e0fa3565cb26",
+      "location": {
+        "address": "Jardim Zool\u00f3gico de Lisboa",
+        "country": "PT",
+        "cross_street": "Sete Rios",
+        "formatted_address": "Jardim Zool\u00f3gico de Lisboa (Sete Rios), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Ba\u00eda dos Golfinhos",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c482d3719fde21e7c960a76",
+          "categories": [
+            {
+              "id": 10056,
+              "name": "Zoo",
+              "short_name": "Zoo",
+              "plural_name": "Zoos",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardim Zool\u00f3gico de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b58c526f964a520406a28e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2519,
+      "geocodes": {
+        "main": {
+          "latitude": 38.722251,
+          "longitude": -9.156472
+        }
+      },
+      "link": "/v3/places/4b58c526f964a520406a28e3",
+      "location": {
+        "address": "Rua das Amoreiras",
+        "country": "PT",
+        "cross_street": "Travessa Legua da Povoa",
+        "formatted_address": "Rua das Amoreiras (Travessa Legua da Povoa), 1250-024 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1250-024",
+        "region": "Lisboa"
+      },
+      "name": "Jardim das Amoreiras",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "6140d66ece8337304f998004",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Real Ermida de Nossa Senhora do Monserrate"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bf9485c5ec320a17cee89d3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3147,
+      "geocodes": {
+        "main": {
+          "latitude": 38.733674,
+          "longitude": -9.17815
+        },
+        "roof": {
+          "latitude": 38.733674,
+          "longitude": -9.17815
+        }
+      },
+      "link": "/v3/places/4bf9485c5ec320a17cee89d3",
+      "location": {
+        "address": "Alto da Serafina",
+        "country": "PT",
+        "cross_street": "Monsanto",
+        "formatted_address": "Alto da Serafina (Monsanto), 1070-001 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-001",
+        "region": "Lisboa"
+      },
+      "name": "Parque da Serafina",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ba344d7f964a5208e3238e3",
+      "categories": [
+        {
+          "id": 16034,
+          "name": "National Park",
+          "short_name": "National Park",
+          "plural_name": "National Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4911,
+      "geocodes": {
+        "main": {
+          "latitude": 38.720852,
+          "longitude": -9.192971
+        }
+      },
+      "link": "/v3/places/4ba344d7f964a5208e3238e3",
+      "location": {
+        "address": "Serra de Monsanto",
+        "country": "PT",
+        "formatted_address": "Serra de Monsanto, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque Florestal de Monsanto",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5c51cd59b1538e003965a261",
+            "categories": [
+              {
+                "id": 13377,
+                "name": "Vegan and Vegetarian Restaurant",
+                "short_name": "Vegan and Vegetarian Restaurant",
+                "plural_name": "Vegan and Vegetarian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Greens Projecto"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b5c8567f964a520223429e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5026,
+      "geocodes": {
+        "main": {
+          "latitude": 38.72021,
+          "longitude": -9.19403
+        }
+      },
+      "link": "/v3/places/4b5c8567f964a520223429e3",
+      "location": {
+        "address": "Parque Florestal de Monsanto",
+        "country": "PT",
+        "formatted_address": "Parque Florestal de Monsanto, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Anfiteatro Keil do Amaral",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d8efea6c1b1721ea71e3d46",
+      "categories": [
+        {
+          "id": 10043,
+          "name": "Theater",
+          "short_name": "Theater",
+          "plural_name": "Theaters",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6255,
+      "geocodes": {
+        "main": {
+          "latitude": 38.777562,
+          "longitude": -9.092096
+        },
+        "roof": {
+          "latitude": 38.777562,
+          "longitude": -9.092096
+        }
+      },
+      "link": "/v3/places/4d8efea6c1b1721ea71e3d46",
+      "location": {
+        "address": "Parque das Na\u00e7\u00f5es",
+        "country": "PT",
+        "cross_street": "Parque das Na\u00e7\u00f5es",
+        "formatted_address": "Parque das Na\u00e7\u00f5es (Parque das Na\u00e7\u00f5es), Lisboa",
+        "locality": "Moscavide",
+        "region": "Lisboa"
+      },
+      "name": "Parque do Tejo",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5e10f108b71bee0008c20880",
+            "categories": [
+              {
+                "id": 19021,
+                "name": "Pier",
+                "short_name": "Piers",
+                "plural_name": "Piers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/ferry_pier_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estacada do Arboreto"
+          },
+          {
+            "fsq_id": "59064477bb8d366fea762ff7",
+            "categories": [
+              {
+                "id": 18028,
+                "name": "Yoga Studio",
+                "short_name": "Yoga Studio",
+                "plural_name": "Yoga Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Yogafool"
+          },
+          {
+            "fsq_id": "57a76e84498e5952a571ede0",
+            "categories": [
+              {
+                "id": 11131,
+                "name": "Outdoor Event Space",
+                "short_name": "Outdoor Event Space",
+                "plural_name": "Outdoor Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Out Jazz Festival"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e749da4aeb780be09d3fd65",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5341,
+      "geocodes": {
+        "main": {
+          "latitude": 38.749056,
+          "longitude": -9.204695
+        }
+      },
+      "link": "/v3/places/4e749da4aeb780be09d3fd65",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Mata de Benfica - Parque Silva Porto",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a3f964a52080d122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1822,
+      "geocodes": {
+        "main": {
+          "latitude": 38.749865,
+          "longitude": -9.124538
+        },
+        "roof": {
+          "latitude": 38.749865,
+          "longitude": -9.124538
+        }
+      },
+      "link": "/v3/places/4b0588a3f964a52080d122e3",
+      "location": {
+        "address": "Avenida Almirante Gago Coutinho",
+        "country": "PT",
+        "formatted_address": "Avenida Almirante Gago Coutinho, 1950-000 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1950-000",
+        "region": "Lisboa"
+      },
+      "name": "Parque da Bela Vista",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "631109b10d8eb431d5da7ad5",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kalorama"
+          },
+          {
+            "fsq_id": "5ee92176f91a770007a11729",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque de Fitness"
+          },
+          {
+            "fsq_id": "611e7e610e447702a9b017fe",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Casa de Pedra"
+          },
+          {
+            "fsq_id": "5b2b94162d2fd9002c1c712a",
+            "categories": [
+              {
+                "id": 13052,
+                "name": "Food Court",
+                "short_name": "Food Court",
+                "plural_name": "Food Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Time Out Market Rock In Rio"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bd722d15631c9b6760aa730",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6236,
+      "geocodes": {
+        "main": {
+          "latitude": 38.780835,
+          "longitude": -9.090983
+        }
+      },
+      "link": "/v3/places/4bd722d15631c9b6760aa730",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Moscavide",
+        "locality": "Moscavide",
+        "region": "Lisboa"
+      },
+      "name": "Passeio do Tejo",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d5ffda39f67f04d484a73fb",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2038,
+      "geocodes": {
+        "main": {
+          "latitude": 38.754598,
+          "longitude": -9.141906
+        },
+        "roof": {
+          "latitude": 38.754598,
+          "longitude": -9.141906
+        }
+      },
+      "link": "/v3/places/4d5ffda39f67f04d484a73fb",
+      "location": {
+        "address": "Avenida Almirante Gago Coutinho",
+        "country": "PT",
+        "cross_street": "Av. Brasil",
+        "formatted_address": "Avenida Almirante Gago Coutinho (Av. Brasil), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque Jos\u00e9 Gomes Ferreira",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4caf06ba39458cfa4fcbf69f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2770,
+      "geocodes": {
+        "main": {
+          "latitude": 38.717635,
+          "longitude": -9.145494
+        },
+        "roof": {
+          "latitude": 38.717635,
+          "longitude": -9.145494
+        }
+      },
+      "link": "/v3/places/4caf06ba39458cfa4fcbf69f",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Pra\u00e7a da Alegria",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a2f964a5203cd122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4423,
+      "geocodes": {
+        "main": {
+          "latitude": 38.708877,
+          "longitude": -9.170716
+        },
+        "roof": {
+          "latitude": 38.708877,
+          "longitude": -9.170716
+        }
+      },
+      "link": "/v3/places/4b0588a2f964a5203cd122e3",
+      "location": {
+        "address": "Rua Largo do Rilvas",
+        "country": "PT",
+        "formatted_address": "Rua Largo do Rilvas, 1350-276 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1350-276",
+        "region": "Lisboa"
+      },
+      "name": "Tapada das Necessidades",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "62e2a33f5afd4534c6298c4f",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estufa"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e51391f18383eb2af3a3d5f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8356,
+      "geocodes": {
+        "main": {
+          "latitude": 38.699208,
+          "longitude": -9.181407
+        },
+        "roof": {
+          "latitude": 38.699208,
+          "longitude": -9.181407
+        }
+      },
+      "link": "/v3/places/4e51391f18383eb2af3a3d5f",
+      "location": {
+        "address": "Avenida da \u00cdndia, Lisbon 1300 Portugal",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida da \u00cdndia, Lisbon 1300 Portugal, 1400-206 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1400-206",
+        "region": "Lisboa"
+      },
+      "name": "Jardim da Torre de Bel\u00e9m",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5945116e14994620a63877f2",
+            "categories": [
+              {
+                "id": 13044,
+                "name": "Frozen Yogurt Shop",
+                "short_name": "Yogurt",
+                "plural_name": "Frozen Yogurt Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/frozenyogurt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Weeel"
+          },
+          {
+            "fsq_id": "627295c8918bed5c218af613",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A Original Pina Colada Sexy!"
+          },
+          {
+            "fsq_id": "53666af3498e6cfe8316237c",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "MEO Outjazz"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4edb5d967ee5e8e3e8011d31",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4250,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.780482,
+          "longitude": -9.150875
+        },
+        "main": {
+          "latitude": 38.780372,
+          "longitude": -9.150839
+        },
+        "roof": {
+          "latitude": 38.780372,
+          "longitude": -9.150839
+        }
+      },
+      "link": "/v3/places/4edb5d967ee5e8e3e8011d31",
+      "location": {
+        "address": "Avenida S\u00e9rgio Vieira de Melo",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida S\u00e9rgio Vieira de Melo"
+      },
+      "name": "Parque Oeste - Alta de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bf963b25efe2d7f711d6c34",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8987,
+      "geocodes": {
+        "main": {
+          "latitude": 38.659039,
+          "longitude": -9.165192
+        },
+        "roof": {
+          "latitude": 38.659039,
+          "longitude": -9.165192
+        }
+      },
+      "link": "/v3/places/4bf963b25efe2d7f711d6c34",
+      "location": {
+        "address": "Avenida Arsenal do Alfeite",
+        "country": "PT",
+        "formatted_address": "Avenida Arsenal do Alfeite, 2810-262 Almada",
+        "locality": "Almada",
+        "postcode": "2810-262",
+        "region": "Set\u00fabal"
+      },
+      "name": "Parque da Paz",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "54302481498ed5e70b87f30b",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17071,
+                "name": "Health Food Store",
+                "short_name": "Health Food Store",
+                "plural_name": "Health Food Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Toma l\u00e1 Paz"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d8640e181fdb1f7881d22c0",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10487,
+      "geocodes": {
+        "main": {
+          "latitude": 38.704785,
+          "longitude": -9.25539
+        },
+        "roof": {
+          "latitude": 38.704785,
+          "longitude": -9.25539
+        }
+      },
+      "link": "/v3/places/4d8640e181fdb1f7881d22c0",
+      "location": {
+        "address": "Avenida Pierre de Coubertin",
+        "country": "PT",
+        "cross_street": "Cruz-Quebrada - Dafundo",
+        "formatted_address": "Avenida Pierre de Coubertin (Cruz-Quebrada - Dafundo), 1495-751 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "1495-751",
+        "region": "Lisboa"
+      },
+      "name": "Parque Urbano do Jamor",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5502249a498e2814df1661ee",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jamor Centro Desportivo Nacional"
+        },
+        "children": [
+          {
+            "fsq_id": "57f45e65498ea7aa98614cc8",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro de Alto Rendimento de Atletismo"
+          },
+          {
+            "fsq_id": "56291e12498efc9f1d9abf9a",
+            "categories": [
+              {
+                "id": 16030,
+                "name": "Other Great Outdoors",
+                "short_name": "Other Outdoors",
+                "plural_name": "Other Great Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro de Actividades N\u00e1uticas"
+          },
+          {
+            "fsq_id": "5028e356e4b0b9a324ce2ea6",
+            "categories": [
+              {
+                "id": 10023,
+                "name": "Mini Golf Course",
+                "short_name": "Mini Golf",
+                "plural_name": "Mini Golf Courses",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Minigolfe Jamor"
+          },
+          {
+            "fsq_id": "4eeded6677c82b92f88f322c",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil - Jamor"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "50015b26e4b0bc516f3e4e1a",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2499,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743229,
+          "longitude": -9.172541
+        },
+        "roof": {
+          "latitude": 38.743229,
+          "longitude": -9.172541
+        }
+      },
+      "link": "/v3/places/50015b26e4b0bc516f3e4e1a",
+      "location": {
+        "address": "Jardim Zool\u00f3gico de Lisboa",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Jardim Zool\u00f3gico de Lisboa, 1500-028 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-028",
+        "region": "Lisboa"
+      },
+      "name": "Reptil\u00e1rio",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c482d3719fde21e7c960a76",
+          "categories": [
+            {
+              "id": 10056,
+              "name": "Zoo",
+              "short_name": "Zoo",
+              "plural_name": "Zoos",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardim Zool\u00f3gico de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c94f73e38dd8cfa7601ce62",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7837,
+      "geocodes": {
+        "main": {
+          "latitude": 38.711601,
+          "longitude": -9.224868
+        }
+      },
+      "link": "/v3/places/4c94f73e38dd8cfa7601ce62",
+      "location": {
+        "address": "Avenida Gen. Norton de Matos",
+        "country": "PT",
+        "cross_street": "Alg\u00e9s",
+        "formatted_address": "Avenida Gen. Norton de Matos (Alg\u00e9s), Alg\u00e9s",
+        "locality": "Alg\u00e9s",
+        "region": "Lisboa"
+      },
+      "name": "Parque Urbano Francisco Caldeira Cabral",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "62eee7978cd81b5c81e3bb66",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cajar\u00e9"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d8e4939d4ec8cfab2b76f89",
+      "categories": [
+        {
+          "id": 17101,
+          "name": "Garden Center",
+          "short_name": "Garden Center",
+          "plural_name": "Garden Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/gardencenter_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2832,
+      "geocodes": {
+        "main": {
+          "latitude": 38.759951,
+          "longitude": -9.165572
+        },
+        "roof": {
+          "latitude": 38.759951,
+          "longitude": -9.165572
+        }
+      },
+      "link": "/v3/places/4d8e4939d4ec8cfab2b76f89",
+      "location": {
+        "address": "Rua Professor Francisco Gentil Martins",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Professor Francisco Gentil Martins, 1600-770 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-770",
+        "region": "Lisboa"
+      },
+      "name": "Jardim Professor Francisco Caldeira Cabral em Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ce577ae5bf68cfa8d233d17",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2350,
+      "geocodes": {
+        "main": {
+          "latitude": 38.721625,
+          "longitude": -9.139935
+        }
+      },
+      "link": "/v3/places/4ce577ae5bf68cfa8d233d17",
+      "location": {
+        "address": "Campo dos Martires da Patria",
+        "country": "PT",
+        "formatted_address": "Campo dos Martires da Patria, 1150-225 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1150-225",
+        "region": "Lisboa"
+      },
+      "name": "Campo dos M\u00e1rtires da P\u00e1tria",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b891335f964a520611b32e3",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7676,
+      "geocodes": {
+        "main": {
+          "latitude": 38.776182,
+          "longitude": -9.221156
+        },
+        "roof": {
+          "latitude": 38.776182,
+          "longitude": -9.221156
+        }
+      },
+      "link": "/v3/places/4b891335f964a520611b32e3",
+      "location": {
+        "address": "Dolce Vita Tejo",
+        "address_extended": "lj 1054",
+        "country": "PT",
+        "cross_street": "Loja N\u00ba 1054 | Piso 1",
+        "formatted_address": "Dolce Vita Tejo (Loja N\u00ba 1054 | Piso 1), 2650-507 Amadora",
+        "locality": "Amadora",
+        "postcode": "2650-507",
+        "region": "Lisboa"
+      },
+      "name": "KidZania",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e88793e6c25585c77462a03",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3750,
+      "geocodes": {
+        "main": {
+          "latitude": 38.74718,
+          "longitude": -9.186505
+        },
+        "roof": {
+          "latitude": 38.74718,
+          "longitude": -9.186505
+        }
+      },
+      "link": "/v3/places/4e88793e6c25585c77462a03",
+      "location": {
+        "address": "Rua S\u00e3o Domingos de Benfica",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua S\u00e3o Domingos de Benfica, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Mata S.Domingos Benfica",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d54539ae7f1a1cdb9efeda4",
+      "categories": [
+        {
+          "id": 18055,
+          "name": "Skate Park",
+          "short_name": "Skate Park",
+          "plural_name": "Skate Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skate_park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6655,
+      "geocodes": {
+        "main": {
+          "latitude": 38.787045,
+          "longitude": -9.092202
+        }
+      },
+      "link": "/v3/places/4d54539ae7f1a1cdb9efeda4",
+      "location": {
+        "address": "Passeio do Sapal",
+        "country": "PT",
+        "formatted_address": "Passeio do Sapal, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Terreiro dos Radicais - Skate Park",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bd722675631c9b61a09a730",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5450,
+      "geocodes": {
+        "main": {
+          "latitude": 38.770807,
+          "longitude": -9.092327
+        },
+        "roof": {
+          "latitude": 38.770807,
+          "longitude": -9.092327
+        }
+      },
+      "link": "/v3/places/4bd722675631c9b61a09a730",
+      "location": {
+        "country": "PT",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Passeio das T\u00e1gides",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e635e28c65b2dc8a00532b2",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3156,
+      "geocodes": {
+        "main": {
+          "latitude": 38.753583,
+          "longitude": -9.177232
+        }
+      },
+      "link": "/v3/places/4e635e28c65b2dc8a00532b2",
+      "location": {
+        "address": "Rua Maestro Jaime Silva Filho",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Maestro Jaime Silva Filho, 1500-278 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-278",
+        "region": "Lisboa"
+      },
+      "name": "Parque Bensa\u00fade",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c25c848905a0f473b206260",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14672,
+      "geocodes": {
+        "main": {
+          "latitude": 38.702053,
+          "longitude": -9.30247
+        },
+        "roof": {
+          "latitude": 38.701284,
+          "longitude": -9.305376
+        }
+      },
+      "link": "/v3/places/4c25c848905a0f473b206260",
+      "location": {
+        "address": "Rua Coro de Santo Amaro de Oeiras",
+        "country": "PT",
+        "cross_street": "R. de S\u00e3o Salvador de Ba\u00eda",
+        "formatted_address": "Rua Coro de Santo Amaro de Oeiras (R. de S\u00e3o Salvador de Ba\u00eda), 2780-379 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "2780-379",
+        "region": "Lisboa"
+      },
+      "name": "Poets' Park (Parque dos Poetas)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5f8b26404e6337189af7e7ae",
+            "categories": [
+              {
+                "id": 13016,
+                "name": "Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16045,
+                "name": "Roof Deck",
+                "short_name": "Roof Deck",
+                "plural_name": "Roof Decks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Verso"
+          },
+          {
+            "fsq_id": "55aad714498e68da46d17ae2",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Templo da Poesia"
+          },
+          {
+            "fsq_id": "60bcc2de04202f4c45161cb2",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque dos Poetas"
+          },
+          {
+            "fsq_id": "5e46c5eaa8dc4200086dd1af",
+            "categories": [
+              {
+                "id": 16006,
+                "name": "Bridge",
+                "short_name": "Bridge",
+                "plural_name": "Bridges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ponte do Parque"
+          },
+          {
+            "fsq_id": "4e69ec411495acb0c681a611",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil"
+          },
+          {
+            "fsq_id": "5ceae6ed3ba767002c1319af",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago dos Jardins dos Poetas"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e4526751495455b10d5f137",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2414,
+      "geocodes": {
+        "main": {
+          "latitude": 38.744165,
+          "longitude": -9.171229
+        },
+        "roof": {
+          "latitude": 38.744165,
+          "longitude": -9.171229
+        }
+      },
+      "link": "/v3/places/4e4526751495455b10d5f137",
+      "location": {
+        "address": "Jardim Zoologico",
+        "country": "PT",
+        "cross_street": "Estrada de Benfica",
+        "formatted_address": "Jardim Zoologico (Estrada de Benfica), Benfica",
+        "locality": "Benfica",
+        "region": "Lisboa"
+      },
+      "name": "Le\u00f5es Marinhos",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c482d3719fde21e7c960a76",
+          "categories": [
+            {
+              "id": 10056,
+              "name": "Zoo",
+              "short_name": "Zoo",
+              "plural_name": "Zoos",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardim Zool\u00f3gico de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cb1ea6ab4b0a35db68655ce",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12736,
+      "geocodes": {
+        "main": {
+          "latitude": 38.649588,
+          "longitude": -9.056476
+        },
+        "roof": {
+          "latitude": 38.649588,
+          "longitude": -9.056476
+        }
+      },
+      "link": "/v3/places/4cb1ea6ab4b0a35db68655ce",
+      "location": {
+        "address": "Avenida Parque da Cidade",
+        "country": "PT",
+        "cross_street": "Av. Escola dos Fuzileiros Navais",
+        "formatted_address": "Avenida Parque da Cidade (Av. Escola dos Fuzileiros Navais), Barreiro",
+        "locality": "Barreiro",
+        "region": "Set\u00fabal"
+      },
+      "name": "Parque da Cidade do Barreiro",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5a8468f89e3b6565a709b349",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Coffeetaria"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c374c8893db0f476a7c1f92",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9310,
+      "geocodes": {
+        "main": {
+          "latitude": 38.825622,
+          "longitude": -9.161822
+        },
+        "roof": {
+          "latitude": 38.825622,
+          "longitude": -9.161822
+        }
+      },
+      "link": "/v3/places/4c374c8893db0f476a7c1f92",
+      "location": {
+        "address": "Rua da R\u00e9p\u00fablica",
+        "country": "PT",
+        "formatted_address": "Rua da R\u00e9p\u00fablica, 2670-465 Loures",
+        "locality": "Loures",
+        "postcode": "2670-465",
+        "region": "Lisboa"
+      },
+      "name": "Parque da Cidade",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b954cb14acb19002c9459da",
+            "categories": [
+              {
+                "id": 18055,
+                "name": "Skate Park",
+                "short_name": "Skate Park",
+                "plural_name": "Skate Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skate_park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Skate Park Parque da Cidade"
+          },
+          {
+            "fsq_id": "5af6f971cad1b6002c84a6e8",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fun&Cycle"
+          },
+          {
+            "fsq_id": "626809125015d010a1d7f54c",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rituale"
+          },
+          {
+            "fsq_id": "5adc8cc11b0ea51c83e75f78",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sabores da Terra"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4da9ccc88154abafc29cf2f8",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6711,
+      "geocodes": {
+        "main": {
+          "latitude": 38.705859,
+          "longitude": -9.204928
+        },
+        "roof": {
+          "latitude": 38.705859,
+          "longitude": -9.204928
+        }
+      },
+      "link": "/v3/places/4da9ccc88154abafc29cf2f8",
+      "location": {
+        "address": "Rua Trist\u00e3o Vaz",
+        "country": "PT",
+        "formatted_address": "Rua Trist\u00e3o Vaz, 1400-903 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1400-903",
+        "region": "Lisboa"
+      },
+      "name": "Parque Recreativo dos Moinhos de Santana",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d2f268bda7cb60c1c5a75d4",
+      "categories": [
+        {
+          "id": 16000,
+          "name": "Landmarks and Outdoors",
+          "short_name": "Landmarks and Outdoors",
+          "plural_name": "Landmarks and Outdoors",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8281,
+      "geocodes": {
+        "main": {
+          "latitude": 38.709313,
+          "longitude": -9.229153
+        }
+      },
+      "link": "/v3/places/4d2f268bda7cb60c1c5a75d4",
+      "location": {
+        "address": "Rua Santa Teresa do Menino Jesus",
+        "country": "PT",
+        "cross_street": "Miraflores",
+        "formatted_address": "Rua Santa Teresa do Menino Jesus (Miraflores), Oeiras",
+        "locality": "Oeiras",
+        "region": "Lisboa"
+      },
+      "name": "Parque Urbano Quinta de Santo Ant\u00f3nio",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cfb7a2234c1a0932d6c460e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16005,
+      "geocodes": {
+        "main": {
+          "latitude": 38.68882,
+          "longitude": -9.315005
+        },
+        "roof": {
+          "latitude": 38.68882,
+          "longitude": -9.315005
+        }
+      },
+      "link": "/v3/places/4cfb7a2234c1a0932d6c460e",
+      "location": {
+        "address": "Largo Almirante Gago Coutinho",
+        "country": "PT",
+        "formatted_address": "Largo Almirante Gago Coutinho, Oeiras",
+        "locality": "Oeiras",
+        "region": "Lisboa"
+      },
+      "name": "Jardim Municipal de Oeiras",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d84f08902eb5481815b39f5",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil do Jardim Almirante Gago Coutinho"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f38043de4b0a8273f7b61b4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13080,
+      "geocodes": {
+        "main": {
+          "latitude": 38.650563,
+          "longitude": -9.237679
+        }
+      },
+      "link": "/v3/places/4f38043de4b0a8273f7b61b4",
+      "location": {
+        "country": "PT",
+        "formatted_address": "Costa da Caparica",
+        "locality": "Costa da Caparica",
+        "region": "Set\u00fabal"
+      },
+      "name": "Jardim Urbano da Costa de Caparica",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c8582b7ee6fef3b10953c5c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10663,
+      "geocodes": {
+        "main": {
+          "latitude": 38.661037,
+          "longitude": -9.07894
+        }
+      },
+      "link": "/v3/places/4c8582b7ee6fef3b10953c5c",
+      "location": {
+        "address": "Avenida Alfredo da Silva",
+        "country": "PT",
+        "cross_street": "btw Miguel pais & Miguel Bombarda",
+        "formatted_address": "Avenida Alfredo da Silva (btw Miguel pais & Miguel Bombarda), Barreiro",
+        "locality": "Barreiro",
+        "region": "Set\u00fabal"
+      },
+      "name": "Parque Catarina Euf\u00e9mia",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a3f964a52060d122e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22096,
+      "geocodes": {
+        "main": {
+          "latitude": 38.787771,
+          "longitude": -9.38766
+        },
+        "roof": {
+          "latitude": 38.787771,
+          "longitude": -9.38766
+        }
+      },
+      "link": "/v3/places/4b0588a3f964a52060d122e3",
+      "location": {
+        "address": "Estrada da Pena",
+        "country": "PT",
+        "formatted_address": "Estrada da Pena, 2710-609 Sintra",
+        "locality": "Sintra",
+        "postcode": "2710-609",
+        "region": "Lisboa"
+      },
+      "name": "Pena Park (Parque da Pena)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4e5a750f1495a891128c2cc8",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim da Condessa d'Edla"
+          },
+          {
+            "fsq_id": "50d5ba24e4b04490b246833c",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chalet da Condessa D'Edla"
+          },
+          {
+            "fsq_id": "62ee8a1e08a0335d3a0711b1",
+            "categories": [
+              {
+                "id": 16030,
+                "name": "Other Great Outdoors",
+                "short_name": "Other Outdoors",
+                "plural_name": "Other Great Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Feiteira da Rainha"
+          },
+          {
+            "fsq_id": "51fd0e4a498e836675bc9573",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Alta da Santa Catarina"
+          },
+          {
+            "fsq_id": "5d3850479bc0e70008ef6ed5",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Nora"
+          },
+          {
+            "fsq_id": "5b8933f6a35f460025a22f84",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Vale dos Lagos"
+          },
+          {
+            "fsq_id": "5d1ccfc1e3245200239fd7d2",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fuente de Los Pajaritos"
+          },
+          {
+            "fsq_id": "59a05e9186f4cc3bed9d1ef0",
+            "categories": [
+              {
+                "id": 12111,
+                "name": "Temple",
+                "short_name": "Temple",
+                "plural_name": "Temples",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_temple_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Templo das Colunas"
+          },
+          {
+            "fsq_id": "4f635b3fe4b0986109cacab3",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fonte dos Passarinhos"
+          },
+          {
+            "fsq_id": "4b0588a3f964a52049d122e3",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim da Rainha Dona Am\u00e9lia"
+          },
+          {
+            "fsq_id": "4b0588a3f964a52046d122e3",
+            "categories": [
+              {
+                "id": 16007,
+                "name": "Structure",
+                "short_name": "Structure",
+                "plural_name": "Structures",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pal\u00e1cio Nacional da Pena"
+          },
+          {
+            "fsq_id": "4f6354a2e4b0986109c47c45",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gruta do Monge"
+          },
+          {
+            "fsq_id": "4e6b906cd22d0e4cf688cf4e",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cruz Alta"
+          },
+          {
+            "fsq_id": "5c28a22b2619ee002c6344f6",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Capela Manuelina"
+          },
+          {
+            "fsq_id": "5fd171df9d717975568a0b28",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Est\u00e1tua do Guerreiro"
+          },
+          {
+            "fsq_id": "62ee869aab432649f635c1f6",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pateira"
+          },
+          {
+            "fsq_id": "4e91aaa293adc15b6283cba6",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque das Merendas"
+          },
+          {
+            "fsq_id": "5981d593e185f3625cebf437",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago da Concha"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4daaf9245da3ba8a4796482d",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3713,
+      "geocodes": {
+        "main": {
+          "latitude": 38.767258,
+          "longitude": -9.114806
+        },
+        "roof": {
+          "latitude": 38.767258,
+          "longitude": -9.114806
+        }
+      },
+      "link": "/v3/places/4daaf9245da3ba8a4796482d",
+      "location": {
+        "address": "Avenida Cidade de Louren\u00e7o Marques",
+        "country": "PT",
+        "formatted_address": "Avenida Cidade de Louren\u00e7o Marques, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Parque Vale do Sil\u00eancio, Olivais Sul",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d318fdd72a8b1f7302695d0",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 21917,
+      "geocodes": {
+        "main": {
+          "latitude": 38.796421,
+          "longitude": -9.386283
+        }
+      },
+      "link": "/v3/places/4d318fdd72a8b1f7302695d0",
+      "location": {
+        "address": "Volta do Duche",
+        "country": "PT",
+        "cross_street": "R. das Murtas",
+        "formatted_address": "Volta do Duche (R. das Murtas), 2710-631 Sintra",
+        "locality": "Sintra",
+        "postcode": "2710-631"
+      },
+      "name": "Parque da Liberdade",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0588a3f964a52056d122e3",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Pal\u00e1cio Valen\u00e7as"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bb612b11344b713c3eb9c04",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 24784,
+      "geocodes": {
+        "main": {
+          "latitude": 38.694177,
+          "longitude": -9.422922
+        },
+        "roof": {
+          "latitude": 38.694177,
+          "longitude": -9.422922
+        }
+      },
+      "link": "/v3/places/4bb612b11344b713c3eb9c04",
+      "location": {
+        "address": "Pra\u00e7a Domingos D\u2019Avilez",
+        "country": "PT",
+        "cross_street": "Av. da Rep\u00fablica",
+        "formatted_address": "Pra\u00e7a Domingos D\u2019Avilez (Av. da Rep\u00fablica), Cascais",
+        "locality": "Cascais",
+        "region": "Lisboa"
+      },
+      "name": "Parque Marechal Carmona",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4e6cd92bb0fba3f50e79fde1",
+            "categories": [
+              {
+                "id": 13382,
+                "name": "Snack Place",
+                "short_name": "Snacks",
+                "plural_name": "Snack Places",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A Ver o Parque"
+          },
+          {
+            "fsq_id": "5186a142498eaef7d97d56fe",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardim Infantil"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cab51022f08236aeb628561",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5262,
+      "geocodes": {
+        "main": {
+          "latitude": 38.781892,
+          "longitude": -9.10968
+        },
+        "roof": {
+          "latitude": 38.781892,
+          "longitude": -9.10968
+        }
+      },
+      "link": "/v3/places/4cab51022f08236aeb628561",
+      "location": {
+        "address": "Rotunda Nuno Rodrigues dos Santos 1",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rotunda Nuno Rodrigues dos Santos 1, 2685-185 Loures",
+        "locality": "Moscavide",
+        "postcode": "2685-185",
+        "region": "Lisboa"
+      },
+      "name": "Jardim Almeida Garrett",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e2a91d2aeb745b1fab9ce66",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19367,
+      "geocodes": {
+        "main": {
+          "latitude": 38.688574,
+          "longitude": -9.356091
+        },
+        "roof": {
+          "latitude": 38.688574,
+          "longitude": -9.356091
+        }
+      },
+      "link": "/v3/places/4e2a91d2aeb745b1fab9ce66",
+      "location": {
+        "address": "Rua C\u00e2ndido dos Reis",
+        "country": "PT",
+        "formatted_address": "Rua C\u00e2ndido dos Reis, 2775-178 Cascais",
+        "locality": "Parede",
+        "postcode": "2775-178",
+        "region": "Lisboa"
+      },
+      "name": "Parque Morais",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c76a2b966be6dcb88b5c30f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "short_name": "Arts & Entertainment",
+          "plural_name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 13972,
+      "geocodes": {
+        "main": {
+          "latitude": 38.693971,
+          "longitude": -9.292388
+        },
+        "roof": {
+          "latitude": 38.693971,
+          "longitude": -9.292388
+        }
+      },
+      "link": "/v3/places/4c76a2b966be6dcb88b5c30f",
+      "location": {
+        "address": "Avenida Marqu\u00eas de Pombal",
+        "country": "PT",
+        "cross_street": "Av. Marginal",
+        "formatted_address": "Avenida Marqu\u00eas de Pombal (Av. Marginal), 2770-121 Pa\u00e7o de Arcos",
+        "locality": "Pa\u00e7o de Arcos",
+        "postcode": "2770-121",
+        "region": "Lisboa"
+      },
+      "name": "Pa\u00e7o de Arcos Garden (Jardim de Pa\u00e7o de Arcos)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5ce97706b9b37b002cbe9e8a",
+            "categories": [
+              {
+                "id": 13046,
+                "name": "Ice Cream Parlor",
+                "short_name": "Ice Cream",
+                "plural_name": "Ice Cream Parlors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque Ol\u00e1"
+          },
+          {
+            "fsq_id": "5ce973783731ee002bbea0df",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil do Jardim de Pa\u00e7o de Arcos"
+          },
+          {
+            "fsq_id": "5d7e75e64dcf7900083278f3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Coreto de Pa\u00e7o de Arcos"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a7f964a520b9d222e3",
+      "categories": [
+        {
+          "id": 10024,
+          "name": "Movie Theater",
+          "short_name": "Movie Theater",
+          "plural_name": "Movie Theaters",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12241,
+      "geocodes": {
+        "main": {
+          "latitude": 38.631685,
+          "longitude": -9.119147
+        }
+      },
+      "link": "/v3/places/4b0588a7f964a520b9d222e3",
+      "location": {
+        "address": "Avenida Ba\u00eda Natural do Seixal",
+        "country": "PT",
+        "formatted_address": "Avenida Ba\u00eda Natural do Seixal, 2845-415 Amora",
+        "locality": "Amora",
+        "postcode": "2845-415",
+        "region": "Set\u00fabal"
+      },
+      "name": "Quinta da Atalaia",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ba666b7f964a520824e39e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5736,
+      "geocodes": {
+        "main": {
+          "latitude": 38.787749,
+          "longitude": -9.176278
+        },
+        "roof": {
+          "latitude": 38.787749,
+          "longitude": -9.176278
+        }
+      },
+      "link": "/v3/places/4ba666b7f964a520824e39e3",
+      "location": {
+        "country": "PT",
+        "formatted_address": "Odivelas",
+        "locality": "Odivelas",
+        "region": "Lisboa"
+      },
+      "name": "Parque de Odivelas",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4da1deebbf22a1430c56a5f8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4466,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752591,
+          "longitude": -9.193549
+        },
+        "roof": {
+          "latitude": 38.752591,
+          "longitude": -9.193549
+        }
+      },
+      "link": "/v3/places/4da1deebbf22a1430c56a5f8",
+      "location": {
+        "address": "Avenida Lus\u00edada",
+        "country": "PT",
+        "cross_street": "Av. do Uruguai",
+        "formatted_address": "Avenida Lus\u00edada (Av. do Uruguai), Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Quinta da Granja de Cima",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "53620a6711d2e4a53cdbbaa2",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque Infantil da Quinta da Granja de Cima"
+          },
+          {
+            "fsq_id": "4e7f5f64e5fab4431f97dfd4",
+            "categories": [
+              {
+                "id": 13054,
+                "name": "Food Truck",
+                "short_name": "Food Truck",
+                "plural_name": "Food Trucks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Quiosque da Casa - Quinta da Granja de Cima"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cd158817b685481e56ec6f8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17746,
+      "geocodes": {
+        "main": {
+          "latitude": 38.6937,
+          "longitude": -9.33851
+        }
+      },
+      "link": "/v3/places/4cd158817b685481e56ec6f8",
+      "location": {
+        "address": "Estrada da Alagoa",
+        "country": "PT",
+        "formatted_address": "Estrada da Alagoa, Carcavelos",
+        "locality": "Carcavelos",
+        "region": "Lisboa"
+      },
+      "name": "Jardim Quinta da Alagoa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 38.7425777,
+          "longitude": -9.1436525
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

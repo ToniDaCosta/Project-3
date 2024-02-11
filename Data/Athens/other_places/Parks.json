@@ -1,0 +1,2515 @@
+{
+  "results": [
+    {
+      "fsq_id": "4cac34fad971b1f7557f2ee1",
+      "categories": [
+        {
+          "id": 16017,
+          "name": "Garden",
+          "short_name": "Garden",
+          "plural_name": "Gardens",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2287,
+      "geocodes": {
+        "main": {
+          "latitude": 37.97345,
+          "longitude": 23.737892
+        }
+      },
+      "link": "/v3/places/4cac34fad971b1f7557f2ee1",
+      "location": {
+        "address": "\u0391\u03bc\u03b1\u03bb\u03af\u03b1\u03c2 1",
+        "country": "GR",
+        "formatted_address": "\u0391\u03bc\u03b1\u03bb\u03af\u03b1\u03c2 1, 10557 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "10557",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "National Garden (\u0395\u03b8\u03bd\u03b9\u03ba\u03cc\u03c2 \u039a\u03ae\u03c0\u03bf\u03c2)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4fb8b03fe4b002b8bb864569",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ae \u03a7\u03b1\u03c1\u03ac \u0395\u03b8\u03bd\u03b9\u03ba\u03bf\u03cd \u039a\u03ae\u03c0\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "5b0ace10e7a237002c587d03",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039c\u03b9\u03ba\u03c1\u03ae \u039b\u03b9\u03bc\u03bd\u03bf\u03cd\u03bb\u03b1"
+          },
+          {
+            "fsq_id": "5b003154356b49002c8d9e2e",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0392\u03bf\u03c4\u03b1\u03bd\u03b9\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u0395\u03b8\u03bd\u03b9\u03ba\u03bf\u03cd \u039a\u03ae\u03c0\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "5b0036cc646e38002c9a988e",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0397\u03bb\u03b9\u03b1\u03ba\u03cc \u03a1\u03bf\u03bb\u03cc\u03b9"
+          },
+          {
+            "fsq_id": "5b0ad0f2112c6c002c298ac5",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a3\u03c4\u03ae\u03bb\u03b7 - \u03a0\u03c1\u03bf\u03c4\u03bf\u03bc\u03ae \u0399\u03c9\u03ac\u03bd\u03bd\u03b7 \u039a\u03b1\u03c0\u03bf\u03b4\u03af\u03c3\u03c4\u03c1\u03b9\u03b1"
+          },
+          {
+            "fsq_id": "5d3d618a344528000950951e",
+            "categories": [
+              {
+                "id": 10056,
+                "name": "Zoo",
+                "short_name": "Zoo",
+                "plural_name": "Zoos",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "National Garden Zoo"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fcc79a3e4b0a2c79b1843a3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3097,
+      "geocodes": {
+        "main": {
+          "latitude": 37.98167,
+          "longitude": 23.75306
+        }
+      },
+      "link": "/v3/places/4fcc79a3e4b0a2c79b1843a3",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u039c\u03ad\u03b3\u03b1\u03c1\u03bf \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2 (\u03c3\u03c4\u03bf \u039c\u03ad\u03b3\u03b1\u03c1\u03bf \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd), 115 21 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Concert Hall Gardens (\u039a\u03ae\u03c0\u03bf\u03c2 \u039c\u03b5\u03b3\u03ac\u03c1\u03bf\u03c5 \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c01fe9b8ef2c9b6178016fc",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2299,
+      "geocodes": {
+        "main": {
+          "latitude": 37.984042,
+          "longitude": 23.741339
+        },
+        "roof": {
+          "latitude": 37.984042,
+          "longitude": 23.741339
+        }
+      },
+      "link": "/v3/places/4c01fe9b8ef2c9b6178016fc",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039b\u03c5\u03ba\u03b1\u03b2\u03b7\u03c4\u03c4\u03bf\u03cd",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039b\u03c5\u03ba\u03b1\u03b2\u03b7\u03c4\u03c4\u03bf\u03cd, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039b\u03c5\u03ba\u03b1\u03b2\u03b7\u03c4\u03c4\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bd7409435aad13a477d8ef3",
+      "categories": [
+        {
+          "id": 10043,
+          "name": "Theater",
+          "short_name": "Theater",
+          "plural_name": "Theaters",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4225,
+      "geocodes": {
+        "main": {
+          "latitude": 37.949762,
+          "longitude": 23.716308
+        }
+      },
+      "link": "/v3/places/4bd7409435aad13a477d8ef3",
+      "location": {
+        "address": "\u039b.\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u0395\u03c6\u03ad\u03c3\u03c3\u03bf\u03c5",
+        "formatted_address": "\u039b.\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5 (\u0395\u03c6\u03ad\u03c3\u03c3\u03bf\u03c5), 171 21 \u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7",
+        "postcode": "171 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Nea Smirni Grove (\u0386\u03bb\u03c3\u03bf\u03c2 \u039d\u03ad\u03b1\u03c2 \u03a3\u03bc\u03cd\u03c1\u03bd\u03b7\u03c2)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d98b24ca2c65481fd6af753",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ae \u03a7\u03b1\u03c1\u03ac"
+          },
+          {
+            "fsq_id": "542c23f2498ee99a0f186c1d",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a3\u03b1\u03c6\u03b1\u03bd\u03c3"
+          },
+          {
+            "fsq_id": "4d62b94029ef236a6426bf59",
+            "categories": [
+              {
+                "id": 18048,
+                "name": "Recreation Center",
+                "short_name": "Recreation Center",
+                "plural_name": "Recreation Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0391\u03b8\u03bb\u03bf\u03c0\u03ac\u03c1\u03ba\u03bf"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "58b84115a6118c72d748c31a",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5576,
+      "geocodes": {
+        "main": {
+          "latitude": 37.941364,
+          "longitude": 23.692307
+        }
+      },
+      "link": "/v3/places/58b84115a6118c72d748c31a",
+      "location": {
+        "address": "\u0394\u03ad\u03bb\u03c4\u03b1 \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5",
+        "country": "GR",
+        "formatted_address": "\u0394\u03ad\u03bb\u03c4\u03b1 \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5, 176 74 \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1",
+        "postcode": "176 74",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Stavros Niarchos Park (\u03a0\u03ac\u03c1\u03ba\u03bf \u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u039d\u03b9\u03ac\u03c1\u03c7\u03bf\u03c2)",
+      "related_places": {
+        "parent": {
+          "fsq_id": "510b7fe1e4b077915d918e43",
+          "categories": [
+            {
+              "id": 12005,
+              "name": "Cultural Center",
+              "short_name": "Cultural Center",
+              "plural_name": "Cultural Centers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u039d\u03b9\u03ac\u03c1\u03c7\u03bf\u03c2"
+        },
+        "children": [
+          {
+            "fsq_id": "4f8edecae4b030bfd61d45e5",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039b\u03b1\u03c7\u03b1\u03bd\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2"
+          },
+          {
+            "fsq_id": "62caff060c139b768abbc29f",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a0\u03b5\u03c5\u03ba\u03ce\u03bd\u03b1\u03c2 - Pine Grove"
+          },
+          {
+            "fsq_id": "5acceb52ccad6b49477fa4f7",
+            "categories": [
+              {
+                "id": 13054,
+                "name": "Food Truck",
+                "short_name": "Food Truck",
+                "plural_name": "Food Trucks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Park kiosk"
+          },
+          {
+            "fsq_id": "62cafce9dce8d822f2fec01f",
+            "categories": [
+              {
+                "id": 16030,
+                "name": "Other Great Outdoors",
+                "short_name": "Other Outdoors",
+                "plural_name": "Other Great Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039b\u03b1\u03c7\u03b1\u03bd\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2 - Vagetable Garden"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5946cda689e4905dada93c33",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5735,
+      "geocodes": {
+        "main": {
+          "latitude": 37.93995,
+          "longitude": 23.69187
+        }
+      },
+      "link": "/v3/places/5946cda689e4905dada93c33",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "176 74 \u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1\u03c2",
+        "postcode": "176 74",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Great Lawn (SNFCC) (\u039e\u03ad\u03c6\u03c9\u03c4\u03bf (\u039a\u03a0\u0399\u03a3\u039d))",
+      "related_places": {
+        "parent": {
+          "fsq_id": "510b7fe1e4b077915d918e43",
+          "categories": [
+            {
+              "id": 12005,
+              "name": "Cultural Center",
+              "short_name": "Cultural Center",
+              "plural_name": "Cultural Centers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u039d\u03b9\u03ac\u03c1\u03c7\u03bf\u03c2"
+        }
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c4dd11dfb742d7f6f385b2d",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6092,
+      "geocodes": {
+        "main": {
+          "latitude": 38.02831,
+          "longitude": 23.764326
+        }
+      },
+      "link": "/v3/places/4c4dd11dfb742d7f6f385b2d",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03b5\u0390\u03ba\u03bf\u03c5",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03b5\u0390\u03ba\u03bf\u03c5, 111 47 \u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0393\u03b1\u03bb\u03ac\u03c4\u03c3\u03b9",
+        "postcode": "111 47",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Veikou Grove (\u0386\u03bb\u03c3\u03bf\u03c2 \u0392\u03b5\u0390\u03ba\u03bf\u03c5)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4deb454fd164ef597d019394",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Alea In Style"
+          },
+          {
+            "fsq_id": "4dcea3a0ae603b786d33ffe0",
+            "categories": [
+              {
+                "id": 18064,
+                "name": "Soccer Field",
+                "short_name": "Soccer Field",
+                "plural_name": "Soccer Fields",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ac \u0393\u03ae\u03c0\u03b5\u03b4\u03b1 \u03a0\u03bf\u03b4\u03bf\u03c3\u03c6\u03b1\u03af\u03c1\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "57a2402d498ed4f80f5e214e",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "1\u03bf \u03a5\u03c0\u03b1\u03af\u03b8\u03c1\u03b9\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03ae\u03bc\u03bf\u03c5 \u0393\u03b1\u03bb\u03b1\u03c4\u03c3\u03af\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "5a0840bfb3d8e22ec6bbe4ba",
+            "categories": [
+              {
+                "id": 16028,
+                "name": "Nature Preserve",
+                "short_name": "Preserve",
+                "plural_name": "Nature Preserves",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/naturepreserve_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Drasi Galatsiou Adopted Trees"
+          },
+          {
+            "fsq_id": "4defab4d1f6e6d3541866ed0",
+            "categories": [
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03b5\u03b1\u03c4\u03c1\u03bf \u0391\u03bb\u03c3\u03bf\u03c5\u03c2 \u0392\u03b5\u03b9\u03ba\u03bf\u03c5"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d850ba39324236af40ec70e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4095,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.002969,
+          "longitude": 23.760512
+        },
+        "main": {
+          "latitude": 38.003376,
+          "longitude": 23.760363
+        }
+      },
+      "link": "/v3/places/4d850ba39324236af40ec70e",
+      "location": {
+        "address": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03cc\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03bf\u03cd \u0386\u03bb\u03c3\u03bf\u03c5\u03c2",
+        "country": "GR",
+        "formatted_address": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03cc\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03bf\u03cd \u0386\u03bb\u03c3\u03bf\u03c5\u03c2, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0391\u03c4\u03c4\u03b9\u03ba\u03cc \u0386\u03bb\u03c3\u03bf\u03c2",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5030d67ae4b0504d9f0b25ee",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tennis Courts Attico Alsos"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d4c42d3e1ec6dcb602dd775",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4561,
+      "geocodes": {
+        "main": {
+          "latitude": 37.964858,
+          "longitude": 23.762114
+        }
+      },
+      "link": "/v3/places/4d4c42d3e1ec6dcb602dd775",
+      "location": {
+        "address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u039d. \u0395\u03c6\u03ad\u03c3\u03c3\u03bf\u03c5",
+        "formatted_address": "\u0397\u03c1\u03ce\u03c9\u03bd \u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 (\u039d. \u0395\u03c6\u03ad\u03c3\u03c3\u03bf\u03c5), \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Skopeftirio Grove (\u0386\u03bb\u03c3\u03bf\u03c2 \u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b536522de3bbf002c2743d8",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a3\u03ba\u03bf\u03c0\u03b5\u03c5\u03c4\u03b7\u03c1\u03b9\u03bf \u03c0\u03b1\u03b9\u03b4\u03b9\u03ba\u03b7 \u03c7\u03b1\u03c1\u03b1"
+          },
+          {
+            "fsq_id": "5731d260498ed5592d744216",
+            "categories": [
+              {
+                "id": 16025,
+                "name": "Memorial Site",
+                "short_name": "Memorial Site",
+                "plural_name": "Memorial Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039c\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u03a0\u03b5\u03c3\u03cc\u03bd\u03c4\u03c9\u03bd \u03a0\u03b1\u03c4\u03c1\u03b9\u03c9\u03c4\u03ce\u03bd \u00ab\u0398\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03b5\u03c5\u03c4\u03b5\u03c1\u03b9\u03ac\u03c2\u00bb"
+          },
+          {
+            "fsq_id": "5730bbf7498eb629863a5587",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u0395\u0391\u039c\u03b9\u03ba\u03ae\u03c2 \u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03af\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "513ca60ce4b0fce943aef2e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4592,
+      "geocodes": {
+        "main": {
+          "latitude": 38.018005,
+          "longitude": 23.683289
+        },
+        "roof": {
+          "latitude": 38.018005,
+          "longitude": 23.683289
+        }
+      },
+      "link": "/v3/places/513ca60ce4b0fce943aef2e3",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03ad\u03c1\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c0d2d2cc700c9b6f201a2dd",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6545,
+      "geocodes": {
+        "main": {
+          "latitude": 37.99336,
+          "longitude": 23.794187
+        }
+      },
+      "link": "/v3/places/4c0d2d2cc700c9b6f201a2dd",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c4\u03c1\u03b1\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c5 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a3\u03c4\u03c1\u03b1\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c5 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5, \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4b0ec21bf964a520a25a23e3",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piu Verde"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d125b9ed0fda093355dab57",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5703,
+      "geocodes": {
+        "main": {
+          "latitude": 38.011131,
+          "longitude": 23.775958
+        }
+      },
+      "link": "/v3/places/4d125b9ed0fda093355dab57",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd",
+        "country": "GR",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd, 154 52",
+        "postcode": "154 52"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a8\u03c5\u03c7\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c45f3bcf5aee21e83f01658",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7100,
+      "geocodes": {
+        "main": {
+          "latitude": 37.927885,
+          "longitude": 23.688284
+        }
+      },
+      "link": "/v3/places/4c45f3bcf5aee21e83f01658",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2, 175 61 \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "175 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Flisvos Park (\u03a0\u03ac\u03c1\u03ba\u03bf \u03a6\u03bb\u03bf\u03af\u03c3\u03b2\u03bf\u03c5)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d7166f0320b8cfa505068e9",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a0\u03b1\u03b9\u03b4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2 \u03a0\u03ac\u03c1\u03ba\u03bf\u03c5 \u03a6\u03bb\u03bf\u03af\u03c3\u03b2\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "594ff48fd69ed07b8ee68fd8",
+            "categories": [
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0398\u03b5\u03b1\u03c4\u03c1\u03bf \u03a3\u03ba\u03b9\u03c9\u03bd \u03a4\u03b1\u03c3\u03bf\u03c5 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f6c4ed2e4b0e6e0007f4eb4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6624,
+      "geocodes": {
+        "main": {
+          "latitude": 38.022022,
+          "longitude": 23.779723
+        }
+      },
+      "link": "/v3/places/4f6c4ed2e4b0e6e0007f4eb4",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e7df829f5b93371fcea9980",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6991,
+      "geocodes": {
+        "main": {
+          "latitude": 38.044641,
+          "longitude": 23.685965
+        }
+      },
+      "link": "/v3/places/4e7df829f5b93371fcea9980",
+      "location": {
+        "address": "\u0391\u03bd\u03b1\u03c0\u03b1\u03cd\u03c3\u03b5\u03c9\u03c2",
+        "country": "GR",
+        "cross_street": "\u039a\u03b5\u03c1\u03b1\u03c3\u03cc\u03b2\u03bf\u03c5",
+        "formatted_address": "\u0391\u03bd\u03b1\u03c0\u03b1\u03cd\u03c3\u03b5\u03c9\u03c2 (\u039a\u03b5\u03c1\u03b1\u03c3\u03cc\u03b2\u03bf\u03c5), 132 31 \u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "postcode": "132 31",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cf880959515370425f35c89",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3705,
+      "geocodes": {
+        "main": {
+          "latitude": 37.97403,
+          "longitude": 23.757275
+        }
+      },
+      "link": "/v3/places/4cf880959515370425f35c89",
+      "location": {
+        "address": "\u038a\u03c9\u03bd\u03bf\u03c2 \u0394\u03c1\u03b1\u03b3\u03bf\u03cd\u03bc\u03b7",
+        "country": "GR",
+        "formatted_address": "\u038a\u03c9\u03bd\u03bf\u03c2 \u0394\u03c1\u03b1\u03b3\u03bf\u03cd\u03bc\u03b7, \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a3\u03c5\u03b3\u03b3\u03c1\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "51697cd4498e0e56fc789c8b",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1266,
+      "geocodes": {
+        "main": {
+          "latitude": 37.975757,
+          "longitude": 23.719282
+        },
+        "roof": {
+          "latitude": 37.975757,
+          "longitude": 23.719282
+        }
+      },
+      "link": "/v3/places/51697cd4498e0e56fc789c8b",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0397\u03c1\u03ce\u03b4\u03bf\u03c5 \u0391\u03c4\u03c4\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5897101401f0776e38bf68b4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6456,
+      "geocodes": {
+        "main": {
+          "latitude": 37.933492,
+          "longitude": 23.690089
+        }
+      },
+      "link": "/v3/places/5897101401f0776e38bf68b4",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2, 175 61 \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "175 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "St. George's Park - Trocadero (\u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 - \u03a4\u03c1\u03bf\u03ba\u03b1\u03bd\u03c4\u03b5\u03c1\u03cc)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5a7ee5e4112c6c7084f7345d",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc \u0393\u03ae\u03c0\u03b5\u03b4\u03bf \u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03cd \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5 \"\u03a3\u03bf\u03c6\u03af\u03b1 \u039c\u03c0\u03b5\u03c6\u03cc\u03bd\""
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c0154ff096ed13a8e8c7926",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6361,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.045031,
+          "longitude": 23.724201
+        },
+        "main": {
+          "latitude": 38.044927,
+          "longitude": 23.724162
+        }
+      },
+      "link": "/v3/places/4c0154ff096ed13a8e8c7926",
+      "location": {
+        "address": "\u03a3\u03c0. \u039c\u03bf\u03c5\u03c3\u03c4\u03b1\u03ba\u03bb\u03ae 23",
+        "country": "GR",
+        "cross_street": "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2",
+        "formatted_address": "\u03a3\u03c0. \u039c\u03bf\u03c5\u03c3\u03c4\u03b1\u03ba\u03bb\u03ae 23 (\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2), 131 21 \u038a\u03bb\u03b9\u03bf\u03bd, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u038a\u03bb\u03b9\u03bf\u03bd",
+        "postcode": "131 21",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u03c0\u03b5\u03c1\u03b9\u03b2\u03b1\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03c5\u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 '\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u03a4\u03c1\u03af\u03c4\u03c3\u03b7\u03c2'",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "612db98ea0fd8419ffd81fdf",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0399\u03b5\u03c1\u03cc\u03c2 \u039d\u03b1\u03cc\u03c2 \u0391\u03b3\u03af\u03bf\u03c5 \u03a0\u03b1\u03cd\u03bb\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "5c7ba39d7d8497003959fd2c",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Lake"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4bd847c9e914a59308ce52fa",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8290,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 37.913296,
+          "longitude": 23.730569
+        },
+        "main": {
+          "latitude": 37.913153,
+          "longitude": 23.730729
+        },
+        "roof": {
+          "latitude": 37.913153,
+          "longitude": 23.730729
+        }
+      },
+      "link": "/v3/places/4bd847c9e914a59308ce52fa",
+      "location": {
+        "address": "\u039b\u03cc\u03c6\u03bf\u03c2 \u03a0\u03b1\u03bd\u03af",
+        "country": "GR",
+        "formatted_address": "\u039b\u03cc\u03c6\u03bf\u03c2 \u03a0\u03b1\u03bd\u03af, 174 56 \u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "postcode": "174 56",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Pani Hill (\u039b\u03cc\u03c6\u03bf\u03c2 \u03a0\u03b1\u03bd\u03af)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4da86cbb6a2364c7a353efc6",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5237,
+      "geocodes": {
+        "main": {
+          "latitude": 38.031098,
+          "longitude": 23.73995
+        }
+      },
+      "link": "/v3/places/4da86cbb6a2364c7a353efc6",
+      "location": {
+        "address": "\u0391\u03bd\u03b8\u03ad\u03c9\u03bd 53",
+        "country": "GR",
+        "cross_street": "\u0391\u03ba\u03c1\u03c9\u03c4\u03b7\u03c1\u03af\u03bf\u03c5",
+        "formatted_address": "\u0391\u03bd\u03b8\u03ad\u03c9\u03bd 53 (\u0391\u03ba\u03c1\u03c9\u03c4\u03b7\u03c1\u03af\u03bf\u03c5), 111 43 \u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03ad\u03b1 \u03a6\u03b9\u03bb\u03b1\u03b4\u03ad\u03bb\u03c6\u03b5\u03b9\u03b1",
+        "postcode": "111 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03c1\u03bf\u03bc\u03c0\u03bf\u03bd\u03ac",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d9382977b5ea143d6adcab8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8530,
+      "geocodes": {
+        "main": {
+          "latitude": 37.910622,
+          "longitude": 23.71057
+        }
+      },
+      "link": "/v3/places/4d9382977b5ea143d6adcab8",
+      "location": {
+        "country": "GR",
+        "formatted_address": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0386\u03bb\u03b9\u03bc\u03bf\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03bb\u03af\u03bc\u03bf\u03c5",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4deb376445dd3993a8a0ea96",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3095,
+      "geocodes": {
+        "main": {
+          "latitude": 37.983095,
+          "longitude": 23.753207
+        },
+        "roof": {
+          "latitude": 37.983095,
+          "longitude": 23.753207
+        }
+      },
+      "link": "/v3/places/4deb376445dd3993a8a0ea96",
+      "location": {
+        "address": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2",
+        "country": "GR",
+        "cross_street": "\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2",
+        "formatted_address": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 (\u039b\u03b5\u03c9\u03c6. \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2), 115 28 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 28",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5a6600d0345cbe6c793ebc1b",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03ac\u03b3\u03b1\u03bb\u03bc\u03b1 \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03bf\u03c5 \u0392\u03b5\u03bd\u03b9\u03b6\u03ad\u03bb\u03bf\u03c5"
+          },
+          {
+            "fsq_id": "4e6399fbe4cdf1e2bfca0e27",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u03a4\u03bf \u03a0\u03ac\u03c1\u03ba\u03bf \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c781635bd346dcb1deff0ef",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5996,
+      "geocodes": {
+        "main": {
+          "latitude": 38.036012,
+          "longitude": 23.689343
+        }
+      },
+      "link": "/v3/places/4c781635bd346dcb1deff0ef",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Petroupoli Park",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4cc405e5306e224bceba9a6c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6152,
+      "geocodes": {
+        "main": {
+          "latitude": 37.936128,
+          "longitude": 23.691079
+        }
+      },
+      "link": "/v3/places/4cc405e5306e224bceba9a6c",
+      "location": {
+        "address": "\u0395\u03c3\u03c0\u03bb\u03b1\u03bd\u03ac\u03b4\u03b1",
+        "country": "GR",
+        "cross_street": "\u03c3\u03c4\u03bf \u0394\u03ad\u03bb\u03c4\u03b1 \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5",
+        "formatted_address": "\u0395\u03c3\u03c0\u03bb\u03b1\u03bd\u03ac\u03b4\u03b1 (\u03c3\u03c4\u03bf \u0394\u03ad\u03bb\u03c4\u03b1 \u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5), 175 61 \u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf",
+        "postcode": "175 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Esplanada (\u0395\u03c3\u03c0\u03bb\u03b1\u03bd\u03ac\u03b4\u03b1)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c7be70f2d3ba1433a5d95d0",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6827,
+      "geocodes": {
+        "main": {
+          "latitude": 37.992607,
+          "longitude": 23.796031
+        }
+      },
+      "link": "/v3/places/4c7be70f2d3ba1433a5d95d0",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u039a\u03bf\u03c1\u03c5\u03c4\u03c3\u03b1\u03c2",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5 (\u039a\u03bf\u03c1\u03c5\u03c4\u03c3\u03b1\u03c2), \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03b7\u03c0\u03bf\u03b8\u03ad\u03b1\u03c4\u03c1\u03bf \u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4ca8d1bcd971b1f7987e18e1",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4858,
+      "geocodes": {
+        "main": {
+          "latitude": 37.98444,
+          "longitude": 23.773745
+        }
+      },
+      "link": "/v3/places/4ca8d1bcd971b1f7987e18e1",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0393\u03bf\u03c5\u03b4\u03ae",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e9b1d31b8f78313668ae8aa",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1089,
+      "geocodes": {
+        "main": {
+          "latitude": 37.977672,
+          "longitude": 23.715254
+        }
+      },
+      "link": "/v3/places/4e9b1d31b8f78313668ae8aa",
+      "location": {
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039a\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03bf\u03cd",
+        "country": "GR",
+        "cross_street": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2",
+        "formatted_address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039a\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03bf\u03cd (\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2), 118 54 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "118 54",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u039a\u03b5\u03c1\u03b1\u03bc\u03b5\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dc9221d1838e695fbe16dbd",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6383,
+      "geocodes": {
+        "main": {
+          "latitude": 37.982779,
+          "longitude": 23.791054
+        }
+      },
+      "link": "/v3/places/4dc9221d1838e695fbe16dbd",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a0\u03b5\u03c1\u03b9\u03c0\u03ac\u03c4\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c150dbe82a3c9b6d425fef8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11880,
+      "geocodes": {
+        "main": {
+          "latitude": 38.061566,
+          "longitude": 23.815806
+        }
+      },
+      "link": "/v3/places/4c150dbe82a3c9b6d425fef8",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03af\u03b1\u03c2, \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03c4\u03ae\u03bc\u03b1 \u03a3\u03c5\u03b3\u03b3\u03c1\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f2e55dde4b07ca31629a13b",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5320,
+      "geocodes": {
+        "main": {
+          "latitude": 37.966439,
+          "longitude": 23.773148
+        }
+      },
+      "link": "/v3/places/4f2e55dde4b07ca31629a13b",
+      "location": {
+        "address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03c2, \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Kaisariani Municipal Park (\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a0\u03ac\u03c1\u03ba\u03bf \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dbd4345f7b1ab37dd720c5e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6660,
+      "geocodes": {
+        "main": {
+          "latitude": 38.022205,
+          "longitude": 23.780066
+        }
+      },
+      "link": "/v3/places/4dbd4345f7b1ab37dd720c5e",
+      "location": {
+        "address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u03a4\u03c1\u03b1\u03c0\u03ad\u03b6\u03b7\u03c2 1",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae\u03c2 \u03a4\u03c1\u03b1\u03c0\u03ad\u03b6\u03b7\u03c2 1, 152 37 \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7",
+        "postcode": "152 37",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039c\u03b9\u03c7\u03ac\u03bb\u03b7 \u03a0\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f7d1e4de4b062316a993673",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11727,
+      "geocodes": {
+        "main": {
+          "latitude": 38.03749,
+          "longitude": 23.836207
+        },
+        "roof": {
+          "latitude": 38.03749,
+          "longitude": 23.836207
+        }
+      },
+      "link": "/v3/places/4f7d1e4de4b062316a993673",
+      "location": {
+        "address": "\u03a0\u03b1\u03cd\u03bb\u03bf\u03c5 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7",
+        "country": "GR",
+        "cross_street": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03bf\u03cd",
+        "formatted_address": "\u03a0\u03b1\u03cd\u03bb\u03bf\u03c5 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 (\u03a5\u03bc\u03b7\u03c4\u03c4\u03bf\u03cd), 152 35 \u0392\u03c1\u03b9\u03bb\u03ae\u03c3\u03c3\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0392\u03c1\u03b9\u03bb\u03ae\u03c3\u03c3\u03b9\u03b1",
+        "postcode": "152 35",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Mikis Theodorakis Park (\u03a0\u03ac\u03c1\u03ba\u03bf \u039c\u03af\u03ba\u03b7\u03c2 \u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03ac\u03ba\u03b7\u03c2)",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4e31a4d4d4c0b2aebf72eaf4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7327,
+      "geocodes": {
+        "main": {
+          "latitude": 38.028222,
+          "longitude": 23.783843
+        }
+      },
+      "link": "/v3/places/4e31a4d4d4c0b2aebf72eaf4",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "151 23 \u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039c\u03b1\u03c1\u03bf\u03cd\u03c3\u03b9",
+        "postcode": "151 23",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03b3\u03af\u03b1\u03c2 \u03a6\u03b9\u03bb\u03bf\u03b8\u03ad\u03b7\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "5728bfab498e55afbdf49fa6",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7470,
+      "geocodes": {
+        "main": {
+          "latitude": 37.9617,
+          "longitude": 23.797321
+        }
+      },
+      "link": "/v3/places/5728bfab498e55afbdf49fa6",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03cc\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0394\u03ac\u03c3\u03bf\u03c2 \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d7cc4a7cf3f3704b7f75640",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10457,
+      "geocodes": {
+        "main": {
+          "latitude": 38.028791,
+          "longitude": 23.825478
+        }
+      },
+      "link": "/v3/places/4d7cc4a7cf3f3704b7f75640",
+      "location": {
+        "address": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u039f\u03b4\u03cc\u03c2",
+        "country": "GR",
+        "cross_street": "\u039b\u03b5\u03c9\u03c6. \u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2",
+        "formatted_address": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u039f\u03b4\u03cc\u03c2 (\u039b\u03b5\u03c9\u03c6. \u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7\u03c2)"
+      },
+      "name": "\u0391\u03c4\u03c4\u03b9\u03ba\u03cc \u03a0\u03ac\u03c1\u03ba\u03bf \u0392\u03c1\u03b9\u03bb\u03b7\u03c3\u03c3\u03af\u03c9\u03bd-\u03a7\u03b1\u03bb\u03b1\u03bd\u03b4\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4b7534f0f964a52015012ee3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12407,
+      "geocodes": {
+        "main": {
+          "latitude": 38.072956,
+          "longitude": 23.809053
+        }
+      },
+      "link": "/v3/places/4b7534f0f964a52015012ee3",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac\u03c2",
+        "country": "GR",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac\u03c2, 145 62 \u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac",
+        "postcode": "145 62",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Kifissia Grove (\u0386\u03bb\u03c3\u03bf\u03c2 \u039a\u03b7\u03c6\u03b9\u03c3\u03b9\u03ac\u03c2)",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f93f613e4b06ce858abe6a8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3732,
+      "geocodes": {
+        "main": {
+          "latitude": 37.994217,
+          "longitude": 23.676529
+        }
+      },
+      "link": "/v3/places/4f93f613e4b06ce858abe6a8",
+      "location": {
+        "address": "\u0399\u03b5\u03c1\u03ac \u039f\u03b4\u03cc\u03c2 290",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u0399\u03b5\u03c1\u03ac \u039f\u03b4\u03cc\u03c2 290, 122 43 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9",
+        "postcode": "122 43",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9 \u039c\u03c0\u03b1\u03c1\u03bf\u03c5\u03c4\u03ac\u03b4\u03b9\u03ba\u03bf",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d3d52723ec9a35da2245081",
+      "categories": [
+        {
+          "id": 16000,
+          "name": "Landmarks and Outdoors",
+          "short_name": "Landmarks and Outdoors",
+          "plural_name": "Landmarks and Outdoors",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1009,
+      "geocodes": {
+        "main": {
+          "latitude": 37.992384,
+          "longitude": 23.709071
+        },
+        "roof": {
+          "latitude": 37.992384,
+          "longitude": 23.709071
+        }
+      },
+      "link": "/v3/places/4d3d52723ec9a35da2245081",
+      "location": {
+        "country": "GR",
+        "formatted_address": "\u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0391\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03ba\u03b1\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03a0\u03bb\u03ac\u03c4\u03c9\u03bd\u03bf\u03c2",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "565ae0cb498ea94a298a515a",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0391\u03ba\u03b1\u03b4\u03b7\u03bc\u03af\u03b1 \u03a0\u03bb\u03ac\u03c4\u03c9\u03bd\u03bf\u03c2 \u03a8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4dda8c8652b1a5c64495fc1e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4470,
+      "geocodes": {
+        "main": {
+          "latitude": 38.013071,
+          "longitude": 23.757206
+        },
+        "roof": {
+          "latitude": 38.013071,
+          "longitude": 23.757206
+        }
+      },
+      "link": "/v3/places/4dda8c8652b1a5c64495fc1e",
+      "location": {
+        "country": "GR",
+        "formatted_address": "323 00 \u0394\u03b9\u03cc\u03bd\u03c5\u03c3\u03bf\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0394\u03b9\u03cc\u03bd\u03c5\u03c3\u03bf\u03c2",
+        "postcode": "323 00",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0394\u03b9\u03bf\u03bd\u03cd\u03c3\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4de2973745dd180ae54a43f6",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8304,
+      "geocodes": {
+        "main": {
+          "latitude": 37.966777,
+          "longitude": 23.627157
+        }
+      },
+      "link": "/v3/places/4de2973745dd180ae54a43f6",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039a\u03b5\u03c1\u03b1\u03c4\u03c3\u03af\u03bd\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039a\u03b5\u03c1\u03b1\u03c4\u03c3\u03af\u03bd\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a3\u03b5\u03bb\u03b5\u03c0\u03af\u03c4\u03c3\u03b1\u03c1\u03b9",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "598f42409de23b5c0fa63b59",
+            "categories": [
+              {
+                "id": 10024,
+                "name": "Movie Theater",
+                "short_name": "Movie Theater",
+                "plural_name": "Movie Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc\u03c2 \u0398\u03b5\u03c1\u03b9\u03bd\u03cc\u03c2 \u039a\u03b9\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2\u00ab\u0391\u03bb\u03ad\u03ba\u03bf\u03c2 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c3\u03c4\u03bf\u03bc\u03af\u03b4\u03b7\u03c2\u00bb"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d74e20ad6f06dcbe1971b08",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5781,
+      "geocodes": {
+        "main": {
+          "latitude": 38.007817,
+          "longitude": 23.657782
+        }
+      },
+      "link": "/v3/places/4d74e20ad6f06dcbe1971b08",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "124 61 \u03a7\u03b1\u03ca\u03b4\u03ac\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03ca\u03b4\u03ac\u03c1\u03b9",
+        "postcode": "124 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03c1\u03bf\u03c6\u03ae\u03c4\u03b7\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c84cecbe602b1f725ddb17a",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4594,
+      "geocodes": {
+        "main": {
+          "latitude": 37.989818,
+          "longitude": 23.770735
+        }
+      },
+      "link": "/v3/places/4c84cecbe602b1f725ddb17a",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 100",
+        "country": "GR",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039c\u03b5\u03c3\u03bf\u03b3\u03b5\u03af\u03c9\u03bd 100, 115 27 \u0391\u03b8\u03ae\u03bd\u03b1",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "115 27"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 \u03a7\u03c9\u03c1\u03bf\u03c6\u03c5\u03bb\u03b1\u03ba\u03ae\u03c2",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "59494bb73af98834841076e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8535,
+      "geocodes": {
+        "main": {
+          "latitude": 37.91478,
+          "longitude": 23.751067
+        }
+      },
+      "link": "/v3/places/59494bb73af98834841076e3",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "164 51 \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+        "locality": "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
+        "postcode": "164 51"
+      },
+      "name": "\u03a0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf \u039f\u03b9\u03ba\u03bf\u03b3\u03b5\u03bd\u03b5\u03b9\u03b1\u03ba\u03cc \u03a0\u03ac\u03c1\u03ba\u03bf \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2-\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4fd783f7e4b0ce8136c73443",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7282,
+      "geocodes": {
+        "main": {
+          "latitude": 37.973721,
+          "longitude": 23.637002
+        }
+      },
+      "link": "/v3/places/4fd783f7e4b0ce8136c73443",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u039d\u03af\u03ba\u03b1\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u039d\u03af\u03ba\u03b1\u03b9\u03b1",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u0391\u03b3\u03af\u03bf\u03c5 \u03a6\u03b9\u03bb\u03af\u03c0\u03c0\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "50918ffc067dbac4c871a719",
+      "categories": [
+        {
+          "id": 16033,
+          "name": "Dog Park",
+          "short_name": "Dog Park",
+          "plural_name": "Dog Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7321,
+      "geocodes": {
+        "main": {
+          "latitude": 37.996163,
+          "longitude": 23.801193
+        }
+      },
+      "link": "/v3/places/50918ffc067dbac4c871a719",
+      "location": {
+        "address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03bf\u03cd",
+        "country": "GR",
+        "formatted_address": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03bf\u03cd, \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03ac\u03c1\u03ba\u03bf \u03a3\u03ba\u03cd\u03bb\u03c9\u03bd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c2f5601452620a154491d0f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7481,
+      "geocodes": {
+        "main": {
+          "latitude": 37.996297,
+          "longitude": 23.803012
+        }
+      },
+      "link": "/v3/places/4c2f5601452620a154491d0f",
+      "location": {
+        "address": "25\u03b7\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5",
+        "country": "GR",
+        "cross_street": "\u0395\u03c5\u03c1\u03b9\u03c0\u03af\u03b4\u03bf\u03c5",
+        "formatted_address": "25\u03b7\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5 (\u0395\u03c5\u03c1\u03b9\u03c0\u03af\u03b4\u03bf\u03c5), 155 61 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2",
+        "postcode": "155 61",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u0386\u03bb\u03c3\u03bf\u03c2 \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03bf\u03cd",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4d48151b847e6dcbcbe39ac4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 20014,
+      "geocodes": {
+        "main": {
+          "latitude": 38.15697,
+          "longitude": 23.794545
+        }
+      },
+      "link": "/v3/places/4d48151b847e6dcbcbe39ac4",
+      "location": {
+        "address": "\u03a4\u03b1\u03c4\u03cc\u03b9",
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a4\u03b1\u03c4\u03cc\u03b9, 136 72 \u0394\u03b5\u03ba\u03ad\u03bb\u03b5\u03b9\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "postcode": "136 72",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u039a\u03c4\u03ae\u03bc\u03b1 \u03a4\u03b1\u03c4\u03bf\u0390\u03bf\u03c5",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "50cdce3be4b046175bb1400e",
+            "categories": [
+              {
+                "id": 16031,
+                "name": "Palace",
+                "short_name": "Palace",
+                "plural_name": "Palaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac \u0391\u03bd\u03ac\u03ba\u03c4\u03bf\u03c1\u03b1 \u03a4\u03b1\u03c4\u03bf\u0390\u03bf\u03c5"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4f437770e4b08c6c28ebb165",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5508,
+      "geocodes": {
+        "main": {
+          "latitude": 38.011658,
+          "longitude": 23.663707
+        }
+      },
+      "link": "/v3/places/4f437770e4b08c6c28ebb165",
+      "location": {
+        "country": "GR",
+        "cross_street": "",
+        "formatted_address": "\u03a7\u03b1\u03ca\u03b4\u03ac\u03c1\u03b9, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u03a7\u03b1\u03ca\u03b4\u03ac\u03c1\u03b9",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "\u03a0\u03b1\u03bb\u03b1\u03c4\u03ac\u03ba\u03b9 \u03a7\u03b1\u03ca\u03b4\u03b1\u03c1\u03af\u03bf\u03c5",
+      "related_places": {},
+      "timezone": "Europe/Athens"
+    },
+    {
+      "fsq_id": "4c2f5706213c2d7f54a1305d",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4262,
+      "geocodes": {
+        "main": {
+          "latitude": 37.973505,
+          "longitude": 23.672893
+        }
+      },
+      "link": "/v3/places/4c2f5706213c2d7f54a1305d",
+      "location": {
+        "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03bf\u03cd 149",
+        "country": "GR",
+        "cross_street": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c5 \u03a1\u03ac\u03bb\u03bb\u03b7",
+        "formatted_address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03bf\u03cd 149 (\u03a0\u03ad\u03c4\u03c1\u03bf\u03c5 \u03a1\u03ac\u03bb\u03bb\u03b7), 182 33 \u0391\u03b8\u03ae\u03bd\u03b1, \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+        "locality": "\u0391\u03b8\u03ae\u03bd\u03b1",
+        "postcode": "182 33",
+        "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+      },
+      "name": "Allou! Fun Park",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4db540d05da3a76f444d1f97",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Allou! Fun Park Kidom"
+          },
+          {
+            "fsq_id": "5977880df62e097c58e1f4ad",
+            "categories": [
+              {
+                "id": 11036,
+                "name": "Entertainment Service",
+                "short_name": "Entertainment Service",
+                "plural_name": "Entertainment Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Volcano Island"
+          }
+        ]
+      },
+      "timezone": "Europe/Athens"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 37.9871384,
+          "longitude": 23.7183808
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

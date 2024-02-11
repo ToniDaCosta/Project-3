@@ -1,0 +1,690 @@
+{
+  "results": [
+    {
+      "fsq_id": "4adcda50f964a5203b4121e3",
+      "categories": [
+        {
+          "id": 10028,
+          "name": "Art Museum",
+          "short_name": "Art Museum",
+          "plural_name": "Art Museums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1048,
+      "geocodes": {
+        "main": {
+          "latitude": 41.388545,
+          "longitude": 2.171217
+        },
+        "roof": {
+          "latitude": 41.388545,
+          "longitude": 2.171217
+        }
+      },
+      "link": "/v3/places/4adcda50f964a5203b4121e3",
+      "location": {
+        "address": "Parc de la Ciutadella, 1",
+        "address_extended": "Pg. de Picasso",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Pg. de Picasso",
+        "formatted_address": "Parc de la Ciutadella, 1 (Pg. de Picasso), 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Parc de la Ciutadella",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "514f1adfe4b06c69f853976b",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Hivernacle"
+          },
+          {
+            "fsq_id": "4adcda51f964a520774121e3",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Castell dels Tres Dragons"
+          },
+          {
+            "fsq_id": "535d0ecf498e482b55d797f3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cascada Monumental"
+          },
+          {
+            "fsq_id": "4bb85b33314e95218b65489d",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu Martorell"
+          },
+          {
+            "fsq_id": "4adcda50f964a520534121e3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Desconsol"
+          },
+          {
+            "fsq_id": "4bb85c3b314e95212266489d",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu de Zoologia"
+          },
+          {
+            "fsq_id": "4bb7e5ca3db7b713dfbe209a",
+            "categories": [
+              {
+                "id": 10031,
+                "name": "Science Museum",
+                "short_name": "Science Museum",
+                "plural_name": "Science Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Laboratori de Natura"
+          },
+          {
+            "fsq_id": "4adcda50f964a520634121e3",
+            "categories": [
+              {
+                "id": 10056,
+                "name": "Zoo",
+                "short_name": "Zoo",
+                "plural_name": "Zoos",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Zoo de Barcelona"
+          },
+          {
+            "fsq_id": "577c136c498ea86296ec4b53",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago Parc de la Ciutadella"
+          },
+          {
+            "fsq_id": "4d08e5eb84ec224b8c1a2c62",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ludoteca ambiental"
+          },
+          {
+            "fsq_id": "4adcda51f964a520c84121e3",
+            "categories": [
+              {
+                "id": 12000,
+                "name": "Community and Government",
+                "short_name": "Community and Government",
+                "plural_name": "Communities and Government",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parlament de Catalunya"
+          },
+          {
+            "fsq_id": "52ed257611d22067ff4b1218",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pla\u00e7a de Joan Fiveller"
+          },
+          {
+            "fsq_id": "4c8e158758668cfa0ba2ceec",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Umbracle"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f113d8ce4b0a6ade00cbea4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1649,
+      "geocodes": {
+        "main": {
+          "latitude": 41.397117,
+          "longitude": 2.207435
+        }
+      },
+      "link": "/v3/places/4f113d8ce4b0a6ade00cbea4",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Parc del Poblenou",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4be68ff5bcef2d7fb24405e5",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2906,
+      "geocodes": {
+        "main": {
+          "latitude": 41.419553,
+          "longitude": 2.17135
+        },
+        "roof": {
+          "latitude": 41.419553,
+          "longitude": 2.17135
+        }
+      },
+      "link": "/v3/places/4be68ff5bcef2d7fb24405e5",
+      "location": {
+        "address": "Carrer de Garriga I Roca, 1",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Carrer de Garriga I Roca, 1, 08041 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08041",
+        "region": "Catalunya"
+      },
+      "name": "Parc del Guinard\u00f3",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5205104c11d29b25af6869ac",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3943,
+      "geocodes": {
+        "main": {
+          "latitude": 41.369578,
+          "longitude": 2.159119
+        }
+      },
+      "link": "/v3/places/5205104c11d29b25af6869ac",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "08040 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08040",
+        "region": "Catalunya"
+      },
+      "name": "Jardins del Teatre Grec",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d26c189342d6dcbb4c3e6ca",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Muntanya de Montju\u00efc"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4db044a05da32cf2df45cd67",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2403,
+      "geocodes": {
+        "main": {
+          "latitude": 41.396003,
+          "longitude": 2.158932
+        }
+      },
+      "link": "/v3/places/4db044a05da32cf2df45cd67",
+      "location": {
+        "address": "Avenida Diagonal, 391-395",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "C. C\u00f2rsega",
+        "formatted_address": "Avenida Diagonal, 391-395 (C. C\u00f2rsega), 08008 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08008",
+        "region": "Catalunya"
+      },
+      "name": "Jardins del Palau Robert",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5453c6cf498e75ddfe254ab2",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4793,
+      "geocodes": {
+        "main": {
+          "latitude": 41.362557,
+          "longitude": 2.154415
+        }
+      },
+      "link": "/v3/places/5453c6cf498e75ddfe254ab2",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Barcelona Catalunya",
+        "locality": "Barcelona",
+        "region": "Catalunya"
+      },
+      "name": "Parc de Montju\u00efc",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d26c189342d6dcbb4c3e6ca",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Muntanya de Montju\u00efc"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b8a8de9f964a520097232e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3688,
+      "geocodes": {
+        "main": {
+          "latitude": 41.368267,
+          "longitude": 2.167415
+        },
+        "roof": {
+          "latitude": 41.368267,
+          "longitude": 2.167415
+        }
+      },
+      "link": "/v3/places/4b8a8de9f964a520097232e3",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Pl. Dante",
+        "formatted_address": "Pl. Dante, 08038 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08038",
+        "region": "Catalunya"
+      },
+      "name": "Jardines de Joan Brossa",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d26c189342d6dcbb4c3e6ca",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Muntanya de Montju\u00efc"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda50f964a520604121e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3687,
+      "geocodes": {
+        "main": {
+          "latitude": 41.367574,
+          "longitude": 2.169399
+        },
+        "roof": {
+          "latitude": 41.367574,
+          "longitude": 2.169399
+        }
+      },
+      "link": "/v3/places/4adcda50f964a520604121e3",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "08038 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08038",
+        "region": "Catalunya"
+      },
+      "name": "Jardins del Mirador",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d26c189342d6dcbb4c3e6ca",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Muntanya de Montju\u00efc"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bcdc593cc8cd13aaf0ec3cf",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3968,
+      "geocodes": {
+        "main": {
+          "latitude": 41.40732,
+          "longitude": 2.143153
+        },
+        "roof": {
+          "latitude": 41.40732,
+          "longitude": 2.143153
+        }
+      },
+      "link": "/v3/places/4bcdc593cc8cd13aaf0ec3cf",
+      "location": {
+        "address": "Manacor, 9",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Homer",
+        "formatted_address": "Manacor, 9 (Homer), 08023 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08023",
+        "region": "Catalunya"
+      },
+      "name": "Parc del Tur\u00f3 del Putxet",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b641c1cf964a520869f2ae3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1146,
+      "geocodes": {
+        "main": {
+          "latitude": 41.407833,
+          "longitude": 2.190267
+        }
+      },
+      "link": "/v3/places/4b641c1cf964a520869f2ae3",
+      "location": {
+        "address": "Carrer Dels Escultores Claperos, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Dels Escultores Claperos, s/n, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Parc del Clot",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

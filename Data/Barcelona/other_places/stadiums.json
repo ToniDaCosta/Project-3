@@ -1,0 +1,637 @@
+{
+  "results": [
+    {
+      "fsq_id": "507fe73fd63e93639fd2a84f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5731,
+      "geocodes": {
+        "main": {
+          "latitude": 41.380922,
+          "longitude": 2.122783
+        },
+        "roof": {
+          "latitude": 41.380922,
+          "longitude": 2.122783
+        }
+      },
+      "link": "/v3/places/507fe73fd63e93639fd2a84f",
+      "location": {
+        "address": "Calle Aristides Maillol, 12",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Av. Joan XIII",
+        "formatted_address": "Calle Aristides Maillol, 12 (Av. Joan XIII), 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "Camp Nou",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bf3fd99706e20a120c8a898",
+            "categories": [
+              {
+                "id": 17117,
+                "name": "Sporting Goods Retail",
+                "short_name": "Sporting Goods Retail",
+                "plural_name": "Sporting Goods Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "FCBotiga Megastore"
+          },
+          {
+            "fsq_id": "4d835c3499b78cfac8829e1f",
+            "categories": [
+              {
+                "id": 11124,
+                "name": "Office",
+                "short_name": "Office",
+                "plural_name": "Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "FCBarcelona Main Office"
+          },
+          {
+            "fsq_id": "55f95bb4498eab3664fc9b3c",
+            "categories": [
+              {
+                "id": 13347,
+                "name": "Tapas Restaurant",
+                "short_name": "Tapas",
+                "plural_name": "Tapas Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tapas 24 Camp Nou"
+          },
+          {
+            "fsq_id": "51461704e4b0c11f80beac93",
+            "categories": [
+              {
+                "id": 13006,
+                "name": "Beer Bar",
+                "short_name": "Beer Bar",
+                "plural_name": "Beer Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Cerveseria Estrella Damm"
+          },
+          {
+            "fsq_id": "4bf801845efe2d7f44e36934",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mini Estadi"
+          },
+          {
+            "fsq_id": "4bf88221c07c9c7455dbbbef",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Futbol Club Barcelona"
+          },
+          {
+            "fsq_id": "4adcda5ff964a5208d4421e3",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pista de Gel - Camp Nou"
+          },
+          {
+            "fsq_id": "60be7f3267a8563fd5d36ad2",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar\u00e7a Caf\u00e9"
+          },
+          {
+            "fsq_id": "533afc62498e57531950f012",
+            "categories": [
+              {
+                "id": 18064,
+                "name": "Soccer Field",
+                "short_name": "Soccer Field",
+                "plural_name": "Soccer Fields",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sala VIP Roma Camp Nou"
+          },
+          {
+            "fsq_id": "58d645f88190797405258991",
+            "categories": [
+              {
+                "id": 16025,
+                "name": "Memorial Site",
+                "short_name": "Memorial Site",
+                "plural_name": "Memorial Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monument a Kubala"
+          },
+          {
+            "fsq_id": "5319ba41498eafed3a75f376",
+            "categories": [
+              {
+                "id": 11007,
+                "name": "Auditorium",
+                "short_name": "Auditorium",
+                "plural_name": "Auditoriums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/auditorium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Camp Nou - Auditori 1899"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda51f964a5208c4121e3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4826,
+      "geocodes": {
+        "main": {
+          "latitude": 41.363205,
+          "longitude": 2.152591
+        },
+        "roof": {
+          "latitude": 41.363332,
+          "longitude": 2.152642
+        }
+      },
+      "link": "/v3/places/4adcda51f964a5208c4121e3",
+      "location": {
+        "address": "Passeig Ol\u00edmpic 5-7",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Passeig Ol\u00edmpic 5-7, 08038 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08038",
+        "region": "Catalunya"
+      },
+      "name": "Palau Sant Jordi",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda5ff964a5208f4421e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4536,
+      "geocodes": {
+        "main": {
+          "latitude": 41.36476,
+          "longitude": 2.155625
+        },
+        "roof": {
+          "latitude": 41.36476,
+          "longitude": 2.155625
+        }
+      },
+      "link": "/v3/places/4adcda5ff964a5208f4421e3",
+      "location": {
+        "address": "Passeig Ol\u00edmpic, 17-19",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Passeig Ol\u00edmpic, 17-19, 08038 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08038",
+        "region": "Catalunya"
+      },
+      "name": "Olympic Stadium Llu\u00eds Companys (Estadi Ol\u00edmpic Llu\u00eds Companys)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "16c45c51fcc54f6e5f279ff8",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Reial Club Deportiu Espanyol"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda51f964a520b34121e3",
+      "categories": [
+        {
+          "id": 10061,
+          "name": "Basketball Stadium",
+          "short_name": "Basketball",
+          "plural_name": "Basketball Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_basketball_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5966,
+      "geocodes": {
+        "main": {
+          "latitude": 41.380163,
+          "longitude": 2.120141
+        },
+        "roof": {
+          "latitude": 41.380163,
+          "longitude": 2.120141
+        }
+      },
+      "link": "/v3/places/4adcda51f964a520b34121e3",
+      "location": {
+        "address": "Carrer D'Ar\u00edstides Maillol, 12",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Carrer D'Ar\u00edstides Maillol, 12, 08028 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08028",
+        "region": "Catalunya"
+      },
+      "name": "Palau Blaugrana",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5c6bacf964a520062f29e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10886,
+      "geocodes": {
+        "main": {
+          "latitude": 41.347733,
+          "longitude": 2.075446
+        }
+      },
+      "link": "/v3/places/4b5c6bacf964a520062f29e3",
+      "location": {
+        "address": "Avenida del Baix Llobregat, 100",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Avenida del Baix Llobregat, 100, 08940 Cornell\u00e0 de Llobregat Catalunya",
+        "locality": "Cornell\u00e0 de Llobregat",
+        "postcode": "08940",
+        "region": "Catalunya"
+      },
+      "name": "RCDE Stadium",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57ef9717498eef0baa0c82e5",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7900,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.35834,
+          "longitude": 2.108778
+        },
+        "main": {
+          "latitude": 41.358233,
+          "longitude": 2.10882
+        }
+      },
+      "link": "/v3/places/57ef9717498eef0baa0c82e5",
+      "location": {
+        "address": "Carrer Cobalt, 85",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer Cobalt, 85, 08907 l'Hospitalet Catalunya",
+        "locality": "l'Hospitalet",
+        "postcode": "08907",
+        "region": "Catalunya"
+      },
+      "name": "Padel Indoor Hospitalet",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55ad25c3498e3f6ad5f77a4e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14457,
+      "geocodes": {
+        "main": {
+          "latitude": 41.485018,
+          "longitude": 2.058962
+        }
+      },
+      "link": "/v3/places/55ad25c3498e3f6ad5f77a4e",
+      "location": {
+        "address": "Avenida de la Guinardera 11-13",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida de la Guinardera 11-13, 08174 Sant Cugat Catalunya",
+        "locality": "Sant Cugat",
+        "postcode": "08174",
+        "region": "Catalunya"
+      },
+      "name": "P\u00e0del Augusta",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d4d7fa6b1fa236a0e1b8f29",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16286,
+      "geocodes": {
+        "main": {
+          "latitude": 41.536402,
+          "longitude": 2.124229
+        },
+        "roof": {
+          "latitude": 41.536402,
+          "longitude": 2.124229
+        }
+      },
+      "link": "/v3/places/4d4d7fa6b1fa236a0e1b8f29",
+      "location": {
+        "address": "Cami de Can Quadres, 190",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Cami de Can Quadres, 190, 08203 Sabadell Catalunya",
+        "locality": "Sabadell",
+        "postcode": "08203",
+        "region": "Catalunya"
+      },
+      "name": "Pista Coberta de Catalunya",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b87b179f964a52073c731e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11671,
+      "geocodes": {
+        "main": {
+          "latitude": 41.377292,
+          "longitude": 2.050366
+        }
+      },
+      "link": "/v3/places/4b87b179f964a52073c731e3",
+      "location": {
+        "address": "Avenida del Sol, s/n",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida del Sol, s/n, 08790 Sant Joan Desp\u00ed Catalunya",
+        "locality": "Sant Joan Desp\u00ed",
+        "postcode": "08790",
+        "region": "Catalunya"
+      },
+      "name": "Ciutat Esportiva Joan Gamper FCBarcelona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "537cce7d498e40db3065875e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 597,
+      "geocodes": {
+        "main": {
+          "latitude": 41.40006,
+          "longitude": 2.181206
+        }
+      },
+      "link": "/v3/places/537cce7d498e40db3065875e",
+      "location": {
+        "address": "Gran V\u00eda de Les Corts Catalanes, 749",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Gran V\u00eda de Les Corts Catalanes, 749, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Plaza de Toros Monumental (Pla\u00e7a de Bous Monumental)",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

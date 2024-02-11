@@ -1,0 +1,2960 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b76c3a0f964a520735d2ee3",
+      "categories": [
+        {
+          "id": 12038,
+          "name": "College Stadium",
+          "short_name": "Stadium",
+          "plural_name": "College Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2091,
+      "geocodes": {
+        "main": {
+          "latitude": 38.753594,
+          "longitude": -9.163212
+        },
+        "roof": {
+          "latitude": 38.753594,
+          "longitude": -9.163212
+        }
+      },
+      "link": "/v3/places/4b76c3a0f964a520735d2ee3",
+      "location": {
+        "address": "Avenida Professor Egas Moniz",
+        "country": "PT",
+        "formatted_address": "Avenida Professor Egas Moniz, 1600-190 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-190",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio Universit\u00e1rio de Lisboa",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4e0d952dfa76d62f443fdee5",
+            "categories": [
+              {
+                "id": 12013,
+                "name": "College and University",
+                "short_name": "College & Education",
+                "plural_name": "Colleges and Universities",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Est\u00e1dio Universit\u00e1rio de Lisboa - Pavilh\u00e3o 3"
+          },
+          {
+            "fsq_id": "5172aafae4b01f6b026a51f1",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Campo de Honra - Est\u00e1dio Universit\u00e1rio de Lisboa"
+          },
+          {
+            "fsq_id": "50b8c33de4b07e5a14aa9d44",
+            "categories": [
+              {
+                "id": 12021,
+                "name": "College Cafeteria",
+                "short_name": "Cafeteria",
+                "plural_name": "College Cafeterias",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafetaria Est\u00e1dio Universit\u00e1rio"
+          },
+          {
+            "fsq_id": "514499dd45b0b92ed91d9dc0",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "CDUL Rugby - Campo 4"
+          },
+          {
+            "fsq_id": "517fde168aca14dd5648fe31",
+            "categories": [
+              {
+                "id": 18018,
+                "name": "Golf Course",
+                "short_name": "Golf Course",
+                "plural_name": "Golf Courses",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Academia de Golfe do Est\u00e1dio Universit\u00e1rio de Lisboa"
+          },
+          {
+            "fsq_id": "4d5260f8c305b60c0a8e991e",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro de T\u00e9nis - EUL"
+          },
+          {
+            "fsq_id": "4d2b127f467d6ea82e45dd95",
+            "categories": [
+              {
+                "id": 12027,
+                "name": "College Gym",
+                "short_name": "Gym",
+                "plural_name": "College Gyms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Academia Fitness - EUL"
+          },
+          {
+            "fsq_id": "4c8143f7e602b1f71525917a",
+            "categories": [
+              {
+                "id": 17101,
+                "name": "Garden Center",
+                "short_name": "Garden Center",
+                "plural_name": "Garden Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/gardencenter_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Complexo de Piscinas do EUL"
+          },
+          {
+            "fsq_id": "4d9c0b0054028cfac74c015b",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gin\u00e1sio - EUL"
+          },
+          {
+            "fsq_id": "5111728b704362ca3c04d359",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Shim Jun - EUL"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bae61fbf964a5200eab3be3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 11107,
+          "name": "Insurance Agency",
+          "short_name": "Insurance Agency",
+          "plural_name": "Insurance Agencies",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3719,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752634,
+          "longitude": -9.184581
+        },
+        "roof": {
+          "latitude": 38.752634,
+          "longitude": -9.184581
+        }
+      },
+      "link": "/v3/places/4bae61fbf964a5200eab3be3",
+      "location": {
+        "address": "Avenida General Norton de Matos",
+        "country": "PT",
+        "cross_street": "Av. Lus\u00edada",
+        "formatted_address": "Avenida General Norton de Matos (Av. Lus\u00edada), 1500-313 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-313",
+        "region": "Lisboa"
+      },
+      "name": "Sport Lisboa e Benfica (Est\u00e1dio do Sport Lisboa e Benfica)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "51f67214498e04bb268a1b9a",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu Benfica - Cosme Dami\u00e3o"
+          },
+          {
+            "fsq_id": "5db03f9a1a27fd0008ede560",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Luz by Chakall"
+          },
+          {
+            "fsq_id": "5d42dbfcc295e80007856293",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Petiscaria Gourmet Mercado da Luz"
+          },
+          {
+            "fsq_id": "5cce3de5d41bb7002c825c4c",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bancada Setor 3 Red Power"
+          },
+          {
+            "fsq_id": "5aa42cd7b2958f04f96de8c8",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piso 0 - Sector 24 Estadio da Luz"
+          },
+          {
+            "fsq_id": "4c8faafa1992a1cd44e4e7fb",
+            "categories": [
+              {
+                "id": 13325,
+                "name": "Portuguese Restaurant",
+                "short_name": "Portuguese",
+                "plural_name": "Portuguese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "3\u00ba Anel"
+          },
+          {
+            "fsq_id": "5c7452e565cdf8002c53da95",
+            "categories": [
+              {
+                "id": 13057,
+                "name": "Gastropub",
+                "short_name": "Gastropub",
+                "plural_name": "Gastropubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Hublot"
+          },
+          {
+            "fsq_id": "5933fe419fca567dcb3652f0",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Festival Francesinhas Benfica"
+          },
+          {
+            "fsq_id": "64465a7760527d033e3df459",
+            "categories": [
+              {
+                "id": 19006,
+                "name": "Electric Vehicle Charging Station",
+                "short_name": "Electric Vehicle Charging Station",
+                "plural_name": "Electric Vehicle Charging Stations",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Edp Charger"
+          },
+          {
+            "fsq_id": "5c9532bbe65d0c002c439b86",
+            "categories": [
+              {
+                "id": 18064,
+                "name": "Soccer Field",
+                "short_name": "Soccer Field",
+                "plural_name": "Soccer Fields",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bancada Sagres"
+          },
+          {
+            "fsq_id": "4d0cce9e903d37040fbebf55",
+            "categories": [
+              {
+                "id": 13079,
+                "name": "Brazilian Restaurant",
+                "short_name": "Brazilian",
+                "plural_name": "Brazilian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chimarr\u00e3o"
+          },
+          {
+            "fsq_id": "5b7c5df5c53093002c760609",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bancada Emirates"
+          },
+          {
+            "fsq_id": "5b7c5e473fcee8003944024d",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sector 41"
+          },
+          {
+            "fsq_id": "5c770620e706550025556941",
+            "categories": [
+              {
+                "id": 18066,
+                "name": "Volleyball Court",
+                "short_name": "Volleyball Court",
+                "plural_name": "Volleyball Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/volleyballcourt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavilh\u00e3o 2"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a7f964a520aad222e3",
+      "categories": [
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "short_name": "Music Venue",
+          "plural_name": "Music Venues",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5180,
+      "geocodes": {
+        "main": {
+          "latitude": 38.76853,
+          "longitude": -9.09403
+        }
+      },
+      "link": "/v3/places/4b0588a7f964a520aad222e3",
+      "location": {
+        "address": "Rossio dos Olivais",
+        "address_extended": "lt. 2.13.01a",
+        "country": "PT",
+        "cross_street": "Al. dos Oceanos",
+        "formatted_address": "Rossio dos Olivais (Al. dos Oceanos), 1990-231 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1990-231",
+        "region": "Lisboa"
+      },
+      "name": "MEO Arena",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ebaf4df108192bf75ca817c",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sala Tejo"
+          },
+          {
+            "fsq_id": "59b7a3ea5a2c910774413be9",
+            "categories": [
+              {
+                "id": 11021,
+                "name": "Business Center",
+                "short_name": "Business Center",
+                "plural_name": "Business Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Altice Business Centre"
+          },
+          {
+            "fsq_id": "523a22b2498e934a7b7d53dd",
+            "categories": [
+              {
+                "id": 11124,
+                "name": "Office",
+                "short_name": "Office",
+                "plural_name": "Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Moche Room"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a7f964a520a4d222e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2588,
+      "geocodes": {
+        "main": {
+          "latitude": 38.761731,
+          "longitude": -9.160683
+        },
+        "roof": {
+          "latitude": 38.761731,
+          "longitude": -9.160683
+        }
+      },
+      "link": "/v3/places/4b0588a7f964a520a4d222e3",
+      "location": {
+        "address": "Rua Professor Fernando da Fonseca, 1501-806 Lisboa",
+        "country": "PT",
+        "formatted_address": "Rua Professor Fernando da Fonseca, 1501-806 Lisboa, 1600-616 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-616",
+        "region": "Lisboa"
+      },
+      "name": "Jos\u00e9 Alvalade Stadium (Est\u00e1dio Jos\u00e9 Alvalade)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "640a14f7c9937d54a2bd06c5",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Juve Leo"
+          },
+          {
+            "fsq_id": "4f2599b7e4b0d609c7bba9dd",
+            "categories": [
+              {
+                "id": 19020,
+                "name": "Parking",
+                "short_name": "Parking",
+                "plural_name": "Parking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque de Estacionamento do Est\u00e1dio Jos\u00e9 Alvalade S\u00e9culo XXI em Lisboa"
+          },
+          {
+            "fsq_id": "4bf41a7b6a31d13a275a952e",
+            "categories": [
+              {
+                "id": 17114,
+                "name": "Shopping Mall",
+                "short_name": "Mall",
+                "plural_name": "Shopping Malls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro Comercial Alvalaxia"
+          },
+          {
+            "fsq_id": "4bfd1fcbbf6576b081c1acb8",
+            "categories": [
+              {
+                "id": 15011,
+                "name": "Healthcare Clinic",
+                "short_name": "Healthcare Clinic",
+                "plural_name": "Healthcare Clinics",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cl\u00ednica Cuf Alvalade S.A."
+          },
+          {
+            "fsq_id": "4e63323b8877954de8877265",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piscinas do Sporting"
+          },
+          {
+            "fsq_id": "4f269e85c2ee05b71e1ad333",
+            "categories": [
+              {
+                "id": 10030,
+                "name": "History Museum",
+                "short_name": "History Museum",
+                "plural_name": "History Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museu Mundo Sporting"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5722577c498e33891bad0b13",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2745,
+      "geocodes": {
+        "main": {
+          "latitude": 38.763959,
+          "longitude": -9.159621
+        },
+        "roof": {
+          "latitude": 38.763959,
+          "longitude": -9.159621
+        }
+      },
+      "link": "/v3/places/5722577c498e33891bad0b13",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Pavilh\u00e3o Jo\u00e3o Rocha - Sporting Clube Portugal",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5a365b258ad62e5f60c368d0",
+            "categories": [
+              {
+                "id": 17117,
+                "name": "Sporting Goods Retail",
+                "short_name": "Sporting Goods Retail",
+                "plural_name": "Sporting Goods Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Loja Verde"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4bf24d787077952140b03e7c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1131,
+      "geocodes": {
+        "main": {
+          "latitude": 38.75155,
+          "longitude": -9.137661
+        }
+      },
+      "link": "/v3/places/4bf24d787077952140b03e7c",
+      "location": {
+        "address": "Avenida Rio de Janeiro",
+        "country": "PT",
+        "formatted_address": "Avenida Rio de Janeiro, 1700-330 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1700-330",
+        "region": "Lisboa"
+      },
+      "name": "Parque de Jogos 1\u00ba de Maio - INATEL",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5b7c5df5c53093002c760609",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3740,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752595,
+          "longitude": -9.184855
+        }
+      },
+      "link": "/v3/places/5b7c5df5c53093002c760609",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Bancada Emirates",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bae61fbf964a5200eab3be3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 11107,
+              "name": "Insurance Agency",
+              "short_name": "Insurance Agency",
+              "plural_name": "Insurance Agencies",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Sport Lisboa e Benfica"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4beec5463686c9b688ea246e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10204,
+      "geocodes": {
+        "main": {
+          "latitude": 38.708189,
+          "longitude": -9.252795
+        }
+      },
+      "link": "/v3/places/4beec5463686c9b688ea246e",
+      "location": {
+        "address": "Centro Desportivo Nacional do Jamor",
+        "country": "PT",
+        "cross_street": "Av. Pierre de Coubertin",
+        "formatted_address": "Centro Desportivo Nacional do Jamor (Av. Pierre de Coubertin), 1495-751 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "1495-751",
+        "region": "Lisboa"
+      },
+      "name": "Centro de T\u00e9nis do Jamor",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5502249a498e2814df1661ee",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jamor Centro Desportivo Nacional"
+        },
+        "children": [
+          {
+            "fsq_id": "4eb5436b6c2590eb87f63e18",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Courts Cobertos - Centro de T\u00e9nis do Jamor"
+          },
+          {
+            "fsq_id": "4cb96b6fc7228cfa4ec30fce",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centralito"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4baf686df964a52099fd3be3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3594,
+      "geocodes": {
+        "main": {
+          "latitude": 38.751774,
+          "longitude": -9.183412
+        }
+      },
+      "link": "/v3/places/4baf686df964a52099fd3be3",
+      "location": {
+        "address": "Avenida General Norton de Matos",
+        "country": "PT",
+        "formatted_address": "Avenida General Norton de Matos, 1500-313 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-313",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o Fidelidade",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4dd8098a8877f1150ff91e55",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16596,
+      "geocodes": {
+        "main": {
+          "latitude": 38.654767,
+          "longitude": -8.98896
+        },
+        "roof": {
+          "latitude": 38.654767,
+          "longitude": -8.98896
+        }
+      },
+      "link": "/v3/places/4dd8098a8877f1150ff91e55",
+      "location": {
+        "address": "Avenida Dr. Te\u00f3filo Braga",
+        "country": "PT",
+        "formatted_address": "Avenida Dr. Te\u00f3filo Braga, 2860-396 Moita",
+        "locality": "Moita",
+        "postcode": "2860-396",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pra\u00e7a de Toiros da Moita",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "55298ea6498e00d18e642bbb",
+            "categories": [
+              {
+                "id": 13347,
+                "name": "Tapas Restaurant",
+                "short_name": "Tapas",
+                "plural_name": "Tapas Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tapas Wine Bar"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f8965ebe4b056350f5ed4de",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3563,
+      "geocodes": {
+        "main": {
+          "latitude": 38.753245,
+          "longitude": -9.182461
+        }
+      },
+      "link": "/v3/places/4f8965ebe4b056350f5ed4de",
+      "location": {
+        "address": "Rua Jos\u00e9 Maria Nicolau",
+        "country": "PT",
+        "formatted_address": "Rua Jos\u00e9 Maria Nicolau, 1500-313 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-313",
+        "region": "Lisboa"
+      },
+      "name": "Campo Treinos SLB",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "51819e8b498e6bbc058b968a",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3521,
+      "geocodes": {
+        "main": {
+          "latitude": 38.711041,
+          "longitude": -9.139777
+        },
+        "roof": {
+          "latitude": 38.711041,
+          "longitude": -9.139777
+        }
+      },
+      "link": "/v3/places/51819e8b498e6bbc058b968a",
+      "location": {
+        "address": "Aeroporto de lisboa",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Aeroporto de lisboa"
+      },
+      "name": "Portekiz Lizbon",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ed0b85de5faa5ec0328dc9d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4962,
+      "geocodes": {
+        "main": {
+          "latitude": 38.716709,
+          "longitude": -9.1904
+        }
+      },
+      "link": "/v3/places/4ed0b85de5faa5ec0328dc9d",
+      "location": {
+        "country": "PT",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Agronomia Rugby",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c003600c30a2d7f9435121d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9808,
+      "geocodes": {
+        "main": {
+          "latitude": 38.829147,
+          "longitude": -9.164914
+        },
+        "roof": {
+          "latitude": 38.829147,
+          "longitude": -9.164914
+        }
+      },
+      "link": "/v3/places/4c003600c30a2d7f9435121d",
+      "location": {
+        "address": "Rua da Rep\u00fablica",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua da Rep\u00fablica, 2670-457 Loures",
+        "locality": "Loures",
+        "postcode": "2670-457",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o Paz e Amizade",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "56fbfd13498e02bcc42eb0d5",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12123,
+      "geocodes": {
+        "main": {
+          "latitude": 38.70486,
+          "longitude": -9.274866
+        }
+      },
+      "link": "/v3/places/56fbfd13498e02bcc42eb0d5",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Laveiras",
+        "locality": "Laveiras",
+        "region": "Lisboa"
+      },
+      "name": "Cidade do Futebol",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e0fa2d11838f62321d1abd7",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16357,
+      "geocodes": {
+        "main": {
+          "latitude": 38.755837,
+          "longitude": -8.955771
+        },
+        "roof": {
+          "latitude": 38.755837,
+          "longitude": -8.955771
+        }
+      },
+      "link": "/v3/places/4e0fa2d11838f62321d1abd7",
+      "location": {
+        "address": "Avenida5",
+        "country": "PT",
+        "cross_street": "Alameda Grupo Desportivo Alcochetense",
+        "formatted_address": "Avenida5 (Alameda Grupo Desportivo Alcochetense), 2890-011 Alcochete",
+        "locality": "Alcochete",
+        "postcode": "2890-011",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pra\u00e7a de Touros de Alcochete",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b7838f4f964a5208ebd2ee3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1309,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743198,
+          "longitude": -9.128561
+        },
+        "roof": {
+          "latitude": 38.743198,
+          "longitude": -9.128561
+        }
+      },
+      "link": "/v3/places/4b7838f4f964a5208ebd2ee3",
+      "location": {
+        "address": "Rua Jo\u00e3o da Silva",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Jo\u00e3o da Silva, 1900-271 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1900-271",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o Municipal Casal Vistoso",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4f12d75ae4b04b3f04b96f94",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piscinas do Areeiro"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a7f964a520b2d222e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7133,
+      "geocodes": {
+        "main": {
+          "latitude": 38.702511,
+          "longitude": -9.207896
+        },
+        "roof": {
+          "latitude": 38.702511,
+          "longitude": -9.207896
+        }
+      },
+      "link": "/v3/places/4b0588a7f964a520b2d222e3",
+      "location": {
+        "address": "Avenida do Restelo",
+        "country": "PT",
+        "formatted_address": "Avenida do Restelo, 1449-015 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1449-015",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio do Restelo",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d14b0d5cc216ea8a1d75dd3",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Varanda Azul"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ba09316f964a520d57237e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22975,
+      "geocodes": {
+        "main": {
+          "latitude": 38.715941,
+          "longitude": -9.406128
+        },
+        "roof": {
+          "latitude": 38.715941,
+          "longitude": -9.406128
+        }
+      },
+      "link": "/v3/places/4ba09316f964a520d57237e3",
+      "location": {
+        "country": "PT",
+        "formatted_address": "2765-437 Estoril",
+        "locality": "Estoril",
+        "postcode": "2765-437",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio Ant\u00f3nio Coimbra da Mota",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4dbd2bb60437955ec0462b48",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 26546,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.950195,
+          "longitude": -8.991228
+        },
+        "main": {
+          "latitude": 38.94998,
+          "longitude": -8.991133
+        },
+        "roof": {
+          "latitude": 38.94998,
+          "longitude": -8.991133
+        }
+      },
+      "link": "/v3/places/4dbd2bb60437955ec0462b48",
+      "location": {
+        "address": "Estrada Nacional 10",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Estrada Nacional 10, 2600-263 Vila Franca de Xira",
+        "locality": "Vila Franca de Xira",
+        "postcode": "2600-263",
+        "region": "Lisboa"
+      },
+      "name": "Pra\u00e7a de Touros Palha Blanco",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4fef8168e4b0fbda24448746",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 15999,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.707853,
+          "longitude": -8.965408
+        },
+        "main": {
+          "latitude": 38.707861,
+          "longitude": -8.964666
+        },
+        "roof": {
+          "latitude": 38.707861,
+          "longitude": -8.964666
+        }
+      },
+      "link": "/v3/places/4fef8168e4b0fbda24448746",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Montijo",
+        "locality": "Montijo",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pra\u00e7a de Touros do Montijo",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e0b134345ddb226bd8b1ebe",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5363,
+      "geocodes": {
+        "main": {
+          "latitude": 38.705777,
+          "longitude": -9.183925
+        },
+        "roof": {
+          "latitude": 38.705777,
+          "longitude": -9.183925
+        }
+      },
+      "link": "/v3/places/4e0b134345ddb226bd8b1ebe",
+      "location": {
+        "address": "Cal\u00e7ada da Tapada",
+        "country": "PT",
+        "formatted_address": "Cal\u00e7ada da Tapada, 1300-551 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1300-551",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o Desportivo da Ajuda",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f1acb17e4b0d9f8b89da1d9",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7480,
+      "geocodes": {
+        "main": {
+          "latitude": 38.723542,
+          "longitude": -9.226409
+        },
+        "roof": {
+          "latitude": 38.723542,
+          "longitude": -9.226409
+        }
+      },
+      "link": "/v3/places/4f1acb17e4b0d9f8b89da1d9",
+      "location": {
+        "address": "Rua Gaspar Barreiros",
+        "country": "PT",
+        "cross_street": "Carnaxide",
+        "formatted_address": "Rua Gaspar Barreiros (Carnaxide), 2790-212 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "2790-212",
+        "region": "Lisboa"
+      },
+      "name": "Parque Desportivo Carlos Queiroz",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "61cc4e044d49693e5e085dbb",
+            "categories": [
+              {
+                "id": 15053,
+                "name": "Urgent Care Center",
+                "short_name": "Urgent Care Center",
+                "plural_name": "Urgent Care Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centro de Vacina\u00e7\u0101o Covid-19"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ed0b38161af476c08eafd5b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3080,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.718764,
+          "longitude": -9.162113
+        },
+        "main": {
+          "latitude": 38.718702,
+          "longitude": -9.161957
+        },
+        "roof": {
+          "latitude": 38.718702,
+          "longitude": -9.161957
+        }
+      },
+      "link": "/v3/places/4ed0b38161af476c08eafd5b",
+      "location": {
+        "address": "Rua Silva Carvalho",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Silva Carvalho, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o do Clube Atl\u00e9tico de Campo de Ourique",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d51bd837ee1a35ddfb09234",
+      "categories": [
+        {
+          "id": 18064,
+          "name": "Soccer Field",
+          "short_name": "Soccer Field",
+          "plural_name": "Soccer Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6635,
+      "geocodes": {
+        "main": {
+          "latitude": 38.713603,
+          "longitude": -9.210574
+        }
+      },
+      "link": "/v3/places/4d51bd837ee1a35ddfb09234",
+      "location": {
+        "address": "Avenida dos Bombeiros, Caram\u00e3o da Ajuda",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida dos Bombeiros, Caram\u00e3o da Ajuda, 1400-036 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1400-036",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio Pinto Basto",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d6153f25c39b1f744830e4a",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "CIF Padel"
+          }
+        ]
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4c9114c91adc3704f4182dd1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4949,
+      "geocodes": {
+        "main": {
+          "latitude": 38.709367,
+          "longitude": -9.181868
+        },
+        "roof": {
+          "latitude": 38.709367,
+          "longitude": -9.181868
+        }
+      },
+      "link": "/v3/places/4c9114c91adc3704f4182dd1",
+      "location": {
+        "address": "Avenida da Ponte",
+        "country": "PT",
+        "formatted_address": "Avenida da Ponte, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Atl\u00e9tico Clube de Portugal",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f1ac690e4b0d9f8b898a973",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2393,
+      "geocodes": {
+        "main": {
+          "latitude": 38.749098,
+          "longitude": -9.169976
+        }
+      },
+      "link": "/v3/places/4f1ac690e4b0d9f8b898a973",
+      "location": {
+        "address": "Campo Jos\u00e9 Ramos",
+        "country": "PT",
+        "formatted_address": "Campo Jos\u00e9 Ramos, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Sport Futebol Palmense",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4cb8b12443ec6dcb5add9731",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12103,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.634495,
+          "longitude": -9.159827
+        },
+        "main": {
+          "latitude": 38.634365,
+          "longitude": -9.159562
+        },
+        "roof": {
+          "latitude": 38.634365,
+          "longitude": -9.159562
+        }
+      },
+      "link": "/v3/places/4cb8b12443ec6dcb5add9731",
+      "location": {
+        "address": "Avenida Guerra Junqueiro",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Guerra Junqueiro, Corroios",
+        "locality": "Corroios",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pavilh\u00e3o Municipal do Alto do Moinho",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4b0588a7f964a52094d222e3",
+      "categories": [
+        {
+          "id": 18064,
+          "name": "Soccer Field",
+          "short_name": "Soccer Field",
+          "plural_name": "Soccer Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12119,
+      "geocodes": {
+        "main": {
+          "latitude": 38.70884,
+          "longitude": -9.260676
+        },
+        "roof": {
+          "latitude": 38.70884,
+          "longitude": -9.260676
+        }
+      },
+      "link": "/v3/places/4b0588a7f964a52094d222e3",
+      "location": {
+        "address": "Avenida Pierre de Coubertin",
+        "country": "PT",
+        "cross_street": "Cruz Quebrada",
+        "formatted_address": "Avenida Pierre de Coubertin (Cruz Quebrada), 1495-751 Oeiras",
+        "locality": "Oeiras",
+        "postcode": "1495-751",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio Nacional",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5502249a498e2814df1661ee",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jamor Centro Desportivo Nacional"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d547035ba5b224b4a2c0314",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14671,
+      "geocodes": {
+        "main": {
+          "latitude": 38.700422,
+          "longitude": -9.304213
+        },
+        "roof": {
+          "latitude": 38.700422,
+          "longitude": -9.304213
+        }
+      },
+      "link": "/v3/places/4d547035ba5b224b4a2c0314",
+      "location": {
+        "address": "Rua de S\u00e3o Salvador da Ba\u00eda",
+        "country": "PT",
+        "cross_street": "Alam. Bonif\u00e1cio L\u00e1zaro Lozano",
+        "formatted_address": "Rua de S\u00e3o Salvador da Ba\u00eda (Alam. Bonif\u00e1cio L\u00e1zaro Lozano), 2780-125 Cacilhas",
+        "locality": "Oeiras",
+        "postcode": "2780-125",
+        "region": "Lisboa"
+      },
+      "name": "Est\u00e1dio Municipal de Oeiras",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5259a8db498e1c2022474901",
+      "categories": [
+        {
+          "id": 10003,
+          "name": "Arcade",
+          "short_name": "Arcade",
+          "plural_name": "Arcades",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/arcade_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12004,
+          "name": "Community Center",
+          "short_name": "Community Center",
+          "plural_name": "Community Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14419,
+      "geocodes": {
+        "main": {
+          "latitude": 38.616946,
+          "longitude": -9.100318
+        },
+        "roof": {
+          "latitude": 38.616946,
+          "longitude": -9.100318
+        }
+      },
+      "link": "/v3/places/5259a8db498e1c2022474901",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "2840-438",
+        "postcode": "2840-438",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pavilh\u00e3o Mun. Torre da Marinha",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5172aafae4b01f6b026a51f1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1849,
+      "geocodes": {
+        "main": {
+          "latitude": 38.750971,
+          "longitude": -9.162083
+        }
+      },
+      "link": "/v3/places/5172aafae4b01f6b026a51f1",
+      "location": {
+        "address": "Avenida Professor Egas Moniz",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Avenida Professor Egas Moniz, 1600-190",
+        "postcode": "1600-190",
+        "region": "Lisboa"
+      },
+      "name": "Campo de Honra - Est\u00e1dio Universit\u00e1rio de Lisboa",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b76c3a0f964a520735d2ee3",
+          "categories": [
+            {
+              "id": 12038,
+              "name": "College Stadium",
+              "short_name": "Stadium",
+              "plural_name": "College Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Est\u00e1dio Universit\u00e1rio de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "52570da3498e77543700a2d1",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7212,
+      "geocodes": {
+        "main": {
+          "latitude": 38.717733,
+          "longitude": -9.221641
+        },
+        "roof": {
+          "latitude": 38.717733,
+          "longitude": -9.221641
+        }
+      },
+      "link": "/v3/places/52570da3498e77543700a2d1",
+      "location": {
+        "address": "Rua Fernando T\u00e1vora N\u00ba4",
+        "country": "PT",
+        "cross_street": "Portela de Carnaxide",
+        "formatted_address": "Rua Fernando T\u00e1vora N\u00ba4 (Portela de Carnaxide), 2790-256 Carnaxide",
+        "locality": "Oeiras",
+        "postcode": "2790-256",
+        "region": "Lisboa"
+      },
+      "name": "Indoor Padel Center",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4da49bc17ccc816ea6a1957b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18064,
+          "name": "Soccer Field",
+          "short_name": "Soccer Field",
+          "plural_name": "Soccer Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19619,
+      "geocodes": {
+        "main": {
+          "latitude": 38.898044,
+          "longitude": -9.036105
+        },
+        "roof": {
+          "latitude": 38.898044,
+          "longitude": -9.036105
+        }
+      },
+      "link": "/v3/places/4da49bc17ccc816ea6a1957b",
+      "location": {
+        "address": "Rua C\u00e9sar Augusto Gon\u00e7alves Ferreira",
+        "country": "PT",
+        "formatted_address": "Rua C\u00e9sar Augusto Gon\u00e7alves Ferreira, Alverca do Ribatejo",
+        "locality": "Alverca",
+        "region": "Lisboa"
+      },
+      "name": "FC Alverca - Complexo Desportivo",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4fa08cd7e4b0dae72da621fb",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2134,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.734675,
+          "longitude": -9.121211
+        },
+        "main": {
+          "latitude": 38.734595,
+          "longitude": -9.121308
+        },
+        "roof": {
+          "latitude": 38.734595,
+          "longitude": -9.121308
+        }
+      },
+      "link": "/v3/places/4fa08cd7e4b0dae72da621fb",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "1900-133 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1900-133",
+        "region": "Lisboa"
+      },
+      "name": "Vitoria Clube de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "514499dd45b0b92ed91d9dc0",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2282,
+      "geocodes": {
+        "main": {
+          "latitude": 38.756459,
+          "longitude": -9.16307
+        }
+      },
+      "link": "/v3/places/514499dd45b0b92ed91d9dc0",
+      "location": {
+        "address": "Est\u00e1dio Universit\u00e1rio de Lisboa",
+        "country": "PT",
+        "cross_street": "Avenida Professor Egas Moniz",
+        "formatted_address": "Est\u00e1dio Universit\u00e1rio de Lisboa (Avenida Professor Egas Moniz), 1600-190 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1600-190",
+        "region": "Lisboa"
+      },
+      "name": "CDUL Rugby - Campo 4",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b76c3a0f964a520735d2ee3",
+          "categories": [
+            {
+              "id": 12038,
+              "name": "College Stadium",
+              "short_name": "Stadium",
+              "plural_name": "College Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Est\u00e1dio Universit\u00e1rio de Lisboa"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "6255c6c33627837301a36724",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2563,
+      "geocodes": {
+        "main": {
+          "latitude": 38.725959,
+          "longitude": -9.164393
+        },
+        "roof": {
+          "latitude": 38.725959,
+          "longitude": -9.164393
+        }
+      },
+      "link": "/v3/places/6255c6c33627837301a36724",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "1070-216 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1070-216",
+        "region": "Lisboa"
+      },
+      "name": "Cit Padel Amoreiras",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4f645b75e4b0cded5c57fd3b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2618,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.759824,
+          "longitude": -9.123484
+        },
+        "main": {
+          "latitude": 38.759829,
+          "longitude": -9.123221
+        },
+        "roof": {
+          "latitude": 38.759829,
+          "longitude": -9.123221
+        }
+      },
+      "link": "/v3/places/4f645b75e4b0cded5c57fd3b",
+      "location": {
+        "address": "Rua Gabriel Constante",
+        "address_extended": "lt. 227",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua Gabriel Constante, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Pavilh\u00e3o dos Loios",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4da742fdf7b15dc952f68eb2",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2734,
+      "geocodes": {
+        "main": {
+          "latitude": 38.719015,
+          "longitude": -9.130496
+        },
+        "roof": {
+          "latitude": 38.719015,
+          "longitude": -9.130496
+        }
+      },
+      "link": "/v3/places/4da742fdf7b15dc952f68eb2",
+      "location": {
+        "address": "Rua S\u00e3o Gens 11",
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Rua S\u00e3o Gens 11, 1170-337 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1170-337",
+        "region": "Lisboa"
+      },
+      "name": "Maria Pia Sport Clube",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "53d3ded8498e6d8d4960c3f3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2860,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743866,
+          "longitude": -9.108905
+        }
+      },
+      "link": "/v3/places/53d3ded8498e6d8d4960c3f3",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Campo Eng. Carlos Salema",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5262a4da498e08a21ce8b552",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3016,
+      "geocodes": {
+        "main": {
+          "latitude": 38.721869,
+          "longitude": -9.121192
+        }
+      },
+      "link": "/v3/places/5262a4da498e08a21ce8b552",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Tasco do Oper\u00e1rio Futebol Clube de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4d68e437b6f46dcb30351ab2",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18039,
+          "name": "Race Track",
+          "short_name": "Race Track",
+          "plural_name": "Race Tracks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/racetrack_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18053,
+          "name": "Track",
+          "short_name": "Track",
+          "plural_name": "Tracks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_track_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11076,
+      "geocodes": {
+        "main": {
+          "latitude": 38.646031,
+          "longitude": -9.175478
+        },
+        "roof": {
+          "latitude": 38.646031,
+          "longitude": -9.175478
+        }
+      },
+      "link": "/v3/places/4d68e437b6f46dcb30351ab2",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Almada",
+        "locality": "Almada",
+        "region": "Set\u00fabal"
+      },
+      "name": "Pista de Atletismo da Sobreda",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e778462483b0cf5eda8575e",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3047,
+      "geocodes": {
+        "main": {
+          "latitude": 38.727227,
+          "longitude": -9.172913
+        }
+      },
+      "link": "/v3/places/4e778462483b0cf5eda8575e",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Caco",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4eb6a2ad2c5b53141ad3d6b9",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12082,
+          "name": "Organization",
+          "short_name": "Organization",
+          "plural_name": "Organizations",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18062,
+          "name": "Soccer",
+          "short_name": "Soccer",
+          "plural_name": "Soccer",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3058,
+      "geocodes": {
+        "main": {
+          "latitude": 38.743491,
+          "longitude": -9.108343
+        },
+        "roof": {
+          "latitude": 38.743491,
+          "longitude": -9.108343
+        }
+      },
+      "link": "/v3/places/4eb6a2ad2c5b53141ad3d6b9",
+      "location": {
+        "address": "Rua Jos\u00e9 Patroc\u00ednio",
+        "country": "PT",
+        "cross_street": "Campo Engenheiro Carlos Salema",
+        "formatted_address": "Rua Jos\u00e9 Patroc\u00ednio (Campo Engenheiro Carlos Salema), 1950-000 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1950-000",
+        "region": "Lisboa"
+      },
+      "name": "Clube Oriental de Lisboa",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4e638458483bd9a974c77aee",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3103,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 38.739148,
+          "longitude": -9.107857
+        },
+        "main": {
+          "latitude": 38.739059,
+          "longitude": -9.107937
+        },
+        "roof": {
+          "latitude": 38.739059,
+          "longitude": -9.107937
+        }
+      },
+      "link": "/v3/places/4e638458483bd9a974c77aee",
+      "location": {
+        "address": "Azinhaga dos Alfinetes",
+        "country": "PT",
+        "formatted_address": "Azinhaga dos Alfinetes, 1950-017 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1950-017",
+        "region": "Lisboa"
+      },
+      "name": "Clube Ferrovi\u00e1rio de Portugal",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "4ecea25be5faa5ec00c4e359",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12073,
+          "name": "Military",
+          "short_name": "Military",
+          "plural_name": "Military",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3559,
+      "geocodes": {
+        "main": {
+          "latitude": 38.748413,
+          "longitude": -9.184634
+        },
+        "roof": {
+          "latitude": 38.748413,
+          "longitude": -9.184634
+        }
+      },
+      "link": "/v3/places/4ecea25be5faa5ec00c4e359",
+      "location": {
+        "address": "Rua Alfredo Guisado",
+        "address_extended": "bl 1",
+        "country": "PT",
+        "formatted_address": "Rua Alfredo Guisado, Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Campo dos Pupilos do Ex\u00e9rcito",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "57e84849498e1db1c111e075",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3608,
+      "geocodes": {
+        "main": {
+          "latitude": 38.711199,
+          "longitude": -9.154379
+        }
+      },
+      "link": "/v3/places/57e84849498e1db1c111e075",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa"
+      },
+      "name": "Saint Benedict Stadium",
+      "related_places": {},
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5cce3de5d41bb7002c825c4c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3695,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752111,
+          "longitude": -9.184505
+        }
+      },
+      "link": "/v3/places/5cce3de5d41bb7002c825c4c",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "1500-680 Lisboa",
+        "locality": "Lisboa",
+        "postcode": "1500-680",
+        "region": "Lisboa"
+      },
+      "name": "Bancada Setor 3 Red Power",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bae61fbf964a5200eab3be3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 11107,
+              "name": "Insurance Agency",
+              "short_name": "Insurance Agency",
+              "plural_name": "Insurance Agencies",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Sport Lisboa e Benfica"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5b7c5e473fcee8003944024d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3722,
+      "geocodes": {
+        "main": {
+          "latitude": 38.752622,
+          "longitude": -9.18463
+        }
+      },
+      "link": "/v3/places/5b7c5e473fcee8003944024d",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Sector 41",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bae61fbf964a5200eab3be3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 11107,
+              "name": "Insurance Agency",
+              "short_name": "Insurance Agency",
+              "plural_name": "Insurance Agencies",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Sport Lisboa e Benfica"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "fsq_id": "5aa42cd7b2958f04f96de8c8",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3751,
+      "geocodes": {
+        "main": {
+          "latitude": 38.753414,
+          "longitude": -9.184646
+        }
+      },
+      "link": "/v3/places/5aa42cd7b2958f04f96de8c8",
+      "location": {
+        "country": "PT",
+        "cross_street": "",
+        "formatted_address": "Lisboa",
+        "locality": "Lisboa",
+        "region": "Lisboa"
+      },
+      "name": "Piso 0 - Sector 24 Estadio da Luz",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bae61fbf964a5200eab3be3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 11107,
+              "name": "Insurance Agency",
+              "short_name": "Insurance Agency",
+              "plural_name": "Insurance Agencies",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Sport Lisboa e Benfica"
+        }
+      },
+      "timezone": "Europe/Lisbon"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 38.7425777,
+          "longitude": -9.1436525
+        },
+        "radius": 22000
+      }
+    }
+  }
+}
