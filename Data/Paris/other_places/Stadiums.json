@@ -1,0 +1,3001 @@
+{
+  "results": [
+    {
+      "fsq_id": "4adcda16f964a520273821e3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6477,
+      "geocodes": {
+        "main": {
+          "latitude": 48.843173,
+          "longitude": 2.253038
+        },
+        "roof": {
+          "latitude": 48.843173,
+          "longitude": 2.253038
+        }
+      },
+      "link": "/v3/places/4adcda16f964a520273821e3",
+      "location": {
+        "address": "26 avenue du G\u00e9n\u00e9ral Sarrail 16e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "26 avenue du G\u00e9n\u00e9ral Sarrail 16e, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Jean Bouin (Stade Jean-Bouin)",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda15f964a520c43721e3",
+      "categories": [
+        {
+          "id": 18001,
+          "name": "Athletic Field",
+          "short_name": "Athletic Field",
+          "plural_name": "Athletic Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6448,
+      "geocodes": {
+        "main": {
+          "latitude": 48.84137,
+          "longitude": 2.252981
+        },
+        "roof": {
+          "latitude": 48.84137,
+          "longitude": 2.252981
+        }
+      },
+      "link": "/v3/places/4adcda15f964a520c43721e3",
+      "location": {
+        "address": "24 rue du Commandant Guilbaud, 16e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "24 rue du Commandant Guilbaud, 16e, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc des Princes",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4c5bf52e6ebe2d7fb1a4ce2e",
+            "categories": [
+              {
+                "id": 11124,
+                "name": "Office",
+                "short_name": "Office",
+                "plural_name": "Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Espace Services PSG"
+          },
+          {
+            "fsq_id": "4bfbd3ea565f76b0a00506db",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Vestiaire Visiteur du Parc des Princes"
+          },
+          {
+            "fsq_id": "4d9cb5727958f04df3bb05fa",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 18062,
+                "name": "Soccer",
+                "short_name": "Soccer",
+                "plural_name": "Soccer",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Urban PSG"
+          },
+          {
+            "fsq_id": "4dc9a6b27d8b296263cbcab0",
+            "categories": [
+              {
+                "id": 17117,
+                "name": "Sporting Goods Retail",
+                "short_name": "Sporting Goods Retail",
+                "plural_name": "Sporting Goods Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boutique du Parc des Princes"
+          },
+          {
+            "fsq_id": "4f41741ae4b0def994b78863",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Club House VIP"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda21f964a520ff3921e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9908,
+      "geocodes": {
+        "main": {
+          "latitude": 48.924442,
+          "longitude": 2.360052
+        },
+        "roof": {
+          "latitude": 48.924442,
+          "longitude": 2.360052
+        }
+      },
+      "link": "/v3/places/4adcda21f964a520ff3921e3",
+      "location": {
+        "address": "rue Francis de Pressens\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "rue Francis de Pressens\u00e9, 93200 Saint-Denis",
+        "locality": "Saint-Denis",
+        "postcode": "93200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade de France",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "504e3ae4e4b02e543a255fc1",
+            "categories": [
+              {
+                "id": 13022,
+                "name": "Sports Bar",
+                "short_name": "Sports Bar",
+                "plural_name": "Sports Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Buvettes du Stade de France"
+          },
+          {
+            "fsq_id": "245a34d1d24e4b64fceb7bdc",
+            "categories": [
+              {
+                "id": 11057,
+                "name": "Caterer",
+                "short_name": "Caterer",
+                "plural_name": "Caterers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Panoramique"
+          },
+          {
+            "fsq_id": "5a0b3dd09deb7d7017caeb20",
+            "categories": [
+              {
+                "id": 13016,
+                "name": "Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Presidential Suite"
+          },
+          {
+            "fsq_id": "4e9ffea3e5fa13c70e50ecfd",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurant Panoramique du Stade de France"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5696a3af498e5e76ec30003b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8101,
+      "geocodes": {
+        "main": {
+          "latitude": 48.904519,
+          "longitude": 2.37955
+        },
+        "roof": {
+          "latitude": 48.904519,
+          "longitude": 2.37955
+        }
+      },
+      "link": "/v3/places/5696a3af498e5e76ec30003b",
+      "location": {
+        "address": "3 rue Pierre Larousse",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "3 rue Pierre Larousse, 93300 Aubervilliers",
+        "locality": "Aubervilliers",
+        "postcode": "93300",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Hoops Factory",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "52c7fd9d11d2a15e07696adb",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10475,
+      "geocodes": {
+        "main": {
+          "latitude": 48.895703,
+          "longitude": 2.229624
+        },
+        "roof": {
+          "latitude": 48.895703,
+          "longitude": 2.229624
+        }
+      },
+      "link": "/v3/places/52c7fd9d11d2a15e07696adb",
+      "location": {
+        "address": "99 jardins de l\u2019Arche",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue des Sorins",
+        "formatted_address": "99 jardins de l\u2019Arche (Rue des Sorins), 92000 Nanterre",
+        "locality": "Nanterre",
+        "postcode": "92000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Paris la D\u00e9fense Arena",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d9cb5727958f04df3bb05fa",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 16000,
+          "name": "Landmarks and Outdoors",
+          "short_name": "Landmarks and Outdoors",
+          "plural_name": "Landmarks and Outdoors",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18062,
+          "name": "Soccer",
+          "short_name": "Soccer",
+          "plural_name": "Soccer",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6326,
+      "geocodes": {
+        "main": {
+          "latitude": 48.840839,
+          "longitude": 2.254638
+        },
+        "roof": {
+          "latitude": 48.840839,
+          "longitude": 2.254638
+        }
+      },
+      "link": "/v3/places/4d9cb5727958f04df3bb05fa",
+      "location": {
+        "address": "Parc des Princes",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "24 Rue du Commandant Guilbaud",
+        "formatted_address": "Parc des Princes (24 Rue du Commandant Guilbaud), 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Urban PSG",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda15f964a520c43721e3",
+          "categories": [
+            {
+              "id": 18001,
+              "name": "Athletic Field",
+              "short_name": "Athletic Field",
+              "plural_name": "Athletic Fields",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parc des Princes"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b5f15bbf964a52047a529e3",
+      "categories": [
+        {
+          "id": 18046,
+          "name": "Tennis Club",
+          "short_name": "Tennis Club",
+          "plural_name": "Tennis Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6096,
+      "geocodes": {
+        "main": {
+          "latitude": 48.835464,
+          "longitude": 2.256551
+        },
+        "roof": {
+          "latitude": 48.835464,
+          "longitude": 2.256551
+        }
+      },
+      "link": "/v3/places/4b5f15bbf964a52047a529e3",
+      "location": {
+        "address": "15 avenue F\u00e9lix d'H\u00e9relle",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "15 avenue F\u00e9lix d'H\u00e9relle, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Tennis Club de Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c34b94966e40f47bf02ca8b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11269,
+      "geocodes": {
+        "main": {
+          "latitude": 48.892197,
+          "longitude": 2.212085
+        },
+        "roof": {
+          "latitude": 48.892197,
+          "longitude": 2.212085
+        }
+      },
+      "link": "/v3/places/4c34b94966e40f47bf02ca8b",
+      "location": {
+        "address": "136 avenue Fr\u00e9d\u00e9ric et Ir\u00e8ne Joliot Curie",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "136 avenue Fr\u00e9d\u00e9ric et Ir\u00e8ne Joliot Curie, 92000 Nanterre",
+        "locality": "Nanterre",
+        "postcode": "92000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Palais des Sports de Nanterre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b559677f964a52040e827e3",
+      "categories": [
+        {
+          "id": 18047,
+          "name": "Tennis Court",
+          "short_name": "Tennis Court",
+          "plural_name": "Tennis Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7327,
+      "geocodes": {
+        "main": {
+          "latitude": 48.83393,
+          "longitude": 2.441517
+        },
+        "roof": {
+          "latitude": 48.83393,
+          "longitude": 2.441517
+        }
+      },
+      "link": "/v3/places/4b559677f964a52040e827e3",
+      "location": {
+        "address": "113 route de la Pyramide",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "113 route de la Pyramide, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Tennis la Falu\u00e8re",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a5200f3421e3",
+          "categories": [
+            {
+              "id": 19019,
+              "name": "Vacation Rental",
+              "short_name": "Vacation Rental",
+              "plural_name": "Vacation Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Vincennes"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4babe61df964a52057d33ae3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9377,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.901692,
+          "longitude": 2.259519
+        },
+        "main": {
+          "latitude": 48.901222,
+          "longitude": 2.259062
+        },
+        "roof": {
+          "latitude": 48.901222,
+          "longitude": 2.259062
+        }
+      },
+      "link": "/v3/places/4babe61df964a52057d33ae3",
+      "location": {
+        "address": "avenue de Verdun",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "avenue de Verdun, 92400 Courbevoie",
+        "locality": "Courbevoie",
+        "postcode": "92400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade JP Rives",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda16f964a520123821e3",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12391,
+      "geocodes": {
+        "main": {
+          "latitude": 48.929572,
+          "longitude": 2.248491
+        },
+        "roof": {
+          "latitude": 48.929572,
+          "longitude": 2.248491
+        }
+      },
+      "link": "/v3/places/4adcda16f964a520123821e3",
+      "location": {
+        "address": "boulevard Pierre de Coubertin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "boulevard Pierre de Coubertin, 92700 Colombes",
+        "locality": "Colombes",
+        "postcode": "92700",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Yves du Manoir",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d9c75e3c540236ad8ac784b",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5831,
+      "geocodes": {
+        "main": {
+          "latitude": 48.859491,
+          "longitude": 2.411651
+        },
+        "roof": {
+          "latitude": 48.859491,
+          "longitude": 2.411651
+        }
+      },
+      "link": "/v3/places/4d9c75e3c540236ad8ac784b",
+      "location": {
+        "address": "36 rue Louis Lumi\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "36 rue Louis Lumi\u00e8re, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Centre Sportif Louis Lumiere-Vil",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bddc604ffdec928d35ce6a1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6136,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864669,
+          "longitude": 2.269137
+        },
+        "roof": {
+          "latitude": 48.864669,
+          "longitude": 2.269137
+        }
+      },
+      "link": "/v3/places/4bddc604ffdec928d35ce6a1",
+      "location": {
+        "address": "60 boulevard Lannes",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "60 boulevard Lannes, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Porte de la Muette",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda22f964a520403a21e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6216,
+      "geocodes": {
+        "main": {
+          "latitude": 48.835151,
+          "longitude": 2.255588
+        },
+        "roof": {
+          "latitude": 48.835151,
+          "longitude": 2.255588
+        }
+      },
+      "link": "/v3/places/4adcda22f964a520403a21e3",
+      "location": {
+        "address": "82 avenue Georges Latfont",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "82 avenue Georges Latfont, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Pierre de Coubertin",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc1a8ccb492d13a2755a660",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6514,
+      "geocodes": {
+        "main": {
+          "latitude": 48.894685,
+          "longitude": 2.33415
+        },
+        "roof": {
+          "latitude": 48.894685,
+          "longitude": 2.33415
+        }
+      },
+      "link": "/v3/places/4bc1a8ccb492d13a2755a660",
+      "location": {
+        "address": "172 rue Championnet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "172 rue Championnet, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Championnet",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bd32d7d9854d13a5e12fd4d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7821,
+      "geocodes": {
+        "main": {
+          "latitude": 48.906137,
+          "longitude": 2.341099
+        },
+        "roof": {
+          "latitude": 48.906137,
+          "longitude": 2.341099
+        }
+      },
+      "link": "/v3/places/4bd32d7d9854d13a5e12fd4d",
+      "location": {
+        "address": "92 rue du Docteur Bauer",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "92 rue du Docteur Bauer, 93400 Saint Ouen",
+        "locality": "Saint-Ouen",
+        "postcode": "93400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Bauer",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b76ebbbf964a520bc6a2ee3",
+      "categories": [
+        {
+          "id": 18001,
+          "name": "Athletic Field",
+          "short_name": "Athletic Field",
+          "plural_name": "Athletic Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2015,
+      "geocodes": {
+        "main": {
+          "latitude": 48.818501,
+          "longitude": 2.346722
+        },
+        "roof": {
+          "latitude": 48.818501,
+          "longitude": 2.346722
+        }
+      },
+      "link": "/v3/places/4b76ebbbf964a520bc6a2ee3",
+      "location": {
+        "address": "99 boulevard Kellermann",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "99 boulevard Kellermann, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Charl\u00e9ty",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda15f964a5209d3721e3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2790,
+      "geocodes": {
+        "main": {
+          "latitude": 48.838712,
+          "longitude": 2.378659
+        },
+        "roof": {
+          "latitude": 48.838712,
+          "longitude": 2.378659
+        }
+      },
+      "link": "/v3/places/4adcda15f964a5209d3721e3",
+      "location": {
+        "address": "8 boulevard de Bercy, 12e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Quai de Bercy",
+        "formatted_address": "8 boulevard de Bercy, 12e (Quai de Bercy), 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Accor Arena",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "54b18d62498e81504d041c53",
+            "categories": [
+              {
+                "id": 18056,
+                "name": "Skating Rink",
+                "short_name": "Skating Rink",
+                "plural_name": "Skating Rinks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skatingrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Patinoire Sonja Henie"
+          },
+          {
+            "fsq_id": "5637a8a4498ea3a0bf8c9c7c",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13016,
+                "name": "Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "American Express Live Bar"
+          },
+          {
+            "fsq_id": "59f9c01e2f97ec350eb191c6",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Studio"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d4567020349224b102c044f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19002,
+          "name": "Bike Rental",
+          "short_name": "Bike",
+          "plural_name": "Bike Rentals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7558,
+      "geocodes": {
+        "main": {
+          "latitude": 48.893117,
+          "longitude": 2.397508
+        }
+      },
+      "link": "/v3/places/4d4567020349224b102c044f",
+      "location": {
+        "address": "route des Petits Ponts",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "route des Petits Ponts, Paris",
+        "locality": "Paris",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Jules Ladoum\u00e8gue",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda23f964a520603a21e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4380,
+      "geocodes": {
+        "main": {
+          "latitude": 48.832024,
+          "longitude": 2.399361
+        },
+        "roof": {
+          "latitude": 48.832024,
+          "longitude": 2.399361
+        }
+      },
+      "link": "/v3/places/4adcda23f964a520603a21e3",
+      "location": {
+        "address": "Centre sportif L\u00e9o Lagrange, 68 boulevard Poniatowski",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "Centre sportif L\u00e9o Lagrange, 68 boulevard Poniatowski, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade L\u00e9o-Lagrange",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a5200f3421e3",
+          "categories": [
+            {
+              "id": 19019,
+              "name": "Vacation Rental",
+              "short_name": "Vacation Rental",
+              "plural_name": "Vacation Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Vincennes"
+        },
+        "children": [
+          {
+            "fsq_id": "58fa9c1cd7627e28e608be3a",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tc12"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b6eab48f964a520ffc52ce3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 23069,
+      "geocodes": {
+        "main": {
+          "latitude": 48.77746,
+          "longitude": 2.038753
+        },
+        "roof": {
+          "latitude": 48.77746,
+          "longitude": 2.038753
+        }
+      },
+      "link": "/v3/places/4b6eab48f964a520ffc52ce3",
+      "location": {
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "Montigny-le-Bretonneux",
+        "locality": "Montigny-le-Bretonneux",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Baseball Jean Mar\u00e9chal",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d048a3e9d33a143fde7bb78",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11625,
+      "geocodes": {
+        "main": {
+          "latitude": 48.767863,
+          "longitude": 2.461524
+        },
+        "roof": {
+          "latitude": 48.767863,
+          "longitude": 2.461524
+        }
+      },
+      "link": "/v3/places/4d048a3e9d33a143fde7bb78",
+      "location": {
+        "address": "2 rue Dominique Duvauchelle",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Chemin des Bassins",
+        "formatted_address": "2 rue Dominique Duvauchelle (Chemin des Bassins), 94000 Cr\u00e9teil",
+        "locality": "Cr\u00e9teil",
+        "postcode": "94000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Dominique Duvauchelle",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bfe4eb3e529c928fe1dbc8c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9592,
+      "geocodes": {
+        "main": {
+          "latitude": 48.88366,
+          "longitude": 2.231124
+        },
+        "roof": {
+          "latitude": 48.88366,
+          "longitude": 2.231124
+        }
+      },
+      "link": "/v3/places/4bfe4eb3e529c928fe1dbc8c",
+      "location": {
+        "address": "159 rue de la R\u00e9publique",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue du Moulin",
+        "formatted_address": "159 rue de la R\u00e9publique (Rue du Moulin), 92800 Puteaux",
+        "locality": "Puteaux",
+        "postcode": "92800",
+        "region": "\u00cele-de-France"
+      },
+      "name": "UrbanSoccer",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d0de838be6d6ea850ad07b5",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5555,
+      "geocodes": {
+        "main": {
+          "latitude": 48.85192,
+          "longitude": 2.413072
+        },
+        "roof": {
+          "latitude": 48.85192,
+          "longitude": 2.413072
+        }
+      },
+      "link": "/v3/places/4d0de838be6d6ea850ad07b5",
+      "location": {
+        "address": "34 rue Maryse Hilsz",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "34 rue Maryse Hilsz, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Centre Sportif Maryse Hilsz",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda17f964a520423821e3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5385,
+      "geocodes": {
+        "main": {
+          "latitude": 48.827505,
+          "longitude": 2.268512
+        },
+        "roof": {
+          "latitude": 48.827505,
+          "longitude": 2.268512
+        }
+      },
+      "link": "/v3/places/4adcda17f964a520423821e3",
+      "location": {
+        "address": "4/6 boulevard des Fr\u00e8res Voisin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "4/6 boulevard des Fr\u00e8res Voisin, 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Palais des Sports Robert Charpentier",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c9dee852fb1a1439cffe440",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19020,
+          "name": "Parking",
+          "short_name": "Parking",
+          "plural_name": "Parking",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9837,
+      "geocodes": {
+        "main": {
+          "latitude": 48.763147,
+          "longitude": 2.429654
+        }
+      },
+      "link": "/v3/places/4c9dee852fb1a1439cffe440",
+      "location": {
+        "address": "chemin des Ateliers",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Carrefour Pompadour",
+        "formatted_address": "chemin des Ateliers (Carrefour Pompadour), 94600 Choisy-le-Roi",
+        "locality": "Choisy-le-Roi",
+        "postcode": "94600",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Interd\u00e9partemental des Sports",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b2363ccf964a520995524e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2655,
+      "geocodes": {
+        "main": {
+          "latitude": 48.820002,
+          "longitude": 2.367574
+        },
+        "roof": {
+          "latitude": 48.820002,
+          "longitude": 2.367574
+        }
+      },
+      "link": "/v3/places/4b2363ccf964a520995524e3",
+      "location": {
+        "address": "81 boulevard Mass\u00e9na",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "81 boulevard Mass\u00e9na, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Halle Georges Carpentier",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5c7276bfc62b49002c898be4",
+            "categories": [
+              {
+                "id": 18022,
+                "name": "Boxing Gym",
+                "short_name": "Boxing Gym",
+                "plural_name": "Boxing Gyms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boxer Inside"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c18c8d6838020a15f9ee461",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6725,
+      "geocodes": {
+        "main": {
+          "latitude": 48.884009,
+          "longitude": 2.284719
+        }
+      },
+      "link": "/v3/places/4c18c8d6838020a15f9ee461",
+      "location": {
+        "address": "17/19 avenue de la Porte de Villiers",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "17/19 avenue de la Porte de Villiers, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Paul Faber",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4cc0a2de967d548113e07257",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11852,
+      "geocodes": {
+        "main": {
+          "latitude": 48.779596,
+          "longitude": 2.478259
+        },
+        "roof": {
+          "latitude": 48.779596,
+          "longitude": 2.478259
+        }
+      },
+      "link": "/v3/places/4cc0a2de967d548113e07257",
+      "location": {
+        "address": "5 route de l'Ouest",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "5 route de l'Ouest, 94380 Bonneuil sur Marne",
+        "locality": "Bonneuil-sur-Marne",
+        "postcode": "94380",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Dream Foot",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e0861898877394591eb73eb",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8433,
+      "geocodes": {
+        "main": {
+          "latitude": 48.891986,
+          "longitude": 2.262513
+        }
+      },
+      "link": "/v3/places/4e0861898877394591eb73eb",
+      "location": {
+        "address": "55 boulevard du Parc",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "55 boulevard du Parc, 92200 Neuilly-sur-Seine",
+        "locality": "Neuilly-sur-Seine",
+        "postcode": "92200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Monclar",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c169094daf42d7f5f5d4466",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5924,
+      "geocodes": {
+        "main": {
+          "latitude": 48.862251,
+          "longitude": 2.411178
+        },
+        "roof": {
+          "latitude": 48.862251,
+          "longitude": 2.411178
+        }
+      },
+      "link": "/v3/places/4c169094daf42d7f5f5d4466",
+      "location": {
+        "address": "72 rue Louis Lumi\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "72 rue Louis Lumi\u00e8re, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade de la Porte de Bagnolet",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4be3d3e6cbdbef3bf8a360d8",
+      "categories": [
+        {
+          "id": 18043,
+          "name": "Racquetball Club",
+          "short_name": "Racquetball Club",
+          "plural_name": "Racquetball Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6809,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.846828,
+          "longitude": 2.249901
+        },
+        "main": {
+          "latitude": 48.847165,
+          "longitude": 2.249342
+        },
+        "roof": {
+          "latitude": 48.847165,
+          "longitude": 2.249342
+        }
+      },
+      "link": "/v3/places/4be3d3e6cbdbef3bf8a360d8",
+      "location": {
+        "address": "Stade Roland Garros",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "2 avenue Gordon Bennett",
+        "formatted_address": "Stade Roland Garros (2 avenue Gordon Bennett), 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Court Philippe Chatrier",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bb7179b2ea19521f38aac2f",
+          "categories": [
+            {
+              "id": 13152,
+              "name": "Brasserie",
+              "short_name": "Brasserie",
+              "plural_name": "Brasseries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Stade Roland Garros"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bb7179b2ea19521f38aac2f",
+      "categories": [
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6876,
+      "geocodes": {
+        "main": {
+          "latitude": 48.847286,
+          "longitude": 2.250964
+        },
+        "roof": {
+          "latitude": 48.847286,
+          "longitude": 2.250964
+        }
+      },
+      "link": "/v3/places/4bb7179b2ea19521f38aac2f",
+      "location": {
+        "address": "2 bis, avenue Gordon Bennett",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Boulevard d'Auteuil",
+        "formatted_address": "2 bis, avenue Gordon Bennett (Boulevard d'Auteuil), 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Roland Garros",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4ddb94fcd22d22fb7c8014de",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b07"
+          },
+          {
+            "fsq_id": "51a4ce06498e45f596f06d92",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b04"
+          },
+          {
+            "fsq_id": "5384aa5b498ea82192e229a8",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b03"
+          },
+          {
+            "fsq_id": "4ddd3ad71838306b82191132",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b05"
+          },
+          {
+            "fsq_id": "5cea6258588e36002c1fb8a3",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court Simonne-Mathieu"
+          },
+          {
+            "fsq_id": "4fcf5c3ee4b01a254a57d18d",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b014"
+          },
+          {
+            "fsq_id": "51a4d13a498e0c5acbeca1ff",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b010"
+          },
+          {
+            "fsq_id": "4dd8ff9752b1a5c644728121",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Loge Orange"
+          },
+          {
+            "fsq_id": "4dd3e673b0fbf653b6478f8b",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b06"
+          },
+          {
+            "fsq_id": "4c07926bcf8c76b05d273c65",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardins de Roland Garros"
+          },
+          {
+            "fsq_id": "5384a8d0498e8d56771e34f8",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b09"
+          },
+          {
+            "fsq_id": "51a889e3498e11a9ea118fe4",
+            "categories": [
+              {
+                "id": 19056,
+                "name": "Travel Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Travel Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Loge France T\u00e9l\u00e9visions"
+          },
+          {
+            "fsq_id": "4fc79a04e4b0227eeffdba47",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b011"
+          },
+          {
+            "fsq_id": "4dd8ce771838b8561d0a1278",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b012"
+          },
+          {
+            "fsq_id": "4be3d3e6cbdbef3bf8a360d8",
+            "categories": [
+              {
+                "id": 18043,
+                "name": "Racquetball Club",
+                "short_name": "Racquetball Club",
+                "plural_name": "Racquetball Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court Philippe Chatrier"
+          },
+          {
+            "fsq_id": "51ab8a27498e5f0f772a606c",
+            "categories": [
+              {
+                "id": 16041,
+                "name": "Plaza",
+                "short_name": "Plaza",
+                "plural_name": "Plazas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Place des Mousquetaires"
+          },
+          {
+            "fsq_id": "51f7e51f498e64a1ca729cbb",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b013"
+          },
+          {
+            "fsq_id": "4e157d2c52b1b9e5644083de",
+            "categories": [
+              {
+                "id": 13000,
+                "name": "Dining and Drinking",
+                "short_name": "Dining and Drinking",
+                "plural_name": "Dining and Drinking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Club des Loges"
+          },
+          {
+            "fsq_id": "4fc39777e4b05c2ab9b49831",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b08"
+          },
+          {
+            "fsq_id": "5384b1b6498e510111ecfbd0",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b015"
+          },
+          {
+            "fsq_id": "4beb9e890acf76b0e88e3cc8",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court Suzanne Lenglen"
+          },
+          {
+            "fsq_id": "51a4a163498eb5463f4a8674",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Court n\u00b016"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4beb9e890acf76b0e88e3cc8",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18047,
+          "name": "Tennis Court",
+          "short_name": "Tennis Court",
+          "plural_name": "Tennis Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7012,
+      "geocodes": {
+        "main": {
+          "latitude": 48.847372,
+          "longitude": 2.246456
+        },
+        "roof": {
+          "latitude": 48.847372,
+          "longitude": 2.246456
+        }
+      },
+      "link": "/v3/places/4beb9e890acf76b0e88e3cc8",
+      "location": {
+        "address": "Stade Roland Garros",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "2 avenue Gordon Bennett",
+        "formatted_address": "Stade Roland Garros (2 avenue Gordon Bennett), 92100 Paris",
+        "locality": "Paris",
+        "postcode": "92100",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Court Suzanne Lenglen",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bb7179b2ea19521f38aac2f",
+          "categories": [
+            {
+              "id": 13152,
+              "name": "Brasserie",
+              "short_name": "Brasserie",
+              "plural_name": "Brasseries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Stade Roland Garros"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e4597e6227128e1e8bfb177",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1562,
+      "geocodes": {
+        "main": {
+          "latitude": 48.824768,
+          "longitude": 2.323954
+        },
+        "roof": {
+          "latitude": 48.824768,
+          "longitude": 2.323954
+        }
+      },
+      "link": "/v3/places/4e4597e6227128e1e8bfb177",
+      "location": {
+        "address": "17 rue de Coulmiers",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "17 rue de Coulmiers, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "Paris"
+      },
+      "name": "Tennis Friant",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d39d3c634ee3704edf8709b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1725,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.830249,
+          "longitude": 2.362308
+        },
+        "main": {
+          "latitude": 48.830645,
+          "longitude": 2.362505
+        },
+        "roof": {
+          "latitude": 48.830645,
+          "longitude": 2.362505
+        }
+      },
+      "link": "/v3/places/4d39d3c634ee3704edf8709b",
+      "location": {
+        "address": "184-194 rue du Ch\u00e2teau des Rentiers",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "184-194 rue du Ch\u00e2teau des Rentiers, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gymnase Chateau des Rentiers",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e5ea9197d8b67dc8ff760e4",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1805,
+      "geocodes": {
+        "main": {
+          "latitude": 48.845082,
+          "longitude": 2.320174
+        }
+      },
+      "link": "/v3/places/4e5ea9197d8b67dc8ff760e4",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue juge",
+        "formatted_address": "Rue juge, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Tennis de la Motte",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c76a92d3adda14309b60aaf",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 15000,
+          "name": "Health and Medicine",
+          "short_name": "Health and Medicine",
+          "plural_name": "Health and Medicine",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19000,
+          "name": "Travel and Transportation",
+          "short_name": "Travel and Transportation",
+          "plural_name": "Travel and Transportation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2052,
+      "geocodes": {
+        "main": {
+          "latitude": 48.819927,
+          "longitude": 2.354979
+        },
+        "roof": {
+          "latitude": 48.819927,
+          "longitude": 2.354979
+        }
+      },
+      "link": "/v3/places/4c76a92d3adda14309b60aaf",
+      "location": {
+        "address": "2 rue Max Jacob",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "2 rue Max Jacob, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Tennis de la Poterne des Peupliers",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d43139e7fb05481499d7179",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2687,
+      "geocodes": {
+        "main": {
+          "latitude": 48.817825,
+          "longitude": 2.364965
+        },
+        "roof": {
+          "latitude": 48.817825,
+          "longitude": 2.364965
+        }
+      },
+      "link": "/v3/places/4d43139e7fb05481499d7179",
+      "location": {
+        "address": "7 avenue de la Porte de Choisy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "7 avenue de la Porte de Choisy, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Tour A Parachutes",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5b8bd216c53093002c9c959c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2735,
+      "geocodes": {
+        "main": {
+          "latitude": 48.817731,
+          "longitude": 2.365338
+        },
+        "roof": {
+          "latitude": 48.817731,
+          "longitude": 2.365338
+        }
+      },
+      "link": "/v3/places/5b8bd216c53093002c9c959c",
+      "location": {
+        "address": "7 avenue de la Porte de Choisy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "7 avenue de la Porte de Choisy, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Five Paris 13",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ba938cbf964a520a9153ae3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8106,
+      "geocodes": {
+        "main": {
+          "latitude": 48.906404,
+          "longitude": 2.311294
+        },
+        "roof": {
+          "latitude": 48.906404,
+          "longitude": 2.311294
+        }
+      },
+      "link": "/v3/places/4ba938cbf964a520a9153ae3",
+      "location": {
+        "address": "55 rue Villeneuve",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "55 rue Villeneuve, 92110 Clichy",
+        "locality": "Clichy",
+        "postcode": "92110",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Racine",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e5d376fd4c07641360ac891",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18036,
+          "name": "Martial Arts Dojo",
+          "short_name": "Martial Arts Dojo",
+          "plural_name": "Martial Arts Dojos",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_martialarts_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2979,
+      "geocodes": {
+        "main": {
+          "latitude": 48.824256,
+          "longitude": 2.304814
+        },
+        "roof": {
+          "latitude": 48.824256,
+          "longitude": 2.304814
+        }
+      },
+      "link": "/v3/places/4e5d376fd4c07641360ac891",
+      "location": {
+        "address": "1 rue Ernest Renan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 rue Ernest Renan, 92240 Malakoff",
+        "locality": "Malakoff",
+        "postcode": "92240",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gymnase Jacques Duclos",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f86cbe8e4b0270511251466",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3086,
+      "geocodes": {
+        "main": {
+          "latitude": 48.822483,
+          "longitude": 2.377672
+        },
+        "roof": {
+          "latitude": 48.822483,
+          "longitude": 2.377672
+        }
+      },
+      "link": "/v3/places/4f86cbe8e4b0270511251466",
+      "location": {
+        "address": "1 avenue Boutroux",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 avenue Boutroux, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Boutroux",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dd8e80dd22d38ef430c54b8",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19054,
+          "name": "Public Transportation",
+          "short_name": "Public Transportation",
+          "plural_name": "Public Transportation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/taxi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3266,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.810788,
+          "longitude": 2.307052
+        },
+        "main": {
+          "latitude": 48.810934,
+          "longitude": 2.307071
+        },
+        "roof": {
+          "latitude": 48.810934,
+          "longitude": 2.307071
+        }
+      },
+      "link": "/v3/places/4dd8e80dd22d38ef430c54b8",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "92120 Montrouge",
+        "locality": "Montrouge",
+        "postcode": "92120",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Maurice Arnoux",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ea083a893ad3307df9109c9",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3515,
+      "geocodes": {
+        "main": {
+          "latitude": 48.881046,
+          "longitude": 2.549888
+        }
+      },
+      "link": "/v3/places/4ea083a893ad3307df9109c9",
+      "location": {
+        "address": "rue Jean Bouin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "rue Jean Bouin, 93220 Gagny",
+        "locality": "Gagny",
+        "postcode": "93220",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Jean Bouin",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e7d8ddfd22d6329fc04491b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3526,
+      "geocodes": {
+        "main": {
+          "latitude": 48.80653,
+          "longitude": 2.358036
+        },
+        "roof": {
+          "latitude": 48.80653,
+          "longitude": 2.358036
+        }
+      },
+      "link": "/v3/places/4e7d8ddfd22d6329fc04491b",
+      "location": {
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "Le Kremlin Bic\u00eatre",
+        "locality": "Le Kremlin Bic\u00eatre",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gymnase Ducasse Kremlin-Bic\u00eatre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4fc6665be4b005fcba77d8ac",
+      "categories": [
+        {
+          "id": 10037,
+          "name": "Concert Hall",
+          "short_name": "Concert Hall",
+          "plural_name": "Concert Halls",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "short_name": "Music Venue",
+          "plural_name": "Music Venues",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10043,
+          "name": "Theater",
+          "short_name": "Theater",
+          "plural_name": "Theaters",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 23919,
+      "geocodes": {
+        "main": {
+          "latitude": 48.629017,
+          "longitude": 2.429322
+        },
+        "roof": {
+          "latitude": 48.629017,
+          "longitude": 2.429322
+        }
+      },
+      "link": "/v3/places/4fc6665be4b005fcba77d8ac",
+      "location": {
+        "address": "place de l'Agora BP 62",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "place de l'Agora BP 62, 91000 \u00c9vry",
+        "locality": "\u00c9vry",
+        "postcode": "91000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Arenes de l'Agora",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e692efa1495d5f721241cd4",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3949,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871369,
+          "longitude": 2.331715
+        },
+        "roof": {
+          "latitude": 48.871369,
+          "longitude": 2.331715
+        }
+      },
+      "link": "/v3/places/4e692efa1495d5f721241cd4",
+      "location": {
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Tennis Court Opera",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bf10e7c1f17ef3b88e19bc8",
+      "categories": [
+        {
+          "id": 18048,
+          "name": "Recreation Center",
+          "short_name": "Recreation Center",
+          "plural_name": "Recreation Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4530,
+      "geocodes": {
+        "main": {
+          "latitude": 48.813719,
+          "longitude": 2.28864
+        },
+        "roof": {
+          "latitude": 48.813719,
+          "longitude": 2.28864
+        }
+      },
+      "link": "/v3/places/4bf10e7c1f17ef3b88e19bc8",
+      "location": {
+        "address": "boulevard de Stalingrad",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Btw rue Avaul\u00e9e & rue Hoche",
+        "formatted_address": "boulevard de Stalingrad (Btw rue Avaul\u00e9e & rue Hoche), 92240 Malakoff",
+        "locality": "Malakoff",
+        "postcode": "92240",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Marcel Cerdan",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5073e7c9e4b0ed9e4999f889",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5143,
+      "geocodes": {
+        "main": {
+          "latitude": 48.794334,
+          "longitude": 2.310927
+        }
+      },
+      "link": "/v3/places/5073e7c9e4b0ed9e4999f889",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "92220 Bagneux",
+        "locality": "Bagneux",
+        "postcode": "92220",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Stade Bagneux",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

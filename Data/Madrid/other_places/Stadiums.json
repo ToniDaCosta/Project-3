@@ -1,0 +1,2387 @@
+{
+  "results": [
+    {
+      "fsq_id": "4adcda38f964a5205d3c21e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5989,
+      "geocodes": {
+        "main": {
+          "latitude": 40.453026,
+          "longitude": -3.688322
+        },
+        "roof": {
+          "latitude": 40.453001,
+          "longitude": -3.688344
+        }
+      },
+      "link": "/v3/places/4adcda38f964a5205d3c21e3",
+      "location": {
+        "address": "Avenida de Concha Espina, 1",
+        "address_extended": "P. de La Castellana",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "P. de La Castellana",
+        "formatted_address": "Avenida de Concha Espina, 1 (P. de La Castellana), 28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Santiago Bernab\u00e9u Stadium (Estadio Santiago Bernab\u00e9u)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bb75a2aef159c74fc0e77f7",
+            "categories": [
+              {
+                "id": 17117,
+                "name": "Sporting Goods Retail",
+                "short_name": "Sporting Goods Retail",
+                "plural_name": "Sporting Goods Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "adidas Store"
+          },
+          {
+            "fsq_id": "4c49803fa3ace21e6951ad3b",
+            "categories": [
+              {
+                "id": 17114,
+                "name": "Shopping Mall",
+                "short_name": "Mall",
+                "plural_name": "Shopping Malls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Esquina del Bernab\u00e9u"
+          },
+          {
+            "fsq_id": "59d52b86c8b2fb0fbbe5db6b",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Players Tunnel"
+          },
+          {
+            "fsq_id": "4b641652f964a520699e2ae3",
+            "categories": [
+              {
+                "id": 13347,
+                "name": "Tapas Restaurant",
+                "short_name": "Tapas",
+                "plural_name": "Tapas Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Real Caf\u00e9 Bernab\u00e9u"
+          },
+          {
+            "fsq_id": "4dd52f2bfa7645a53ca98303",
+            "categories": [
+              {
+                "id": 13263,
+                "name": "Japanese Restaurant",
+                "short_name": "Japanese",
+                "plural_name": "Japanese Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Zen Asian Supper Club"
+          },
+          {
+            "fsq_id": "55265462498e3c99119ae39f",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Vestuario Real Madrid"
+          },
+          {
+            "fsq_id": "4e008a947d8beaa1649ca9b7",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Museo Real Madrid"
+          },
+          {
+            "fsq_id": "54ee09d2498eed5faa5ccda1",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Palco de Honor"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda3df964a520f13d21e3",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3897,
+      "geocodes": {
+        "main": {
+          "latitude": 40.42391,
+          "longitude": -3.671763
+        },
+        "roof": {
+          "latitude": 40.423898,
+          "longitude": -3.671829
+        }
+      },
+      "link": "/v3/places/4adcda3df964a520f13d21e3",
+      "location": {
+        "address": "Avenida Felipe II, S/N",
+        "address_extended": "C. Goya",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Goya",
+        "formatted_address": "Avenida Felipe II, S/N (C. Goya), 28009 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28009",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Palacio de Deportes de la Comunidad de Madrid (Wizink Center)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b892ca51fa763002c2d5dee",
+            "categories": [
+              {
+                "id": 10015,
+                "name": "Escape Room",
+                "short_name": "Escape Room",
+                "plural_name": "Escape Rooms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Casa de Papel - Escape Room"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "584fe36a9850a077ba58a534",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9878,
+      "geocodes": {
+        "main": {
+          "latitude": 40.436206,
+          "longitude": -3.599501
+        },
+        "roof": {
+          "latitude": 40.436206,
+          "longitude": -3.599501
+        }
+      },
+      "link": "/v3/places/584fe36a9850a077ba58a534",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "e/ Cl Niza y Av de Canillejas a Vic\u00e1lvaro",
+        "formatted_address": "e/ Cl Niza y Av de Canillejas a Vic\u00e1lvaro, 28022 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28022",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Wanda Metropolitano",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5e4bedd36680110007165d61",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Gran Escenario"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54ee09d2498eed5faa5ccda1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6021,
+      "geocodes": {
+        "main": {
+          "latitude": 40.453372,
+          "longitude": -3.688411
+        }
+      },
+      "link": "/v3/places/54ee09d2498eed5faa5ccda1",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Palco de Honor",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda38f964a5205d3c21e3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Estadio Santiago Bernab\u00e9u"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55265462498e3c99119ae39f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5990,
+      "geocodes": {
+        "main": {
+          "latitude": 40.453025,
+          "longitude": -3.68811
+        }
+      },
+      "link": "/v3/places/55265462498e3c99119ae39f",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Vestuario Real Madrid",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda38f964a5205d3c21e3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Estadio Santiago Bernab\u00e9u"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda3ef964a520fe3d21e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4201,
+      "geocodes": {
+        "main": {
+          "latitude": 40.391834,
+          "longitude": -3.658721
+        },
+        "roof": {
+          "latitude": 40.391834,
+          "longitude": -3.658721
+        }
+      },
+      "link": "/v3/places/4adcda3ef964a520fe3d21e3",
+      "location": {
+        "address": "Calle del Payaso Fof\u00f3, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle del Payaso Fof\u00f3, s/n, 28018 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28018",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio de Vallecas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "59d52b86c8b2fb0fbbe5db6b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6007,
+      "geocodes": {
+        "main": {
+          "latitude": 40.45313,
+          "longitude": -3.68786
+        }
+      },
+      "link": "/v3/places/59d52b86c8b2fb0fbbe5db6b",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Players Tunnel",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda38f964a5205d3c21e3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Estadio Santiago Bernab\u00e9u"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d862117e83fa1436bfa88a1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8139,
+      "geocodes": {
+        "main": {
+          "latitude": 40.340386,
+          "longitude": -3.760622
+        },
+        "roof": {
+          "latitude": 40.340386,
+          "longitude": -3.760622
+        }
+      },
+      "link": "/v3/places/4d862117e83fa1436bfa88a1",
+      "location": {
+        "address": "Arquitectura, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Arquitectura, s/n, 28918 Legan\u00e9s Comunidad de Madrid",
+        "locality": "Legan\u00e9s",
+        "postcode": "28918",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Municipal de Butarque",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4be991104f5576b0fb09b396",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11284,
+      "geocodes": {
+        "main": {
+          "latitude": 40.502423,
+          "longitude": -3.707415
+        },
+        "roof": {
+          "latitude": 40.502423,
+          "longitude": -3.707415
+        }
+      },
+      "link": "/v3/places/4be991104f5576b0fb09b396",
+      "location": {
+        "address": "Calle del Monasterio de las Huelgas, 15",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle del Monasterio de las Huelgas, 15, 28049 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28049",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Club de P\u00e1del y Tenis Fuencarral",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cb18a98cbab236a76c5a973",
+      "categories": [
+        {
+          "id": 17035,
+          "name": "Drugstore",
+          "short_name": "Drugstore",
+          "plural_name": "Drugstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4058,
+      "geocodes": {
+        "main": {
+          "latitude": 40.366489,
+          "longitude": -3.687457
+        },
+        "roof": {
+          "latitude": 40.366489,
+          "longitude": -3.687457
+        }
+      },
+      "link": "/v3/places/4cb18a98cbab236a76c5a973",
+      "location": {
+        "address": "Periana, 13",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Periana, 13, 28041 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28041",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Caja M\u00e1gica",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4be95766c5220f47deb0aaca",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "VIP Lounge"
+          },
+          {
+            "fsq_id": "5406f05e498ee2d256d2159a",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "MOMO Sports Club Caja M\u00e1gica"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50547b70e4b0f81fa099cca0",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19760,
+      "geocodes": {
+        "main": {
+          "latitude": 40.452527,
+          "longitude": -3.483384
+        },
+        "roof": {
+          "latitude": 40.452527,
+          "longitude": -3.483384
+        }
+      },
+      "link": "/v3/places/50547b70e4b0f81fa099cca0",
+      "location": {
+        "address": "Avenida del Sol, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida del Sol, 3, 28850 Torrej\u00f3n de Ardoz Comunidad de Madrid",
+        "locality": "Torrej\u00f3n de Ardoz",
+        "postcode": "28850",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Planet Padel Indoor",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ea25fd8e5facb29c73e5bcc",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17068,
+      "geocodes": {
+        "main": {
+          "latitude": 40.550183,
+          "longitude": -3.658614
+        }
+      },
+      "link": "/v3/places/4ea25fd8e5facb29c73e5bcc",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Alcobendas Comunidad de Madrid",
+        "locality": "Alcobendas",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Campos de Futbol Fuentelucha",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50abf9d1e4b0c298527caed7",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21062,
+      "geocodes": {
+        "main": {
+          "latitude": 40.454819,
+          "longitude": -3.46802
+        }
+      },
+      "link": "/v3/places/50abf9d1e4b0c298527caed7",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Network Padel",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ed903000e61d46ad6499f74",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10807,
+      "geocodes": {
+        "main": {
+          "latitude": 40.49778,
+          "longitude": -3.694044
+        }
+      },
+      "link": "/v3/places/4ed903000e61d46ad6499f74",
+      "location": {
+        "address": "Paseo de las Alamedillas, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Paseo de las Alamedillas, s/n, 28034 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28034",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro Deportivo Municipal Santa Ana",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda43f964a5204f3f21e3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8405,
+      "geocodes": {
+        "main": {
+          "latitude": 40.32573,
+          "longitude": -3.714935
+        },
+        "roof": {
+          "latitude": 40.32573,
+          "longitude": -3.714935
+        }
+      },
+      "link": "/v3/places/4adcda43f964a5204f3f21e3",
+      "location": {
+        "address": "Avenida Teresa de Calcuta, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida Teresa de Calcuta, s/n, 28903 Getafe Comunidad de Madrid",
+        "locality": "Getafe",
+        "postcode": "28903",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Coliseum Alfonso P\u00e9rez",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "1f4e8f0db9f54bdf1a0799f6",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Getafe Club de Futbol"
+          },
+          {
+            "fsq_id": "2ca44b8741f24cd99149a9d9",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Complejo Acuatico Getafe Norte"
+          },
+          {
+            "fsq_id": "91882fe343834901b2be2444",
+            "categories": [
+              {
+                "id": 12063,
+                "name": "Trade School",
+                "short_name": "Trade School",
+                "plural_name": "Trade Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Agencia Efe"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f12d5be1081cbea051afc87",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7684,
+      "geocodes": {
+        "main": {
+          "latitude": 40.462301,
+          "longitude": -3.748858
+        }
+      },
+      "link": "/v3/places/4f12d5be1081cbea051afc87",
+      "location": {
+        "address": "Carretera de la Coru\u00f1a, 7",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Carretera de la Coru\u00f1a, 7, 28035 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28035",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Campo de Rugby Puerta de Hierro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52d9682e498e396176392ab6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 26681,
+      "geocodes": {
+        "main": {
+          "latitude": 40.596702,
+          "longitude": -3.523787
+        }
+      },
+      "link": "/v3/places/52d9682e498e396176392ab6",
+      "location": {
+        "address": "Travesia Villa Esther Pol\u00edgono Industrial los Nogales, 20 Bajo",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Travesia Villa Esther Pol\u00edgono Industrial los Nogales, 20 Bajo, 28110 Algete Madrid",
+        "locality": "Algete",
+        "postcode": "28110",
+        "region": "Madrid"
+      },
+      "name": "Padel Sport Home",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e6e637862e1ce64875db40b",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2468,
+      "geocodes": {
+        "main": {
+          "latitude": 40.397437,
+          "longitude": -3.735642
+        },
+        "roof": {
+          "latitude": 40.397437,
+          "longitude": -3.735642
+        }
+      },
+      "link": "/v3/places/4e6e637862e1ce64875db40b",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Antiguo Can\u00f3dromo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf76d9b5ec320a11c1a87d3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8275,
+      "geocodes": {
+        "main": {
+          "latitude": 40.332473,
+          "longitude": -3.745591
+        },
+        "roof": {
+          "latitude": 40.332473,
+          "longitude": -3.745591
+        }
+      },
+      "link": "/v3/places/4bf76d9b5ec320a11c1a87d3",
+      "location": {
+        "address": "Avenida Alemania, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Avenida Europa",
+        "formatted_address": "Avenida Alemania, 2 (Avenida Europa), 28916 Legan\u00e9s Comunidad de Madrid",
+        "locality": "Legan\u00e9s",
+        "postcode": "28916",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Polideportivo el Carrascal Pabell\u00f3n Europa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf68752bfeac92856739436",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5999,
+      "geocodes": {
+        "main": {
+          "latitude": 40.453227,
+          "longitude": -3.688688
+        }
+      },
+      "link": "/v3/places/4bf68752bfeac92856739436",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Vip Area Champions League",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5b6109f964a52035f928e3",
+      "categories": [
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "short_name": "Music Venue",
+          "plural_name": "Music Venues",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3190,
+      "geocodes": {
+        "main": {
+          "latitude": 40.386257,
+          "longitude": -3.73901
+        },
+        "roof": {
+          "latitude": 40.386148,
+          "longitude": -3.738861
+        }
+      },
+      "link": "/v3/places/4b5b6109f964a52035f928e3",
+      "location": {
+        "address": "Calle de Utebo, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de Utebo, 1, 28025 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28025",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Palacio Vistalegre",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50451f1bc84c761727c68ad8",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11996,
+      "geocodes": {
+        "main": {
+          "latitude": 40.467535,
+          "longitude": -3.595061
+        }
+      },
+      "link": "/v3/places/50451f1bc84c761727c68ad8",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "CD San Roque",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4baf2955f964a52079ee3be3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2980,
+      "geocodes": {
+        "main": {
+          "latitude": 40.413185,
+          "longitude": -3.737794
+        },
+        "roof": {
+          "latitude": 40.41301,
+          "longitude": -3.738123
+        }
+      },
+      "link": "/v3/places/4baf2955f964a52079ee3be3",
+      "location": {
+        "address": "Avenida de Portugal, S/N",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Recinto Ferial de la Casa de Campo",
+        "formatted_address": "Avenida de Portugal, S/N (Recinto Ferial de la Casa de Campo), 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid Arena",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "b5c8aac202f446554dacf9dd",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Casa de Campo"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5071465be4b09822b9095b99",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1402,
+      "geocodes": {
+        "main": {
+          "latitude": 40.388474,
+          "longitude": -3.705205
+        }
+      },
+      "link": "/v3/places/5071465be4b09822b9095b99",
+      "location": {
+        "address": "Calle Andr\u00e9s Arteaga, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Andr\u00e9s Arteaga, 1, 28026 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28026",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Rom\u00e1n Valero",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57e40aa2498e1b7a28024e1a",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1638,
+      "geocodes": {
+        "main": {
+          "latitude": 40.406525,
+          "longitude": -3.724734
+        }
+      },
+      "link": "/v3/places/57e40aa2498e1b7a28024e1a",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Corbacho Tenis",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5aa6634b2f97ec268bef7708",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1769,
+      "geocodes": {
+        "main": {
+          "latitude": 40.41678,
+          "longitude": -3.70379
+        }
+      },
+      "link": "/v3/places/5aa6634b2f97ec268bef7708",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Santiago Bernabeo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cd41c0b4944721e5a50f0a6",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1844,
+      "geocodes": {
+        "main": {
+          "latitude": 40.413715,
+          "longitude": -3.719987
+        },
+        "roof": {
+          "latitude": 40.413715,
+          "longitude": -3.719987
+        }
+      },
+      "link": "/v3/places/4cd41c0b4944721e5a50f0a6",
+      "location": {
+        "address": "Calle Segovia, 71",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Segovia, 71, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Real Federacion Espa\u00f1ola de Hockey",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "6170fb7a08c6292ca1147d8a",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1847,
+      "geocodes": {
+        "main": {
+          "latitude": 40.413371,
+          "longitude": -3.692157
+        }
+      },
+      "link": "/v3/places/6170fb7a08c6292ca1147d8a",
+      "location": {
+        "address": "Calle de Santiago Bernabeu",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Santiago Bernabeu, 28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Santiago Bernab\u00e9u",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda37f964a520fd3b21e3",
+          "categories": [
+            {
+              "id": 10027,
+              "name": "Museum",
+              "short_name": "Museum",
+              "plural_name": "Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Museo Nacional del Prado"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f3e9f76e4b0a9c4c8035f28",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2533,
+      "geocodes": {
+        "main": {
+          "latitude": 40.423768,
+          "longitude": -3.70874
+        }
+      },
+      "link": "/v3/places/4f3e9f76e4b0a9c4c8035f28",
+      "location": {
+        "address": "Reyes, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Reyes, 4, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Club de Esgrima Cardenal Cisneros",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b65625bf964a5201cef2ae3",
+      "categories": [
+        {
+          "id": 18064,
+          "name": "Soccer Field",
+          "short_name": "Soccer Field",
+          "plural_name": "Soccer Fields",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11476,
+      "geocodes": {
+        "main": {
+          "latitude": 40.47635,
+          "longitude": -3.614373
+        },
+        "roof": {
+          "latitude": 40.47635,
+          "longitude": -3.614373
+        }
+      },
+      "link": "/v3/places/4b65625bf964a5201cef2ae3",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Ciudad Real Madrid",
+        "formatted_address": "Ciudad Real Madrid, 28055 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28055",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Alfredo Di St\u00e9fano",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bc57be7693695214e248488",
+          "categories": [
+            {
+              "id": 18064,
+              "name": "Soccer Field",
+              "short_name": "Soccer Field",
+              "plural_name": "Soccer Fields",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Ciudad Deportiva Real Madrid"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56ebc26f498e09fe3f31b68f",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2711,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.423196,
+          "longitude": -3.69296
+        },
+        "main": {
+          "latitude": 40.423138,
+          "longitude": -3.692819
+        },
+        "roof": {
+          "latitude": 40.423138,
+          "longitude": -3.692819
+        }
+      },
+      "link": "/v3/places/56ebc26f498e09fe3f31b68f",
+      "location": {
+        "address": "Tamayo y Baus, 6",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Tamayo y Baus, 6, Madrid",
+        "region": "Madrid"
+      },
+      "name": "El estado mental",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56b10969498e3c3c134bf17d",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2823,
+      "geocodes": {
+        "main": {
+          "latitude": 40.410079,
+          "longitude": -3.737948
+        }
+      },
+      "link": "/v3/places/56b10969498e3c3c134bf17d",
+      "location": {
+        "address": "Calle de Cabello Lapierda, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Cabello Lapierda, 4, 28011 Madrid Centro Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Pabell\u00f3n Salesianos San Miguel Da Bosco",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ea8433f7bebf42dadae2553",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2996,
+      "geocodes": {
+        "main": {
+          "latitude": 40.413763,
+          "longitude": -3.737977
+        }
+      },
+      "link": "/v3/places/4ea8433f7bebf42dadae2553",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Madrid Arena",
+        "formatted_address": "Madrid Arena, 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Pabell\u00f3n Sat\u00e9lite",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4baf7ffaf964a520ee043ce3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3218,
+      "geocodes": {
+        "main": {
+          "latitude": 40.403223,
+          "longitude": -3.668915
+        },
+        "roof": {
+          "latitude": 40.403223,
+          "longitude": -3.668915
+        }
+      },
+      "link": "/v3/places/4baf7ffaf964a520ee043ce3",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Campo",
+        "locality": "Campo"
+      },
+      "name": "Campo de las Adelfas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5363a6fd498e3a921368da42",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3832,
+      "geocodes": {
+        "main": {
+          "latitude": 40.370491,
+          "longitude": -3.685705
+        }
+      },
+      "link": "/v3/places/5363a6fd498e3a921368da42",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Pista 4",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5406f05e498ee2d256d2159a",
+          "categories": [
+            {
+              "id": 18000,
+              "name": "Sports and Recreation",
+              "short_name": "Sports and Recreation",
+              "plural_name": "Sports and Recreation",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "MOMO Sports Club Caja M\u00e1gica"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5363c30d498ed982c8c2771c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3962,
+      "geocodes": {
+        "main": {
+          "latitude": 40.369569,
+          "longitude": -3.684477
+        },
+        "roof": {
+          "latitude": 40.369569,
+          "longitude": -3.684477
+        }
+      },
+      "link": "/v3/places/5363c30d498ed982c8c2771c",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Pista 5",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5406f05e498ee2d256d2159a",
+          "categories": [
+            {
+              "id": 18000,
+              "name": "Sports and Recreation",
+              "short_name": "Sports and Recreation",
+              "plural_name": "Sports and Recreation",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "MOMO Sports Club Caja M\u00e1gica"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bcae8193740b7136a8b6165",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14527,
+      "geocodes": {
+        "main": {
+          "latitude": 40.434024,
+          "longitude": -3.540581
+        },
+        "roof": {
+          "latitude": 40.434024,
+          "longitude": -3.540581
+        }
+      },
+      "link": "/v3/places/4bcae8193740b7136a8b6165",
+      "location": {
+        "address": "Avenida de la Ca\u00f1ada, 111",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida de la Ca\u00f1ada, 111, 28823 Coslada Comunidad de Madrid",
+        "locality": "Coslada",
+        "postcode": "28823",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Club de Tenis Coslada",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4df7dfc152b1e8ca02cd1afb",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4218,
+      "geocodes": {
+        "main": {
+          "latitude": 40.438976,
+          "longitude": -3.707437
+        }
+      },
+      "link": "/v3/places/4df7dfc152b1e8ca02cd1afb",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Las Rozas Comunidad de Madrid",
+        "locality": "Las Rozas",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Campo de Rugby el Cantizal",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f3fe602e4b0a5f2525513b1",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4424,
+      "geocodes": {
+        "main": {
+          "latitude": 40.434143,
+          "longitude": -3.735791
+        }
+      },
+      "link": "/v3/places/4f3fe602e4b0a5f2525513b1",
+      "location": {
+        "address": "Avenida de S\u00e9neca",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida de S\u00e9neca, 28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "M\u00f3dulo CSD",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f36800be4b0d26b9ff7bdde",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4498,
+      "geocodes": {
+        "main": {
+          "latitude": 40.436645,
+          "longitude": -3.732078
+        },
+        "roof": {
+          "latitude": 40.436645,
+          "longitude": -3.732078
+        }
+      },
+      "link": "/v3/places/4f36800be4b0d26b9ff7bdde",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Estadio Nacional Universidad Complutense",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d931db5a79d530cf5b20373",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4575,
+      "geocodes": {
+        "main": {
+          "latitude": 40.438003,
+          "longitude": -3.729208
+        },
+        "roof": {
+          "latitude": 40.438003,
+          "longitude": -3.729208
+        }
+      },
+      "link": "/v3/places/4d931db5a79d530cf5b20373",
+      "location": {
+        "address": "Avenida Juan de Herrera, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida Juan de Herrera, s/n, 28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Complejo Deportivo Zona Sur",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b7d154df964a52028ae2fe3",
+          "categories": [
+            {
+              "id": 10000,
+              "name": "Arts and Entertainment",
+              "short_name": "Arts & Entertainment",
+              "plural_name": "Arts and Entertainment",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Campus de Ciudad Universitaria"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "919e4103198341d7bfd14551",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4673,
+      "geocodes": {
+        "main": {
+          "latitude": 40.413939,
+          "longitude": -3.654216
+        },
+        "roof": {
+          "latitude": 40.413939,
+          "longitude": -3.654216
+        }
+      },
+      "link": "/v3/places/919e4103198341d7bfd14551",
+      "location": {
+        "address": "Alcalde Garrido Juaristi, 17",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Alcalde Garrido Juaristi, 17, 28030 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28030",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro Deportivo Municipal la Elipa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "3ef714e33d7f4f35fbe9fa01",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4927,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.438054,
+          "longitude": -3.674439
+        },
+        "main": {
+          "latitude": 40.437961,
+          "longitude": -3.674548
+        },
+        "roof": {
+          "latitude": 40.437961,
+          "longitude": -3.674548
+        }
+      },
+      "link": "/v3/places/3ef714e33d7f4f35fbe9fa01",
+      "location": {
+        "address": "Calle del Pilar de Zaragoza, 93",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle del Pilar de Zaragoza, 93, 28028 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28028",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Instalaci\u00f3n Deportiva Municipal Gimnasio Moscard\u00f3",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cb892edbac93704ea1cde7c",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5231,
+      "geocodes": {
+        "main": {
+          "latitude": 40.356593,
+          "longitude": -3.686316
+        }
+      },
+      "link": "/v3/places/4cb892edbac93704ea1cde7c",
+      "location": {
+        "address": "Carretera de Villaverde a Vallecas, 19",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carretera de Villaverde a Vallecas, 19, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro Deportivo Municipal Villaverde",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "926f2ffa5c8e495e6b387196",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5305,
+      "geocodes": {
+        "main": {
+          "latitude": 40.443536,
+          "longitude": -3.678245
+        },
+        "roof": {
+          "latitude": 40.443536,
+          "longitude": -3.678245
+        }
+      },
+      "link": "/v3/places/926f2ffa5c8e495e6b387196",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28002 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28002",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Industrias del Cuarzo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda3ef964a520ff3d21e3",
+      "categories": [
+        {
+          "id": 18008,
+          "name": "Basketball Court",
+          "short_name": "Basketball Court",
+          "plural_name": "Basketball Courts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/basketballcourt_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 15370,
+      "geocodes": {
+        "main": {
+          "latitude": 40.28251,
+          "longitude": -3.800577
+        },
+        "roof": {
+          "latitude": 40.28251,
+          "longitude": -3.800577
+        }
+      },
+      "link": "/v3/places/4adcda3ef964a520ff3d21e3",
+      "location": {
+        "address": "Calle de Grecia, 0",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Grecia, 0, 28943 Fuenlabrada Comunidad de Madrid",
+        "locality": "Fuenlabrada",
+        "postcode": "28943",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Polideportivo Fernando Mart\u00edn",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bee842fe24d20a1d9fc7214",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5779,
+      "geocodes": {
+        "main": {
+          "latitude": 40.450763,
+          "longitude": -3.729195
+        },
+        "roof": {
+          "latitude": 40.450763,
+          "longitude": -3.729195
+        }
+      },
+      "link": "/v3/places/4bee842fe24d20a1d9fc7214",
+      "location": {
+        "address": "Avenida Complutense, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Paraninfo Norte de Ciudad Universitaria",
+        "formatted_address": "Avenida Complutense, s/n (Paraninfo Norte de Ciudad Universitaria), 28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Complejo Deportivo Zona Norte",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b7d154df964a52028ae2fe3",
+          "categories": [
+            {
+              "id": 10000,
+              "name": "Arts and Entertainment",
+              "short_name": "Arts & Entertainment",
+              "plural_name": "Arts and Entertainment",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Campus de Ciudad Universitaria"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55b90b3e498ee92baf25d952",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6547,
+      "geocodes": {
+        "main": {
+          "latitude": 40.438825,
+          "longitude": -3.647406
+        }
+      },
+      "link": "/v3/places/55b90b3e498ee92baf25d952",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Pistas de Padel polideportivo Concepcion",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c6057fbb6f3be9a03115f73",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 6928,
+      "geocodes": {
+        "main": {
+          "latitude": 40.339853,
+          "longitude": -3.69072
+        },
+        "roof": {
+          "latitude": 40.339853,
+          "longitude": -3.69072
+        }
+      },
+      "link": "/v3/places/4c6057fbb6f3be9a03115f73",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28021 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28021",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Front\u00f3n de San Crist\u00f3bal",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50463643e4b0a43d9cfd23a3",
+      "categories": [
+        {
+          "id": 10051,
+          "name": "Stadium",
+          "short_name": "Stadium",
+          "plural_name": "Stadiums",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7296,
+      "geocodes": {
+        "main": {
+          "latitude": 40.412903,
+          "longitude": -3.791583
+        }
+      },
+      "link": "/v3/places/50463643e4b0a43d9cfd23a3",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Vita",
+        "locality": "Vita"
+      },
+      "name": "Vita 10 Escuela de Padel",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.4010201,
+          "longitude": -3.7067751
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

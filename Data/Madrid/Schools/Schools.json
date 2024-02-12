@@ -1,0 +1,2205 @@
+{
+  "results": [
+    {
+      "fsq_id": "4e099bafae60a90eabd69b10",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5525,
+      "geocodes": {
+        "main": {
+          "latitude": 40.371765,
+          "longitude": -3.754781
+        },
+        "roof": {
+          "latitude": 40.371765,
+          "longitude": -3.754781
+        }
+      },
+      "link": "/v3/places/4e099bafae60a90eabd69b10",
+      "location": {
+        "address": "Calle Joaqu\u00edn Turina, 37",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. G\u00f3mez de Arteche",
+        "formatted_address": "Calle Joaqu\u00edn Turina, 37 (C. G\u00f3mez de Arteche), 28044 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28044",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Amor\u00f3s",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d87279ed5fab60ce59c189c",
+      "categories": [
+        {
+          "id": 12052,
+          "name": "Flight School",
+          "short_name": "Flight School",
+          "plural_name": "Flight Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16166,
+      "geocodes": {
+        "main": {
+          "latitude": 40.458222,
+          "longitude": -3.531052
+        }
+      },
+      "link": "/v3/places/4d87279ed5fab60ce59c189c",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid",
+        "region": "Madrid"
+      },
+      "name": "CAE Centro de Simuladores",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dc50a0252b1e8f9f7c9a1a1",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13992,
+      "geocodes": {
+        "main": {
+          "latitude": 40.517059,
+          "longitude": -3.642438
+        },
+        "roof": {
+          "latitude": 40.517059,
+          "longitude": -3.642438
+        }
+      },
+      "link": "/v3/places/4dc50a0252b1e8f9f7c9a1a1",
+      "location": {
+        "address": "Calle Vereda Norte, 3",
+        "address_extended": "La Moraleja",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Vereda Norte, 3, 28109 Alcobendas Comunidad de Madrid",
+        "locality": "Alcobendas",
+        "postcode": "28109",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "International College Spain",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ec8f2ea99115348dab786b3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 544,
+      "geocodes": {
+        "main": {
+          "latitude": 40.397865,
+          "longitude": -3.705306
+        },
+        "roof": {
+          "latitude": 40.397865,
+          "longitude": -3.705306
+        }
+      },
+      "link": "/v3/places/4ec8f2ea99115348dab786b3",
+      "location": {
+        "address": "Valdelasierra, 9",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Valdelasierra, 9, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio San Javier",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fc619abe4b05ab8c3d6b8f4",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2178,
+      "geocodes": {
+        "main": {
+          "latitude": 40.390298,
+          "longitude": -3.728161
+        },
+        "roof": {
+          "latitude": 40.390298,
+          "longitude": -3.728161
+        }
+      },
+      "link": "/v3/places/4fc619abe4b05ab8c3d6b8f4",
+      "location": {
+        "address": "Calle Clarisas, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "General Ricardos",
+        "formatted_address": "Calle Clarisas, 4 (General Ricardos), 28019 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28019",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Nazaret Oporto",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fb67a0ce4b0664300176325",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2395,
+      "geocodes": {
+        "main": {
+          "latitude": 40.379553,
+          "longitude": -3.710338
+        },
+        "roof": {
+          "latitude": 40.379553,
+          "longitude": -3.710338
+        }
+      },
+      "link": "/v3/places/4fb67a0ce4b0664300176325",
+      "location": {
+        "address": "Avenida Rafaela Ybarra, 73",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida Rafaela Ybarra, 73, 28026 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28026",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Rafaela Ybarra",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fbf3fe0e4b054971f030b05",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2503,
+      "geocodes": {
+        "main": {
+          "latitude": 40.41029,
+          "longitude": -3.734597
+        },
+        "roof": {
+          "latitude": 40.41029,
+          "longitude": -3.734597
+        }
+      },
+      "link": "/v3/places/4fbf3fe0e4b054971f030b05",
+      "location": {
+        "address": "Calle Repull\u00e9s y Vargas, 11",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Repull\u00e9s y Vargas, 11, 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Salesianos San Miguel Arc\u00e1ngel",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd8bf0d1f6ee14683441e17",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2741,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.424786,
+          "longitude": -3.714851
+        },
+        "main": {
+          "latitude": 40.424884,
+          "longitude": -3.714747
+        },
+        "roof": {
+          "latitude": 40.424884,
+          "longitude": -3.714747
+        }
+      },
+      "link": "/v3/places/4dd8bf0d1f6ee14683441e17",
+      "location": {
+        "address": "Juan \u00c1lvarez Mendiz\u00e1bal, 20",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Juan \u00c1lvarez Mendiz\u00e1bal, 20, 28008 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28008",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Publico Portugal",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d7eaa30fb38a09088442bf4",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3530,
+      "geocodes": {
+        "main": {
+          "latitude": 40.411641,
+          "longitude": -3.667202
+        },
+        "roof": {
+          "latitude": 40.411641,
+          "longitude": -3.667202
+        }
+      },
+      "link": "/v3/places/4d7eaa30fb38a09088442bf4",
+      "location": {
+        "address": "Calle Astros, 13",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Astros, 13, 28007 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28007",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio de Fomento los Olmos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e16fd5962e1ccb50249218f",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5096,
+      "geocodes": {
+        "main": {
+          "latitude": 40.380983,
+          "longitude": -3.652511
+        },
+        "roof": {
+          "latitude": 40.380983,
+          "longitude": -3.652511
+        }
+      },
+      "link": "/v3/places/4e16fd5962e1ccb50249218f",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Gredos San Diego Vallecas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b573b55f964a520432c28e3",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5169,
+      "geocodes": {
+        "main": {
+          "latitude": 40.447295,
+          "longitude": -3.713039
+        },
+        "roof": {
+          "latitude": 40.447295,
+          "longitude": -3.713039
+        }
+      },
+      "link": "/v3/places/4b573b55f964a520432c28e3",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Buen Consejo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b4da4c2f964a52018d526e3",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5831,
+      "geocodes": {
+        "main": {
+          "latitude": 40.450525,
+          "longitude": -3.730828
+        }
+      },
+      "link": "/v3/places/4b4da4c2f964a52018d526e3",
+      "location": {
+        "address": "Plaza Ciencias, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Plaza Ciencias, 2, 28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Facultad de Derecho",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fc62183e4b0b0e32ca11bd4",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5890,
+      "geocodes": {
+        "main": {
+          "latitude": 40.381933,
+          "longitude": -3.641937
+        },
+        "roof": {
+          "latitude": 40.381933,
+          "longitude": -3.641937
+        }
+      },
+      "link": "/v3/places/4fc62183e4b0b0e32ca11bd4",
+      "location": {
+        "address": "Calle de los Asturianos, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de los Asturianos, 4, 28018 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28018",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro de Educacion Infantil y Primaria Doctor Tolosa Latour",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4fc4b104e4b02c55631f218e",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5937,
+      "geocodes": {
+        "main": {
+          "latitude": 40.38129,
+          "longitude": -3.771671
+        },
+        "roof": {
+          "latitude": 40.38129,
+          "longitude": -3.771671
+        }
+      },
+      "link": "/v3/places/4fc4b104e4b02c55631f218e",
+      "location": {
+        "address": "Calle de Jos\u00e9 de Cadalso, 19",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Jos\u00e9 de Cadalso, 19, 28044 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28044",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio P\u00fablico Manuel Bartolom\u00e9 Cossio",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c210c744d4a20a1a2b89b70",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6035,
+      "geocodes": {
+        "main": {
+          "latitude": 40.406417,
+          "longitude": -3.635199
+        },
+        "roof": {
+          "latitude": 40.406417,
+          "longitude": -3.635199
+        }
+      },
+      "link": "/v3/places/4c210c744d4a20a1a2b89b70",
+      "location": {
+        "address": "Calle Oberon, 6",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Oberon, 6, 28030 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28030",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Sagrada Familia",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d024fbb9f9ea14384bc8ea9",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 6103,
+      "geocodes": {
+        "main": {
+          "latitude": 40.360834,
+          "longitude": -3.755932
+        },
+        "roof": {
+          "latitude": 40.360834,
+          "longitude": -3.755932
+        }
+      },
+      "link": "/v3/places/4d024fbb9f9ea14384bc8ea9",
+      "location": {
+        "address": "Calle de los Morales, 25",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de los Morales, 25, 28054 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28054",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio \u00c1rtica",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ca475c25720b1f730043aef",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6302,
+      "geocodes": {
+        "main": {
+          "latitude": 40.455282,
+          "longitude": -3.684777
+        },
+        "roof": {
+          "latitude": 40.455282,
+          "longitude": -3.684777
+        }
+      },
+      "link": "/v3/places/4ca475c25720b1f730043aef",
+      "location": {
+        "address": "Calle Padre Damian, 20",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Padre Damian, 20, 28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Maria Virgen",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b641d2ef964a520b59f2ae3",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7934,
+      "geocodes": {
+        "main": {
+          "latitude": 40.46854,
+          "longitude": -3.67765
+        },
+        "roof": {
+          "latitude": 40.46854,
+          "longitude": -3.67765
+        }
+      },
+      "link": "/v3/places/4b641d2ef964a520b59f2ae3",
+      "location": {
+        "address": "Plaza Duque de Pastrana, 5",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de Burgos",
+        "formatted_address": "Plaza Duque de Pastrana, 5 (Av. de Burgos), 28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Nuestra Se\u00f1ora del Recuerdo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cf74c7a069c60fca7a2bbc8",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8068,
+      "geocodes": {
+        "main": {
+          "latitude": 40.473088,
+          "longitude": -3.697336
+        },
+        "roof": {
+          "latitude": 40.473088,
+          "longitude": -3.697336
+        }
+      },
+      "link": "/v3/places/4cf74c7a069c60fca7a2bbc8",
+      "location": {
+        "address": "V\u00eda L\u00edmite, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "V\u00eda L\u00edmite, s/n, 28029 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28029",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Ies Tetuan de las Victorias",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d6bc029b3e4a143a77ae990",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8741,
+      "geocodes": {
+        "main": {
+          "latitude": 40.421492,
+          "longitude": -3.607405
+        },
+        "roof": {
+          "latitude": 40.421492,
+          "longitude": -3.607405
+        }
+      },
+      "link": "/v3/places/4d6bc029b3e4a143a77ae990",
+      "location": {
+        "address": "Zurich, 10",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Zurich, 10, 28022 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28022",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Ceip Alvaro de Baz\u00e1n",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc8876992b376b0408b513a",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9398,
+      "geocodes": {
+        "main": {
+          "latitude": 40.483961,
+          "longitude": -3.729305
+        },
+        "roof": {
+          "latitude": 40.483961,
+          "longitude": -3.729305
+        }
+      },
+      "link": "/v3/places/4bc8876992b376b0408b513a",
+      "location": {
+        "address": "Calle de Ram\u00f3n G\u00f3mez de la Serna, 62",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de Ram\u00f3n G\u00f3mez de la Serna, 62, 28035 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28035",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Fuentelarreyna",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cbad9ecbac937046f3fee7c",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10292,
+      "geocodes": {
+        "main": {
+          "latitude": 40.447097,
+          "longitude": -3.812721
+        },
+        "roof": {
+          "latitude": 40.447097,
+          "longitude": -3.812721
+        }
+      },
+      "link": "/v3/places/4cbad9ecbac937046f3fee7c",
+      "location": {
+        "address": "Avenida Bularas, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Bularas, 4, 28224 Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "postcode": "28224",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Liceo Sorolla",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d80c94370d18cfa559ea394",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10500,
+      "geocodes": {
+        "main": {
+          "latitude": 40.457047,
+          "longitude": -3.806624
+        },
+        "roof": {
+          "latitude": 40.457047,
+          "longitude": -3.806624
+        }
+      },
+      "link": "/v3/places/4d80c94370d18cfa559ea394",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Pr\u00edncipes de Asturias",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c0100d59a950f473f6408c6",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11215,
+      "geocodes": {
+        "main": {
+          "latitude": 40.455258,
+          "longitude": -3.594886
+        },
+        "roof": {
+          "latitude": 40.455258,
+          "longitude": -3.594886
+        }
+      },
+      "link": "/v3/places/4c0100d59a950f473f6408c6",
+      "location": {
+        "address": "Paseo Alameda de Osuna, 60",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Paseo Alameda de Osuna, 60, 28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Alameda de Osuna",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e5b6927a8098920b3d7285d",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11673,
+      "geocodes": {
+        "main": {
+          "latitude": 40.498712,
+          "longitude": -3.655559
+        },
+        "roof": {
+          "latitude": 40.498712,
+          "longitude": -3.655559
+        }
+      },
+      "link": "/v3/places/4e5b6927a8098920b3d7285d",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Cortes de C\u00e1diz, Sanchinarro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bcd5af4cc8cd13a4d7fc2cf",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12205,
+      "geocodes": {
+        "main": {
+          "latitude": 40.511141,
+          "longitude": -3.697142
+        },
+        "roof": {
+          "latitude": 40.511141,
+          "longitude": -3.697142
+        }
+      },
+      "link": "/v3/places/4bcd5af4cc8cd13a4d7fc2cf",
+      "location": {
+        "address": "Monast. Oseira Pau Montecarmelo, 17 B",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Monast. Oseira Pau Montecarmelo, 17 B, 28049 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28049",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Santa Maria la Blanca",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d42f1741629b60cb0339c89",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12208,
+      "geocodes": {
+        "main": {
+          "latitude": 40.508844,
+          "longitude": -3.679331
+        },
+        "roof": {
+          "latitude": 40.508844,
+          "longitude": -3.679331
+        }
+      },
+      "link": "/v3/places/4d42f1741629b60cb0339c89",
+      "location": {
+        "address": "Fromista Pau las Tablas, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Fromista Pau las Tablas, 1, 28050 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28050",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Estudiantes las Tablas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd8b8641f6ee1468343a52f",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12360,
+      "geocodes": {
+        "main": {
+          "latitude": 40.507731,
+          "longitude": -3.667536
+        },
+        "roof": {
+          "latitude": 40.507731,
+          "longitude": -3.667536
+        }
+      },
+      "link": "/v3/places/4dd8b8641f6ee1468343a52f",
+      "location": {
+        "address": "Calle de Mirallos, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C/ Palas de Rey",
+        "formatted_address": "Calle de Mirallos, 3 (C/ Palas de Rey), 28050 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28050",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio P\u00fablico Gabriela Mistral",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5114e197e4b0d5d3fb5389e9",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12494,
+      "geocodes": {
+        "main": {
+          "latitude": 40.34251,
+          "longitude": -3.833862
+        },
+        "roof": {
+          "latitude": 40.34251,
+          "longitude": -3.833862
+        }
+      },
+      "link": "/v3/places/5114e197e4b0d5d3fb5389e9",
+      "location": {
+        "address": "Avenida del Oeste, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida del Oeste, 2, 28922 Alcorc\u00f3n Comunidad de Madrid",
+        "locality": "Alcorc\u00f3n",
+        "postcode": "28922",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Cp Carmen Conde",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dcc149b1f6ea1401d4e7232",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12809,
+      "geocodes": {
+        "main": {
+          "latitude": 40.503931,
+          "longitude": -3.638563
+        },
+        "roof": {
+          "latitude": 40.503931,
+          "longitude": -3.638563
+        }
+      },
+      "link": "/v3/places/4dcc149b1f6ea1401d4e7232",
+      "location": {
+        "address": "San Enrique de Osso, 46",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "El Encinar de los Reyes",
+        "formatted_address": "San Enrique de Osso, 46 (El Encinar de los Reyes), 28050 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28050",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Highlands Encinar",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5acb4c1c1acf111873a8d706",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13732,
+      "geocodes": {
+        "main": {
+          "latitude": 40.371036,
+          "longitude": -3.549353
+        },
+        "roof": {
+          "latitude": 40.371036,
+          "longitude": -3.549353
+        }
+      },
+      "link": "/v3/places/5acb4c1c1acf111873a8d706",
+      "location": {
+        "address": "Cmno de la Partija, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Cmno de la Partija, s/n, 28523 Rivas-Vaciamadrid Comunidad de Madrid",
+        "locality": "Rivas-Vaciamadrid",
+        "postcode": "28523",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "C.P. Mario Benedetti",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d03ae0954d0236ab06fead5",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14073,
+      "geocodes": {
+        "main": {
+          "latitude": 40.521048,
+          "longitude": -3.653859
+        },
+        "roof": {
+          "latitude": 40.521048,
+          "longitude": -3.653859
+        }
+      },
+      "link": "/v3/places/4d03ae0954d0236ab06fead5",
+      "location": {
+        "address": "Carretera Madrid Burgos e Ir\u00fan, 0",
+        "address_extended": "km 14 - A-1 Burgos",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carretera Madrid Burgos e Ir\u00fan, 0, 28108 Alcobendas Madrid",
+        "locality": "Alcobendas",
+        "postcode": "28108",
+        "region": "Madrid"
+      },
+      "name": "Colegio Suizo de Madrid",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d132de8d0fda093811bb157",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14503,
+      "geocodes": {
+        "main": {
+          "latitude": 40.509711,
+          "longitude": -3.611135
+        },
+        "roof": {
+          "latitude": 40.509711,
+          "longitude": -3.611135
+        }
+      },
+      "link": "/v3/places/4d132de8d0fda093811bb157",
+      "location": {
+        "address": "Calle del Camino Ancho, 10",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle del Camino Ancho, 10, 28109 Alcobendas Comunidad de Madrid",
+        "locality": "Alcobendas",
+        "postcode": "28109",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Base",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bd147f3a8b3a5939992655f",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14863,
+      "geocodes": {
+        "main": {
+          "latitude": 40.523553,
+          "longitude": -3.640994
+        }
+      },
+      "link": "/v3/places/4bd147f3a8b3a5939992655f",
+      "location": {
+        "address": "Calle Begonia, 275",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Begonia, 275, 28109 Alcobendas Madrid",
+        "locality": "Alcobendas",
+        "postcode": "28109",
+        "region": "Madrid"
+      },
+      "name": "Irlandesas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d92ee0eb053b60c252383cb",
+      "categories": [
+        {
+          "id": 12061,
+          "name": "Private School",
+          "short_name": "Private School",
+          "plural_name": "Private Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15874,
+      "geocodes": {
+        "main": {
+          "latitude": 40.430662,
+          "longitude": -3.890661
+        },
+        "roof": {
+          "latitude": 40.430662,
+          "longitude": -3.890661
+        }
+      },
+      "link": "/v3/places/4d92ee0eb053b60c252383cb",
+      "location": {
+        "address": "Calle Valle de Santa Ana, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Valle de Santa Ana, 1, 28669 Boadilla del Monte Comunidad de Madrid",
+        "locality": "Boadilla del Monte",
+        "postcode": "28669",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Virgen de Europa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cbd5978c7228cfa984729ce",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19869,
+      "geocodes": {
+        "main": {
+          "latitude": 40.262233,
+          "longitude": -3.85462
+        },
+        "roof": {
+          "latitude": 40.262233,
+          "longitude": -3.85462
+        }
+      },
+      "link": "/v3/places/4cbd5978c7228cfa984729ce",
+      "location": {
+        "address": "Calle Mirasierra, 59",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Mirasierra, 59, 28950 Moraleja de Enmedio Comunidad de Madrid",
+        "locality": "Moraleja de Enmedio",
+        "postcode": "28950",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Santa Teresa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e65f2601f6ef7d07c2cf246",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21132,
+      "geocodes": {
+        "main": {
+          "latitude": 40.519778,
+          "longitude": -3.902543
+        }
+      },
+      "link": "/v3/places/4e65f2601f6ef7d07c2cf246",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28232 Las Rozas Comunidad de Madrid",
+        "locality": "Las Rozas",
+        "postcode": "28232",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio P\u00fablico la Encina",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d91f3449acaa143732ff3f0",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 27814,
+      "geocodes": {
+        "main": {
+          "latitude": 40.579944,
+          "longitude": -3.936899
+        },
+        "roof": {
+          "latitude": 40.579944,
+          "longitude": -3.936899
+        }
+      },
+      "link": "/v3/places/4d91f3449acaa143732ff3f0",
+      "location": {
+        "address": "Avenida Dehesa, 89",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Dehesa, 89, 28250 Torrelodones Comunidad de Madrid",
+        "locality": "Torrelodones",
+        "postcode": "28250",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Colegio Pe\u00f1alar",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b4ed6f4f964a5202ff626e3",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15155,
+      "geocodes": {
+        "main": {
+          "latitude": 40.450117,
+          "longitude": -3.873997
+        },
+        "roof": {
+          "latitude": 40.450117,
+          "longitude": -3.873997
+        }
+      },
+      "link": "/v3/places/4b4ed6f4f964a5202ff626e3",
+      "location": {
+        "address": "Calle Manuel de Falla, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Manuel de Falla, 1, 28222 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28222",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Hospital Universitario Puerta de Hierro Majadahonda",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5772273c498ee91c4091f2b4",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cafeter\u00eda Hospital Puerta de Hierro"
+          },
+          {
+            "fsq_id": "5b19004e7cd14c0044bdd69c",
+            "categories": [
+              {
+                "id": 17089,
+                "name": "Gift Store",
+                "short_name": "Gift Store",
+                "plural_name": "Gift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gusto y Sabor"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b801efdf964a5200e5430e3",
+      "categories": [
+        {
+          "id": 12005,
+          "name": "Cultural Center",
+          "short_name": "Cultural Center",
+          "plural_name": "Cultural Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2229,
+      "geocodes": {
+        "main": {
+          "latitude": 40.419262,
+          "longitude": -3.695219
+        },
+        "roof": {
+          "latitude": 40.419262,
+          "longitude": -3.695219
+        }
+      },
+      "link": "/v3/places/4b801efdf964a5200e5430e3",
+      "location": {
+        "address": "Calle Alcal\u00e1, 49",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Alcal\u00e1, 49, 28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Instituto Cervantes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cc18af867a3b1f71c11c90e",
+      "categories": [
+        {
+          "id": 12027,
+          "name": "College Gym",
+          "short_name": "Gym",
+          "plural_name": "College Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9692,
+      "geocodes": {
+        "main": {
+          "latitude": 40.314781,
+          "longitude": -3.723937
+        }
+      },
+      "link": "/v3/places/4cc18af867a3b1f71c11c90e",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28903 Getafe Comunidad de Madrid",
+        "locality": "Getafe",
+        "postcode": "28903",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Polideportivo Ignacio Pinedo",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b94cb47f964a520868334e3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Universidad Carlos Iii de Madrid"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b7ae5f2f964a520a0442fe3",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4357,
+      "geocodes": {
+        "main": {
+          "latitude": 40.427403,
+          "longitude": -3.668743
+        },
+        "roof": {
+          "latitude": 40.427403,
+          "longitude": -3.668743
+        }
+      },
+      "link": "/v3/places/4b7ae5f2f964a520a0442fe3",
+      "location": {
+        "address": "Plaza Manuel Becerra, 17",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Plaza Manuel Becerra, 17, 28028 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28028",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "O2 Centro Wellness",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4fc8df2be4b0d2b9a4ecb059",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Piscina O2 Wellness Center"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50596514e4b00d45487c57a3",
+      "categories": [
+        {
+          "id": 12125,
+          "name": "University",
+          "short_name": "University",
+          "plural_name": "Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 720,
+      "geocodes": {
+        "main": {
+          "latitude": 40.406908,
+          "longitude": -3.709672
+        }
+      },
+      "link": "/v3/places/50596514e4b00d45487c57a3",
+      "location": {
+        "address": "Ronda de Toledo, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Calle de Toledo",
+        "formatted_address": "Ronda de Toledo, 1 (Calle de Toledo), 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Universidad Carlos III - Campus Puerta de Toledo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d1afd7911fca09378949ace",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1280,
+      "geocodes": {
+        "main": {
+          "latitude": 40.412616,
+          "longitude": -3.707359
+        },
+        "roof": {
+          "latitude": 40.412616,
+          "longitude": -3.707359
+        }
+      },
+      "link": "/v3/places/4d1afd7911fca09378949ace",
+      "location": {
+        "address": "Calle Toledo, 39",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Toledo, 39, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Instituto San Isidro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d00b2ea7c5637041aa6b1f0",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2060,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.415231,
+          "longitude": -3.690942
+        },
+        "main": {
+          "latitude": 40.415065,
+          "longitude": -3.69094
+        },
+        "roof": {
+          "latitude": 40.415065,
+          "longitude": -3.69094
+        }
+      },
+      "link": "/v3/places/4d00b2ea7c5637041aa6b1f0",
+      "location": {
+        "address": "Calle de Felipe IV, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Felipe IV, 4, 28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Real Academia Espa\u00f1ola",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56b1d8bc498e7a6774939d43",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3202,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.429625,
+          "longitude": -3.713019
+        },
+        "main": {
+          "latitude": 40.42942,
+          "longitude": -3.713065
+        }
+      },
+      "link": "/v3/places/56b1d8bc498e7a6774939d43",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28015 Madrid Madrid",
+        "locality": "Madrid",
+        "postcode": "28015",
+        "region": "Madrid"
+      },
+      "name": "Universidad de Nebrija",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ce0f0dcc4f6a35dcaa0d86c",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3211,
+      "geocodes": {
+        "main": {
+          "latitude": 40.429908,
+          "longitude": -3.711328
+        },
+        "roof": {
+          "latitude": 40.429908,
+          "longitude": -3.711328
+        }
+      },
+      "link": "/v3/places/4ce0f0dcc4f6a35dcaa0d86c",
+      "location": {
+        "address": "Calle Alberto Aguilera, 23",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Alberto Aguilera, 23, 28015 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28015",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Universidad Pontificia Comillas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "503c66d3e4b08069b682464a",
+      "categories": [
+        {
+          "id": 12014,
+          "name": "College Academic Building",
+          "short_name": "Academic Building",
+          "plural_name": "College Academic Buildings",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4573,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.437668,
+          "longitude": -3.682426
+        },
+        "main": {
+          "latitude": 40.437816,
+          "longitude": -3.682419
+        },
+        "roof": {
+          "latitude": 40.437816,
+          "longitude": -3.682419
+        }
+      },
+      "link": "/v3/places/503c66d3e4b08069b682464a",
+      "location": {
+        "address": "Calle Mar\u00eda de Molina, 31",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Mar\u00eda de Molina, 31, 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "IE Business School MM31",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d709f47566b60fca61fb47e",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 715,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.402135,
+          "longitude": -3.698599
+        },
+        "main": {
+          "latitude": 40.402208,
+          "longitude": -3.698502
+        },
+        "roof": {
+          "latitude": 40.402208,
+          "longitude": -3.698502
+        }
+      },
+      "link": "/v3/places/4d709f47566b60fca61fb47e",
+      "location": {
+        "address": "Calle Bernardino Obreg\u00f3n, 25",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Bernardino Obreg\u00f3n, 25, 28012 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28012",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "IMF Institucion Academica",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5c790491f8cbd4002c9b0996",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4608,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.43766,
+          "longitude": -3.682265
+        },
+        "main": {
+          "latitude": 40.43784,
+          "longitude": -3.682256
+        },
+        "roof": {
+          "latitude": 40.43784,
+          "longitude": -3.682256
+        }
+      },
+      "link": "/v3/places/5c790491f8cbd4002c9b0996",
+      "location": {
+        "address": "Mar\u00eda de Molina 31 Bis",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Mar\u00eda de Molina 31 Bis, 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "IE University",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.4010201,
+          "longitude": -3.7067751
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

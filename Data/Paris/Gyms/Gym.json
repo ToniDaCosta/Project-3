@@ -1,0 +1,2261 @@
+{
+  "results": [
+    {
+      "fsq_id": "4d36838c600a721e1bd7b155",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4011,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.87212,
+          "longitude": 2.347109
+        },
+        "main": {
+          "latitude": 48.872046,
+          "longitude": 2.347098
+        },
+        "roof": {
+          "latitude": 48.872046,
+          "longitude": 2.347098
+        }
+      },
+      "link": "/v3/places/4d36838c600a721e1bd7b155",
+      "location": {
+        "address": "5 rue Berg\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "5 rue Berg\u00e8re, 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gym Su\u00e9doise",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bfbef05d1b29c740f3b22b9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4164,
+      "geocodes": {
+        "main": {
+          "latitude": 48.867414,
+          "longitude": 2.372766
+        },
+        "roof": {
+          "latitude": 48.867414,
+          "longitude": 2.372766
+        }
+      },
+      "link": "/v3/places/4bfbef05d1b29c740f3b22b9",
+      "location": {
+        "address": "107 avenue Parmentier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "107 avenue Parmentier, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gym Studio",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dd6a950fa76ad96d1116c0a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1865,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.844311,
+          "longitude": 2.318531
+        },
+        "main": {
+          "latitude": 48.844282,
+          "longitude": 2.318485
+        },
+        "roof": {
+          "latitude": 48.844282,
+          "longitude": 2.318485
+        }
+      },
+      "link": "/v3/places/4dd6a950fa76ad96d1116c0a",
+      "location": {
+        "address": "2 bis Villa du mont Tonnerre",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "2 bis Villa du mont Tonnerre, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gym Su\u00e9doise Mont Tonnerre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "504b7c34e4b0c450c2636570",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2833,
+      "geocodes": {
+        "main": {
+          "latitude": 48.834571,
+          "longitude": 2.302371
+        },
+        "roof": {
+          "latitude": 48.834571,
+          "longitude": 2.302371
+        }
+      },
+      "link": "/v3/places/504b7c34e4b0c450c2636570",
+      "location": {
+        "address": "15 rue Cronstadt 75015",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "15 rue Cronstadt 75015, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gym Flash",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f773449e4b0a35da40bc026",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3443,
+      "geocodes": {
+        "main": {
+          "latitude": 48.865887,
+          "longitude": 2.326929
+        },
+        "roof": {
+          "latitude": 48.865887,
+          "longitude": 2.326929
+        }
+      },
+      "link": "/v3/places/4f773449e4b0a35da40bc026",
+      "location": {
+        "address": "3 rue de Castiglione",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "3 rue de Castiglione, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Westin Gym",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b240781f964a520745f24e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Westin Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc4cff0abf49521509bc593",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2889,
+      "geocodes": {
+        "main": {
+          "latitude": 48.862275,
+          "longitude": 2.341345
+        },
+        "roof": {
+          "latitude": 48.862275,
+          "longitude": 2.341345
+        }
+      },
+      "link": "/v3/places/4bc4cff0abf49521509bc593",
+      "location": {
+        "address": "7 B rue du Louvre",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "7 B rue du Louvre, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Gym Louvre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4cf7dd319d11b1f7c151c8ed",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3593,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.856159,
+          "longitude": 2.379532
+        },
+        "main": {
+          "latitude": 48.856247,
+          "longitude": 2.379666
+        },
+        "roof": {
+          "latitude": 48.856247,
+          "longitude": 2.379666
+        }
+      },
+      "link": "/v3/places/4cf7dd319d11b1f7c151c8ed",
+      "location": {
+        "address": "11 cours Debille",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "11 cours Debille, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Gym Suedoise",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5a808260acb00b3dcf26815c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3902,
+      "geocodes": {
+        "main": {
+          "latitude": 48.868794,
+          "longitude": 2.361043
+        },
+        "roof": {
+          "latitude": 48.868794,
+          "longitude": 2.361043
+        }
+      },
+      "link": "/v3/places/5a808260acb00b3dcf26815c",
+      "location": {
+        "address": "40 rue Renae boulanger",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "40 rue Renae boulanger, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Renaissance Gym",
+      "related_places": {
+        "parent": {
+          "fsq_id": "570366cb498ebe9c014e815e",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Renaissance Paris Republique H\u00f4tel"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "55fd2717498ea821baee958c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2413,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.851864,
+          "longitude": 2.363031
+        },
+        "main": {
+          "latitude": 48.851764,
+          "longitude": 2.363099
+        },
+        "roof": {
+          "latitude": 48.851764,
+          "longitude": 2.363099
+        }
+      },
+      "link": "/v3/places/55fd2717498ea821baee958c",
+      "location": {
+        "address": "12 rue du Petit Musc",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "12 rue du Petit Musc, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Keep Cool",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b0d6152f964a520314723e3",
+      "categories": [
+        {
+          "id": 18022,
+          "name": "Boxing Gym",
+          "short_name": "Boxing Gym",
+          "plural_name": "Boxing Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4551,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.873805,
+          "longitude": 2.365058
+        },
+        "main": {
+          "latitude": 48.873966,
+          "longitude": 2.364955
+        },
+        "roof": {
+          "latitude": 48.873966,
+          "longitude": 2.364955
+        }
+      },
+      "link": "/v3/places/4b0d6152f964a520314723e3",
+      "location": {
+        "address": "13 rue de la Grange aux Belles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "13 rue de la Grange aux Belles, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Battling Club 10",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5405cda3498eccd8963e0ce6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4256,
+      "geocodes": {
+        "main": {
+          "latitude": 48.845443,
+          "longitude": 2.284263
+        },
+        "roof": {
+          "latitude": 48.845443,
+          "longitude": 2.284263
+        }
+      },
+      "link": "/v3/places/5405cda3498eccd8963e0ce6",
+      "location": {
+        "address": "104 rue Saint Charles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "104 rue Saint Charles, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Beaugrenelle",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b219532f964a520563e24e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3376,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.865844,
+          "longitude": 2.349721
+        },
+        "main": {
+          "latitude": 48.865885,
+          "longitude": 2.349728
+        },
+        "roof": {
+          "latitude": 48.865885,
+          "longitude": 2.349728
+        }
+      },
+      "link": "/v3/places/4b219532f964a520563e24e3",
+      "location": {
+        "address": "4 bis rue Saint-Sauveur",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "4 bis rue Saint-Sauveur, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Klay",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5719271b498e465e2d6525fa",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5432,
+      "geocodes": {
+        "main": {
+          "latitude": 48.883228,
+          "longitude": 2.320401
+        },
+        "roof": {
+          "latitude": 48.883228,
+          "longitude": 2.320401
+        }
+      },
+      "link": "/v3/places/5719271b498e465e2d6525fa",
+      "location": {
+        "address": "11 rue Boursault",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "11 rue Boursault, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "CMG Sports Club One St Lazare",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f3190d1e4b015f62b70ca28",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1664,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.850849,
+          "longitude": 2.345163
+        },
+        "main": {
+          "latitude": 48.850599,
+          "longitude": 2.345105
+        },
+        "roof": {
+          "latitude": 48.850599,
+          "longitude": 2.345105
+        }
+      },
+      "link": "/v3/places/4f3190d1e4b015f62b70ca28",
+      "location": {
+        "address": "71 boulevard Saint-Germain",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "71 boulevard Saint-Germain, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "HealthCity Saint-Germain des Pr\u00e9s",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bcdf26afb84c9b66ee5223e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4297,
+      "geocodes": {
+        "main": {
+          "latitude": 48.84909,
+          "longitude": 2.285438
+        },
+        "roof": {
+          "latitude": 48.84909,
+          "longitude": 2.285438
+        }
+      },
+      "link": "/v3/places/4bcdf26afb84c9b66ee5223e",
+      "location": {
+        "address": "44 rue Emeriau",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "44 rue Emeriau, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Front de Seine",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c2df724260bc92878d01ad3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4739,
+      "geocodes": {
+        "main": {
+          "latitude": 48.853802,
+          "longitude": 2.282009
+        },
+        "roof": {
+          "latitude": 48.853802,
+          "longitude": 2.282009
+        }
+      },
+      "link": "/v3/places/4c2df724260bc92878d01ad3",
+      "location": {
+        "address": "100 avenue du Pr\u00e9sident Kennedy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "100 avenue du Pr\u00e9sident Kennedy, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ken Club",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c08d108f23f9521a4829628",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4384,
+      "geocodes": {
+        "main": {
+          "latitude": 48.875247,
+          "longitude": 2.335959
+        },
+        "roof": {
+          "latitude": 48.875247,
+          "longitude": 2.335959
+        }
+      },
+      "link": "/v3/places/4c08d108f23f9521a4829628",
+      "location": {
+        "address": "46 rue de la Victoire",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "46 rue de la Victoire, 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Qee",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "568d768d498ea3e1bd8f8300",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3079,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854023,
+          "longitude": 2.373156
+        },
+        "roof": {
+          "latitude": 48.854023,
+          "longitude": 2.373156
+        }
+      },
+      "link": "/v3/places/568d768d498ea3e1bd8f8300",
+      "location": {
+        "address": "4/6 passage Louis Philippe",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4/6 passage Louis Philippe, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Bastille",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5152bbf0e4b038b84822fad9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3759,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849443,
+          "longitude": 2.388007
+        },
+        "roof": {
+          "latitude": 48.849443,
+          "longitude": 2.388007
+        }
+      },
+      "link": "/v3/places/5152bbf0e4b038b84822fad9",
+      "location": {
+        "address": "224 rue du Faubourg Saint-Antoine",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "224 rue du Faubourg Saint-Antoine, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Les Cercles de la Forme",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b769a41f964a520f7532ee3",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6961,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864266,
+          "longitude": 2.25538
+        },
+        "roof": {
+          "latitude": 48.864266,
+          "longitude": 2.25538
+        }
+      },
+      "link": "/v3/places/4b769a41f964a520f7532ee3",
+      "location": {
+        "address": "chemin de la Croix Catelan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "chemin de la Croix Catelan, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lagardere Paris Racing Ressources",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a520093421e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Boulogne"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c4fe5027537e21e3d460089",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5357,
+      "geocodes": {
+        "main": {
+          "latitude": 48.883158,
+          "longitude": 2.32406
+        },
+        "roof": {
+          "latitude": 48.883158,
+          "longitude": 2.32406
+        }
+      },
+      "link": "/v3/places/4c4fe5027537e21e3d460089",
+      "location": {
+        "address": "32 boulevard des Batignolles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "32 boulevard des Batignolles, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Les Cercles de la Forme",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "522a0d1a498e23e30c445c45",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1426,
+      "geocodes": {
+        "main": {
+          "latitude": 48.839527,
+          "longitude": 2.359721
+        },
+        "roof": {
+          "latitude": 48.839527,
+          "longitude": 2.359721
+        }
+      },
+      "link": "/v3/places/522a0d1a498e23e30c445c45",
+      "location": {
+        "address": "22 Bis boulevard Saint Marcel",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "22 Bis boulevard Saint Marcel, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Austerlitz",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c4578d936d6a593f8da6ba8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9162,
+      "geocodes": {
+        "main": {
+          "latitude": 48.890488,
+          "longitude": 2.244641
+        },
+        "roof": {
+          "latitude": 48.890488,
+          "longitude": 2.244641
+        }
+      },
+      "link": "/v3/places/4c4578d936d6a593f8da6ba8",
+      "location": {
+        "address": "17 place des Corolles la D\u00e9fense",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "17 place des Corolles la D\u00e9fense, 92400 Courbevoie",
+        "locality": "Courbevoie",
+        "postcode": "92400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Fitness Park",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "564a1fed498e7e9f5470e450",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2115,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.823369,
+          "longitude": 2.36212
+        },
+        "main": {
+          "latitude": 48.823265,
+          "longitude": 2.361987
+        },
+        "roof": {
+          "latitude": 48.823265,
+          "longitude": 2.361987
+        }
+      },
+      "link": "/v3/places/564a1fed498e7e9f5470e450",
+      "location": {
+        "address": "avenue de Choisy 63",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "avenue de Choisy 63, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Basic-Fit Paris Choisy",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b4f57fef964a520390227e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6157,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.877945,
+          "longitude": 2.285394
+        },
+        "main": {
+          "latitude": 48.877877,
+          "longitude": 2.285395
+        },
+        "roof": {
+          "latitude": 48.877877,
+          "longitude": 2.285395
+        }
+      },
+      "link": "/v3/places/4b4f57fef964a520390227e3",
+      "location": {
+        "address": "17 rue du D\u00e9barcad\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "17 rue du D\u00e9barcad\u00e8re, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "CMG Sports Club One Maillot",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4fa81d41e4b0d6f4be98c6bd",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3492,
+      "geocodes": {
+        "main": {
+          "latitude": 48.867346,
+          "longitude": 2.33332
+        },
+        "roof": {
+          "latitude": 48.867346,
+          "longitude": 2.33332
+        }
+      },
+      "link": "/v3/places/4fa81d41e4b0d6f4be98c6bd",
+      "location": {
+        "address": "31 avenue de l'Op\u00e9ra",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "31 avenue de l'Op\u00e9ra, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Reebok CrossFit Louvre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "55978733498e77c40df42a5a",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6292,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.892537,
+          "longitude": 2.330056
+        },
+        "main": {
+          "latitude": 48.892448,
+          "longitude": 2.330038
+        },
+        "roof": {
+          "latitude": 48.892448,
+          "longitude": 2.330038
+        }
+      },
+      "link": "/v3/places/55978733498e77c40df42a5a",
+      "location": {
+        "address": "237 rue Marcadet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "237 rue Marcadet, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Keep Cool",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "562792fc498efd666cdb0f17",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4061,
+      "geocodes": {
+        "main": {
+          "latitude": 48.867123,
+          "longitude": 2.366912
+        },
+        "roof": {
+          "latitude": 48.867123,
+          "longitude": 2.366912
+        }
+      },
+      "link": "/v3/places/562792fc498efd666cdb0f17",
+      "location": {
+        "address": "50 rue de Malte",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "50 rue de Malte, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness R\u00e9publique",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5602bf77498ee30f21777624",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3281,
+      "geocodes": {
+        "main": {
+          "latitude": 48.865082,
+          "longitude": 2.350102
+        },
+        "roof": {
+          "latitude": 48.865082,
+          "longitude": 2.350102
+        }
+      },
+      "link": "/v3/places/5602bf77498ee30f21777624",
+      "location": {
+        "address": "35/39 rue Greneta",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "35/39 rue Greneta, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Chatelet Montorgueil",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5b8d7bd4acb37f002c7b0db2",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4170,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871352,
+          "longitude": 2.36096
+        },
+        "roof": {
+          "latitude": 48.871352,
+          "longitude": 2.36096
+        }
+      },
+      "link": "/v3/places/5b8d7bd4acb37f002c7b0db2",
+      "location": {
+        "address": "14 place Jacques Bonsergent",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "14 place Jacques Bonsergent, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Episod",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "504a300be4b0c9f21e9f2dbf",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4663,
+      "geocodes": {
+        "main": {
+          "latitude": 48.877472,
+          "longitude": 2.330338
+        },
+        "roof": {
+          "latitude": 48.877472,
+          "longitude": 2.330338
+        }
+      },
+      "link": "/v3/places/504a300be4b0c9f21e9f2dbf",
+      "location": {
+        "address": "Google France",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "14 rue de Londres",
+        "formatted_address": "Google France (14 rue de Londres), 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "gFit",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b41cc6ff964a520fec825e3",
+          "categories": [
+            {
+              "id": 11000,
+              "name": "Business and Professional Services",
+              "short_name": "Business and Professional Services",
+              "plural_name": "Business and Professional Services",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Google France"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5016c49ee4b0dbe1596f914d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5543,
+      "geocodes": {
+        "main": {
+          "latitude": 48.885236,
+          "longitude": 2.328246
+        },
+        "roof": {
+          "latitude": 48.885236,
+          "longitude": 2.328246
+        }
+      },
+      "link": "/v3/places/5016c49ee4b0dbe1596f914d",
+      "location": {
+        "address": "16 rue Capron",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "16 rue Capron, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Montana Fitness Club",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5a04755612f0a917c9838ec5",
+      "categories": [
+        {
+          "id": 18028,
+          "name": "Yoga Studio",
+          "short_name": "Yoga Studio",
+          "plural_name": "Yoga Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3580,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.868347,
+          "longitude": 2.342807
+        },
+        "main": {
+          "latitude": 48.867945,
+          "longitude": 2.342718
+        },
+        "roof": {
+          "latitude": 48.867945,
+          "longitude": 2.342718
+        }
+      },
+      "link": "/v3/places/5a04755612f0a917c9838ec5",
+      "location": {
+        "address": "115 rue R\u00e9aumur",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "115 rue R\u00e9aumur, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Episod",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "517baa24e4b02beb92298ff0",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4503,
+      "geocodes": {
+        "main": {
+          "latitude": 48.827508,
+          "longitude": 2.280468
+        },
+        "roof": {
+          "latitude": 48.827508,
+          "longitude": 2.280468
+        }
+      },
+      "link": "/v3/places/517baa24e4b02beb92298ff0",
+      "location": {
+        "address": "29 rue Ernest Renan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "29 rue Ernest Renan, 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Fitness Park",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4beda45a75feef3b290c97e6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3823,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849733,
+          "longitude": 2.29314
+        },
+        "roof": {
+          "latitude": 48.849733,
+          "longitude": 2.29314
+        }
+      },
+      "link": "/v3/places/4beda45a75feef3b290c97e6",
+      "location": {
+        "address": "18 rue Juge",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "18 rue Juge, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness la Motte-Picquet",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "51bd909c498e0570185d0778",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3579,
+      "geocodes": {
+        "main": {
+          "latitude": 48.868214,
+          "longitude": 2.346667
+        },
+        "roof": {
+          "latitude": 48.868214,
+          "longitude": 2.346667
+        }
+      },
+      "link": "/v3/places/51bd909c498e0570185d0778",
+      "location": {
+        "address": "23 rue de Cl\u00e9ry",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "23 rue de Cl\u00e9ry, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Keep Cool",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50edae9de4b0ca0b237bcf68",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1091,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.834159,
+          "longitude": 2.355433
+        },
+        "main": {
+          "latitude": 48.834227,
+          "longitude": 2.355391
+        },
+        "roof": {
+          "latitude": 48.834227,
+          "longitude": 2.355391
+        }
+      },
+      "link": "/v3/places/50edae9de4b0ca0b237bcf68",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "Paris",
+        "locality": "Paris",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Magic Form Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "517a7b27e4b0fa32831550e8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6012,
+      "geocodes": {
+        "main": {
+          "latitude": 48.826386,
+          "longitude": 2.259923
+        },
+        "roof": {
+          "latitude": 48.826386,
+          "longitude": 2.259923
+        }
+      },
+      "link": "/v3/places/517a7b27e4b0fa32831550e8",
+      "location": {
+        "address": "65 rue Camille Desmoulins",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "65 rue Camille Desmoulins, 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "CMG Sports Club One Issy",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "574d37b8498e3974bb539bd6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3547,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.86827,
+          "longitude": 2.341129
+        },
+        "main": {
+          "latitude": 48.868313,
+          "longitude": 2.341048
+        },
+        "roof": {
+          "latitude": 48.868313,
+          "longitude": 2.341048
+        }
+      },
+      "link": "/v3/places/574d37b8498e3974bb539bd6",
+      "location": {
+        "address": "21 rue de la Banque",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "21 rue de la Banque, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Bourse-Op\u00e9ra",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "508d0131e4b0ed7337ed6ba0",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6248,
+      "geocodes": {
+        "main": {
+          "latitude": 48.892512,
+          "longitude": 2.339719
+        },
+        "roof": {
+          "latitude": 48.892512,
+          "longitude": 2.339719
+        }
+      },
+      "link": "/v3/places/508d0131e4b0ed7337ed6ba0",
+      "location": {
+        "address": "17 rue des Cloys",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "rue du Ruisseau",
+        "formatted_address": "17 rue des Cloys (rue du Ruisseau), 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Amazonia",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dbedc2e93a08f9274f58f6b",
+      "categories": [
+        {
+          "id": 18075,
+          "name": "Swimming Pool",
+          "short_name": "Pool",
+          "plural_name": "Swimming Pools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3333,
+      "geocodes": {
+        "main": {
+          "latitude": 48.807649,
+          "longitude": 2.353386
+        },
+        "roof": {
+          "latitude": 48.807649,
+          "longitude": 2.353386
+        }
+      },
+      "link": "/v3/places/4dbedc2e93a08f9274f58f6b",
+      "location": {
+        "address": "48 avenue Charles Gide",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "48 avenue Charles Gide, 94270 Le Kremlin Bic\u00eatre",
+        "locality": "Le Kremlin Bic\u00eatre",
+        "postcode": "94270",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Piscine intercommunale du Kremlin-Bic\u00eatre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b89471af964a520f22732e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3732,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.869691,
+          "longitude": 2.334765
+        },
+        "main": {
+          "latitude": 48.869644,
+          "longitude": 2.334885
+        },
+        "roof": {
+          "latitude": 48.869644,
+          "longitude": 2.334885
+        }
+      },
+      "link": "/v3/places/4b89471af964a520f22732e3",
+      "location": {
+        "address": "8 rue de la Michodi\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "8 rue de la Michodi\u00e8re, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Usine Op\u00e9ra",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4fe8871ee4b0117429bb2eb9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4726,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871181,
+          "longitude": 2.304321
+        },
+        "roof": {
+          "latitude": 48.871181,
+          "longitude": 2.304321
+        }
+      },
+      "link": "/v3/places/4fe8871ee4b0117429bb2eb9",
+      "location": {
+        "address": "76 avenue des Champs Elys\u00e9es",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "76 avenue des Champs Elys\u00e9es, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Health City",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c85d0b0d92ea0936e4a6972",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10835,
+      "geocodes": {
+        "main": {
+          "latitude": 48.847886,
+          "longitude": 2.488506
+        },
+        "roof": {
+          "latitude": 48.847886,
+          "longitude": 2.488506
+        }
+      },
+      "link": "/v3/places/4c85d0b0d92ea0936e4a6972",
+      "location": {
+        "address": "83 avenue de Neuilly",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "83 avenue de Neuilly, 94120 Fontenay-sous-Bois",
+        "locality": "Fontenay-sous-Bois",
+        "postcode": "94120",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Fontenay-Sous-Bois",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "56a7c54b498e2517c6b9760b",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3546,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.85829,
+          "longitude": 2.375742
+        },
+        "main": {
+          "latitude": 48.858377,
+          "longitude": 2.375712
+        },
+        "roof": {
+          "latitude": 48.858377,
+          "longitude": 2.375712
+        }
+      },
+      "link": "/v3/places/56a7c54b498e2517c6b9760b",
+      "location": {
+        "address": "37 rue Br\u00e9guet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "37 rue Br\u00e9guet, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "CrossFit Original Addicts",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "501fa463e4b0373b1537479f",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4465,
+      "geocodes": {
+        "main": {
+          "latitude": 48.818982,
+          "longitude": 2.396262
+        },
+        "roof": {
+          "latitude": 48.818982,
+          "longitude": 2.396262
+        }
+      },
+      "link": "/v3/places/501fa463e4b0373b1537479f",
+      "location": {
+        "address": "30 boulevard Paul Vaillant Couturier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Centre Commercial Quais d'Ivry",
+        "formatted_address": "30 boulevard Paul Vaillant Couturier (Centre Commercial Quais d'Ivry), 94200 Ivry-sur-Seine",
+        "locality": "Ivry-sur-Seine",
+        "postcode": "94200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Ccial Quais D\u2019Ivry",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4cad7e790c1e6dcbe5f575bf",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Quais d'Ivry"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "54f5f8f2498e26e313817a8c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4902,
+      "geocodes": {
+        "main": {
+          "latitude": 48.879744,
+          "longitude": 2.329908
+        },
+        "roof": {
+          "latitude": 48.879744,
+          "longitude": 2.329908
+        }
+      },
+      "link": "/v3/places/54f5f8f2498e26e313817a8c",
+      "location": {
+        "address": "44 rue de Clichy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "44 rue de Clichy, 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Paris Saint-Lazare",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e8c81f1722e0db23027ba13",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9827,
+      "geocodes": {
+        "main": {
+          "latitude": 48.905997,
+          "longitude": 2.258508
+        },
+        "roof": {
+          "latitude": 48.905997,
+          "longitude": 2.258508
+        }
+      },
+      "link": "/v3/places/4e8c81f1722e0db23027ba13",
+      "location": {
+        "address": "47 avenue de l'Europe",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "47 avenue de l'Europe, 92400 Courbevoie",
+        "locality": "Courbevoie",
+        "postcode": "92400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Blocbuster",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "577102c5498e0917b1f655c8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5165,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.849003,
+          "longitude": 2.408626
+        },
+        "main": {
+          "latitude": 48.849399,
+          "longitude": 2.408617
+        },
+        "roof": {
+          "latitude": 48.849399,
+          "longitude": 2.408617
+        }
+      },
+      "link": "/v3/places/577102c5498e0917b1f655c8",
+      "location": {
+        "address": "81 rue de Lagny",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "81 rue de Lagny, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoness Nation",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c472c5519fde21e5d7c0776",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 8345,
+      "geocodes": {
+        "main": {
+          "latitude": 48.907702,
+          "longitude": 2.374682
+        },
+        "roof": {
+          "latitude": 48.907702,
+          "longitude": 2.374682
+        }
+      },
+      "link": "/v3/places/4c472c5519fde21e5d7c0776",
+      "location": {
+        "address": "111 avenue Victor Hugo",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "111 avenue Victor Hugo, 93300 Aubervilliers",
+        "locality": "Aubervilliers",
+        "postcode": "93300",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Forest Hill Auber",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

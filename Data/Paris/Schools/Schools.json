@@ -1,0 +1,2384 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b41d61ef964a52055c925e3",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1430,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.84631,
+          "longitude": 2.328442
+        },
+        "main": {
+          "latitude": 48.846326,
+          "longitude": 2.328496
+        }
+      },
+      "link": "/v3/places/4b41d61ef964a52055c925e3",
+      "location": {
+        "address": "101 boulevard Raspail Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "101 boulevard Raspail Paris, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Alliance Fran\u00e7aise",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "57d6b740498e4ecc06d466e3",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 516,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.83439,
+          "longitude": 2.334468
+        },
+        "main": {
+          "latitude": 48.834194,
+          "longitude": 2.334477
+        },
+        "roof": {
+          "latitude": 48.834194,
+          "longitude": 2.334477
+        }
+      },
+      "link": "/v3/places/57d6b740498e4ecc06d466e3",
+      "location": {
+        "address": "95 boulevard Arago",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "95 boulevard Arago, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Coll\u00e8ge S\u00e9vign\u00e9",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b6b03fdf964a520c5ec2be3",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 717,
+      "geocodes": {
+        "main": {
+          "latitude": 48.841088,
+          "longitude": 2.333751
+        },
+        "roof": {
+          "latitude": 48.841088,
+          "longitude": 2.333751
+        }
+      },
+      "link": "/v3/places/4b6b03fdf964a520c5ec2be3",
+      "location": {
+        "address": "109 rue Notre Dame des Champs",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "109 rue Notre Dame des Champs, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Alsacienne",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "669633acb41b4561039fcba4",
+            "categories": [
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Atelier th\u00e9\u00e2tre de l'Ecole alsacienne"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5ef1decdf506b90008b21d18",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1192,
+      "geocodes": {
+        "main": {
+          "latitude": 48.841621,
+          "longitude": 2.326764
+        },
+        "roof": {
+          "latitude": 48.841621,
+          "longitude": 2.326764
+        }
+      },
+      "link": "/v3/places/5ef1decdf506b90008b21d18",
+      "location": {
+        "address": "24 rue Delambre",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "24 rue Delambre, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "\u00c9cole \u00e9l\u00e9mentaire Delambre",
+      "related_places": {
+        "parent": {
+          "fsq_id": "614046468a56b437b91adb0a",
+          "categories": [
+            {
+              "id": 12009,
+              "name": "Education",
+              "short_name": "Education",
+              "plural_name": "Education",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Groupe Scolaire Delambre"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "614046468a56b437b91adb0a",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1196,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.841501,
+          "longitude": 2.326632
+        },
+        "main": {
+          "latitude": 48.841887,
+          "longitude": 2.326581
+        },
+        "roof": {
+          "latitude": 48.841887,
+          "longitude": 2.326581
+        }
+      },
+      "link": "/v3/places/614046468a56b437b91adb0a",
+      "location": {
+        "address": "24 rue Delambre",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "24 rue Delambre, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Groupe Scolaire Delambre",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5ef1decdf506b90008b21d18",
+            "categories": [
+              {
+                "id": 12058,
+                "name": "Elementary School",
+                "short_name": "Elementary School",
+                "plural_name": "Elementary Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u00c9cole \u00e9l\u00e9mentaire Delambre"
+          },
+          {
+            "fsq_id": "4d43d1bcbefe236ad950eee2",
+            "categories": [
+              {
+                "id": 12009,
+                "name": "Education",
+                "short_name": "Education",
+                "plural_name": "Education",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ecole Maternelle Delambre"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bf8e7564a67c928e62726cf",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1362,
+      "geocodes": {
+        "main": {
+          "latitude": 48.845414,
+          "longitude": 2.327513
+        },
+        "roof": {
+          "latitude": 48.845414,
+          "longitude": 2.327513
+        }
+      },
+      "link": "/v3/places/4bf8e7564a67c928e62726cf",
+      "location": {
+        "address": "22 rue Notre Dame des Champs",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "22 rue Notre Dame des Champs, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Coll\u00e8ge Stanislas",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "61533aefcf335a74a0cee6f4",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1380,
+      "geocodes": {
+        "main": {
+          "latitude": 48.829126,
+          "longitude": 2.354621
+        },
+        "roof": {
+          "latitude": 48.829126,
+          "longitude": 2.354621
+        }
+      },
+      "link": "/v3/places/61533aefcf335a74a0cee6f4",
+      "location": {
+        "address": "6 rue Vandrezanne",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "6 rue Vandrezanne, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Neoma Business School",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ca1aa1146978cfabae2bd7f",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1466,
+      "geocodes": {
+        "main": {
+          "latitude": 48.838093,
+          "longitude": 2.360657
+        }
+      },
+      "link": "/v3/places/4ca1aa1146978cfabae2bd7f",
+      "location": {
+        "address": "91 boulevard de l'H\u00f4pital",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "H\u00f4pital de la Piti\u00e9-Salp\u00eatri\u00e8re",
+        "formatted_address": "91 boulevard de l'H\u00f4pital (H\u00f4pital de la Piti\u00e9-Salp\u00eatri\u00e8re), 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Facult\u00e9 de M\u00e9decine de la Piti\u00e9-Salp\u00eatri\u00e8re",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b695e65f964a52028a02be3",
+          "categories": [
+            {
+              "id": 15014,
+              "name": "Hospital",
+              "short_name": "Hospital",
+              "plural_name": "Hospitals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "H\u00f4pital Piti\u00e9 Salp\u00eatri\u00e8re"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5e184b2529e961000851b07a",
+      "categories": [
+        {
+          "id": 11005,
+          "name": "Art Studio",
+          "short_name": "Art Studio",
+          "plural_name": "Art Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1683,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849501,
+          "longitude": 2.330162
+        },
+        "roof": {
+          "latitude": 48.849501,
+          "longitude": 2.330162
+        }
+      },
+      "link": "/v3/places/5e184b2529e961000851b07a",
+      "location": {
+        "address": "74 rue de Vaugirard",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "74 rue de Vaugirard, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "ILCF Paris- Institut de Langue et de Culture Fran\u00e7aises",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4f55cbade4b05b4bc3a9c9df",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Institut Catholique de Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c9cb02d7c096dcb0cacc3d1",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1861,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.851932,
+          "longitude": 2.331951
+        },
+        "main": {
+          "latitude": 48.851923,
+          "longitude": 2.332059
+        },
+        "roof": {
+          "latitude": 48.851923,
+          "longitude": 2.332059
+        }
+      },
+      "link": "/v3/places/4c9cb02d7c096dcb0cacc3d1",
+      "location": {
+        "address": "5 rue Madame",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "5 rue Madame, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Maximilien Vox",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dccd10d7d8b975f18a6fad7",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2006,
+      "geocodes": {
+        "main": {
+          "latitude": 48.82571,
+          "longitude": 2.363124
+        },
+        "roof": {
+          "latitude": 48.82571,
+          "longitude": 2.363124
+        }
+      },
+      "link": "/v3/places/4dccd10d7d8b975f18a6fad7",
+      "location": {
+        "address": "55 rue Baudricourt",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "55 rue Baudricourt, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Primaire Baudricourt",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4be7e3afc5220f477a08a9ca",
+      "categories": [
+        {
+          "id": 12016,
+          "name": "College Arts Building",
+          "short_name": "Arts",
+          "plural_name": "College Arts Buildings",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2160,
+      "geocodes": {
+        "main": {
+          "latitude": 48.84973,
+          "longitude": 2.31972
+        },
+        "roof": {
+          "latitude": 48.84973,
+          "longitude": 2.31972
+        }
+      },
+      "link": "/v3/places/4be7e3afc5220f477a08a9ca",
+      "location": {
+        "address": "2 rue de l'Olivet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "2 rue de l'Olivet, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Albert de Mun Lyc\u00e9e Polyvalent Priv\u00e9",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4da45cfe2538d7ced204455c",
+      "categories": [
+        {
+          "id": 12050,
+          "name": "Culinary School",
+          "short_name": "Culinary School",
+          "plural_name": "Culinary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2277,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854887,
+          "longitude": 2.35407
+        },
+        "roof": {
+          "latitude": 48.854887,
+          "longitude": 2.35407
+        }
+      },
+      "link": "/v3/places/4da45cfe2538d7ced204455c",
+      "location": {
+        "address": "80 quai de l'H\u00f4tel de Ville, 4e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "80 quai de l'H\u00f4tel de Ville, 4e, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Cuisine Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e05d97952b165b7d7a3e54f",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2753,
+      "geocodes": {
+        "main": {
+          "latitude": 48.831197,
+          "longitude": 2.303855
+        },
+        "roof": {
+          "latitude": 48.831197,
+          "longitude": 2.303855
+        }
+      },
+      "link": "/v3/places/4e05d97952b165b7d7a3e54f",
+      "location": {
+        "address": "15 rue de Cherbourg",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "15 rue de Cherbourg, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Primaire Cherbourg",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d99d751e07ea35d5ba31103",
+      "categories": [
+        {
+          "id": 12055,
+          "name": "Nursery School",
+          "short_name": "Nursery School",
+          "plural_name": "Nursery Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3159,
+      "geocodes": {
+        "main": {
+          "latitude": 48.844599,
+          "longitude": 2.299581
+        },
+        "roof": {
+          "latitude": 48.844599,
+          "longitude": 2.299581
+        }
+      },
+      "link": "/v3/places/4d99d751e07ea35d5ba31103",
+      "location": {
+        "address": "33 rue de l'Amiral Roussin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "33 rue de l'Amiral Roussin, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Maternelle de l'Amiral Roussin",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ba87900f964a5205ddc39e3",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3280,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.864918,
+          "longitude": 2.33392
+        },
+        "main": {
+          "latitude": 48.86491,
+          "longitude": 2.333736
+        },
+        "roof": {
+          "latitude": 48.86491,
+          "longitude": 2.333736
+        }
+      },
+      "link": "/v3/places/4ba87900f964a5205ddc39e3",
+      "location": {
+        "address": "11 rue d'Argenteuil",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "11 rue d'Argenteuil, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Elementaire Mairie de Paris 1er Arrondissement",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c93d14682b56dcb2b42c9aa",
+      "categories": [
+        {
+          "id": 12016,
+          "name": "College Arts Building",
+          "short_name": "Arts",
+          "plural_name": "College Arts Buildings",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3557,
+      "geocodes": {
+        "main": {
+          "latitude": 48.865075,
+          "longitude": 2.362056
+        },
+        "roof": {
+          "latitude": 48.865075,
+          "longitude": 2.362056
+        }
+      },
+      "link": "/v3/places/4c93d14682b56dcb2b42c9aa",
+      "location": {
+        "address": "11 rue Dupetit Thouars",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "11 rue Dupetit Thouars, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Esaa Duperre",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c7ee49ea7958cfa5e398f2b",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3568,
+      "geocodes": {
+        "main": {
+          "latitude": 48.858535,
+          "longitude": 2.305696
+        },
+        "roof": {
+          "latitude": 48.858535,
+          "longitude": 2.305696
+        }
+      },
+      "link": "/v3/places/4c7ee49ea7958cfa5e398f2b",
+      "location": {
+        "address": "11 rue Cler",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "11 rue Cler, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Rochefoucauld Ecole Primaire Priv\u00e9e",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f942203e4b00fe65f98d6c6",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3740,
+      "geocodes": {
+        "main": {
+          "latitude": 48.845348,
+          "longitude": 2.29126
+        },
+        "roof": {
+          "latitude": 48.845348,
+          "longitude": 2.29126
+        }
+      },
+      "link": "/v3/places/4f942203e4b00fe65f98d6c6",
+      "location": {
+        "address": "4 place du Commerce",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 place du Commerce, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Coll\u00e8ge Claude Debussy",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "54082a4f498e9ecfafdb17c1",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4167,
+      "geocodes": {
+        "main": {
+          "latitude": 48.851004,
+          "longitude": 2.288231
+        }
+      },
+      "link": "/v3/places/54082a4f498e9ecfafdb17c1",
+      "location": {
+        "address": "10 rue Michel Sextius",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "10 rue Michel Sextius, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "EBS Campus Eiffel",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ca6654aa643b7136e34e7a6",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4712,
+      "geocodes": {
+        "main": {
+          "latitude": 48.872288,
+          "longitude": 2.307401
+        },
+        "roof": {
+          "latitude": 48.872288,
+          "longitude": 2.307401
+        }
+      },
+      "link": "/v3/places/4ca6654aa643b7136e34e7a6",
+      "location": {
+        "address": "10 rue Paul Baudry",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue d'Artois",
+        "formatted_address": "10 rue Paul Baudry (Rue d'Artois), 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole El\u00e9mentaire Mairie de Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c971ab503413704f0de89ef",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4972,
+      "geocodes": {
+        "main": {
+          "latitude": 48.876244,
+          "longitude": 2.370124
+        },
+        "roof": {
+          "latitude": 48.876244,
+          "longitude": 2.370124
+        }
+      },
+      "link": "/v3/places/4c971ab503413704f0de89ef",
+      "location": {
+        "address": "27 avenue Claude Vellefaux",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "27 avenue Claude Vellefaux, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Inseec",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5a1bc32531fd140f9e1685a8",
+      "categories": [
+        {
+          "id": 12009,
+          "name": "Education",
+          "short_name": "Education",
+          "plural_name": "Education",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5033,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.859742,
+          "longitude": 2.281998
+        },
+        "main": {
+          "latitude": 48.859857,
+          "longitude": 2.282059
+        },
+        "roof": {
+          "latitude": 48.859857,
+          "longitude": 2.282059
+        }
+      },
+      "link": "/v3/places/5a1bc32531fd140f9e1685a8",
+      "location": {
+        "address": "46 rue de la Tour",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "46 rue de la Tour, 75116 Paris",
+        "locality": "Paris",
+        "postcode": "75116",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Efap",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ba64844f964a520384239e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5082,
+      "geocodes": {
+        "main": {
+          "latitude": 48.881491,
+          "longitude": 2.343447
+        },
+        "roof": {
+          "latitude": 48.881491,
+          "longitude": 2.343447
+        }
+      },
+      "link": "/v3/places/4ba64844f964a520384239e3",
+      "location": {
+        "address": "12 avenue Trudaine",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "12 avenue Trudaine, 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Jacques Decour",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d83136d99b78cfa93b6981f",
+            "categories": [
+              {
+                "id": 12101,
+                "name": "Church",
+                "short_name": "Church",
+                "plural_name": "Churches",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chapelle du Lyc\u00e9e Jacques Decour"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b694c3cf964a520179e2be3",
+      "categories": [
+        {
+          "id": 12063,
+          "name": "Trade School",
+          "short_name": "Trade School",
+          "plural_name": "Trade Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/tradeschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6177,
+      "geocodes": {
+        "main": {
+          "latitude": 48.844497,
+          "longitude": 2.257366
+        },
+        "roof": {
+          "latitude": 48.844497,
+          "longitude": 2.257366
+        }
+      },
+      "link": "/v3/places/4b694c3cf964a520179e2be3",
+      "location": {
+        "address": "37 boulevard Murat",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "37 boulevard Murat, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "European Business School",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b9ca7cff964a520cb7436e3",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6218,
+      "geocodes": {
+        "main": {
+          "latitude": 48.845121,
+          "longitude": 2.256624
+        },
+        "roof": {
+          "latitude": 48.845121,
+          "longitude": 2.256624
+        }
+      },
+      "link": "/v3/places/4b9ca7cff964a520cb7436e3",
+      "location": {
+        "address": "1 place de la Porte Molitor",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 place de la Porte Molitor, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Jean de la Fontaine",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c7f501c2042b1f7709fc2ad",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6421,
+      "geocodes": {
+        "main": {
+          "latitude": 48.821429,
+          "longitude": 2.256154
+        },
+        "roof": {
+          "latitude": 48.821429,
+          "longitude": 2.256154
+        }
+      },
+      "link": "/v3/places/4c7f501c2042b1f7709fc2ad",
+      "location": {
+        "address": "27 rue Aristide Briand",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "27 rue Aristide Briand, 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "\u00c9cole \u00c9l\u00e9mentaire Publique Paul Bert",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ca5ef0b14c337043f74ba3b",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7012,
+      "geocodes": {
+        "main": {
+          "latitude": 48.885129,
+          "longitude": 2.281437
+        },
+        "roof": {
+          "latitude": 48.885129,
+          "longitude": 2.281437
+        }
+      },
+      "link": "/v3/places/4ca5ef0b14c337043f74ba3b",
+      "location": {
+        "address": "24 boulevard Victor Hugo",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "24 boulevard Victor Hugo, 92200 Neuilly-sur-Seine",
+        "locality": "Neuilly-sur-Seine",
+        "postcode": "92200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Sainte-Marie de Neuilly",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c03a2179a7920a1b71cd079",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7362,
+      "geocodes": {
+        "main": {
+          "latitude": 48.886162,
+          "longitude": 2.273366
+        },
+        "roof": {
+          "latitude": 48.886162,
+          "longitude": 2.273366
+        }
+      },
+      "link": "/v3/places/4c03a2179a7920a1b71cd079",
+      "location": {
+        "address": "21 boulevard d'Inkermann",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "21 boulevard d'Inkermann, 92200 Neuilly-sur-Seine",
+        "locality": "Neuilly-sur-Seine",
+        "postcode": "92200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Pasteur",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc6cb09db8fa5930dda9c37",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8203,
+      "geocodes": {
+        "main": {
+          "latitude": 48.786678,
+          "longitude": 2.42512
+        },
+        "roof": {
+          "latitude": 48.786678,
+          "longitude": 2.42512
+        }
+      },
+      "link": "/v3/places/4bc6cb09db8fa5930dda9c37",
+      "location": {
+        "address": "26 rue des Goujons",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Place San Benedetto del Tronto",
+        "formatted_address": "26 rue des Goujons (Place San Benedetto del Tronto), 94140 Alfortville",
+        "locality": "Alfortville",
+        "postcode": "94140",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Greta Val-de-Marne Centre Maximilien Perret",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e2482de45dd950bb043b238",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8625,
+      "geocodes": {
+        "main": {
+          "latitude": 48.818255,
+          "longitude": 2.22577
+        },
+        "roof": {
+          "latitude": 48.818255,
+          "longitude": 2.22577
+        }
+      },
+      "link": "/v3/places/4e2482de45dd950bb043b238",
+      "location": {
+        "address": "21 rue Ernest Renan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "92190",
+        "formatted_address": "21 rue Ernest Renan (92190), 92190 Meudon",
+        "locality": "Meudon",
+        "postcode": "92190",
+        "region": "\u00cele-de-France"
+      },
+      "name": "\u00c9cole \u00c9l\u00e9mentaire Publique Maritain-Renan",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "57c920ed498e30e7b08bed08",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8778,
+      "geocodes": {
+        "main": {
+          "latitude": 48.914954,
+          "longitude": 2.331381
+        },
+        "roof": {
+          "latitude": 48.914954,
+          "longitude": 2.331381
+        }
+      },
+      "link": "/v3/places/57c920ed498e30e7b08bed08",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "93400 Saint Ouen",
+        "locality": "Saint-Ouen",
+        "postcode": "93400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Primaire PEF",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "542beca8498e5766b0cc7b88",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8874,
+      "geocodes": {
+        "main": {
+          "latitude": 48.795379,
+          "longitude": 2.444998
+        },
+        "roof": {
+          "latitude": 48.795379,
+          "longitude": 2.444998
+        }
+      },
+      "link": "/v3/places/542beca8498e5766b0cc7b88",
+      "location": {
+        "address": "54 rue Saint Simon",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "54 rue Saint Simon, 94000 Cr\u00e9teil",
+        "locality": "Cr\u00e9teil",
+        "postcode": "94000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "C.E.S Cl\u00e9ment Guyard",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c8a09bd9ef0224bda12577b",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9120,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.793947,
+          "longitude": 2.447683
+        },
+        "main": {
+          "latitude": 48.794071,
+          "longitude": 2.447725
+        }
+      },
+      "link": "/v3/places/4c8a09bd9ef0224bda12577b",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "",
+        "region": "Val-de-Marne"
+      },
+      "name": "Facult\u00e9 de Droit UPEC",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d8753daf1e56ea8d8b9ad8a",
+      "categories": [
+        {
+          "id": 12060,
+          "name": "Middle School",
+          "short_name": "Middle School",
+          "plural_name": "Middle Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9428,
+      "geocodes": {
+        "main": {
+          "latitude": 48.822479,
+          "longitude": 2.213268
+        },
+        "roof": {
+          "latitude": 48.822479,
+          "longitude": 2.213268
+        }
+      },
+      "link": "/v3/places/4d8753daf1e56ea8d8b9ad8a",
+      "location": {
+        "address": "1 parvis Charles de Gaulle",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 parvis Charles de Gaulle, 92310 S\u00e8vres",
+        "locality": "S\u00e8vres",
+        "postcode": "92310",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Coll\u00e8ge de S\u00e8vres",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d9df6ef7509b1f70c8d4da0",
+            "categories": [
+              {
+                "id": 12053,
+                "name": "Language School",
+                "short_name": "Language School",
+                "plural_name": "Language Schools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sis"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d9df6ef7509b1f70c8d4da0",
+      "categories": [
+        {
+          "id": 12053,
+          "name": "Language School",
+          "short_name": "Language School",
+          "plural_name": "Language Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9443,
+      "geocodes": {
+        "main": {
+          "latitude": 48.823673,
+          "longitude": 2.213129
+        },
+        "roof": {
+          "latitude": 48.823673,
+          "longitude": 2.213129
+        }
+      },
+      "link": "/v3/places/4d9df6ef7509b1f70c8d4da0",
+      "location": {
+        "address": "1 Parvis Charles de Gaullep",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 Parvis Charles de Gaullep, 92310 S\u00e8vres",
+        "locality": "S\u00e8vres",
+        "postcode": "92310",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Sis",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4d8753daf1e56ea8d8b9ad8a",
+          "categories": [
+            {
+              "id": 12060,
+              "name": "Middle School",
+              "short_name": "Middle School",
+              "plural_name": "Middle Schools",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Coll\u00e8ge de S\u00e8vres"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b6c9ce7f964a52093462ce3",
+      "categories": [
+        {
+          "id": 10037,
+          "name": "Concert Hall",
+          "short_name": "Concert Hall",
+          "plural_name": "Concert Halls",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "short_name": "Music Venue",
+          "plural_name": "Music Venues",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9697,
+      "geocodes": {
+        "main": {
+          "latitude": 48.78993,
+          "longitude": 2.453197
+        },
+        "roof": {
+          "latitude": 48.78993,
+          "longitude": 2.453197
+        }
+      },
+      "link": "/v3/places/4b6c9ce7f964a52093462ce3",
+      "location": {
+        "address": "2-4 rue Maurice D\u00e9m\u00e9nitroux",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "2-4 rue Maurice D\u00e9m\u00e9nitroux, 94000 Cr\u00e9teil",
+        "locality": "Cr\u00e9teil",
+        "postcode": "94000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole Nationale de Musique Marcel Dadi",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d6d28a8e7ab224b15c779f7",
+      "categories": [
+        {
+          "id": 12058,
+          "name": "Elementary School",
+          "short_name": "Elementary School",
+          "plural_name": "Elementary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10021,
+      "geocodes": {
+        "main": {
+          "latitude": 48.821924,
+          "longitude": 2.476669
+        },
+        "roof": {
+          "latitude": 48.821924,
+          "longitude": 2.476669
+        }
+      },
+      "link": "/v3/places/4d6d28a8e7ab224b15c779f7",
+      "location": {
+        "address": "56 avenue Oudinot",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "56 avenue Oudinot, 94340 Joinville le Pont",
+        "locality": "Joinville le Pont",
+        "postcode": "94340",
+        "region": "Val-de-Marne"
+      },
+      "name": "Ecole Primaire de Polangis",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c016470b0702d7fba2c6378",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10065,
+      "geocodes": {
+        "main": {
+          "latitude": 48.842967,
+          "longitude": 2.203523
+        },
+        "roof": {
+          "latitude": 48.842967,
+          "longitude": 2.203523
+        }
+      },
+      "link": "/v3/places/4c016470b0702d7fba2c6378",
+      "location": {
+        "address": "18 rue Pasteur",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "rue Lel\u00e9gard",
+        "formatted_address": "18 rue Pasteur (rue Lel\u00e9gard), 92210 Saint-Cloud",
+        "locality": "Saint-Cloud",
+        "postcode": "92210",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Internationale Deutsche Schule Paris (Ecole allemande internationale de Paris)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4c30c551213c2d7f24f3325d",
+            "categories": [
+              {
+                "id": 13015,
+                "name": "Karaoke Bar",
+                "short_name": "Karaoke",
+                "plural_name": "Karaoke Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/karaoke_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Karaoke Allemand"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "51418f10e4b0bce678f359fb",
+      "categories": [
+        {
+          "id": 12051,
+          "name": "Driving School",
+          "short_name": "Driving School",
+          "plural_name": "Driving Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10611,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.914595,
+          "longitude": 2.258085
+        },
+        "main": {
+          "latitude": 48.914538,
+          "longitude": 2.258082
+        },
+        "roof": {
+          "latitude": 48.914538,
+          "longitude": 2.258082
+        }
+      },
+      "link": "/v3/places/51418f10e4b0bce678f359fb",
+      "location": {
+        "address": "70 rue F\u00e9lix Faure",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "70 rue F\u00e9lix Faure, 92700 Colombes",
+        "locality": "Colombes",
+        "postcode": "92700",
+        "region": "Hauts-de-Seine"
+      },
+      "name": "Auto Ecole CAC",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f4892bde4b072f5aaa3680e",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11746,
+      "geocodes": {
+        "main": {
+          "latitude": 48.816999,
+          "longitude": 2.500905
+        },
+        "roof": {
+          "latitude": 48.816999,
+          "longitude": 2.500905
+        }
+      },
+      "link": "/v3/places/4f4892bde4b072f5aaa3680e",
+      "location": {
+        "address": "149 avenue Roger Salengro",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "149 avenue Roger Salengro, 94500 Champigny-sur-Marne",
+        "locality": "Champigny-sur-Marne",
+        "postcode": "94500",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Lyc\u00e9e Langevin Wallon",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4eabd2d1c2ee9d26200c4a2c",
+      "categories": [
+        {
+          "id": 12044,
+          "name": "Law School",
+          "short_name": "Law School",
+          "plural_name": "Law Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lawschool_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11800,
+      "geocodes": {
+        "main": {
+          "latitude": 48.902335,
+          "longitude": 2.214598
+        }
+      },
+      "link": "/v3/places/4eabd2d1c2ee9d26200c4a2c",
+      "location": {
+        "address": "Universit\u00e9 Paris Ouest Nanterre la D\u00e9fense",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "200 avenue de la R\u00e9publique",
+        "formatted_address": "Universit\u00e9 Paris Ouest Nanterre la D\u00e9fense (200 avenue de la R\u00e9publique), 92000 Nanterre",
+        "locality": "Nanterre",
+        "postcode": "92000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Facult\u00e9 de Droit Paris X",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4afdc890f964a520d42a22e3",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15404,
+      "geocodes": {
+        "main": {
+          "latitude": 48.757808,
+          "longitude": 2.169481
+        },
+        "roof": {
+          "latitude": 48.757808,
+          "longitude": 2.169481
+        }
+      },
+      "link": "/v3/places/4afdc890f964a520d42a22e3",
+      "location": {
+        "address": "1 rue de la Lib\u00e9ration",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 rue de la Lib\u00e9ration, 78350 Jouy en Josas",
+        "locality": "Jouy-en-Josas",
+        "postcode": "78350",
+        "region": "\u00cele-de-France"
+      },
+      "name": "HEC Paris",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bdf3b48ffdec9281530eba1",
+            "categories": [
+              {
+                "id": 11124,
+                "name": "Office",
+                "short_name": "Office",
+                "plural_name": "Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "B\u00e2timent l"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ca9a16314c337046e9fdf3b",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15538,
+      "geocodes": {
+        "main": {
+          "latitude": 48.971869,
+          "longitude": 2.294318
+        },
+        "roof": {
+          "latitude": 48.971869,
+          "longitude": 2.294318
+        }
+      },
+      "link": "/v3/places/4ca9a16314c337046e9fdf3b",
+      "location": {
+        "address": "71 avenue de Ceinture",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "71 avenue de Ceinture, 95880 Enghien les Bains",
+        "locality": "Enghien-les-Bains",
+        "postcode": "95880",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Station Monod",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ecdffc99a52262b8004e797",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18387,
+      "geocodes": {
+        "main": {
+          "latitude": 48.836567,
+          "longitude": 2.592102
+        },
+        "roof": {
+          "latitude": 48.836567,
+          "longitude": 2.592102
+        }
+      },
+      "link": "/v3/places/4ecdffc99a52262b8004e797",
+      "location": {
+        "address": "12 rue Galil\u00e9e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "12 rue Galil\u00e9e, 77420 Champs sur Marne",
+        "locality": "Champs-sur-Marne",
+        "postcode": "77420",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Clinique d'ost\u00e9opathie de l'ESO",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc4db2b4cdfc9b6e2439921",
+      "categories": [
+        {
+          "id": 12059,
+          "name": "High School",
+          "short_name": "High School",
+          "plural_name": "High Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 18862,
+      "geocodes": {
+        "main": {
+          "latitude": 48.896048,
+          "longitude": 2.099645
+        },
+        "roof": {
+          "latitude": 48.896048,
+          "longitude": 2.099645
+        }
+      },
+      "link": "/v3/places/4bc4db2b4cdfc9b6e2439921",
+      "location": {
+        "address": "5 rue Salomon Reinach",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "5 rue Salomon Reinach, 78100 Saint-Germain-en-Laye",
+        "locality": "Saint-Germain-en-Laye",
+        "postcode": "78100",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ecole St Erembert",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4be4964c910020a109efd114",
+      "categories": [
+        {
+          "id": 12057,
+          "name": "Primary and Secondary School",
+          "short_name": "Primary and Secondary School",
+          "plural_name": "Primary and Secondary Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19310,
+      "geocodes": {
+        "main": {
+          "latitude": 48.695828,
+          "longitude": 2.490818
+        },
+        "roof": {
+          "latitude": 48.695828,
+          "longitude": 2.490818
+        }
+      },
+      "link": "/v3/places/4be4964c910020a109efd114",
+      "location": {
+        "address": "70 rue de Montgeron",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "70 rue de Montgeron, 91800 Brunoy",
+        "locality": "Brunoy",
+        "postcode": "91800",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Saint-Pierre Institut",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5f1c419c7f88c415c2a44d23",
+      "categories": [
+        {
+          "id": 12052,
+          "name": "Flight School",
+          "short_name": "Flight School",
+          "plural_name": "Flight Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19724,
+      "geocodes": {
+        "main": {
+          "latitude": 48.747712,
+          "longitude": 2.10094
+        }
+      },
+      "link": "/v3/places/5f1c419c7f88c415c2a44d23",
+      "location": {
+        "address": "A\u00e9roport de Toussus le Noble Batiment 313",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "A\u00e9roport de Toussus le Noble Batiment 313, 78117 Toussus le Noble",
+        "locality": "Toussus-le-Noble",
+        "postcode": "78117",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Astonfly",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4c4737b219fde21e429e0776",
+          "categories": [
+            {
+              "id": 19031,
+              "name": "Airport",
+              "short_name": "Airport",
+              "plural_name": "Airports",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/airport_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "A\u00e9rodrome de Toussus-le-Noble"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bf0dea66f8aa5936759c23c",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4898,
+      "geocodes": {
+        "main": {
+          "latitude": 48.842728,
+          "longitude": 2.405341
+        },
+        "roof": {
+          "latitude": 48.842728,
+          "longitude": 2.405341
+        }
+      },
+      "link": "/v3/places/4bf0dea66f8aa5936759c23c",
+      "location": {
+        "address": "26 avenue du Docteur-Arnold-Netter",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "26 avenue du Docteur-Arnold-Netter, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "H\u00f4pital Armand Trousseau",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "593a624c8e886a46031ad7c6",
+            "categories": [
+              {
+                "id": 15015,
+                "name": "Maternity Clinic",
+                "short_name": "Maternity Clinic",
+                "plural_name": "Maternity Clinics",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Maternit\u00e9 Armand Trousseau"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b5d6f12f964a520e65c29e3",
+      "categories": [
+        {
+          "id": 12080,
+          "name": "Library",
+          "short_name": "Library",
+          "plural_name": "Libraries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1243,
+      "geocodes": {
+        "main": {
+          "latitude": 48.846931,
+          "longitude": 2.346064
+        },
+        "roof": {
+          "latitude": 48.846931,
+          "longitude": 2.346064
+        }
+      },
+      "link": "/v3/places/4b5d6f12f964a520e65c29e3",
+      "location": {
+        "address": "10 place Panth\\u00e9on",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Valette",
+        "formatted_address": "10 place Panth\\u00e9on (Rue Valette), 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Biblioth\u00e8que Sainte-Genevi\u00e8ve",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5117b2c5e0e21ea2c95a222e",
+            "categories": [
+              {
+                "id": 12080,
+                "name": "Library",
+                "short_name": "Library",
+                "plural_name": "Libraries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Biblioth\u00e8que Nordique"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

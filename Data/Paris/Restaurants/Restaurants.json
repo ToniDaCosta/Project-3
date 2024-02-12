@@ -1,0 +1,2571 @@
+{
+  "results": [
+    {
+      "fsq_id": "5803e6d738fa97c7dd1a2e8c",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1342,
+      "geocodes": {
+        "main": {
+          "latitude": 48.827702,
+          "longitude": 2.327708
+        },
+        "roof": {
+          "latitude": 48.827702,
+          "longitude": 2.327708
+        }
+      },
+      "link": "/v3/places/5803e6d738fa97c7dd1a2e8c",
+      "location": {
+        "address": "81 rue d'Al\u00e9sia",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "81 rue d'Al\u00e9sia, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Fabrica",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50d5be47e4b0fb6ff8363c5f",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1550,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849894,
+          "longitude": 2.345194
+        },
+        "roof": {
+          "latitude": 48.849894,
+          "longitude": 2.345194
+        }
+      },
+      "link": "/v3/places/50d5be47e4b0fb6ff8363c5f",
+      "location": {
+        "address": "69-73 rue Saint-Jacques",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "69-73 rue Saint-Jacques, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Bistro du P\u00e9rigord",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5b394cae92e7a9002c724cf9",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1630,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849698,
+          "longitude": 2.34843
+        },
+        "roof": {
+          "latitude": 48.849698,
+          "longitude": 2.34843
+        }
+      },
+      "link": "/v3/places/5b394cae92e7a9002c724cf9",
+      "location": {
+        "address": "47 ter boulevard Saint-Germain",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "47 ter boulevard Saint-Germain, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Maison d'Isabelle",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d3898babb0d721ea09c55e3",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1707,
+      "geocodes": {
+        "main": {
+          "latitude": 48.848594,
+          "longitude": 2.354813
+        },
+        "roof": {
+          "latitude": 48.848594,
+          "longitude": 2.354813
+        }
+      },
+      "link": "/v3/places/4d3898babb0d721ea09c55e3",
+      "location": {
+        "address": "20 rue Foss\\u00e9s Saint Bernard",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "20 rue Foss\\u00e9s Saint Bernard, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Au Moulin \u00e0 Vent",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "59468bd1898bdc07ffc0d6ac",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1720,
+      "geocodes": {
+        "main": {
+          "latitude": 48.85165,
+          "longitude": 2.338775
+        },
+        "roof": {
+          "latitude": 48.85165,
+          "longitude": 2.338775
+        }
+      },
+      "link": "/v3/places/59468bd1898bdc07ffc0d6ac",
+      "location": {
+        "address": "1 rue de l'Od\u00e9on",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 rue de l'Od\u00e9on, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Breizh Caf\u00e9",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "583491ed6c682b6191d2a6ae",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1774,
+      "geocodes": {
+        "main": {
+          "latitude": 48.851787,
+          "longitude": 2.335417
+        },
+        "roof": {
+          "latitude": 48.851787,
+          "longitude": 2.335417
+        }
+      },
+      "link": "/v3/places/583491ed6c682b6191d2a6ae",
+      "location": {
+        "address": "15 rue Lobineau, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "March\u00e9 Saint-Germain",
+        "formatted_address": "15 rue Lobineau, 6e (March\u00e9 Saint-Germain), 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Avant Comptoir du March\u00e9",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4af5a497f964a520b9fa21e3",
+          "categories": [
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "March\u00e9 Saint-Germain"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4df27ab522718759f81c4fc7",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1981,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.852789,
+          "longitude": 2.330414
+        },
+        "main": {
+          "latitude": 48.852731,
+          "longitude": 2.330484
+        },
+        "roof": {
+          "latitude": 48.852731,
+          "longitude": 2.330484
+        }
+      },
+      "link": "/v3/places/4df27ab522718759f81c4fc7",
+      "location": {
+        "address": "27 rue du Dragon",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "27 rue du Dragon, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Aux Pr\u00e9s",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b2569f3f964a520877124e3",
+      "categories": [
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2003,
+      "geocodes": {
+        "main": {
+          "latitude": 48.848349,
+          "longitude": 2.320604
+        },
+        "roof": {
+          "latitude": 48.848349,
+          "longitude": 2.320604
+        }
+      },
+      "link": "/v3/places/4b2569f3f964a520877124e3",
+      "location": {
+        "address": "107 rue de S\u00e8vres",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "107 rue de S\u00e8vres, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Petit Lutetia",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5d6ae3b0ca1763000823441b",
+      "categories": [
+        {
+          "id": 13322,
+          "name": "Peruvian Restaurant",
+          "short_name": "Peruvian",
+          "plural_name": "Peruvian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/peruvian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2327,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854333,
+          "longitude": 2.324315
+        },
+        "roof": {
+          "latitude": 48.854333,
+          "longitude": 2.324315
+        }
+      },
+      "link": "/v3/places/5d6ae3b0ca1763000823441b",
+      "location": {
+        "address": "53 rue de Grenelle",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "53 rue de Grenelle, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Coya Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b1abffff964a520f6f023e3",
+      "categories": [
+        {
+          "id": 13294,
+          "name": "Korean BBQ Restaurant",
+          "short_name": "Korean BBQ",
+          "plural_name": "Korean BBQ Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/korean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2659,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.842667,
+          "longitude": 2.305781
+        },
+        "main": {
+          "latitude": 48.842726,
+          "longitude": 2.305759
+        },
+        "roof": {
+          "latitude": 48.842726,
+          "longitude": 2.305759
+        }
+      },
+      "link": "/v3/places/4b1abffff964a520f6f023e3",
+      "location": {
+        "address": "42 rue Blomet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "42 rue Blomet, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Bong",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "512534ece4b03a94f9a50313",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17068,
+          "name": "Gourmet Store",
+          "short_name": "Gourmet",
+          "plural_name": "Gourmet Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2817,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.859995,
+          "longitude": 2.354459
+        },
+        "main": {
+          "latitude": 48.860077,
+          "longitude": 2.354379
+        },
+        "roof": {
+          "latitude": 48.860077,
+          "longitude": 2.354379
+        }
+      },
+      "link": "/v3/places/512534ece4b03a94f9a50313",
+      "location": {
+        "address": "51 rue du Temple",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue des Blancs-Manteaux",
+        "formatted_address": "51 rue du Temple (Rue des Blancs-Manteaux), 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Comptoir Gourmet",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5bae5f6c3ba767002c68a477",
+      "categories": [
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3229,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.864905,
+          "longitude": 2.33295
+        },
+        "main": {
+          "latitude": 48.864724,
+          "longitude": 2.333194
+        },
+        "roof": {
+          "latitude": 48.864724,
+          "longitude": 2.333194
+        }
+      },
+      "link": "/v3/places/5bae5f6c3ba767002c68a477",
+      "location": {
+        "address": "10 rue des Pyramides",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "10 rue des Pyramides, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Caffe Dei Fratelli",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f0b706de5e8207020057ed7",
+      "categories": [
+        {
+          "id": 13281,
+          "name": "Udon Restaurant",
+          "short_name": "Udon",
+          "plural_name": "Udon Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3208,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864693,
+          "longitude": 2.333777
+        },
+        "roof": {
+          "latitude": 48.864693,
+          "longitude": 2.333777
+        }
+      },
+      "link": "/v3/places/4f0b706de5e8207020057ed7",
+      "location": {
+        "address": "9 rue d'Argenteuil, 1er",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "9 rue d'Argenteuil, 1er, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Sanukiya",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d974096a2c654814aa6d353",
+      "categories": [
+        {
+          "id": 17068,
+          "name": "Gourmet Store",
+          "short_name": "Gourmet",
+          "plural_name": "Gourmet Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17069,
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3399,
+      "geocodes": {
+        "main": {
+          "latitude": 48.863873,
+          "longitude": 2.360638
+        },
+        "roof": {
+          "latitude": 48.863873,
+          "longitude": 2.360638
+        }
+      },
+      "link": "/v3/places/4d974096a2c654814aa6d353",
+      "location": {
+        "address": "57 rue de Bretagne",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "57 rue de Bretagne, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Mmmozza",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "527d495611d201ce6ba8fb48",
+      "categories": [
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3504,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853652,
+          "longitude": 2.380774
+        },
+        "main": {
+          "latitude": 48.853568,
+          "longitude": 2.380792
+        },
+        "roof": {
+          "latitude": 48.853568,
+          "longitude": 2.380792
+        }
+      },
+      "link": "/v3/places/527d495611d201ce6ba8fb48",
+      "location": {
+        "address": "80 rue de Charonne, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "80 rue de Charonne, Paris, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Clamato",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dc1490a22713750ba78c198",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3513,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853661,
+          "longitude": 2.380815
+        },
+        "main": {
+          "latitude": 48.853515,
+          "longitude": 2.380847
+        },
+        "roof": {
+          "latitude": 48.853515,
+          "longitude": 2.380847
+        }
+      },
+      "link": "/v3/places/4dc1490a22713750ba78c198",
+      "location": {
+        "address": "80 rue de Charonne, 11e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "80 rue de Charonne, 11e, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Septime",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "575ae1fb498e4e9a27d69c51",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3683,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.867563,
+          "longitude": 2.357579
+        },
+        "main": {
+          "latitude": 48.867455,
+          "longitude": 2.357563
+        },
+        "roof": {
+          "latitude": 48.867455,
+          "longitude": 2.357563
+        }
+      },
+      "link": "/v3/places/575ae1fb498e4e9a27d69c51",
+      "location": {
+        "address": "41 rue Notre Dame de Nazareth",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "41 rue Notre Dame de Nazareth, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "ISTR",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda06f964a520fa3221e3",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3650,
+      "geocodes": {
+        "main": {
+          "latitude": 48.868025,
+          "longitude": 2.328569
+        },
+        "roof": {
+          "latitude": 48.868025,
+          "longitude": 2.328569
+        }
+      },
+      "link": "/v3/places/4adcda06f964a520fa3221e3",
+      "location": {
+        "address": "15 place Vend\u00f4me",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "15 place Vend\u00f4me, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Bar Vend\u00f4me",
+      "related_places": {
+        "parent": {
+          "fsq_id": "53b65301498e8cb57224f80c",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Ritz Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "54fc65f3498e7f86ee38def9",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3824,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.865434,
+          "longitude": 2.368735
+        },
+        "main": {
+          "latitude": 48.865345,
+          "longitude": 2.368758
+        },
+        "roof": {
+          "latitude": 48.865345,
+          "longitude": 2.368758
+        }
+      },
+      "link": "/v3/places/54fc65f3498e7f86ee38def9",
+      "location": {
+        "address": "20 rue Jean Pierre Timbaud",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "20 rue Jean Pierre Timbaud, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Boulangerie Utopie",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5581ba79498e2d654886dbad",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13258,
+          "name": "Trattoria",
+          "short_name": "Trattoria/Osteria",
+          "plural_name": "Trattorias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3805,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864473,
+          "longitude": 2.370121
+        },
+        "roof": {
+          "latitude": 48.864473,
+          "longitude": 2.370121
+        }
+      },
+      "link": "/v3/places/5581ba79498e2d654886dbad",
+      "location": {
+        "address": "107 boulevard Richard Lenoir",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "107 boulevard Richard Lenoir, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ober Mamma",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d0a627f5edd5481a159059b",
+      "categories": [
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3846,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853502,
+          "longitude": 2.295221
+        },
+        "main": {
+          "latitude": 48.853416,
+          "longitude": 2.295197
+        },
+        "roof": {
+          "latitude": 48.853416,
+          "longitude": 2.295197
+        }
+      },
+      "link": "/v3/places/4d0a627f5edd5481a159059b",
+      "location": {
+        "address": "56 rue de la F\u00e9d\u00e9ration, 15e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "56 rue de la F\u00e9d\u00e9ration, 15e, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Casse Noix",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5947cb5065cdf86790d0155f",
+      "categories": [
+        {
+          "id": 13000,
+          "name": "Dining and Drinking",
+          "short_name": "Dining and Drinking",
+          "plural_name": "Dining and Drinking",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4105,
+      "geocodes": {
+        "main": {
+          "latitude": 48.870978,
+          "longitude": 2.359787
+        },
+        "roof": {
+          "latitude": 48.870978,
+          "longitude": 2.359787
+        }
+      },
+      "link": "/v3/places/5947cb5065cdf86790d0155f",
+      "location": {
+        "address": "19 rue Lucien Sampaix",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "19 rue Lucien Sampaix, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Holybelly 5",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b5eec5df964a520129e29e3",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4214,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871214,
+          "longitude": 2.362942
+        },
+        "roof": {
+          "latitude": 48.871214,
+          "longitude": 2.362942
+        }
+      },
+      "link": "/v3/places/4b5eec5df964a520129e29e3",
+      "location": {
+        "address": "34 rue Yves Toudic, 10e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "34 rue Yves Toudic, 10e, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Du Pain et des Id\u00e9es",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5daf5ce348f796000802bc27",
+      "categories": [
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4423,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.875467,
+          "longitude": 2.350068
+        },
+        "main": {
+          "latitude": 48.875546,
+          "longitude": 2.350081
+        },
+        "roof": {
+          "latitude": 48.875546,
+          "longitude": 2.350081
+        }
+      },
+      "link": "/v3/places/5daf5ce348f796000802bc27",
+      "location": {
+        "address": "44 rue de Paradis",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "44 rue de Paradis, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Libertino by Big Mamma",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5ff099b17c1293281aa3f134",
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "short_name": "Burgers",
+          "plural_name": "Burger Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4434,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.867003,
+          "longitude": 2.302307
+        },
+        "main": {
+          "latitude": 48.867066,
+          "longitude": 2.302344
+        },
+        "roof": {
+          "latitude": 48.867066,
+          "longitude": 2.302344
+        }
+      },
+      "link": "/v3/places/5ff099b17c1293281aa3f134",
+      "location": {
+        "address": "18 rue du Boccador",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "18 rue du Boccador, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Dinand par Ferdi",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c0956e8a1b32d7f298297f0",
+      "categories": [
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4681,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.871699,
+          "longitude": 2.306411
+        },
+        "main": {
+          "latitude": 48.871592,
+          "longitude": 2.306377
+        },
+        "roof": {
+          "latitude": 48.871592,
+          "longitude": 2.306377
+        }
+      },
+      "link": "/v3/places/4c0956e8a1b32d7f298297f0",
+      "location": {
+        "address": "47 rue de Ponthieu",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "47 rue de Ponthieu, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Sens Unique",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "624ebfb2d05967199d6bc849",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4812,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.872385,
+          "longitude": 2.304242
+        },
+        "main": {
+          "latitude": 48.872267,
+          "longitude": 2.304204
+        },
+        "roof": {
+          "latitude": 48.872267,
+          "longitude": 2.304204
+        }
+      },
+      "link": "/v3/places/624ebfb2d05967199d6bc849",
+      "location": {
+        "address": "63 rue de Ponthieu",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "63 rue de Ponthieu, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Azur Cafe",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "53f72f4f498e240441adcfc5",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5139,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871062,
+          "longitude": 2.293405
+        },
+        "roof": {
+          "latitude": 48.871062,
+          "longitude": 2.293405
+        }
+      },
+      "link": "/v3/places/53f72f4f498e240441adcfc5",
+      "location": {
+        "address": "19 avenue Kl\u00e9ber",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "19 avenue Kl\u00e9ber, 75116 Paris",
+        "locality": "Paris",
+        "postcode": "75116",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Oiseau Blanc",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4df4832f14954f21cf31ff92",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Peninsula Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50abd239e4b0869279d6a3af",
+      "categories": [
+        {
+          "id": 13263,
+          "name": "Japanese Restaurant",
+          "short_name": "Japanese",
+          "plural_name": "Japanese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5266,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.875931,
+          "longitude": 2.300501
+        },
+        "main": {
+          "latitude": 48.87561,
+          "longitude": 2.300635
+        },
+        "roof": {
+          "latitude": 48.87561,
+          "longitude": 2.300635
+        }
+      },
+      "link": "/v3/places/50abd239e4b0869279d6a3af",
+      "location": {
+        "address": "35-37 avenue Hoche",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "35-37 avenue Hoche, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Matsuhisa Paris",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4ca46f77b0ff8cfa746fbf5e",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Le Royal Monceau Raffles Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5127d6aee4b0e1bb8f8a9f42",
+      "categories": [
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5646,
+      "geocodes": {
+        "main": {
+          "latitude": 48.877318,
+          "longitude": 2.29573
+        },
+        "roof": {
+          "latitude": 48.877318,
+          "longitude": 2.29573
+        }
+      },
+      "link": "/v3/places/5127d6aee4b0e1bb8f8a9f42",
+      "location": {
+        "address": "14 rue de l'Etoile",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "14 rue de l'Etoile, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Cantina Chic",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5710c77a498e3021c0641aa9",
+      "categories": [
+        {
+          "id": 13000,
+          "name": "Dining and Drinking",
+          "short_name": "Dining and Drinking",
+          "plural_name": "Dining and Drinking",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5638,
+      "geocodes": {
+        "main": {
+          "latitude": 48.88688,
+          "longitude": 2.344651
+        },
+        "roof": {
+          "latitude": 48.88688,
+          "longitude": 2.344651
+        }
+      },
+      "link": "/v3/places/5710c77a498e3021c0641aa9",
+      "location": {
+        "address": "10 rue Lamarck, 18e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "10 rue Lamarck, 18e, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Hardware Soci\u00e9t\u00e9",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "52965f8d498ea4362c60a951",
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "short_name": "Burgers",
+          "plural_name": "Burger Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6463,
+      "geocodes": {
+        "main": {
+          "latitude": 48.894397,
+          "longitude": 2.340518
+        },
+        "roof": {
+          "latitude": 48.894397,
+          "longitude": 2.340518
+        }
+      },
+      "link": "/v3/places/52965f8d498ea4362c60a951",
+      "location": {
+        "address": "65 rue du Ruisseau",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "65 rue du Ruisseau, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Ruisseau",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c9e3f637c096dcbe036d3d1",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13077,
+          "name": "Belgian Restaurant",
+          "short_name": "Belgian",
+          "plural_name": "Belgian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10927,
+      "geocodes": {
+        "main": {
+          "latitude": 48.87572,
+          "longitude": 2.477506
+        },
+        "roof": {
+          "latitude": 48.87572,
+          "longitude": 2.477506
+        }
+      },
+      "link": "/v3/places/4c9e3f637c096dcbe036d3d1",
+      "location": {
+        "address": "32 rue Jules Ferry",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "32 rue Jules Ferry, 93110 Rosny-sous-Bois",
+        "locality": "Rosny-sous-Bois",
+        "postcode": "93110",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L\u00e9on de Bruxelles",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "527a9e6a11d21762d7d0fb37",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11097,
+      "geocodes": {
+        "main": {
+          "latitude": 48.80481,
+          "longitude": 2.484733
+        },
+        "roof": {
+          "latitude": 48.80481,
+          "longitude": 2.484733
+        }
+      },
+      "link": "/v3/places/527a9e6a11d21762d7d0fb37",
+      "location": {
+        "address": "2 avenue Emile Zola",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "2 avenue Emile Zola, 94100 Saint-Maur-des-Foss\u00e9s",
+        "locality": "Saint-Maur-des-Foss\u00e9s",
+        "postcode": "94100",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Rajpoot",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e5d00d045dd2e4538b59a43",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13039,
+          "name": "Deli",
+          "short_name": "Deli",
+          "plural_name": "Delis",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11530,
+      "geocodes": {
+        "main": {
+          "latitude": 48.835147,
+          "longitude": 2.498372
+        },
+        "roof": {
+          "latitude": 48.835147,
+          "longitude": 2.498372
+        }
+      },
+      "link": "/v3/places/4e5d00d045dd2e4538b59a43",
+      "location": {
+        "address": "58 avenue Pierre Brossolette",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "58 avenue Pierre Brossolette, 94170 Le Perreux sur Marne",
+        "locality": "Le Perreux-sur-Marne",
+        "postcode": "94170",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Les D\u00e9lices de Fred",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c54771dfd2ea5938157252a",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 11924,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.843356,
+          "longitude": 2.503528
+        },
+        "main": {
+          "latitude": 48.843409,
+          "longitude": 2.503486
+        },
+        "roof": {
+          "latitude": 48.843409,
+          "longitude": 2.503486
+        }
+      },
+      "link": "/v3/places/4c54771dfd2ea5938157252a",
+      "location": {
+        "address": "79 avenue Ledru Rollin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "79 avenue Ledru Rollin, 94170 Le Perreux sur Marne",
+        "locality": "Le Perreux-sur-Marne",
+        "postcode": "94170",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Pizza Vivaldi",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e2acc8afa76bbf847d1c9e4",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12537,
+      "geocodes": {
+        "main": {
+          "latitude": 48.751756,
+          "longitude": 2.454071
+        },
+        "roof": {
+          "latitude": 48.751756,
+          "longitude": 2.454071
+        }
+      },
+      "link": "/v3/places/4e2acc8afa76bbf847d1c9e4",
+      "location": {
+        "address": "4 rue de la Sablonni\u00e8re",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 rue de la Sablonni\u00e8re, 94460 Valenton",
+        "locality": "Valenton",
+        "postcode": "94460",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Pedra Alta Pedra Mar",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c8a82a09ef0224bb48f5b7b",
+      "categories": [
+        {
+          "id": 13313,
+          "name": "Moroccan Restaurant",
+          "short_name": "Moroccan",
+          "plural_name": "Moroccan Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/moroccan_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13866,
+      "geocodes": {
+        "main": {
+          "latitude": 48.799634,
+          "longitude": 2.521943
+        },
+        "roof": {
+          "latitude": 48.799634,
+          "longitude": 2.521943
+        }
+      },
+      "link": "/v3/places/4c8a82a09ef0224bb48f5b7b",
+      "location": {
+        "address": "101 quartier Winston Churchill",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "101 quartier Winston Churchill, 94210 Saint Maur des Foss\u00e9s",
+        "locality": "La Varenne-Saint-Hilaire",
+        "postcode": "94210",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Riad Salam",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f4bdbffe4b011fb791c0aba",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13191,
+          "name": "Halal Restaurant",
+          "short_name": "Halal",
+          "plural_name": "Halal Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/halal_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13313,
+          "name": "Moroccan Restaurant",
+          "short_name": "Moroccan",
+          "plural_name": "Moroccan Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/moroccan_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15016,
+      "geocodes": {
+        "main": {
+          "latitude": 48.910726,
+          "longitude": 2.512257
+        },
+        "roof": {
+          "latitude": 48.910726,
+          "longitude": 2.512257
+        }
+      },
+      "link": "/v3/places/4f4bdbffe4b011fb791c0aba",
+      "location": {
+        "address": "1 boulevard Jean Moulin",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 boulevard Jean Moulin, 93190 Livry-Gargan",
+        "locality": "Livry-Gargan",
+        "postcode": "93190",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Etoile d'or",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e0a11b0d1640223a4aedfcc",
+      "categories": [
+        {
+          "id": 13099,
+          "name": "Chinese Restaurant",
+          "short_name": "Chinese",
+          "plural_name": "Chinese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 15830,
+      "geocodes": {
+        "main": {
+          "latitude": 48.848697,
+          "longitude": 2.556632
+        },
+        "roof": {
+          "latitude": 48.848697,
+          "longitude": 2.556632
+        }
+      },
+      "link": "/v3/places/4e0a11b0d1640223a4aedfcc",
+      "location": {
+        "address": "20 Bis avenue Emile Cossonneau",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "20 Bis avenue Emile Cossonneau, 93160 Noisy-le-Grand",
+        "locality": "Noisy-le-Grand",
+        "postcode": "93160",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Chez Guo",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e3988ebd164102b03731ea9",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 16195,
+      "geocodes": {
+        "main": {
+          "latitude": 48.693876,
+          "longitude": 2.293314
+        },
+        "roof": {
+          "latitude": 48.693876,
+          "longitude": 2.293314
+        }
+      },
+      "link": "/v3/places/4e3988ebd164102b03731ea9",
+      "location": {
+        "address": "120 rue du Pr\u00e9sident Fran\u00e7ois Mitterrand",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "120 rue du Pr\u00e9sident Fran\u00e7ois Mitterrand, 91160 Longjumeau",
+        "locality": "Longjumeau",
+        "postcode": "91160",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Foggia Ristorante",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f363c546b744f12c160f9b8",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 17908,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.931645,
+          "longitude": 2.538561
+        },
+        "main": {
+          "latitude": 48.931551,
+          "longitude": 2.538478
+        },
+        "roof": {
+          "latitude": 48.931551,
+          "longitude": 2.538478
+        }
+      },
+      "link": "/v3/places/4f363c546b744f12c160f9b8",
+      "location": {
+        "address": "62 avenue de Livry",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "62 avenue de Livry, 93270 Sevran",
+        "locality": "Sevran",
+        "postcode": "93270",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Cristina Pizzeria",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bb77d6ccf2fc9b6cc449e02",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13352,
+          "name": "Thai Restaurant",
+          "short_name": "Thai",
+          "plural_name": "Thai Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 18759,
+      "geocodes": {
+        "main": {
+          "latitude": 48.885754,
+          "longitude": 2.58595
+        },
+        "roof": {
+          "latitude": 48.885754,
+          "longitude": 2.58595
+        }
+      },
+      "link": "/v3/places/4bb77d6ccf2fc9b6cc449e02",
+      "location": {
+        "address": "1 rue des Sources",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 rue des Sources, 77500 Chelles",
+        "locality": "Chelles",
+        "postcode": "77500",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Asiane",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "573b5cbd498ec21fb94a0ca4",
+      "categories": [
+        {
+          "id": 13352,
+          "name": "Thai Restaurant",
+          "short_name": "Thai",
+          "plural_name": "Thai Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17406,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.6795,
+          "longitude": 2.34201
+        },
+        "main": {
+          "latitude": 48.679433,
+          "longitude": 2.34214
+        },
+        "roof": {
+          "latitude": 48.679433,
+          "longitude": 2.34214
+        }
+      },
+      "link": "/v3/places/573b5cbd498ec21fb94a0ca4",
+      "location": {
+        "address": "26-28 rue Henri Dunant",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "26-28 rue Henri Dunant, 91600 Savigny sur Orge",
+        "locality": "Savigny sur Orge",
+        "postcode": "91600",
+        "region": "Essonne"
+      },
+      "name": "A Pattaya",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dbc52c10437955ec02fdf73",
+      "categories": [
+        {
+          "id": 13352,
+          "name": "Thai Restaurant",
+          "short_name": "Thai",
+          "plural_name": "Thai Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19037,
+      "geocodes": {
+        "main": {
+          "latitude": 48.698271,
+          "longitude": 2.187
+        },
+        "roof": {
+          "latitude": 48.698271,
+          "longitude": 2.187
+        }
+      },
+      "link": "/v3/places/4dbc52c10437955ec02fdf73",
+      "location": {
+        "address": "4 Bis rue Archang\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 Bis rue Archang\u00e9, 91400 Orsay",
+        "locality": "Orsay",
+        "postcode": "91400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Papaye Verte",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e612ec9a80951b317f473c7",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19101,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.895259,
+          "longitude": 2.095513
+        },
+        "main": {
+          "latitude": 48.895319,
+          "longitude": 2.095327
+        },
+        "roof": {
+          "latitude": 48.895319,
+          "longitude": 2.095327
+        }
+      },
+      "link": "/v3/places/4e612ec9a80951b317f473c7",
+      "location": {
+        "address": "5 rue Saint-Louis",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "5 rue Saint-Louis, 78100 Saint-Germain-en-Laye",
+        "locality": "Saint-Germain-en-Laye",
+        "postcode": "78100",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Man\u00e8ge",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b829965f964a52014da30e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 16605,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.686786,
+          "longitude": 2.341334
+        },
+        "main": {
+          "latitude": 48.686703,
+          "longitude": 2.341126
+        },
+        "roof": {
+          "latitude": 48.686703,
+          "longitude": 2.341126
+        }
+      },
+      "link": "/v3/places/4b829965f964a52014da30e3",
+      "location": {
+        "address": "41 avenue Jean Allemane",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "41 avenue Jean Allemane, 91600 Savigny sur Orge",
+        "locality": "Savigny-sur-Orge",
+        "postcode": "91600",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Vivaldi",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b6b44f9f964a52037fd2be3",
+      "categories": [
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "short_name": "Mexican",
+          "plural_name": "Mexican Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19295,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.895432,
+          "longitude": 2.092695
+        },
+        "main": {
+          "latitude": 48.895479,
+          "longitude": 2.092666
+        },
+        "roof": {
+          "latitude": 48.895479,
+          "longitude": 2.092666
+        }
+      },
+      "link": "/v3/places/4b6b44f9f964a52037fd2be3",
+      "location": {
+        "address": "4 rue Saint Pierre",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 rue Saint Pierre, 78100 Saint-Germain-en-Laye",
+        "locality": "Saint-Germain-en-Laye",
+        "postcode": "78100",
+        "region": "\u00cele-de-France"
+      },
+      "name": "El Sol Azteca",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d84fd5240a7a35d876217be",
+      "categories": [
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13325,
+          "name": "Portuguese Restaurant",
+          "short_name": "Portuguese",
+          "plural_name": "Portuguese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 19249,
+      "geocodes": {
+        "main": {
+          "latitude": 48.777946,
+          "longitude": 2.588472
+        },
+        "roof": {
+          "latitude": 48.777946,
+          "longitude": 2.588472
+        }
+      },
+      "link": "/v3/places/4d84fd5240a7a35d876217be",
+      "location": {
+        "address": "rue Paris Rn 4",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "rue Paris Rn 4, 77340 Pontault Combault",
+        "locality": "Pontault-Combault",
+        "postcode": "77340",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Pedra Alta",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bad20e9f964a5208f303be3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 18582,
+      "geocodes": {
+        "main": {
+          "latitude": 48.838454,
+          "longitude": 2.086582
+        },
+        "roof": {
+          "latitude": 48.838454,
+          "longitude": 2.086582
+        }
+      },
+      "link": "/v3/places/4bad20e9f964a5208f303be3",
+      "location": {
+        "address": "1 route de Saint-Cyr",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 route de Saint-Cyr, 78870 Bailly",
+        "locality": "Bailly",
+        "postcode": "78870",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Pavillon de Bailly",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

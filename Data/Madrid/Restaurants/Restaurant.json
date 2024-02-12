@@ -1,0 +1,2534 @@
+{
+  "results": [
+    {
+      "fsq_id": "59e2096e002f4c4049f9e180",
+      "categories": [
+        {
+          "id": 13099,
+          "name": "Chinese Restaurant",
+          "short_name": "Chinese",
+          "plural_name": "Chinese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1142,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.397276,
+          "longitude": -3.694346
+        },
+        "main": {
+          "latitude": 40.397256,
+          "longitude": -3.694159
+        },
+        "roof": {
+          "latitude": 40.397256,
+          "longitude": -3.694159
+        }
+      },
+      "link": "/v3/places/59e2096e002f4c4049f9e180",
+      "location": {
+        "address": "Paseo de Delicias, 73",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Paseo de Delicias, 73, 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Tres Cerditos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "590a03309de23b6c4297c320",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1504,
+      "geocodes": {
+        "main": {
+          "latitude": 40.412146,
+          "longitude": -3.696457
+        },
+        "roof": {
+          "latitude": 40.412146,
+          "longitude": -3.696457
+        }
+      },
+      "link": "/v3/places/590a03309de23b6c4297c320",
+      "location": {
+        "address": "Calle de Moreto, 17",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Moreto, 17, 28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Plenti",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b7eaa51f964a52008f82fe3",
+      "categories": [
+        {
+          "id": 13070,
+          "name": "Argentinian Restaurant",
+          "short_name": "Argentinian",
+          "plural_name": "Argentinian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1759,
+      "geocodes": {
+        "main": {
+          "latitude": 40.415712,
+          "longitude": -3.699011
+        },
+        "roof": {
+          "latitude": 40.415712,
+          "longitude": -3.699011
+        }
+      },
+      "link": "/v3/places/4b7eaa51f964a52008f82fe3",
+      "location": {
+        "address": "Ventura de la Vega, 10",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Carrera de San Jer\u00f3nimo",
+        "formatted_address": "Ventura de la Vega, 10 (C. Carrera de San Jer\u00f3nimo), 28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Caba\u00f1a Argentina",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5374c6ff498eb7fa65ba2f4a",
+      "categories": [
+        {
+          "id": 13303,
+          "name": "Mexican Restaurant",
+          "short_name": "Mexican",
+          "plural_name": "Mexican Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2007,
+      "geocodes": {
+        "main": {
+          "latitude": 40.418938,
+          "longitude": -3.703748
+        }
+      },
+      "link": "/v3/places/5374c6ff498eb7fa65ba2f4a",
+      "location": {
+        "address": "Abada, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Abada, 2, 28013 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28013",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Takos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "523d935211d288f6569fe43d",
+      "categories": [
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2448,
+      "geocodes": {
+        "main": {
+          "latitude": 40.422886,
+          "longitude": -3.703032
+        },
+        "roof": {
+          "latitude": 40.422886,
+          "longitude": -3.703032
+        }
+      },
+      "link": "/v3/places/523d935211d288f6569fe43d",
+      "location": {
+        "address": "Calle Ballesta, 32",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Ballesta, 32, 28004 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28004",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Pescader\u00eda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "560eab83498e048a3f66de00",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2559,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.423472,
+          "longitude": -3.700035
+        },
+        "main": {
+          "latitude": 40.423439,
+          "longitude": -3.700042
+        },
+        "roof": {
+          "latitude": 40.423439,
+          "longitude": -3.700042
+        }
+      },
+      "link": "/v3/places/560eab83498e048a3f66de00",
+      "location": {
+        "address": "Calle Hern\u00e1n Cort\u00e9s, 8",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Hern\u00e1n Cort\u00e9s, 8, 28004 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28004",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Hummuseria",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5cf25b0406fb60002c8d15e5",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2557,
+      "geocodes": {
+        "main": {
+          "latitude": 40.419701,
+          "longitude": -3.689125
+        }
+      },
+      "link": "/v3/places/5cf25b0406fb60002c8d15e5",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Aarde",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5b27ed9c3f5c69002b822ad9",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2755,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.424854,
+          "longitude": -3.697914
+        },
+        "main": {
+          "latitude": 40.424816,
+          "longitude": -3.697854
+        },
+        "roof": {
+          "latitude": 40.424816,
+          "longitude": -3.697854
+        }
+      },
+      "link": "/v3/places/5b27ed9c3f5c69002b822ad9",
+      "location": {
+        "address": "Calle Hortaleza, 100",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Hortaleza, 100, 28004 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28004",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Honest Greens Hortaleza",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "53b85a9d498e69be2ef0ee4c",
+      "categories": [
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2945,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.426482,
+          "longitude": -3.716444
+        },
+        "main": {
+          "latitude": 40.426594,
+          "longitude": -3.716323
+        },
+        "roof": {
+          "latitude": 40.426594,
+          "longitude": -3.716323
+        }
+      },
+      "link": "/v3/places/53b85a9d498e69be2ef0ee4c",
+      "location": {
+        "address": "Calle Juan Alvarez Mendizabal, 44",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Juan Alvarez Mendizabal, 44, 28008 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28008",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Taberna Origen",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "59e11ea58fb09e68c06083ac",
+      "categories": [
+        {
+          "id": 13263,
+          "name": "Japanese Restaurant",
+          "short_name": "Japanese",
+          "plural_name": "Japanese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3005,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.42783,
+          "longitude": -3.701909
+        },
+        "main": {
+          "latitude": 40.427891,
+          "longitude": -3.701765
+        },
+        "roof": {
+          "latitude": 40.427891,
+          "longitude": -3.701765
+        }
+      },
+      "link": "/v3/places/59e11ea58fb09e68c06083ac",
+      "location": {
+        "address": "Fuencarral, 98",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Fuencarral, 98, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Konnichiwa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bb2605414cfd13aa2da14ab",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3096,
+      "geocodes": {
+        "main": {
+          "latitude": 40.423744,
+          "longitude": -3.685827
+        },
+        "roof": {
+          "latitude": 40.423744,
+          "longitude": -3.685827
+        }
+      },
+      "link": "/v3/places/4bb2605414cfd13aa2da14ab",
+      "location": {
+        "address": "Jorge Juan, 16",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Jorge Juan, 16, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "El Paraguas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57712672cd10b950f4f42080",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3133,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.423805,
+          "longitude": -3.685083
+        },
+        "main": {
+          "latitude": 40.423675,
+          "longitude": -3.68509
+        },
+        "roof": {
+          "latitude": 40.423675,
+          "longitude": -3.68509
+        }
+      },
+      "link": "/v3/places/57712672cd10b950f4f42080",
+      "location": {
+        "address": "Calle Jorge Juan, 20",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Jorge Juan, 20, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Amaz\u00f3nico",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59e665cd12138415e848ac2b",
+            "categories": [
+              {
+                "id": 10040,
+                "name": "Jazz and Blues Venue",
+                "short_name": "Jazz Club",
+                "plural_name": "Jazz and Blues Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_jazzclub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Jungle Jazz Club By Amaz\u00f3nico"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "61b3abcba4aa006ccd1529d1",
+      "categories": [
+        {
+          "id": 13263,
+          "name": "Japanese Restaurant",
+          "short_name": "Japanese",
+          "plural_name": "Japanese Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3161,
+      "geocodes": {
+        "main": {
+          "latitude": 40.426315,
+          "longitude": -3.689566
+        },
+        "roof": {
+          "latitude": 40.426315,
+          "longitude": -3.689566
+        }
+      },
+      "link": "/v3/places/61b3abcba4aa006ccd1529d1",
+      "location": {
+        "address": "P.\u00ba de la Castellana, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "P.\u00ba de la Castellana, 2, 28046 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28046",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Zuma Madrid",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "53b5a2bc498ef0074d8c8091",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3118,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.423821,
+          "longitude": -3.685372
+        },
+        "main": {
+          "latitude": 40.423929,
+          "longitude": -3.685366
+        },
+        "roof": {
+          "latitude": 40.423929,
+          "longitude": -3.685366
+        }
+      },
+      "link": "/v3/places/53b5a2bc498ef0074d8c8091",
+      "location": {
+        "address": "Calle Jorge Juan, 17",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Jorge Juan, 17, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Ultramarinos Quintin",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54711764498efe71ca455988",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "short_name": "Italian",
+          "plural_name": "Italian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3179,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.428226,
+          "longitude": -3.695071
+        },
+        "main": {
+          "latitude": 40.428375,
+          "longitude": -3.695205
+        },
+        "roof": {
+          "latitude": 40.428375,
+          "longitude": -3.695205
+        }
+      },
+      "link": "/v3/places/54711764498efe71ca455988",
+      "location": {
+        "address": "Calle de Almagro, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Almagro, 3, 28010 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28010",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Lamucca de Almagro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b928184f964a52008ff33e3",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3344,
+      "geocodes": {
+        "main": {
+          "latitude": 40.42027,
+          "longitude": -3.676574
+        },
+        "roof": {
+          "latitude": 40.42027,
+          "longitude": -3.676574
+        }
+      },
+      "link": "/v3/places/4b928184f964a52008ff33e3",
+      "location": {
+        "address": "Calle Doctor Castelo, 22",
+        "address_extended": "C/ Doctor Castelo, 22",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Narv\u00e1ez",
+        "formatted_address": "Calle Doctor Castelo, 22 (C. Narv\u00e1ez), 28009 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28009",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Castela",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dbd958f6a23e294ba48cec7",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13310,
+          "name": "Modern European Restaurant",
+          "short_name": "Modern European",
+          "plural_name": "Modern European Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3362,
+      "geocodes": {
+        "main": {
+          "latitude": 40.427815,
+          "longitude": -3.688551
+        },
+        "roof": {
+          "latitude": 40.427815,
+          "longitude": -3.688551
+        }
+      },
+      "link": "/v3/places/4dbd958f6a23e294ba48cec7",
+      "location": {
+        "address": "Ayala, 6",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "P. de la Castellana",
+        "formatted_address": "Ayala, 6 (P. de la Castellana), 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Ten Con Ten",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4be54a30cf200f475907133c",
+      "categories": [
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3401,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.427049,
+          "longitude": -3.685168
+        },
+        "main": {
+          "latitude": 40.427112,
+          "longitude": -3.685708
+        }
+      },
+      "link": "/v3/places/4be54a30cf200f475907133c",
+      "location": {
+        "address": "Calle Ayala, 28",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Ayala, 28, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Casa Dani",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda3ff964a520663e21e3",
+          "categories": [
+            {
+              "id": 17069,
+              "name": "Grocery Store",
+              "short_name": "Grocery Store",
+              "plural_name": "Grocery Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Mercado de la Paz"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc8d33168f976b0eb0d5c83",
+      "categories": [
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3428,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.420324,
+          "longitude": -3.675148
+        },
+        "main": {
+          "latitude": 40.420182,
+          "longitude": -3.675157
+        },
+        "roof": {
+          "latitude": 40.420182,
+          "longitude": -3.675157
+        }
+      },
+      "link": "/v3/places/4bc8d33168f976b0eb0d5c83",
+      "location": {
+        "address": "Calle Doctor Castelo, 30",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Doctor Castelo, 30, 28009 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28009",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Taberna Laredo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5f5b64a55e1e772ae2c93b2c",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3511,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.42867,
+          "longitude": -3.687248
+        },
+        "main": {
+          "latitude": 40.428724,
+          "longitude": -3.687555
+        },
+        "roof": {
+          "latitude": 40.428724,
+          "longitude": -3.687555
+        }
+      },
+      "link": "/v3/places/5f5b64a55e1e772ae2c93b2c",
+      "location": {
+        "address": "Calle de Serrano, 41",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Serrano, 41, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Honest Greens Serrano",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b3925d8f964a5202a5725e3",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3821,
+      "geocodes": {
+        "main": {
+          "latitude": 40.433857,
+          "longitude": -3.69389
+        },
+        "roof": {
+          "latitude": 40.433857,
+          "longitude": -3.69389
+        }
+      },
+      "link": "/v3/places/4b3925d8f964a5202a5725e3",
+      "location": {
+        "address": "Calle Rafael Calvo, 20",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Rafael Calvo, 20, 28010 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28010",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Las Tortillas de Gabino",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5a2c424b9be5227578e19272",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4278,
+      "geocodes": {
+        "main": {
+          "latitude": 40.438919,
+          "longitude": -3.697848
+        }
+      },
+      "link": "/v3/places/5a2c424b9be5227578e19272",
+      "location": {
+        "address": "Calle de Alonso Cano, 37",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Alonso Cano, 37, 28003 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28003",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Fratelli Figurato",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ec901e54690116a8de65de1",
+      "categories": [
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4469,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.433352,
+          "longitude": -3.675013
+        },
+        "main": {
+          "latitude": 40.433338,
+          "longitude": -3.674813
+        },
+        "roof": {
+          "latitude": 40.433338,
+          "longitude": -3.674813
+        }
+      },
+      "link": "/v3/places/4ec901e54690116a8de65de1",
+      "location": {
+        "address": "Calle Conde de Pe\u00f1alver, 86",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Maldonado",
+        "formatted_address": "Calle Conde de Pe\u00f1alver, 86 (C. Maldonado), 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Ca\u00f1ad\u00edo Madrid",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5baa89051822230025799d6f",
+      "categories": [
+        {
+          "id": 13332,
+          "name": "Salad Restaurant",
+          "short_name": "Salad",
+          "plural_name": "Salad Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4527,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.437619,
+          "longitude": -3.683325
+        },
+        "main": {
+          "latitude": 40.43751,
+          "longitude": -3.683314
+        },
+        "roof": {
+          "latitude": 40.43751,
+          "longitude": -3.683314
+        }
+      },
+      "link": "/v3/places/5baa89051822230025799d6f",
+      "location": {
+        "address": "Vel\u00e1zquez, 123",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Mar\u00eda de Molina",
+        "formatted_address": "Vel\u00e1zquez, 123 (Mar\u00eda de Molina), 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Honest Greens Vel\u00e1zquez",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda3af964a520403d21e3",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5911,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.448033,
+          "longitude": -3.674367
+        },
+        "main": {
+          "latitude": 40.448152,
+          "longitude": -3.674383
+        },
+        "roof": {
+          "latitude": 40.448152,
+          "longitude": -3.674383
+        }
+      },
+      "link": "/v3/places/4adcda3af964a520403d21e3",
+      "location": {
+        "address": "Calle Benigno Soto, 9",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Benigno Soto, 9, 28002 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28002",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Casa Benigna",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b56115df964a520b8fe27e3",
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "short_name": "BBQ",
+          "plural_name": "BBQ Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13039,
+          "name": "Deli",
+          "short_name": "Deli",
+          "plural_name": "Delis",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6811,
+      "geocodes": {
+        "main": {
+          "latitude": 40.461687,
+          "longitude": -3.69571
+        },
+        "roof": {
+          "latitude": 40.461687,
+          "longitude": -3.69571
+        }
+      },
+      "link": "/v3/places/4b56115df964a520b8fe27e3",
+      "location": {
+        "address": "Calle Infanta Mercedes, 79",
+        "address_extended": "Madrid",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Infanta Mercedes, 79, 28020 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28020",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Asador Donostiarra",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b59aecdf964a520949228e3",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7902,
+      "geocodes": {
+        "main": {
+          "latitude": 40.419462,
+          "longitude": -3.79698
+        },
+        "roof": {
+          "latitude": 40.419462,
+          "longitude": -3.79698
+        }
+      },
+      "link": "/v3/places/4b59aecdf964a520949228e3",
+      "location": {
+        "address": "Calle Barlovento, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Barlovento, 1, 28223 Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Somosaguas",
+        "postcode": "28223",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Urrechu",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4ccc00b497d0224bc4e15cb8",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Zoco de Pozuelo"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e8b3643b803fd0aa0968566",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8256,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.439776,
+          "longitude": -3.790162
+        },
+        "main": {
+          "latitude": 40.439919,
+          "longitude": -3.790221
+        },
+        "roof": {
+          "latitude": 40.439919,
+          "longitude": -3.790221
+        }
+      },
+      "link": "/v3/places/4e8b3643b803fd0aa0968566",
+      "location": {
+        "address": "Avenida Europa, 15",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Europa, 15, 28224 Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "postcode": "28224",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Taberna Entretres",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56c23c43cd104c422c6252b4",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8535,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.464249,
+          "longitude": -3.649343
+        },
+        "main": {
+          "latitude": 40.464214,
+          "longitude": -3.649527
+        },
+        "roof": {
+          "latitude": 40.464214,
+          "longitude": -3.649527
+        }
+      },
+      "link": "/v3/places/56c23c43cd104c422c6252b4",
+      "location": {
+        "address": "Calle Pegaso, 13",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Pegaso, 13, 28043 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28043",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Everest Tandoori",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5d76d3f964a520de5d29e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9429,
+      "geocodes": {
+        "main": {
+          "latitude": 40.468188,
+          "longitude": -3.638647
+        }
+      },
+      "link": "/v3/places/4b5d76d3f964a520de5d29e3",
+      "location": {
+        "address": "Calle Torquemada, 25",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Torquemada, 25, 28043 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28043",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "A'Fenestella",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "567bff21498ec5eaf076ee9d",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9455,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.445857,
+          "longitude": -3.80173
+        },
+        "main": {
+          "latitude": 40.445919,
+          "longitude": -3.801874
+        },
+        "roof": {
+          "latitude": 40.445919,
+          "longitude": -3.801874
+        }
+      },
+      "link": "/v3/places/567bff21498ec5eaf076ee9d",
+      "location": {
+        "address": "Calle Benigno Granizo, 20",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Benigno Granizo, 20, Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "El Barco Aparicio",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ed0cc8d8b81b47396f753aa",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11563,
+      "geocodes": {
+        "main": {
+          "latitude": 40.504818,
+          "longitude": -3.716831
+        },
+        "roof": {
+          "latitude": 40.504818,
+          "longitude": -3.716831
+        }
+      },
+      "link": "/v3/places/4ed0cc8d8b81b47396f753aa",
+      "location": {
+        "address": "Carretera Fuencarral-el Pardo M - 612, Km 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carretera Fuencarral-el Pardo M - 612, Km 1, 28049 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28049",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Filand\u00f3n",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b89355af964a520272332e3",
+      "categories": [
+        {
+          "id": 13010,
+          "name": "Dive Bar",
+          "short_name": "Dive Bar",
+          "plural_name": "Dive Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11413,
+      "geocodes": {
+        "main": {
+          "latitude": 40.338088,
+          "longitude": -3.813527
+        },
+        "roof": {
+          "latitude": 40.338088,
+          "longitude": -3.813527
+        }
+      },
+      "link": "/v3/places/4b89355af964a520272332e3",
+      "location": {
+        "address": "Calle Polvoranca, 108",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Polvoranca, 108, 28923 Alcorc\u00f3n Comunidad de Madrid",
+        "locality": "Alcorc\u00f3n",
+        "postcode": "28923",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Pirata's",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56f7f867498e02654951b0f2",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13183,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.470552,
+          "longitude": -3.580482
+        },
+        "main": {
+          "latitude": 40.470722,
+          "longitude": -3.580532
+        },
+        "roof": {
+          "latitude": 40.470722,
+          "longitude": -3.580532
+        }
+      },
+      "link": "/v3/places/56f7f867498e02654951b0f2",
+      "location": {
+        "address": "Calle Planeta, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av.  General",
+        "formatted_address": "Calle Planeta, 3 (Av.  General), 28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La General",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c2fc78516adc928ef32be9c",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 13664,
+      "geocodes": {
+        "main": {
+          "latitude": 40.473143,
+          "longitude": -3.837731
+        },
+        "roof": {
+          "latitude": 40.473143,
+          "longitude": -3.837731
+        }
+      },
+      "link": "/v3/places/4c2fc78516adc928ef32be9c",
+      "location": {
+        "address": "Avenida de la Estaci\u00f3n, s/n",
+        "address_extended": "S/N",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida de la Estaci\u00f3n, s/n, 28221 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28221",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Jim\u00e9nez Restaurante",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "504a5cace4b01681207db072",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14701,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.28488,
+          "longitude": -3.790089
+        },
+        "main": {
+          "latitude": 40.284837,
+          "longitude": -3.789971
+        },
+        "roof": {
+          "latitude": 40.284837,
+          "longitude": -3.789971
+        }
+      },
+      "link": "/v3/places/504a5cace4b01681207db072",
+      "location": {
+        "address": "Calle de Castillejos, 24",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de Castillejos, 24, 28944 Fuenlabrada Comunidad de Madrid",
+        "locality": "Fuenlabrada",
+        "postcode": "28944",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "The Black co",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "555de1de498e02e9bb46890f",
+      "categories": [
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14549,
+      "geocodes": {
+        "main": {
+          "latitude": 40.458993,
+          "longitude": -3.861228
+        }
+      },
+      "link": "/v3/places/555de1de498e02e9bb46890f",
+      "location": {
+        "address": "Calle Moreras, 42",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Moreras, 42, 28221 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28221",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Panorama Oyster Bar",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "528fbd9d11d27f614e833a73",
+      "categories": [
+        {
+          "id": 10032,
+          "name": "Night Club",
+          "short_name": "Night Club",
+          "plural_name": "Night Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13302,
+          "name": "Mediterranean Restaurant",
+          "short_name": "Mediterranean",
+          "plural_name": "Mediterranean Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14456,
+      "geocodes": {
+        "main": {
+          "latitude": 40.470903,
+          "longitude": -3.851016
+        },
+        "roof": {
+          "latitude": 40.470903,
+          "longitude": -3.851016
+        }
+      },
+      "link": "/v3/places/528fbd9d11d27f614e833a73",
+      "location": {
+        "address": "Calle Norias, 80",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Norias, 80, 28221 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28221",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "El Ochenta",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "541c34ac498e78ca085df8a2",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 15785,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.468231,
+          "longitude": -3.870693
+        },
+        "main": {
+          "latitude": 40.468145,
+          "longitude": -3.871037
+        },
+        "roof": {
+          "latitude": 40.468145,
+          "longitude": -3.871037
+        }
+      },
+      "link": "/v3/places/541c34ac498e78ca085df8a2",
+      "location": {
+        "address": "Carr. de Boadilla del Monte, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carr. de Boadilla del Monte, 2, 28220 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28220",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Verde Oliva Gastroteca",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "519660d1498e3540506f6183",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13057,
+          "name": "Gastropub",
+          "short_name": "Gastropub",
+          "plural_name": "Gastropubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17972,
+      "geocodes": {
+        "main": {
+          "latitude": 40.494123,
+          "longitude": -3.880463
+        }
+      },
+      "link": "/v3/places/519660d1498e3540506f6183",
+      "location": {
+        "address": "Calle Lope de Vega, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Lope de Vega, 2, 28231 Las Rozas Comunidad de Madrid",
+        "locality": "Las Rozas",
+        "postcode": "28231",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Flanker",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e54e0651f6e7ab6b1b7173e",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18886,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.237659,
+          "longitude": -3.768064
+        },
+        "main": {
+          "latitude": 40.237584,
+          "longitude": -3.768064
+        },
+        "roof": {
+          "latitude": 40.237584,
+          "longitude": -3.768064
+        }
+      },
+      "link": "/v3/places/4e54e0651f6e7ab6b1b7173e",
+      "location": {
+        "address": "Calle Domingo Malag\u00f3n, 12",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Domingo Malag\u00f3n, 12, 28981 Parla Comunidad de Madrid",
+        "locality": "Parla",
+        "postcode": "28981",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Pizzer\u00eda tipica il gusto per l'autentico",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c3e1c4c6faac9b646c30d76",
+      "categories": [
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19939,
+      "geocodes": {
+        "main": {
+          "latitude": 40.303221,
+          "longitude": -3.904241
+        },
+        "roof": {
+          "latitude": 40.303221,
+          "longitude": -3.904241
+        }
+      },
+      "link": "/v3/places/4c3e1c4c6faac9b646c30d76",
+      "location": {
+        "address": "Calle Fresadores, 44",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Fresadores, 44, 28939 Arroyomolinos Comunidad de Madrid",
+        "locality": "Arroyomolinos",
+        "postcode": "28939",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Ricarda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56c087c3cd10b9546e51acc9",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21695,
+      "geocodes": {
+        "main": {
+          "latitude": 40.59616,
+          "longitude": -3.705341
+        }
+      },
+      "link": "/v3/places/56c087c3cd10b9546e51acc9",
+      "location": {
+        "address": "Avenida de Vi\u00f1uelas, 17",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida de Vi\u00f1uelas, 17, 28760 Tres Cantos Comunidad de Madrid",
+        "locality": "Tres Cantos",
+        "postcode": "28760",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Shoopo HomeBar",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b979096f964a520120935e3",
+      "categories": [
+        {
+          "id": 13070,
+          "name": "Argentinian Restaurant",
+          "short_name": "Argentinian",
+          "plural_name": "Argentinian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21697,
+      "geocodes": {
+        "main": {
+          "latitude": 40.596136,
+          "longitude": -3.698596
+        },
+        "roof": {
+          "latitude": 40.596136,
+          "longitude": -3.698596
+        }
+      },
+      "link": "/v3/places/4b979096f964a520120935e3",
+      "location": {
+        "address": "Calle Oc\u00e9ano Atl\u00e1ntico, 7",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de los Artesanos",
+        "formatted_address": "Calle Oc\u00e9ano Atl\u00e1ntico, 7 (Av. de los Artesanos), 28760 Tres Cantos Comunidad de Madrid",
+        "locality": "Tres Cantos",
+        "postcode": "28760",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "La Churrasquita",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e63e6b7ae60e9edf6627c70",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 18770,
+      "geocodes": {
+        "main": {
+          "latitude": 40.23687,
+          "longitude": -3.764927
+        },
+        "roof": {
+          "latitude": 40.23687,
+          "longitude": -3.764927
+        }
+      },
+      "link": "/v3/places/4e63e6b7ae60e9edf6627c70",
+      "location": {
+        "address": "Calle de Dos Amigos, 35",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de Dos Amigos, 35, 28982 Parla Comunidad de Madrid",
+        "locality": "Parla",
+        "postcode": "28982",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Restaurante Patati\u00b4ss",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d68a2e3de28224b0dcf38be",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "short_name": "Burgers",
+          "plural_name": "Burger Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17616,
+      "geocodes": {
+        "main": {
+          "latitude": 40.242623,
+          "longitude": -3.698601
+        },
+        "roof": {
+          "latitude": 40.242623,
+          "longitude": -3.698601
+        }
+      },
+      "link": "/v3/places/4d68a2e3de28224b0dcf38be",
+      "location": {
+        "address": "Paseo Dolores Soria, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Paseo Dolores Soria, s/n, 28320 Pinto Comunidad de Madrid",
+        "locality": "Pinto",
+        "postcode": "28320",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Cafeter\u00eda Gran V\u00eda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57042b96498e7f01ee5713f0",
+      "categories": [
+        {
+          "id": 13378,
+          "name": "Venezuelan Restaurant",
+          "short_name": "Venezuelan",
+          "plural_name": "Venezuelan Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21660,
+      "geocodes": {
+        "main": {
+          "latitude": 40.596727,
+          "longitude": -3.701416
+        },
+        "roof": {
+          "latitude": 40.596727,
+          "longitude": -3.701416
+        }
+      },
+      "link": "/v3/places/57042b96498e7f01ee5713f0",
+      "location": {
+        "address": "Avenida de Vi\u00f1uelas, 39",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida de Vi\u00f1uelas, 39, 28760 Tres Cantos Comunidad de Madrid",
+        "locality": "Tres Cantos",
+        "postcode": "28760",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Sabor y Saz\u00f3n Venezolano",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd7c1fbe4cd37c893b2d31e",
+      "categories": [
+        {
+          "id": 13334,
+          "name": "Sandwich Spot",
+          "short_name": "Sandwich Spot",
+          "plural_name": "Sandwich Spots",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17868,
+      "geocodes": {
+        "main": {
+          "latitude": 40.2406,
+          "longitude": -3.690748
+        },
+        "roof": {
+          "latitude": 40.2406,
+          "longitude": -3.690748
+        }
+      },
+      "link": "/v3/places/4dd7c1fbe4cd37c893b2d31e",
+      "location": {
+        "address": "Pablo Picasso, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Pablo Picasso, s/n, 28320 Pinto Comunidad de Madrid",
+        "locality": "Pinto",
+        "postcode": "28320",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "100 Montaditos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bb103daf964a520f8723ce3",
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "short_name": "BBQ",
+          "plural_name": "BBQ Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13345,
+          "name": "Spanish Restaurant",
+          "short_name": "Spanish",
+          "plural_name": "Spanish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 21804,
+      "geocodes": {
+        "main": {
+          "latitude": 40.597125,
+          "longitude": -3.702323
+        },
+        "roof": {
+          "latitude": 40.597125,
+          "longitude": -3.702323
+        }
+      },
+      "link": "/v3/places/4bb103daf964a520f8723ce3",
+      "location": {
+        "address": "Sector Embarcaciones, 23",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Sector Embarcaciones, 23, 28760 Tres Cantos Comunidad de Madrid",
+        "locality": "Tres Cantos",
+        "postcode": "28760",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Casa Emeterio",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "53efba42498e57f6ca239e14",
+      "categories": [
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 20719,
+      "geocodes": {
+        "main": {
+          "latitude": 40.218728,
+          "longitude": -3.75749
+        },
+        "roof": {
+          "latitude": 40.218728,
+          "longitude": -3.75749
+        }
+      },
+      "link": "/v3/places/53efba42498e57f6ca239e14",
+      "location": {
+        "address": "Calle Planeta Jupiter, 8",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Avenida de los Planetas",
+        "formatted_address": "Calle Planeta Jupiter, 8 (Avenida de los Planetas), 28983 Parla Comunidad de Madrid",
+        "locality": "Parla",
+        "postcode": "28983",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "El templo de la cerveza",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.4010201,
+          "longitude": -3.7067751
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

@@ -1,0 +1,2816 @@
+{
+  "results": [
+    {
+      "fsq_id": "4dc66abe1f6ef43b8a2e462e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 699,
+      "geocodes": {
+        "main": {
+          "latitude": 40.396744,
+          "longitude": -3.712842
+        }
+      },
+      "link": "/v3/places/4dc66abe1f6ef43b8a2e462e",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Puente de Toledo",
+        "formatted_address": "Puente de Toledo, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid R\u00edo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b8aa4c2f964a5201d7732e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2657,
+      "geocodes": {
+        "main": {
+          "latitude": 40.414494,
+          "longitude": -3.68332
+        },
+        "roof": {
+          "latitude": 40.415198,
+          "longitude": -3.681546
+        }
+      },
+      "link": "/v3/places/4b8aa4c2f964a5201d7732e3",
+      "location": {
+        "address": "Plaza de la Independencia, 7",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Alcal\u00e1",
+        "formatted_address": "Plaza de la Independencia, 7 (C. Alcal\u00e1), 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque del Retiro",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5326e731498e591bbc11b95a",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puerta de Madrid de los Jardines del Buen Retiro"
+          },
+          {
+            "fsq_id": "4f855ef0e4b0ce71753afc6a",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Momumento a Cuba"
+          },
+          {
+            "fsq_id": "5326e825498ea621009608a9",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puerta de O'Donnell de los Jardines del Buen Retiro"
+          },
+          {
+            "fsq_id": "4e3f8b27d22d102e855d3542",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monumento del \u00c1ngel Ca\u00eddo"
+          },
+          {
+            "fsq_id": "4adcda37f964a5202b3c21e3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Palacio de Cristal del Retiro"
+          },
+          {
+            "fsq_id": "4da9810d8154abafc2948f8e",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rosaleda del Retiro"
+          },
+          {
+            "fsq_id": "4def79d9e4cdcd6c3f2a1034",
+            "categories": [
+              {
+                "id": 16033,
+                "name": "Dog Park",
+                "short_name": "Dog Park",
+                "plural_name": "Dog Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque para perros"
+          },
+          {
+            "fsq_id": "4c5ec1642815c928f456b867",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estanque del Retiro"
+          },
+          {
+            "fsq_id": "51d96eb8498ea979acd6aec9",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Las Estatuas"
+          },
+          {
+            "fsq_id": "5326e4dc498e78e019bf55a4",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardines de el Buen Retiro"
+          },
+          {
+            "fsq_id": "5326eacb498e7dc9e9bcc9d9",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puerta de S\u00e1inz de Baranda"
+          },
+          {
+            "fsq_id": "51f04055498ecba473fff2aa",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puerta de la Reina Mercedes del Parque del Retiro"
+          },
+          {
+            "fsq_id": "4f4e5adce4b052b87bdc40f9",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Paseo Coches"
+          },
+          {
+            "fsq_id": "57fa2573cd1057f32f05a2a6",
+            "categories": [
+              {
+                "id": 10032,
+                "name": "Night Club",
+                "short_name": "Night Club",
+                "plural_name": "Night Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13057,
+                "name": "Gastropub",
+                "short_name": "Gastropub",
+                "plural_name": "Gastropubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Florida Retiro"
+          },
+          {
+            "fsq_id": "4c3ee1c28d99b7139ff71a06",
+            "categories": [
+              {
+                "id": 15054,
+                "name": "Veterinarian",
+                "short_name": "Veterinarians",
+                "plural_name": "Veterinarians",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_veterinarian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gattos"
+          },
+          {
+            "fsq_id": "51122ba1e4b0cbaaccbb1c17",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ruinas de San Isidoro"
+          },
+          {
+            "fsq_id": "582db48a5b54794ca4a0ddce",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Palacio de Cristal"
+          },
+          {
+            "fsq_id": "4adcda39f964a520b13c21e3",
+            "categories": [
+              {
+                "id": 10028,
+                "name": "Art Museum",
+                "short_name": "Art Museum",
+                "plural_name": "Art Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Palacio de Vel\u00e1zquez"
+          },
+          {
+            "fsq_id": "4fa3aa056b74a85596326ade",
+            "categories": [
+              {
+                "id": 17035,
+                "name": "Drugstore",
+                "short_name": "Drugstore",
+                "plural_name": "Drugstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Farmacia Tr\u00e9bol Atocha"
+          },
+          {
+            "fsq_id": "4e6276311838ad3d0eceb6c9",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardines de Cecilio Rodr\u00edguez"
+          },
+          {
+            "fsq_id": "5cf6c738b9b37b002c8d6b06",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pabell\u00f3n de Florida Retiro"
+          },
+          {
+            "fsq_id": "526e27d911d2a3342d47716a",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puerta de Hernani"
+          },
+          {
+            "fsq_id": "5fa929b68567ce5f92b30750",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monumento a Benito Perez Gald\u00f3s"
+          },
+          {
+            "fsq_id": "4de8d228c65b72347a18a50a",
+            "categories": [
+              {
+                "id": 16018,
+                "name": "Harbor or Marina",
+                "short_name": "Harbor / Marina",
+                "plural_name": "Harbors or Marinas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Embarcadero del Retiro"
+          },
+          {
+            "fsq_id": "4d970457744f37041003c957",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monumento a Alfonso XII de Espa\u00f1a"
+          },
+          {
+            "fsq_id": "505c7bcdfe708416a0c5e61d",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fuente de la Alcachofa"
+          },
+          {
+            "fsq_id": "5c715d638ad62e002c78b4e8",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Gran Balanc\u00edn"
+          },
+          {
+            "fsq_id": "560f7c49498e45c037137430",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parque de Madrid"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdc5df8c79cc928063586e9",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 804,
+      "geocodes": {
+        "main": {
+          "latitude": 40.394509,
+          "longitude": -3.702607
+        }
+      },
+      "link": "/v3/places/4bdc5df8c79cc928063586e9",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Puente de Praga",
+        "formatted_address": "Puente de Praga, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid R\u00edo",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4dd912a2c65bee535ad9dd17",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque de la Arganzuela"
+        },
+        "children": [
+          {
+            "fsq_id": "58fe0b042bf9a977a7d3442d",
+            "categories": [
+              {
+                "id": 16043,
+                "name": "River",
+                "short_name": "River",
+                "plural_name": "Rivers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Paseo Madrid Rio Villaverde"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f4cd7bce4b03af96005451e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1214,
+      "geocodes": {
+        "main": {
+          "latitude": 40.39104,
+          "longitude": -3.70091
+        },
+        "roof": {
+          "latitude": 40.39104,
+          "longitude": -3.70091
+        }
+      },
+      "link": "/v3/places/4f4cd7bce4b03af96005451e",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Puente de la Princesa",
+        "formatted_address": "Puente de la Princesa, 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid R\u00edo",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5c317ff964a520fc2629e3",
+      "categories": [
+        {
+          "id": 17035,
+          "name": "Drugstore",
+          "short_name": "Drugstore",
+          "plural_name": "Drugstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1621,
+      "geocodes": {
+        "main": {
+          "latitude": 40.407368,
+          "longitude": -3.723195
+        },
+        "roof": {
+          "latitude": 40.407368,
+          "longitude": -3.723195
+        }
+      },
+      "link": "/v3/places/4b5c317ff964a520fc2629e3",
+      "location": {
+        "address": "Paseo de la Ermita del Santo, 14",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Puente de Segovia",
+        "formatted_address": "Paseo de la Ermita del Santo, 14 (Puente de Segovia), 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid R\u00edo",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda38f964a520673c21e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1428,
+      "geocodes": {
+        "main": {
+          "latitude": 40.412399,
+          "longitude": -3.714493
+        },
+        "roof": {
+          "latitude": 40.412399,
+          "longitude": -3.714493
+        }
+      },
+      "link": "/v3/places/4adcda38f964a520673c21e3",
+      "location": {
+        "address": "Plaza de Gabriel Mir\u00f3 s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Plaza de Gabriel Mir\u00f3 s/n, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Jardines de las Vistillas",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5fa948caab654d07e1dbcc9b",
+            "categories": [
+              {
+                "id": 13028,
+                "name": "Breakfast Spot",
+                "short_name": "Breakfast",
+                "plural_name": "Breakfast Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Eatmytrip"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bcd9319937ca5937ee5ac92",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2307,
+      "geocodes": {
+        "main": {
+          "latitude": 40.391459,
+          "longitude": -3.680685
+        },
+        "roof": {
+          "latitude": 40.391459,
+          "longitude": -3.680685
+        }
+      },
+      "link": "/v3/places/4bcd9319937ca5937ee5ac92",
+      "location": {
+        "address": "Calle Meneses, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de la Paz",
+        "formatted_address": "Calle Meneses, s/n (Av. de la Paz), 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Enrique Tierno Galv\u00e1n",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5ccf33429ba3e5002c5dc822",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago Parque Tierno Galv\u00e0n"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bd0490aa8b3a593058a635f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2667,
+      "geocodes": {
+        "main": {
+          "latitude": 40.423559,
+          "longitude": -3.717628
+        }
+      },
+      "link": "/v3/places/4bd0490aa8b3a593058a635f",
+      "location": {
+        "address": "Paseo del Pintor Rosales, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Paseo del Pintor Rosales, 2, 28008 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28008",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de la Monta\u00f1a",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdc5babfed22d7f92ca57c9",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3275,
+      "geocodes": {
+        "main": {
+          "latitude": 40.427961,
+          "longitude": -3.721874
+        },
+        "roof": {
+          "latitude": 40.427961,
+          "longitude": -3.721874
+        }
+      },
+      "link": "/v3/places/4bdc5babfed22d7f92ca57c9",
+      "location": {
+        "address": "P. del Pintor Rosales, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "P. del Pintor Rosales, s/n, 28008 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28008",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Rosaleda del parque del Oeste",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "6317108d63a3b67246a534f2",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monumento a Gral. Jose Artigas"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4deb9f2222713dd973b1c66f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2117,
+      "geocodes": {
+        "main": {
+          "latitude": 40.41643,
+          "longitude": -3.721523
+        }
+      },
+      "link": "/v3/places/4deb9f2222713dd973b1c66f",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Paseo de la Virgen del Puerto",
+        "formatted_address": "Paseo de la Virgen del Puerto, 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Jardines de la Virgen del Puerto",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b8a698ef964a520ca6b32e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3723,
+      "geocodes": {
+        "main": {
+          "latitude": 40.422383,
+          "longitude": -3.740673
+        }
+      },
+      "link": "/v3/places/4b8a698ef964a520ca6b32e3",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Casa de Campo",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4b76a11ef964a5205f552ee3",
+            "categories": [
+              {
+                "id": 18075,
+                "name": "Swimming Pool",
+                "short_name": "Pool",
+                "plural_name": "Swimming Pools",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago de la Casa de Campo"
+          },
+          {
+            "fsq_id": "63415a8637457c4c643d3048",
+            "categories": [
+              {
+                "id": 16015,
+                "name": "Forest",
+                "short_name": "Forest",
+                "plural_name": "Forests",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "El Bosque"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b5c7172f964a520163029e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3320,
+      "geocodes": {
+        "main": {
+          "latitude": 40.337916,
+          "longitude": -3.689088
+        },
+        "roof": {
+          "latitude": 40.337916,
+          "longitude": -3.689088
+        }
+      },
+      "link": "/v3/places/4b5c7172f964a520163029e3",
+      "location": {
+        "address": "Camino de Perales, 104",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Camino de Perales, 104, 28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Lineal del Manzanares",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bed572d75feef3b440197e6",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1524,
+      "geocodes": {
+        "main": {
+          "latitude": 40.399038,
+          "longitude": -3.724606
+        }
+      },
+      "link": "/v3/places/4bed572d75feef3b440197e6",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Pradera de San Isidro",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd7cf518877f1150ff240a3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4359,
+      "geocodes": {
+        "main": {
+          "latitude": 40.397525,
+          "longitude": -3.655556
+        }
+      },
+      "link": "/v3/places/4dd7cf518877f1150ff240a3",
+      "location": {
+        "address": "Calle de Benjamin Palencia, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Benjamin Palencia, 1, 28038 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28038",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de las Siete Tetas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d94b930ca3f6ea87c7cd034",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1347,
+      "geocodes": {
+        "main": {
+          "latitude": 40.400449,
+          "longitude": -3.722664
+        },
+        "roof": {
+          "latitude": 40.400449,
+          "longitude": -3.722664
+        }
+      },
+      "link": "/v3/places/4d94b930ca3f6ea87c7cd034",
+      "location": {
+        "address": "Avenida del Manzanares, 90-92",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida del Manzanares, 90-92, 28019 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28019",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Madrid R\u00edo - Sal\u00f3n de Pinos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdd8acad33f2d7fd91d8b3c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6545,
+      "geocodes": {
+        "main": {
+          "latitude": 40.45817,
+          "longitude": -3.720712
+        },
+        "roof": {
+          "latitude": 40.45817,
+          "longitude": -3.720712
+        }
+      },
+      "link": "/v3/places/4bdd8acad33f2d7fd91d8b3c",
+      "location": {
+        "address": "Carretera Dehesa de la Villa, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Carretera Dehesa de la Villa, 1, 28040 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28040",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Dehesa de la Villa",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda37f964a520153c21e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4550,
+      "geocodes": {
+        "main": {
+          "latitude": 40.424097,
+          "longitude": -3.661564
+        },
+        "roof": {
+          "latitude": 40.424097,
+          "longitude": -3.661564
+        }
+      },
+      "link": "/v3/places/4adcda37f964a520153c21e3",
+      "location": {
+        "address": "Alcalde Sainz de Baranda, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Alcalde Sainz de Baranda, s/n, 28028 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28028",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de la Quinta de la Fuente del Berro",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59b2e08cf96b2c7bd777a42b",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Monumento a Alexander Pushkin"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4dd912a2c65bee535ad9dd17",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 339,
+      "geocodes": {
+        "main": {
+          "latitude": 40.398362,
+          "longitude": -3.707546
+        },
+        "roof": {
+          "latitude": 40.398362,
+          "longitude": -3.707546
+        }
+      },
+      "link": "/v3/places/4dd912a2c65bee535ad9dd17",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de la Arganzuela",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bdc5df8c79cc928063586e9",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Madrid R\u00edo"
+          },
+          {
+            "fsq_id": "4d8f766e1716a1437d1a4bf7",
+            "categories": [
+              {
+                "id": 16006,
+                "name": "Bridge",
+                "short_name": "Bridge",
+                "plural_name": "Bridges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Puente monumental de Arganzuela"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdc5b69fed22d7f1cc957c9",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4533,
+      "geocodes": {
+        "main": {
+          "latitude": 40.441815,
+          "longitude": -3.70656
+        }
+      },
+      "link": "/v3/places/4bdc5b69fed22d7f1cc957c9",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28003 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28003",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Santander",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4be931cea117b7133d7d81c8",
+      "categories": [
+        {
+          "id": 15054,
+          "name": "Veterinarian",
+          "short_name": "Veterinarians",
+          "plural_name": "Veterinarians",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_veterinarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6085,
+      "geocodes": {
+        "main": {
+          "latitude": 40.450426,
+          "longitude": -3.675721
+        }
+      },
+      "link": "/v3/places/4be931cea117b7133d7d81c8",
+      "location": {
+        "address": "Pr\u00edncipe de Vergara, 210",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C/ de Marcenado",
+        "formatted_address": "Pr\u00edncipe de Vergara, 210 (C/ de Marcenado), 28002 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28002",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Berl\u00edn",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5326e731498e591bbc11b95a",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3045,
+      "geocodes": {
+        "main": {
+          "latitude": 40.420795,
+          "longitude": -3.681858
+        }
+      },
+      "link": "/v3/places/5326e731498e591bbc11b95a",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Puerta de Madrid de los Jardines del Buen Retiro",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b8aa4c2f964a5201d7732e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque del Retiro"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5326e4dc498e78e019bf55a4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2615,
+      "geocodes": {
+        "main": {
+          "latitude": 40.419537,
+          "longitude": -3.687677
+        }
+      },
+      "link": "/v3/places/5326e4dc498e78e019bf55a4",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Jardines de el Buen Retiro",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b8aa4c2f964a5201d7732e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque del Retiro"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda40f964a5208d3e21e3",
+      "categories": [
+        {
+          "id": 17018,
+          "name": "Bookstore",
+          "short_name": "Bookstore",
+          "plural_name": "Bookstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1690,
+      "geocodes": {
+        "main": {
+          "latitude": 40.409577,
+          "longitude": -3.691493
+        }
+      },
+      "link": "/v3/places/4adcda40f964a5208d3e21e3",
+      "location": {
+        "address": "Claudio Moyano, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Claudio Moyano, s/n, 28014 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28014",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Cuesta de Moyano",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5326dfba498ee418095d2f23",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2021,
+      "geocodes": {
+        "main": {
+          "latitude": 40.412829,
+          "longitude": -3.688602
+        }
+      },
+      "link": "/v3/places/5326dfba498ee418095d2f23",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Puerta de Murillo de los Jardines del Buen Retiro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "560f7c49498e45c037137430",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2317,
+      "geocodes": {
+        "main": {
+          "latitude": 40.416668,
+          "longitude": -3.688675
+        }
+      },
+      "link": "/v3/places/560f7c49498e45c037137430",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Madrid",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b8aa4c2f964a5201d7732e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Parque del Retiro"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ba632abf964a520cf3a39e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8168,
+      "geocodes": {
+        "main": {
+          "latitude": 40.443433,
+          "longitude": -3.627907
+        }
+      },
+      "link": "/v3/places/4ba632abf964a520cf3a39e3",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Quinta de los Molinos",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b530454c0af57002c619a1c",
+            "categories": [
+              {
+                "id": 12005,
+                "name": "Cultural Center",
+                "short_name": "Cultural Center",
+                "plural_name": "Cultural Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Espacio Abierto Quinta de los Molinos"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c23aabba852c92814e0e16c",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3796,
+      "geocodes": {
+        "main": {
+          "latitude": 40.411111,
+          "longitude": -3.749642
+        }
+      },
+      "link": "/v3/places/4c23aabba852c92814e0e16c",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Atracciones de Madrid",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4fafa858e4b0b84e1d177116",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Jungla"
+          },
+          {
+            "fsq_id": "4fe9e52ce4b0d1b38d3a5274",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tif\u00f3n"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ba4a0d6f964a5205ba838e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9309,
+      "geocodes": {
+        "main": {
+          "latitude": 40.455077,
+          "longitude": -3.626201
+        }
+      },
+      "link": "/v3/places/4ba4a0d6f964a5205ba838e3",
+      "location": {
+        "address": "Avenida del Machupichu, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida del Machupichu, 1, 28043 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28043",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Juan Pablo II",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bfc10f51be376b0c51bf8b4",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10818,
+      "geocodes": {
+        "main": {
+          "latitude": 40.460809,
+          "longitude": -3.605833
+        }
+      },
+      "link": "/v3/places/4bfc10f51be376b0c51bf8b4",
+      "location": {
+        "address": "Gta. S.A.R. Don Juan de Borbon y Battemberg, 5",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Gta. S.A.R. Don Juan de Borbon y Battemberg, 5, 28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Juan Carlos I",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4f023194b8f787cad350bdaa",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lago del Parque Juan Carlos I"
+          },
+          {
+            "fsq_id": "527f6da811d2365c88ce4ce4",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Estufa Fr\u00eda del Parque Juan Carlos I"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f6f520be4b056aa9465342a",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2169,
+      "geocodes": {
+        "main": {
+          "latitude": 40.420474,
+          "longitude": -3.70466
+        },
+        "roof": {
+          "latitude": 40.420474,
+          "longitude": -3.70466
+        }
+      },
+      "link": "/v3/places/4f6f520be4b056aa9465342a",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Madrid R\u00edo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bdc4ef02a3a0f47de3ab2b6",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4120,
+      "geocodes": {
+        "main": {
+          "latitude": 40.416427,
+          "longitude": -3.662581
+        },
+        "roof": {
+          "latitude": 40.416427,
+          "longitude": -3.662581
+        }
+      },
+      "link": "/v3/places/4bdc4ef02a3a0f47de3ab2b6",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Roma",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf90ed6bb5176b079815bb2",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6700,
+      "geocodes": {
+        "main": {
+          "latitude": 40.410584,
+          "longitude": -3.628595
+        }
+      },
+      "link": "/v3/places/4bf90ed6bb5176b079815bb2",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Fuente Carrantona",
+        "formatted_address": "Fuente Carrantona, 28030 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28030",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Forestal Fuente Carrantona",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5326e1f7498e46208e505e0b",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2323,
+      "geocodes": {
+        "main": {
+          "latitude": 40.416709,
+          "longitude": -3.688624
+        }
+      },
+      "link": "/v3/places/5326e1f7498e46208e505e0b",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Puerta de Espa\u00f1a de los Jardines del Buen Retiro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ff6100de4b0cdc6b7c8e71b",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3287,
+      "geocodes": {
+        "main": {
+          "latitude": 40.408497,
+          "longitude": -3.744462
+        },
+        "roof": {
+          "latitude": 40.408497,
+          "longitude": -3.744462
+        }
+      },
+      "link": "/v3/places/4ff6100de4b0cdc6b7c8e71b",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Recinto Ferial Casa de Campo",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "63820edda86096628217e4ca",
+            "categories": [
+              {
+                "id": 11029,
+                "name": "Convention Center",
+                "short_name": "Convention Center",
+                "plural_name": "Convention Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pabell\u00f3n de los Hex\u00e1gonos"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf7e0865317a5930bb0fe7e",
+      "categories": [
+        {
+          "id": 16034,
+          "name": "National Park",
+          "short_name": "National Park",
+          "plural_name": "National Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1784,
+      "geocodes": {
+        "main": {
+          "latitude": 40.414194,
+          "longitude": -3.718713
+        }
+      },
+      "link": "/v3/places/4bf7e0865317a5930bb0fe7e",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Atenas",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bf93cff508c0f470b243f31",
+            "categories": [
+              {
+                "id": 13007,
+                "name": "Beer Garden",
+                "short_name": "Beer Garden",
+                "plural_name": "Beer Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Terraza Atenas"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ba3a6e2f964a520415038e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8455,
+      "geocodes": {
+        "main": {
+          "latitude": 40.398065,
+          "longitude": -3.6069
+        },
+        "roof": {
+          "latitude": 40.398065,
+          "longitude": -3.6069
+        }
+      },
+      "link": "/v3/places/4ba3a6e2f964a520415038e3",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Valdebernardo",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d30e7b5d6e42c0fa4b0aa6c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2869,
+      "geocodes": {
+        "main": {
+          "latitude": 40.377936,
+          "longitude": -3.721962
+        }
+      },
+      "link": "/v3/places/4d30e7b5d6e42c0fa4b0aa6c",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Emperatriz Mar\u00eda de Austria",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bb8c9793db7b7135a9b219a",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7906,
+      "geocodes": {
+        "main": {
+          "latitude": 40.430616,
+          "longitude": -3.621798
+        }
+      },
+      "link": "/v3/places/4bb8c9793db7b7135a9b219a",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque el Paraiso",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f0c8d3de4b06b1f3ebb0121",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12249,
+      "geocodes": {
+        "main": {
+          "latitude": 40.494443,
+          "longitude": -3.617213
+        },
+        "roof": {
+          "latitude": 40.494443,
+          "longitude": -3.617213
+        }
+      },
+      "link": "/v3/places/4f0c8d3de4b06b1f3ebb0121",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28055 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28055",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque forestal de Valdebebas",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50af224fe4b0a0a3017b54df",
+      "categories": [
+        {
+          "id": 16026,
+          "name": "Monument",
+          "short_name": "Monument",
+          "plural_name": "Monuments",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2087,
+      "geocodes": {
+        "main": {
+          "latitude": 40.417102,
+          "longitude": -3.693909
+        }
+      },
+      "link": "/v3/places/50af224fe4b0a0a3017b54df",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Fuente de Apolo (Madrid)",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50da02fde4b088aa42a1c32f",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9957,
+      "geocodes": {
+        "main": {
+          "latitude": 40.47854,
+          "longitude": -3.647727
+        }
+      },
+      "link": "/v3/places/50da02fde4b088aa42a1c32f",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Santa Mar\u00eda",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c609815832fa5930326f0d3",
+      "categories": [
+        {
+          "id": 16038,
+          "name": "State or Provincial Park",
+          "short_name": "State / Provincial Park",
+          "plural_name": "State or Provincial Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18418,
+      "geocodes": {
+        "main": {
+          "latitude": 40.243357,
+          "longitude": -3.696003
+        },
+        "roof": {
+          "latitude": 40.243357,
+          "longitude": -3.696003
+        }
+      },
+      "link": "/v3/places/4c609815832fa5930326f0d3",
+      "location": {
+        "address": "Calle Pablo Picasso, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Pablo Picasso, s/n, 28320 Pinto Comunidad de Madrid",
+        "locality": "Pinto",
+        "postcode": "28320",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Juan Carlos I",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c5f0da4d25320a12a63ca7a",
+      "categories": [
+        {
+          "id": 10024,
+          "name": "Movie Theater",
+          "short_name": "Movie Theater",
+          "plural_name": "Movie Theaters",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3512,
+      "geocodes": {
+        "main": {
+          "latitude": 40.431408,
+          "longitude": -3.730096
+        },
+        "roof": {
+          "latitude": 40.426432,
+          "longitude": -3.731553
+        }
+      },
+      "link": "/v3/places/4c5f0da4d25320a12a63ca7a",
+      "location": {
+        "address": "P.\u00ba de la Senda del Rey, 82",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "P.\u00ba de la Senda del Rey, 82, 28008 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28008",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de la Bombilla",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bb48037737d76b0936c3b7c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 19440,
+      "geocodes": {
+        "main": {
+          "latitude": 40.510202,
+          "longitude": -3.886376
+        }
+      },
+      "link": "/v3/places/4bb48037737d76b0936c3b7c",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28232 Las Rozas Comunidad de Madrid",
+        "locality": "Las Rozas",
+        "postcode": "28232",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Dehesa de Navalcarb\u00f3n",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc0a91d4cdfc9b6dc2f9321",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 16303,
+      "geocodes": {
+        "main": {
+          "latitude": 40.536119,
+          "longitude": -3.632074
+        },
+        "roof": {
+          "latitude": 40.536119,
+          "longitude": -3.632074
+        }
+      },
+      "link": "/v3/places/4bc0a91d4cdfc9b6dc2f9321",
+      "location": {
+        "address": "Avenida Ol\u00edmpica Con Una Superficie de 180.000",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Ol\u00edmpica Con Una Superficie de 180.000, 28108 Alcobendas Comunidad de Madrid",
+        "locality": "Alcobendas",
+        "postcode": "28108",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Jard\u00edn de la Vega",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf8fc53508c0f47d6fd3e31",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 22981,
+      "geocodes": {
+        "main": {
+          "latitude": 40.607803,
+          "longitude": -3.708941
+        }
+      },
+      "link": "/v3/places/4bf8fc53508c0f47d6fd3e31",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28760 Tres Cantos Comunidad de Madrid",
+        "locality": "Tres Cantos",
+        "postcode": "28760",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Central",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cfb93077945224b5ad286e7",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2889,
+      "geocodes": {
+        "main": {
+          "latitude": 40.375005,
+          "longitude": -3.707662
+        }
+      },
+      "link": "/v3/places/4cfb93077945224b5ad286e7",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de los Poblados",
+        "formatted_address": "Av. de los Poblados, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Pradolongo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c59c1b9d3aee21e66066955",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6067,
+      "geocodes": {
+        "main": {
+          "latitude": 40.437174,
+          "longitude": -3.651221
+        },
+        "roof": {
+          "latitude": 40.437174,
+          "longitude": -3.651221
+        }
+      },
+      "link": "/v3/places/4c59c1b9d3aee21e66066955",
+      "location": {
+        "address": "Virgen de la Alegr\u00eda, 30",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Virgen de Lluc",
+        "formatted_address": "Virgen de la Alegr\u00eda, 30 (C. Virgen de Lluc), 28027 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28027",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque de Calero",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59d908380a464d2a78c24608",
+            "categories": [
+              {
+                "id": 11007,
+                "name": "Auditorium",
+                "short_name": "Auditorium",
+                "plural_name": "Auditoriums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/auditorium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Auditorio Parque del Calero"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cd529f6ab19a093878e3deb",
+      "categories": [
+        {
+          "id": 15011,
+          "name": "Healthcare Clinic",
+          "short_name": "Healthcare Clinic",
+          "plural_name": "Healthcare Clinics",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5973,
+      "geocodes": {
+        "main": {
+          "latitude": 40.442575,
+          "longitude": -3.663412
+        },
+        "roof": {
+          "latitude": 40.442575,
+          "longitude": -3.663412
+        }
+      },
+      "link": "/v3/places/4cd529f6ab19a093878e3deb",
+      "location": {
+        "address": "Avenida Bruselas, 74",
+        "address_extended": "Local",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de Badajoz",
+        "formatted_address": "Avenida Bruselas, 74 (Av. de Badajoz), 28028 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28028",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Clinica Parque de las Avenidas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4e181d29183880768f3d7df5",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 18203,
+      "geocodes": {
+        "main": {
+          "latitude": 40.326968,
+          "longitude": -3.898524
+        }
+      },
+      "link": "/v3/places/4e181d29183880768f3d7df5",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "28935 M\u00f3stoles Comunidad de Madrid",
+        "locality": "M\u00f3stoles",
+        "postcode": "28935",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Parque Natural el Soto",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.4010201,
+          "longitude": -3.7067751
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

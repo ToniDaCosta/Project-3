@@ -1,0 +1,4767 @@
+{
+  "results": [
+    {
+      "fsq_id": "4adcda0af964a520243421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1537,
+      "geocodes": {
+        "main": {
+          "latitude": 48.822405,
+          "longitude": 2.338169
+        }
+      },
+      "link": "/v3/places/4adcda0af964a520243421e3",
+      "location": {
+        "address": "37 boulevard Jourdan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "37 boulevard Jourdan, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Montsouris",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5bc241013731ee0039349d41",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Statue \u00c9questre du G\u00e9n\u00e9ral Jos\u00e9 de San Martin"
+          },
+          {
+            "fsq_id": "4ebfe23be5fae16464837080",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Guignol"
+          },
+          {
+            "fsq_id": "6038db24cd5de5661b04fa3a",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Colonne de la Paix Arm\u00e9e"
+          },
+          {
+            "fsq_id": "592ad5976a595012a66d6e74",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Montagne du Parc Montsouris"
+          },
+          {
+            "fsq_id": "4db19ff50cb6442b2ecd2744",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Man\u00e8ge du Parc Montsouris"
+          },
+          {
+            "fsq_id": "5068691ee4b007c938067f52",
+            "categories": [
+              {
+                "id": 16048,
+                "name": "Stable",
+                "short_name": "Stable",
+                "plural_name": "Stables",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/stable_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Poney de Montsouris"
+          },
+          {
+            "fsq_id": "50686eace4b02149dffeb7fc",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kiosque du Parc Montsouris"
+          },
+          {
+            "fsq_id": "4db2ba7a5da3a76f44188c0a",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavillon Montsouris"
+          },
+          {
+            "fsq_id": "4c4ef454d667d13a2ccc3fa1",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cedrus Libani"
+          },
+          {
+            "fsq_id": "5b6989bab3d8e20033c9f1f6",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Thomas Paine"
+          },
+          {
+            "fsq_id": "4ca8abb5d971b1f77db816e1",
+            "categories": [
+              {
+                "id": 13382,
+                "name": "Snack Place",
+                "short_name": "Snacks",
+                "plural_name": "Snack Places",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Bonbonni\u00e8re"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dd7daae7d8b322663f9a365",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1983,
+      "geocodes": {
+        "main": {
+          "latitude": 48.818448,
+          "longitude": 2.337407
+        }
+      },
+      "link": "/v3/places/4dd7daae7d8b322663f9a365",
+      "location": {
+        "address": "Cit\u00e9 Internationale Universitaire",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "Cit\u00e9 Internationale Universitaire, 75014 Paris",
+        "locality": "Paris",
+        "postcode": "75014",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de la Cit\u00e9 Internationale Universitaire",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b80088cf964a520684c30e3",
+          "categories": [
+            {
+              "id": 12013,
+              "name": "College and University",
+              "short_name": "College & Education",
+              "plural_name": "Colleges and Universities",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 12035,
+              "name": "College Residence Hall",
+              "short_name": "Residence Hall",
+              "plural_name": "College Residence Halls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/residencehall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Cit\u00e9 Internationale Universitaire"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bcb34b03740b7130ef46165",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 744,
+      "geocodes": {
+        "main": {
+          "latitude": 48.832521,
+          "longitude": 2.349628
+        }
+      },
+      "link": "/v3/places/4bcb34b03740b7130ef46165",
+      "location": {
+        "address": "28 rue de Croulebarbe",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "28 rue de Croulebarbe, 75013 Paris",
+        "locality": "Paris",
+        "postcode": "75013",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Ren\u00e9 le Gall",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b93cba4f964a520155234e3",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3463,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864365,
+          "longitude": 2.360679
+        },
+        "roof": {
+          "latitude": 48.864365,
+          "longitude": 2.360679
+        }
+      },
+      "link": "/v3/places/4b93cba4f964a520155234e3",
+      "location": {
+        "address": "64 rue de Bretagne",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "64 rue de Bretagne, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square du Temple",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda09f964a5200d3421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5346,
+      "geocodes": {
+        "main": {
+          "latitude": 48.879446,
+          "longitude": 2.309156
+        }
+      },
+      "link": "/v3/places/4adcda09f964a5200d3421e3",
+      "location": {
+        "address": "35 boulevard de Courcelles, 8e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Avenue Ferdousi",
+        "formatted_address": "35 boulevard de Courcelles, 8e (Avenue Ferdousi), 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Monceau",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59903dc12955134db1b8057e",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Man\u00e8ge du Parc Monceau"
+          },
+          {
+            "fsq_id": "6404dc0ed57d451c3bcc2217",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Colonnes du Parc Monceau"
+          },
+          {
+            "fsq_id": "517a326b498e3d70404b36c2",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de jeux du Parc Monceau"
+          },
+          {
+            "fsq_id": "6404dbec5e62965778c38974",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lac du Parc Monceau"
+          },
+          {
+            "fsq_id": "6404dbedd57d451c3bcb9d95",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lac du Parc Monceau"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda09f964a520113421e3",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5709,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.87953,
+          "longitude": 2.389253
+        },
+        "main": {
+          "latitude": 48.87941,
+          "longitude": 2.389255
+        },
+        "roof": {
+          "latitude": 48.87941,
+          "longitude": 2.389255
+        }
+      },
+      "link": "/v3/places/4adcda09f964a520113421e3",
+      "location": {
+        "address": "rue Botzaris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de Crim\u00e9e",
+        "formatted_address": "rue Botzaris (Rue de Crim\u00e9e), 75019 Paris",
+        "locality": "Paris",
+        "postcode": "75019",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Boulangerie des Buttes Chaumont (Parc des Buttes-Chaumont)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4d99ebf1647d8cfa810e133e",
+            "categories": [
+              {
+                "id": 16052,
+                "name": "Waterfall",
+                "short_name": "Waterfall",
+                "plural_name": "Waterfalls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cascade des Buttes-Chaumont"
+          },
+          {
+            "fsq_id": "4bf1941878cec9287592ba86",
+            "categories": [
+              {
+                "id": 13152,
+                "name": "Brasserie",
+                "short_name": "Brasserie",
+                "plural_name": "Brasseries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Pavillon du Lac"
+          },
+          {
+            "fsq_id": "4e3d69921495bf24a5d9d4a5",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Man\u00e8ge des Lutins"
+          },
+          {
+            "fsq_id": "4e8727f2b8038b8a95598b6a",
+            "categories": [
+              {
+                "id": 10010,
+                "name": "Comedy Club",
+                "short_name": "Comedy Club",
+                "plural_name": "Comedy Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/comedyclub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Th\u00e9\u00e2tre Guignol Anatole"
+          },
+          {
+            "fsq_id": "4e5669e81495eb38e2078826",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Pirates du XIXe"
+          },
+          {
+            "fsq_id": "4e1b174fa8099b42ff88d945",
+            "categories": [
+              {
+                "id": 10010,
+                "name": "Comedy Club",
+                "short_name": "Comedy Club",
+                "plural_name": "Comedy Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/comedyclub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Guignol de Paris"
+          },
+          {
+            "fsq_id": "4e491804aeb70e74f4b621fe",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Belv\u00e9d\u00e8re des Buttes-Chaumont"
+          },
+          {
+            "fsq_id": "4adcda08f964a5209f3321e3",
+            "categories": [
+              {
+                "id": 13347,
+                "name": "Tapas Restaurant",
+                "short_name": "Tapas",
+                "plural_name": "Tapas Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rosa Bonheur"
+          },
+          {
+            "fsq_id": "56111361498eafe580a5cebe",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de jeu"
+          },
+          {
+            "fsq_id": "5047a483e4b0bc62e44c143c",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lac des Buttes-Chaumont"
+          },
+          {
+            "fsq_id": "4ba336f4f964a520323038e3",
+            "categories": [
+              {
+                "id": 13016,
+                "name": "Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13145,
+                "name": "Fast Food Restaurant",
+                "short_name": "Fast Food",
+                "plural_name": "Fast Food Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Pavillon Puebla"
+          },
+          {
+            "fsq_id": "4f3a03e4e4b026b7f6c2aa69",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Temple de la Sibylle"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4af7347af964a520230722e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2988,
+      "geocodes": {
+        "main": {
+          "latitude": 48.832582,
+          "longitude": 2.300393
+        },
+        "roof": {
+          "latitude": 48.832582,
+          "longitude": 2.300393
+        }
+      },
+      "link": "/v3/places/4af7347af964a520230722e3",
+      "location": {
+        "address": "2 place Jacques-Marette, rue de Dantzig",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Brancion",
+        "formatted_address": "2 place Jacques-Marette, rue de Dantzig (Rue Brancion), 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Georges Brassens",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5fdf6dbd22667940b04ef8cc",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de Jeux du Parc Georges Brassens"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e19b476d4c062b044f3ec27",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4195,
+      "geocodes": {
+        "main": {
+          "latitude": 48.869009,
+          "longitude": 2.312557
+        }
+      },
+      "link": "/v3/places/4e19b476d4c062b044f3ec27",
+      "location": {
+        "address": "avenue des Champs-\u00c9lys\u00e9es",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "avenue des Champs-\u00c9lys\u00e9es, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Marigny",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a520fe3321e3",
+          "categories": [
+            {
+              "id": 16017,
+              "name": "Garden",
+              "short_name": "Garden",
+              "plural_name": "Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Jardins des Champs-\u00c9lys\u00e9es"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda09f964a520123421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4852,
+      "geocodes": {
+        "main": {
+          "latitude": 48.840212,
+          "longitude": 2.277744
+        },
+        "roof": {
+          "latitude": 48.840212,
+          "longitude": 2.277744
+        }
+      },
+      "link": "/v3/places/4adcda09f964a520123421e3",
+      "location": {
+        "address": "2 rue de la Montagne de la Fage",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "2 rue de la Montagne de la Fage, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Andr\u00e9-Citro\u00ebn",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "58ea59333cccc6401e09149c",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin Bleu"
+          },
+          {
+            "fsq_id": "4adcda0bf964a520773421e3",
+            "categories": [
+              {
+                "id": 10058,
+                "name": "Attraction",
+                "short_name": "Attraction",
+                "plural_name": "Attractions",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ballon de Paris"
+          },
+          {
+            "fsq_id": "52371df811d25a1ccddfc907",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fontaine d'eau p\u00e9tillante"
+          },
+          {
+            "fsq_id": "565198e7498e376aad2af085",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Buvette du Parc"
+          },
+          {
+            "fsq_id": "5a4265c7b9ac380c708cd813",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sparkling Water Fountain"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4cb1ac75aef16dcb6134bb54",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2076,
+      "geocodes": {
+        "main": {
+          "latitude": 48.850421,
+          "longitude": 2.359532
+        },
+        "roof": {
+          "latitude": 48.850421,
+          "longitude": 2.359532
+        }
+      },
+      "link": "/v3/places/4cb1ac75aef16dcb6134bb54",
+      "location": {
+        "address": "5 boulevard Henri IV",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "5 boulevard Henri IV, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Barye",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc0b864b492d13ad8b9a460",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3862,
+      "geocodes": {
+        "main": {
+          "latitude": 48.844794,
+          "longitude": 2.289721
+        },
+        "roof": {
+          "latitude": 48.844794,
+          "longitude": 2.289721
+        }
+      },
+      "link": "/v3/places/4bc0b864b492d13ad8b9a460",
+      "location": {
+        "address": "4 place Violet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "4 place Violet, 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Violet",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0af964a520203421e3",
+      "categories": [
+        {
+          "id": 16039,
+          "name": "Urban Park",
+          "short_name": "Urban Park",
+          "plural_name": "Urban Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7216,
+      "geocodes": {
+        "main": {
+          "latitude": 48.892735,
+          "longitude": 2.39034
+        },
+        "roof": {
+          "latitude": 48.891388,
+          "longitude": 2.390422
+        }
+      },
+      "link": "/v3/places/4adcda0af964a520203421e3",
+      "location": {
+        "address": "211 avenue Jean Jaur\u00e8s",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "211 avenue Jean Jaur\u00e8s, 75019 Paris",
+        "locality": "Paris",
+        "postcode": "75019",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de la Villette",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4e6b8251483bf2d9e6b0f913",
+            "categories": [
+              {
+                "id": 16048,
+                "name": "Stable",
+                "short_name": "Stable",
+                "plural_name": "Stables",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/stable_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centre Equestre"
+          },
+          {
+            "fsq_id": "4befc641c8d920a11d219430",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin des Dunes et des Vents"
+          },
+          {
+            "fsq_id": "5ac7e6ef16fa0438cdcd69ea",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Hall de la Chanson"
+          },
+          {
+            "fsq_id": "5b79a81e78782c002c3f276d",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Prairie du Cercle Nord"
+          },
+          {
+            "fsq_id": "4bc773712f94d13ac3f3117f",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cabaret Sauvage"
+          },
+          {
+            "fsq_id": "4bd9dd42c79cc92884557ce9",
+            "categories": [
+              {
+                "id": 10026,
+                "name": "Indie Movie Theater",
+                "short_name": "Indie Movies",
+                "plural_name": "Indie Movie Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La P\u00e9niche Cin\u00e9ma"
+          },
+          {
+            "fsq_id": "5bc1c317a35dce002cbe00cd",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Folie caf\u00e9"
+          },
+          {
+            "fsq_id": "528e186711d24afc4e1a9d19",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavillon Janvier"
+          },
+          {
+            "fsq_id": "4adcda1cf964a520043921e3",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Z\u00e9nith Paris"
+          },
+          {
+            "fsq_id": "55e84e04498eb90f7c6cf5f9",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13026,
+                "name": "BBQ Joint",
+                "short_name": "BBQ",
+                "plural_name": "BBQ Joints",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13027,
+                "name": "Bistro",
+                "short_name": "Bistro",
+                "plural_name": "Bistros",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u00c0 la Folie"
+          },
+          {
+            "fsq_id": "534eb2a3498e832558679089",
+            "categories": [
+              {
+                "id": 16006,
+                "name": "Bridge",
+                "short_name": "Bridge",
+                "plural_name": "Bridges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pont Folie \u00e9changeur"
+          },
+          {
+            "fsq_id": "4bc967a63740b7136ac25e65",
+            "categories": [
+              {
+                "id": 17018,
+                "name": "Bookstore",
+                "short_name": "Bookstore",
+                "plural_name": "Bookstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Librairie du Parc-Actes Sud"
+          },
+          {
+            "fsq_id": "4e4ea97be4cdc76dc9a5c9ca",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pont flottant mobile"
+          },
+          {
+            "fsq_id": "4adcda0cf964a520fa3421e3",
+            "categories": [
+              {
+                "id": 10037,
+                "name": "Concert Hall",
+                "short_name": "Concert Hall",
+                "plural_name": "Concert Halls",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10042,
+                "name": "Opera House",
+                "short_name": "Opera House",
+                "plural_name": "Opera Houses",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_operahouse_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grande Halle de la Villette"
+          },
+          {
+            "fsq_id": "4c41a17ea5c5ef3b1548b06f",
+            "categories": [
+              {
+                "id": 10026,
+                "name": "Indie Movie Theater",
+                "short_name": "Indie Movies",
+                "plural_name": "Indie Movie Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cin\u00e9ma en plein air"
+          },
+          {
+            "fsq_id": "4c1ce96bb9f876b05da07c46",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Carrousel Jules Verne"
+          },
+          {
+            "fsq_id": "4adcda0cf964a520ff3421e3",
+            "categories": [
+              {
+                "id": 10004,
+                "name": "Art Gallery",
+                "short_name": "Art Gallery",
+                "plural_name": "Art Galleries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11029,
+                "name": "Convention Center",
+                "short_name": "Convention Center",
+                "plural_name": "Convention Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavillon Paul Delouvrier"
+          },
+          {
+            "fsq_id": "5b0aeae1b399f7002c270be3",
+            "categories": [
+              {
+                "id": 13007,
+                "name": "Beer Garden",
+                "short_name": "Beer Garden",
+                "plural_name": "Beer Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin 21"
+          },
+          {
+            "fsq_id": "4adcda15f964a520a63721e3",
+            "categories": [
+              {
+                "id": 10000,
+                "name": "Arts and Entertainment",
+                "short_name": "Arts & Entertainment",
+                "plural_name": "Arts and Entertainment",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cit\u00e9 de la Musique"
+          },
+          {
+            "fsq_id": "5b548cc5dff815002ca3b46a",
+            "categories": [
+              {
+                "id": 11092,
+                "name": "Landscaper and Gardener",
+                "short_name": "Landscaper and Gardener",
+                "plural_name": "Landscaper and Gardeners",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin des Miroirs"
+          },
+          {
+            "fsq_id": "62dbde3ea71cde0027804550",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le jardin des Bambous"
+          },
+          {
+            "fsq_id": "5dff307693cebf00082a6698",
+            "categories": [
+              {
+                "id": 11038,
+                "name": "Event Service",
+                "short_name": "Event Services",
+                "plural_name": "Event Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/event/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Centre des Congr\u00e9s de la Villette"
+          },
+          {
+            "fsq_id": "537b9db2498e18d3f1421dcd",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13057,
+                "name": "Gastropub",
+                "short_name": "Gastropub",
+                "plural_name": "Gastropubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Petite Halle"
+          },
+          {
+            "fsq_id": "5f358a9a76cccc2689aed6b9",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Prairie du Triangle"
+          },
+          {
+            "fsq_id": "5cefc9b800b068002d09a96f",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Belle Brochette"
+          },
+          {
+            "fsq_id": "5561ec70498e887e77157708",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Jardin du Dragon"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bf6ddba5ec320a1eeea85d3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1966,
+      "geocodes": {
+        "main": {
+          "latitude": 48.852297,
+          "longitude": 2.350694
+        },
+        "roof": {
+          "latitude": 48.852297,
+          "longitude": 2.350694
+        }
+      },
+      "link": "/v3/places/4bf6ddba5ec320a1eeea85d3",
+      "location": {
+        "address": "1 Square Jean XXIII",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Derri\u00e8re la Cath\u00e9drale",
+        "formatted_address": "1 Square Jean XXIII (Derri\u00e8re la Cath\u00e9drale), 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Jean XXIII",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bae473bf964a5205e9c3be3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8058,
+      "geocodes": {
+        "main": {
+          "latitude": 48.769535,
+          "longitude": 2.297856
+        }
+      },
+      "link": "/v3/places/4bae473bf964a5205e9c3be3",
+      "location": {
+        "address": "domaine Parc de Sceaux",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "domaine Parc de Sceaux, 92330 Sceaux",
+        "locality": "Sceaux",
+        "postcode": "92330",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de Sceaux",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59abef195a2c9117f361c4fc",
+            "categories": [
+              {
+                "id": 16009,
+                "name": "Canal",
+                "short_name": "Canal",
+                "plural_name": "Canals",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grand Canal"
+          },
+          {
+            "fsq_id": "4b926cccf964a52089f833e3",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Orangerie"
+          },
+          {
+            "fsq_id": "60c48caf5a015a5b35989b40",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bosquet Nord"
+          },
+          {
+            "fsq_id": "4c6d0b80e6b7b1f7708da88e",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bassin de l'Octogone"
+          },
+          {
+            "fsq_id": "5172b86ee4b0773c5e581a7a",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cerisiers Japonais"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "58e0f18f561ded7abcbbbd01",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2279,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.855758,
+          "longitude": 2.351511
+        },
+        "main": {
+          "latitude": 48.855433,
+          "longitude": 2.35139
+        }
+      },
+      "link": "/v3/places/58e0f18f561ded7abcbbbd01",
+      "location": {
+        "address": "Quais de Seine",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "Quais de Seine, 75000 Paris",
+        "locality": "Paris",
+        "postcode": "75000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Rives de Seine",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "58d800df9435a979b8a645fa",
+            "categories": [
+              {
+                "id": 16040,
+                "name": "Pedestrian Plaza",
+                "short_name": "Pedestrian Street/Plaza",
+                "plural_name": "Pedestrian Plazas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Berges de Seine \u2013 Rive droite"
+          },
+          {
+            "fsq_id": "4cc12b69873c236abc55b723",
+            "categories": [
+              {
+                "id": 16040,
+                "name": "Pedestrian Plaza",
+                "short_name": "Pedestrian Street/Plaza",
+                "plural_name": "Pedestrian Plazas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Berges de Seine \u2013 Rive gauche"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c8660e8d92ea09381b06d72",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5176,
+      "geocodes": {
+        "main": {
+          "latitude": 48.830769,
+          "longitude": 2.270565
+        }
+      },
+      "link": "/v3/places/4c8660e8d92ea09381b06d72",
+      "location": {
+        "address": "Parc Suzanne Lenglen",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "2 Rue Louis Armand",
+        "formatted_address": "Parc Suzanne Lenglen (2 Rue Louis Armand), 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc omnisports Suzanne Lenglen",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "603fb16c830fb2152df05403",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire Multijeux"
+          },
+          {
+            "fsq_id": "627a775603e634412ffddb75",
+            "categories": [
+              {
+                "id": 10051,
+                "name": "Stadium",
+                "short_name": "Stadium",
+                "plural_name": "Stadiums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Terrain de Baseball"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda23f964a520543a21e3",
+      "categories": [
+        {
+          "id": 10001,
+          "name": "Amusement Park",
+          "short_name": "Amusement Park",
+          "plural_name": "Amusement Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 7306,
+      "geocodes": {
+        "main": {
+          "latitude": 48.878265,
+          "longitude": 2.264281
+        },
+        "roof": {
+          "latitude": 48.878265,
+          "longitude": 2.264281
+        }
+      },
+      "link": "/v3/places/4adcda23f964a520543a21e3",
+      "location": {
+        "address": "45 avenue du Mahatma Gandhi",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "All\u00e9e des \u00c9rables",
+        "formatted_address": "45 avenue du Mahatma Gandhi (All\u00e9e des \u00c9rables), 92200 Paris",
+        "locality": "Paris",
+        "postcode": "92200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Jardin d'Acclimatation",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a520093421e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Boulogne"
+        },
+        "children": [
+          {
+            "fsq_id": "4b335b2ff964a520d91825e3",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Pavillon des Oiseaux"
+          },
+          {
+            "fsq_id": "55e32278498eeeb0794be1b4",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gondoles Chinoises"
+          },
+          {
+            "fsq_id": "4e882dc561af78e56049cb1a",
+            "categories": [
+              {
+                "id": 16048,
+                "name": "Stable",
+                "short_name": "Stable",
+                "plural_name": "Stables",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/stable_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 18012,
+                "name": "Equestrian Facility",
+                "short_name": "Equestrian Facility",
+                "plural_name": "Equestrian Facilities",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Club Hippique du Jardin"
+          },
+          {
+            "fsq_id": "4dd8faabe4cd37c893d13941",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Terrasses du Jardin"
+          },
+          {
+            "fsq_id": "5131c354e4b0dbd9eca2e9e7",
+            "categories": [
+              {
+                "id": 12000,
+                "name": "Community and Government",
+                "short_name": "Community and Government",
+                "plural_name": "Communities and Government",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Gymboree"
+          },
+          {
+            "fsq_id": "4e60dfef1495676d550a684c",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jeu d'eau"
+          },
+          {
+            "fsq_id": "629de8edca22f32b509f8e3b",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Speed Rockets"
+          },
+          {
+            "fsq_id": "5cc9773ccabcff002c40e146",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les As du Volant"
+          },
+          {
+            "fsq_id": "58e8ef4cd4ab7360a8deadd1",
+            "categories": [
+              {
+                "id": 13041,
+                "name": "Creperie",
+                "short_name": "Creperie",
+                "plural_name": "Creperies",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/creperie_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Man\u00e8ge Gourmand"
+          },
+          {
+            "fsq_id": "629b6a5a383124527034696f",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Ronde des Barques"
+          },
+          {
+            "fsq_id": "5cc9890c993981002b18585b",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Caf\u00e9 \u00c0 Vapeur"
+          },
+          {
+            "fsq_id": "4e3e8e3218a83d5b2852ffa0",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Rivi\u00e8re Enchant\u00e9e"
+          },
+          {
+            "fsq_id": "4df4deb4483bdb5e1378ffed",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Angelina"
+          },
+          {
+            "fsq_id": "625eb88cca22f55ac7173824",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin de S\u00e9oul"
+          },
+          {
+            "fsq_id": "629b79553406df5ec49cb0b3",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Kiosque Churros"
+          },
+          {
+            "fsq_id": "629b64c1bb2edb7b55242e03",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Kiosque de la Pataugeoire"
+          },
+          {
+            "fsq_id": "636116f854d1ec76bb7de632",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Trampolines"
+          },
+          {
+            "fsq_id": "5550a204498ef148a0fe365f",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Petit Pavillon du Jardin"
+          },
+          {
+            "fsq_id": "4e97f6dee5fab92b219e0804",
+            "categories": [
+              {
+                "id": 11039,
+                "name": "Event Space",
+                "short_name": "Event Space",
+                "plural_name": "Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Palais d'Hiver"
+          },
+          {
+            "fsq_id": "629b4558646114421230b379",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Bateaux Volants"
+          },
+          {
+            "fsq_id": "5cc9b449471d6e002c433cba",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Rivi\u00e8re des Ch\u00e8vres"
+          },
+          {
+            "fsq_id": "629b6392de9a24312b9b0da9",
+            "categories": [
+              {
+                "id": 13053,
+                "name": "Food Stand",
+                "short_name": "Food Stand",
+                "plural_name": "Food Stands",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Kiosque de L\u2019orangeraie"
+          },
+          {
+            "fsq_id": "5cc9ac763d4791002cacbeaf",
+            "categories": [
+              {
+                "id": 13007,
+                "name": "Beer Garden",
+                "short_name": "Beer Garden",
+                "plural_name": "Beer Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Table de Jules Gouff\u00e9"
+          },
+          {
+            "fsq_id": "638224e6ec0ebb5c51d14ebb",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Side Cars"
+          },
+          {
+            "fsq_id": "5db6fce444d95f0008f97853",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Chaises Volantes"
+          },
+          {
+            "fsq_id": "4bd8279af645c9b68f38a7e0",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Petit Train du Jardin d'Acclimatation"
+          },
+          {
+            "fsq_id": "6382284a34ea5d0bbc7f0b97",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Kinetorium"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0af964a520253421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5075,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871005,
+          "longitude": 2.384839
+        }
+      },
+      "link": "/v3/places/4adcda0af964a520253421e3",
+      "location": {
+        "address": "47 rue des Couronnes",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "47 rue des Couronnes, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de Belleville",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "52238e9f11d23005314e0730",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Belv\u00e9d\u00e8re de Belleville"
+          },
+          {
+            "fsq_id": "640f52ba0731391f39adfc2c",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lieux O\u00f9 S'\u00e9levait la Premi\u00e8re Maison de Georges Perec"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c0a8019bbc676b0fbe649d5",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3050,
+      "geocodes": {
+        "main": {
+          "latitude": 48.8578,
+          "longitude": 2.315748
+        },
+        "roof": {
+          "latitude": 48.8578,
+          "longitude": 2.315748
+        }
+      },
+      "link": "/v3/places/4c0a8019bbc676b0fbe649d5",
+      "location": {
+        "address": "127 rue de Grenelle",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "127 rue de Grenelle, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square d'Ajaccio",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc1d0f3461576b06e597c32",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9074,
+      "geocodes": {
+        "main": {
+          "latitude": 48.833283353596606,
+          "longitude": 2.2168779373168945
+        }
+      },
+      "link": "/v3/places/4bc1d0f3461576b06e597c32",
+      "location": {
+        "address": "1 avenue de la Grille d'Honneur",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "1 avenue de la Grille d'Honneur, 92210 Saint-Cloud",
+        "locality": "Saint-Cloud",
+        "postcode": "92210",
+        "region": "\u00cele-de-France"
+      },
+      "name": "National Estate of Saint-Cloud (Domaine National de Saint-Cloud)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "516a93a8e4b032fb3da991f5",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lanterne du Domaine National de Saint-Cloud"
+          },
+          {
+            "fsq_id": "5af47946b1ec13002cc72dfe",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Terrasse du Ch\u00e2teau"
+          },
+          {
+            "fsq_id": "5f82c883052731613c676a61",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bassin de la Grande Gerbe"
+          },
+          {
+            "fsq_id": "59468e01002f4c7029e4d0b2",
+            "categories": [
+              {
+                "id": 16023,
+                "name": "Lake",
+                "short_name": "Lake",
+                "plural_name": "Lakes",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bassin du Grand Jet"
+          },
+          {
+            "fsq_id": "53134f94498e621bab74eaf7",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Pavillon des 24 Jets"
+          },
+          {
+            "fsq_id": "5946914093bd6376163db420",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grande Cascade"
+          },
+          {
+            "fsq_id": "5d0518b459b5a4002372a503",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de Jeux du Parc de Saint Cloud"
+          },
+          {
+            "fsq_id": "5415a7c2498e9e1a5e40542d",
+            "categories": [
+              {
+                "id": 11092,
+                "name": "Landscaper and Gardener",
+                "short_name": "Landscaper and Gardener",
+                "plural_name": "Landscaper and Gardeners",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin du Trocad\u00e9ro"
+          },
+          {
+            "fsq_id": "57b31de9498e16529bae27fa",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Brumaire"
+          },
+          {
+            "fsq_id": "604cb168a0f2e93f4ebc48ec",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin d'apollon"
+          },
+          {
+            "fsq_id": "5f019559657a566e94136226",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L'Orangerie"
+          },
+          {
+            "fsq_id": "6390cb0ba5ddb81eb0843caa",
+            "categories": [
+              {
+                "id": 11131,
+                "name": "Outdoor Event Space",
+                "short_name": "Outdoor Event Space",
+                "plural_name": "Outdoor Event Spaces",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Lumi\u00e8res en Seine"
+          },
+          {
+            "fsq_id": "5f3925d76b30581eabdc73a1",
+            "categories": [
+              {
+                "id": 11092,
+                "name": "Landscaper and Gardener",
+                "short_name": "Landscaper and Gardener",
+                "plural_name": "Landscaper and Gardeners",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin de Valois"
+          },
+          {
+            "fsq_id": "51fe8201498e84267439ef1b",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Fer \u00e0 Cheval"
+          },
+          {
+            "fsq_id": "63b320f5c998026876456f9f",
+            "categories": [
+              {
+                "id": 10001,
+                "name": "Amusement Park",
+                "short_name": "Amusement Park",
+                "plural_name": "Amusement Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Man\u00e8ge du Domaine National de Saint-Cloud"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ca4b465d5a2a1434dee5390",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4737,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.858344,
+          "longitude": 2.283374
+        },
+        "main": {
+          "latitude": 48.858221,
+          "longitude": 2.283393
+        },
+        "roof": {
+          "latitude": 48.858221,
+          "longitude": 2.283393
+        }
+      },
+      "link": "/v3/places/4ca4b465d5a2a1434dee5390",
+      "location": {
+        "address": "avenue du Parc de Passy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "avenue du Parc de Passy, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Halte Garderie du Parc de Passy",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b6ed6b6f964a520d0cc2ce3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19000,
+          "name": "Travel and Transportation",
+          "short_name": "Travel and Transportation",
+          "plural_name": "Travel and Transportation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5966,
+      "geocodes": {
+        "main": {
+          "latitude": 48.888039,
+          "longitude": 2.315398
+        },
+        "roof": {
+          "latitude": 48.888039,
+          "longitude": 2.315398
+        }
+      },
+      "link": "/v3/places/4b6ed6b6f964a520d0cc2ce3",
+      "location": {
+        "address": "144 bis, rue Cardinet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "144 bis, rue Cardinet, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square des Batignolles",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bbf4f51b083a593cc2aa3e9",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3536,
+      "geocodes": {
+        "main": {
+          "latitude": 48.867968,
+          "longitude": 2.337596
+        }
+      },
+      "link": "/v3/places/4bbf4f51b083a593cc2aa3e9",
+      "location": {
+        "address": "rue Louvois",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de Richelieu",
+        "formatted_address": "rue Louvois (Rue de Richelieu), 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Louvois",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b32a6453731ee002cd65cc7",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Fontaine Louvois"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b72f288f964a52075912de3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 19000,
+          "name": "Travel and Transportation",
+          "short_name": "Travel and Transportation",
+          "plural_name": "Travel and Transportation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3271,
+      "geocodes": {
+        "main": {
+          "latitude": 48.841517,
+          "longitude": 2.297543
+        },
+        "roof": {
+          "latitude": 48.841517,
+          "longitude": 2.297543
+        }
+      },
+      "link": "/v3/places/4b72f288f964a52075912de3",
+      "location": {
+        "address": "2 rue Jean Formig\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue L\u00e9on Lhermitte",
+        "formatted_address": "2 rue Jean Formig\u00e9 (Rue L\u00e9on Lhermitte), 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Saint-Lambert",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4c150172a5eb76b05e8ac2b7",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kiosque \u00e0 musique"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0cf964a520c03421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2354,
+      "geocodes": {
+        "main": {
+          "latitude": 48.857433,
+          "longitude": 2.340216
+        }
+      },
+      "link": "/v3/places/4adcda0cf964a520c03421e3",
+      "location": {
+        "address": "15 place du Pont Neuf",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "15 place du Pont Neuf, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square du Vert-Galant",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b7e6e5df964a520d5ec2fe3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7699,
+      "geocodes": {
+        "main": {
+          "latitude": 48.895245,
+          "longitude": 2.286187
+        }
+      },
+      "link": "/v3/places/4b7e6e5df964a520d5ec2fe3",
+      "location": {
+        "address": "rue Paul Vaillant Couturier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "rue Paul Vaillant Couturier, 92300 Levallois-Perret",
+        "locality": "Levallois-Perret",
+        "postcode": "92300",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de la Planchette",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dbd336b6a23e294ba405cfa",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2476,
+      "geocodes": {
+        "main": {
+          "latitude": 48.858352,
+          "longitude": 2.349462
+        },
+        "roof": {
+          "latitude": 48.858352,
+          "longitude": 2.349462
+        }
+      },
+      "link": "/v3/places/4dbd336b6a23e294ba405cfa",
+      "location": {
+        "address": "88 rue de Rivoli",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "88 rue de Rivoli, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square de la tour Saint-Jacques",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4b5c7d1ff964a5205f3229e3",
+            "categories": [
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tour Saint-Jacques"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0cf964a520b23421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6331,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.82529,
+          "longitude": 2.258225
+        },
+        "main": {
+          "latitude": 48.825227,
+          "longitude": 2.258277
+        },
+        "roof": {
+          "latitude": 48.825227,
+          "longitude": 2.258277
+        }
+      },
+      "link": "/v3/places/4adcda0cf964a520b23421e3",
+      "location": {
+        "address": "170 quai de Stalingrad",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "170 quai de Stalingrad, 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ile saint germain",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ba4e0d5f964a5201cbe38e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3979,
+      "geocodes": {
+        "main": {
+          "latitude": 48.86167,
+          "longitude": 2.379001
+        }
+      },
+      "link": "/v3/places/4ba4e0d5f964a5201cbe38e3",
+      "location": {
+        "address": "2 rue du G\u00e9n\u00e9ral Blaise",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Lacharri\u00e8re",
+        "formatted_address": "2 rue du G\u00e9n\u00e9ral Blaise (Rue Lacharri\u00e8re), 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Maurice Gardette",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0af964a5202a3421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3038,
+      "geocodes": {
+        "main": {
+          "latitude": 48.835583,
+          "longitude": 2.382178
+        },
+        "roof": {
+          "latitude": 48.835583,
+          "longitude": 2.382178
+        }
+      },
+      "link": "/v3/places/4adcda0af964a5202a3421e3",
+      "location": {
+        "address": "128 quai de Bercy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "128 quai de Bercy, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de Bercy",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "50f01265e4b06592cd12c830",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16047,
+                "name": "Sculpture Garden",
+                "short_name": "Sculpture",
+                "plural_name": "Sculpture Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Nains de Bercy"
+          },
+          {
+            "fsq_id": "4d9dbf0ea1ec8cfaaf910a4a",
+            "categories": [
+              {
+                "id": 16005,
+                "name": "Botanical Garden",
+                "short_name": "Botanical Garden",
+                "plural_name": "Botanical Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19000,
+                "name": "Travel and Transportation",
+                "short_name": "Travel and Transportation",
+                "plural_name": "Travel and Transportation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin Yitzhak Rabin"
+          },
+          {
+            "fsq_id": "4e36a06d1fc7144eb8c0e8c0",
+            "categories": [
+              {
+                "id": 13386,
+                "name": "Vineyard",
+                "short_name": "Vineyard",
+                "plural_name": "Vineyards",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/vineyard_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Vignes du Parc de Bercy"
+          },
+          {
+            "fsq_id": "64158b6ccb3a4e00e1d035c0",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Prairies"
+          },
+          {
+            "fsq_id": "64158b6de926433ad2243c58",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Prairies"
+          },
+          {
+            "fsq_id": "53b59f57498e7253b48347ae",
+            "categories": [
+              {
+                "id": 18066,
+                "name": "Volleyball Court",
+                "short_name": "Volleyball Court",
+                "plural_name": "Volleyball Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/volleyballcourt_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Terrain de Volley du Parc de Bercy"
+          },
+          {
+            "fsq_id": "4f9fdca4e4b07d343ff217d0",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de Jeux du Parc de Bercy"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bcad6f90687ef3b58b7dccc",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4856,
+      "geocodes": {
+        "main": {
+          "latitude": 48.851563,
+          "longitude": 2.402795
+        },
+        "roof": {
+          "latitude": 48.851563,
+          "longitude": 2.402795
+        }
+      },
+      "link": "/v3/places/4bcad6f90687ef3b58b7dccc",
+      "location": {
+        "address": "2 rue de Buzenval",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "2 rue de Buzenval, 75020 Paris",
+        "locality": "Paris",
+        "postcode": "75020",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Square Sarah Bernhardt",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b9f357bf964a520fe1737e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6341,
+      "geocodes": {
+        "main": {
+          "latitude": 48.890866,
+          "longitude": 2.315218
+        }
+      },
+      "link": "/v3/places/4b9f357bf964a520fe1737e3",
+      "location": {
+        "address": "147 rue Cardinet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "147 rue Cardinet, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Clichy-Batignolles",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "60afe3edd59c680d61b6a68b",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Hoba"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bb9c2421261d13aaacfe998",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7196,
+      "geocodes": {
+        "main": {
+          "latitude": 48.865082,
+          "longitude": 2.252689
+        }
+      },
+      "link": "/v3/places/4bb9c2421261d13aaacfe998",
+      "location": {
+        "address": "chemin de la Croix Catelan",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "chemin de la Croix Catelan, 75016 Paris",
+        "locality": "Paris",
+        "postcode": "75016",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Jardin du Pr\u00e9 Catelan",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a520093421e3",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Boulogne"
+        },
+        "children": [
+          {
+            "fsq_id": "4df0fab5227193bb466dcef0",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Th\u00e9\u00e2tre de Verdure"
+          },
+          {
+            "fsq_id": "4b9d767cf964a52073ae36e3",
+            "categories": [
+              {
+                "id": 13049,
+                "name": "Diner",
+                "short_name": "Diner",
+                "plural_name": "Diners",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Pr\u00e9 Catelan"
+          },
+          {
+            "fsq_id": "4db57415f7b121c29f5e4b66",
+            "categories": [
+              {
+                "id": 16000,
+                "name": "Landmarks and Outdoors",
+                "short_name": "Landmarks and Outdoors",
+                "plural_name": "Landmarks and Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin Shakespeare"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5a96a78e0e5da86ac88b5ba3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6151,
+      "geocodes": {
+        "main": {
+          "latitude": 48.827772,
+          "longitude": 2.257837
+        }
+      },
+      "link": "/v3/places/5a96a78e0e5da86ac88b5ba3",
+      "location": {
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc D\u00e9partemental de l'\u00eele Saint-Germain",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "6224bd4342f08f6c4ceeb47d",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le D\u00e9barcad\u00e8re"
+          },
+          {
+            "fsq_id": "5fd496147e06ba0d8622d465",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Aire de Jeux du Parc de L\u2019ile Saint Germain"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e91b29d9adf26eeba790f0e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3864,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.864311,
+          "longitude": 2.30966
+        },
+        "main": {
+          "latitude": 48.864366,
+          "longitude": 2.309658
+        }
+      },
+      "link": "/v3/places/4e91b29d9adf26eeba790f0e",
+      "location": {
+        "address": "cours Albert Ier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "cours Albert Ier, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Jardin d'Erevan",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c122dfa82a3c9b6ac2ff9f8",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6607,
+      "geocodes": {
+        "main": {
+          "latitude": 48.881912,
+          "longitude": 2.398691
+        }
+      },
+      "link": "/v3/places/4c122dfa82a3c9b6ac2ff9f8",
+      "location": {
+        "address": "11 boulevard d'Alg\u00e9rie",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Alphonse Aulard",
+        "formatted_address": "11 boulevard d'Alg\u00e9rie (Rue Alphonse Aulard), 75019 Paris",
+        "locality": "Paris",
+        "postcode": "75019",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de la Butte du Chapeau-Rouge",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4da1ac1c7ccc816ea85f577b",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8822,
+      "geocodes": {
+        "main": {
+          "latitude": 48.772331,
+          "longitude": 2.269307
+        }
+      },
+      "link": "/v3/places/4da1ac1c7ccc816ea85f577b",
+      "location": {
+        "address": "69-87 rue de Chateaubriand",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "69-87 rue de Chateaubriand, 92290 Ch\u00e2tenay-Malabry",
+        "locality": "Ch\u00e2tenay-Malabry",
+        "postcode": "92290",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Arboretum",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4befeeccc601a5932a16c3d1",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10915,
+      "geocodes": {
+        "main": {
+          "latitude": 48.826484,
+          "longitude": 2.481761
+        },
+        "roof": {
+          "latitude": 48.826484,
+          "longitude": 2.481761
+        }
+      },
+      "link": "/v3/places/4befeeccc601a5932a16c3d1",
+      "location": {
+        "address": "11 boulevard des Alli\u00e9s",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "11 boulevard des Alli\u00e9s, 94500 Champigny-sur-Marne",
+        "locality": "Champigny-sur-Marne",
+        "postcode": "94500",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc du Tremblay",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e74c9a91495be5170d1d532",
+      "categories": [
+        {
+          "id": 16000,
+          "name": "Landmarks and Outdoors",
+          "short_name": "Landmarks and Outdoors",
+          "plural_name": "Landmarks and Outdoors",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 10371,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.87157,
+          "longitude": 2.209584
+        },
+        "main": {
+          "latitude": 48.871643,
+          "longitude": 2.209652
+        }
+      },
+      "link": "/v3/places/4e74c9a91495be5170d1d532",
+      "location": {
+        "address": "promenade Jacques Baumel",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "promenade Jacques Baumel, 92150 Suresnes",
+        "locality": "Suresnes",
+        "postcode": "92150",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc du Mont-Val\u00e9rien",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4da9751cfa8cc764971972c9",
+            "categories": [
+              {
+                "id": 16020,
+                "name": "Historic and Protected Site",
+                "short_name": "Historic and Protected Site",
+                "plural_name": "Historic and Protected Sites",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Forteresse du Mont Val\u00e9rien"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bcb1acf0687ef3badfedccc",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5682,
+      "geocodes": {
+        "main": {
+          "latitude": 48.820812,
+          "longitude": 2.266273
+        },
+        "roof": {
+          "latitude": 48.820812,
+          "longitude": 2.266273
+        }
+      },
+      "link": "/v3/places/4bcb1acf0687ef3badfedccc",
+      "location": {
+        "address": "12 rue Henri Tariel",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de l'\u00c9galit\u00e9",
+        "formatted_address": "12 rue Henri Tariel (Rue de l'\u00c9galit\u00e9), 92130 Issy-les-Moulineaux",
+        "locality": "Issy-les-Moulineaux",
+        "postcode": "92130",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Henri Barbusse",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b530e85f964a520b08d27e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8759,
+      "geocodes": {
+        "main": {
+          "latitude": 48.89988,
+          "longitude": 2.270221
+        }
+      },
+      "link": "/v3/places/4b530e85f964a520b08d27e3",
+      "location": {
+        "address": "156 boulevard Saint-Denis",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Edith Cavell",
+        "formatted_address": "156 boulevard Saint-Denis (Rue Edith Cavell), 92400 Courbevoie",
+        "locality": "Courbevoie",
+        "postcode": "92400",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de B\u00e9con",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "630b7c2e9fb5d3652418a677",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Swings"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda16f964a520193821e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4864,
+      "geocodes": {
+        "main": {
+          "latitude": 48.830193,
+          "longitude": 2.406673
+        }
+      },
+      "link": "/v3/places/4adcda16f964a520193821e3",
+      "location": {
+        "address": "Bois de Vincennes",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Route de Reuilly",
+        "formatted_address": "Bois de Vincennes (Route de Reuilly), 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Pelouse de Reuilly",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda09f964a5200f3421e3",
+          "categories": [
+            {
+              "id": 19019,
+              "name": "Vacation Rental",
+              "short_name": "Vacation Rental",
+              "plural_name": "Vacation Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bois de Vincennes"
+        },
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dcfc4b97d8b975f18ef5f39",
+      "categories": [
+        {
+          "id": 18000,
+          "name": "Sports and Recreation",
+          "short_name": "Sports and Recreation",
+          "plural_name": "Sports and Recreation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8584,
+      "geocodes": {
+        "main": {
+          "latitude": 48.83216860433046,
+          "longitude": 2.2236478328704834
+        }
+      },
+      "link": "/v3/places/4dcfc4b97d8b975f18ef5f39",
+      "location": {
+        "address": "4 rue de Saint-Cloud",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 rue de Saint-Cloud, 92310 S\u00e8vres",
+        "locality": "S\u00e8vres",
+        "postcode": "92310",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Nautique de l'\u00cele de Monsieur",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4be65a43910020a1424bd414",
+            "categories": [
+              {
+                "id": 18065,
+                "name": "Sports Club",
+                "short_name": "Sports Club",
+                "plural_name": "Sports Clubs",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boulogne 92 Aviron"
+          },
+          {
+            "fsq_id": "4c2a8190b34ad13aa064e8ce",
+            "categories": [
+              {
+                "id": 16018,
+                "name": "Harbor or Marina",
+                "short_name": "Harbor / Marina",
+                "plural_name": "Harbors or Marinas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17000,
+                "name": "Retail",
+                "short_name": "Retail",
+                "plural_name": "Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mega Light"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bdafaf7c79cc928937d80e9",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 6871,
+      "geocodes": {
+        "main": {
+          "latitude": 48.863344,
+          "longitude": 2.42629
+        },
+        "roof": {
+          "latitude": 48.863344,
+          "longitude": 2.42629
+        }
+      },
+      "link": "/v3/places/4bdafaf7c79cc928937d80e9",
+      "location": {
+        "address": "rue de l'\u00c9pine",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "rue de l'\u00c9pine, 93170 Bagnolet",
+        "locality": "Bagnolet",
+        "postcode": "93170",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Jean Moulin les Guilands",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b8155eef964a5200da030e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4817,
+      "geocodes": {
+        "main": {
+          "latitude": 48.818989,
+          "longitude": 2.280219
+        },
+        "roof": {
+          "latitude": 48.818989,
+          "longitude": 2.280219
+        }
+      },
+      "link": "/v3/places/4b8155eef964a5200da030e3",
+      "location": {
+        "address": "2 rue Falret",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "2 rue Falret, 92170 Vanves",
+        "locality": "Vanves",
+        "postcode": "92170",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Fr\u00e9d\u00e9ric Pic",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0cf964a520b73421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 12541,
+      "geocodes": {
+        "main": {
+          "latitude": 48.937408,
+          "longitude": 2.40394
+        },
+        "roof": {
+          "latitude": 48.937408,
+          "longitude": 2.40394
+        }
+      },
+      "link": "/v3/places/4adcda0cf964a520b73421e3",
+      "location": {
+        "address": "55 bis avenue Waldeck Rochet",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "55 bis avenue Waldeck Rochet, 93120 La Courneuve",
+        "locality": "La Courneuve",
+        "postcode": "93120",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc D\u00e9partemental de la Courneuve Georges-Valbon",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4c58007ccc96c9b6f61c7a2e",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4094,
+      "geocodes": {
+        "main": {
+          "latitude": 48.81539,
+          "longitude": 2.386951
+        }
+      },
+      "link": "/v3/places/4c58007ccc96c9b6f61c7a2e",
+      "location": {
+        "address": "avenue Georges Gosnat 72",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "avenue Georges Gosnat 72, 94200 Ivry-sur-Seine",
+        "locality": "Ivry-sur-Seine",
+        "postcode": "94200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc des Cormailles",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bc02c18920eb713e5a8182c",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 17852,
+      "geocodes": {
+        "main": {
+          "latitude": 48.810204,
+          "longitude": 2.100057
+        }
+      },
+      "link": "/v3/places/4bc02c18920eb713e5a8182c",
+      "location": {
+        "address": "Ch\u00e2teau de Versailles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "Ch\u00e2teau de Versailles, 78000 Versailles",
+        "locality": "Versailles",
+        "postcode": "78000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Park of Versailles (Parc du Ch\u00e2teau de Versailles)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bc1ebae920eb713244a1b2c",
+            "categories": [
+              {
+                "id": 18000,
+                "name": "Sports and Recreation",
+                "short_name": "Sports and Recreation",
+                "plural_name": "Sports and Recreation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grand Canal"
+          },
+          {
+            "fsq_id": "4bf906b05317a5931fad007f",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Flottille"
+          },
+          {
+            "fsq_id": "53f0f52f498e3f8047d2e52c",
+            "categories": [
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardins du Ch\u00e2teau de Versailles"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda0cf964a520c33421e3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "short_name": "Park",
+          "plural_name": "Parks",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10952,
+      "geocodes": {
+        "main": {
+          "latitude": 48.891149,
+          "longitude": 2.215759
+        },
+        "roof": {
+          "latitude": 48.891149,
+          "longitude": 2.215759
+        }
+      },
+      "link": "/v3/places/4adcda0cf964a520c33421e3",
+      "location": {
+        "address": "39 avenue Pablo Picasso",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Avenue Fr\u00e9d\u00e9ric et Ir\u00e8ne Joliot Curie",
+        "formatted_address": "39 avenue Pablo Picasso (Avenue Fr\u00e9d\u00e9ric et Ir\u00e8ne Joliot Curie), 92000 Nanterre",
+        "locality": "Nanterre",
+        "postcode": "92000",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc Andr\u00e9 Malraux",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59b5502973fe25689b580ad1",
+            "categories": [
+              {
+                "id": 16044,
+                "name": "Rock Climbing Spot",
+                "short_name": "Rock Climbing",
+                "plural_name": "Rock Climbing Spots",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/rockclimbing_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mur d'escalade"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bcb3e8f511f9521c504b1c7",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "short_name": "Playground",
+          "plural_name": "Playgrounds",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 10989,
+      "geocodes": {
+        "main": {
+          "latitude": 48.933517,
+          "longitude": 2.363586
+        }
+      },
+      "link": "/v3/places/4bcb3e8f511f9521c504b1c7",
+      "location": {
+        "address": "avenue Paul Vaillant Couturier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "avenue Paul Vaillant Couturier, 93200 Saint-Denis",
+        "locality": "Saint-Denis",
+        "postcode": "93200",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Parc de la L\u00e9gion d'Honneur",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

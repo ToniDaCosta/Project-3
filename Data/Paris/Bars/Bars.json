@@ -1,0 +1,4658 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b22eca6f964a5206c5024e3",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2098,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854997,
+          "longitude": 2.337965
+        },
+        "roof": {
+          "latitude": 48.854997,
+          "longitude": 2.337965
+        }
+      },
+      "link": "/v3/places/4b22eca6f964a5206c5024e3",
+      "location": {
+        "address": "23 rue Mazarine, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "23 rue Mazarine, 6e, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Prescription Cocktail Club",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4afd8300f964a5203a2822e3",
+      "categories": [
+        {
+          "id": 13000,
+          "name": "Dining and Drinking",
+          "short_name": "Dining and Drinking",
+          "plural_name": "Dining and Drinking",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1764,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.851968,
+          "longitude": 2.338677
+        },
+        "main": {
+          "latitude": 48.851979,
+          "longitude": 2.338802
+        },
+        "roof": {
+          "latitude": 48.851979,
+          "longitude": 2.338802
+        }
+      },
+      "link": "/v3/places/4afd8300f964a5203a2822e3",
+      "location": {
+        "address": "3 Carrefour de l'Od\u00e9on",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "3 Carrefour de l'Od\u00e9on, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Avant Comptoir",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b68a117f964a520c8832be3",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3607,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.865203,
+          "longitude": 2.363087
+        },
+        "main": {
+          "latitude": 48.865117,
+          "longitude": 2.363114
+        },
+        "roof": {
+          "latitude": 48.865117,
+          "longitude": 2.363114
+        }
+      },
+      "link": "/v3/places/4b68a117f964a520c8832be3",
+      "location": {
+        "address": "6 rue Charles-Fran\u00e7ois Dupuis rue de la Corderie",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de la Corderie",
+        "formatted_address": "6 rue Charles-Fran\u00e7ois Dupuis rue de la Corderie (Rue de la Corderie), 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Barav",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "505a06b7e4b0f81baba6bce6",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2546,
+      "geocodes": {
+        "main": {
+          "latitude": 48.853272,
+          "longitude": 2.364014
+        }
+      },
+      "link": "/v3/places/505a06b7e4b0f81baba6bce6",
+      "location": {
+        "address": "20 rue Beautreillis, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "20 rue Beautreillis, Paris, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Sherry Butt",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50edcbb9e4b0f4e820906b4e",
+      "categories": [
+        {
+          "id": 17080,
+          "name": "Wine Store",
+          "short_name": "Wine Store",
+          "plural_name": "Wine Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3482,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853679,
+          "longitude": 2.380321
+        },
+        "main": {
+          "latitude": 48.853714,
+          "longitude": 2.380365
+        },
+        "roof": {
+          "latitude": 48.853714,
+          "longitude": 2.380365
+        }
+      },
+      "link": "/v3/places/50edcbb9e4b0f4e820906b4e",
+      "location": {
+        "address": "3 rue Basfroi, 11e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "3 rue Basfroi, 11e, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Septime la Cave",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4e67b1d8fa76f38efb3aaa09",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1755,
+      "geocodes": {
+        "main": {
+          "latitude": 48.851714,
+          "longitude": 2.33632
+        }
+      },
+      "link": "/v3/places/4e67b1d8fa76f38efb3aaa09",
+      "location": {
+        "address": "7 rue Lobineau, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "7 rue Lobineau, 6e, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Compagnie des Vins Surnaturels",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "57054c44498ed5a375ce4b86",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13057,
+          "name": "Gastropub",
+          "short_name": "Gastropub",
+          "plural_name": "Gastropubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3534,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.867718,
+          "longitude": 2.347356
+        },
+        "main": {
+          "latitude": 48.867701,
+          "longitude": 2.347474
+        },
+        "roof": {
+          "latitude": 48.867701,
+          "longitude": 2.347474
+        }
+      },
+      "link": "/v3/places/57054c44498ed5a375ce4b86",
+      "location": {
+        "address": "34 rue des Petits Carreaux",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "34 rue des Petits Carreaux, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Hoppy Corner",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "58a58562ef787f21708c9ea0",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1717,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.851647,
+          "longitude": 2.338989
+        },
+        "main": {
+          "latitude": 48.851717,
+          "longitude": 2.339074
+        },
+        "roof": {
+          "latitude": 48.851717,
+          "longitude": 2.339074
+        }
+      },
+      "link": "/v3/places/58a58562ef787f21708c9ea0",
+      "location": {
+        "address": "3 rue Monsieur le Prince",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "3 rue Monsieur le Prince, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Robe & la Mousse",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5415ae4f498e9aee38f6a39e",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3925,
+      "geocodes": {
+        "main": {
+          "latitude": 48.869835,
+          "longitude": 2.357114
+        },
+        "roof": {
+          "latitude": 48.869835,
+          "longitude": 2.357114
+        }
+      },
+      "link": "/v3/places/5415ae4f498e9aee38f6a39e",
+      "location": {
+        "address": "5 rue Bouchardon, 10e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "5 rue Bouchardon, 10e, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "CopperBay",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4da74bddf7b15dc952f74dd1",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4169,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.866943,
+          "longitude": 2.37356
+        },
+        "main": {
+          "latitude": 48.866901,
+          "longitude": 2.373573
+        },
+        "roof": {
+          "latitude": 48.866901,
+          "longitude": 2.373573
+        }
+      },
+      "link": "/v3/places/4da74bddf7b15dc952f74dd1",
+      "location": {
+        "address": "14 rue des Trois Bornes",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "14 rue des Trois Bornes, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le 11\u00e8me Domaine",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f5a5636e4b03005858b31cc",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5651,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.876656,
+          "longitude": 2.293816
+        },
+        "main": {
+          "latitude": 48.876697,
+          "longitude": 2.293891
+        },
+        "roof": {
+          "latitude": 48.876697,
+          "longitude": 2.293891
+        }
+      },
+      "link": "/v3/places/4f5a5636e4b03005858b31cc",
+      "location": {
+        "address": "4 rue de l'Arc de Triomphe",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "4 rue de l'Arc de Triomphe, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Uc-61",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4f52b281e4b0d3a8f5068bd1",
+      "categories": [
+        {
+          "id": 13013,
+          "name": "Hotel Bar",
+          "short_name": "Hotel Bar",
+          "plural_name": "Hotel Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4276,
+      "geocodes": {
+        "main": {
+          "latitude": 48.866276,
+          "longitude": 2.304362
+        },
+        "roof": {
+          "latitude": 48.866276,
+          "longitude": 2.304362
+        }
+      },
+      "link": "/v3/places/4f52b281e4b0d3a8f5068bd1",
+      "location": {
+        "address": "25 avenue Montaigne",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "25 avenue Montaigne, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Jean Imbert au Plaza Ath\u00e9n\u00e9e",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b817458f964a52024a730e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "H\u00f4tel Plaza Ath\u00e9n\u00e9e"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "54e4e3ce498e07cde7479535",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3378,
+      "geocodes": {
+        "main": {
+          "latitude": 48.866277139958,
+          "longitude": 2.3477553778464
+        }
+      },
+      "link": "/v3/places/54e4e3ce498e07cde7479535",
+      "location": {
+        "address": "28 rue Saint-Sauveur",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "28 rue Saint-Sauveur, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Redd",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5c6c0fa6c8b2fb002c4e8544",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4728,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.878661,
+          "longitude": 2.34525
+        },
+        "main": {
+          "latitude": 48.878571,
+          "longitude": 2.345377
+        },
+        "roof": {
+          "latitude": 48.878571,
+          "longitude": 2.345377
+        }
+      },
+      "link": "/v3/places/5c6c0fa6c8b2fb002c4e8544",
+      "location": {
+        "address": "32 rue de Rochechouart",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "32 rue de Rochechouart, 75009 Paris",
+        "locality": "Paris",
+        "postcode": "75009",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Mikkeller Bar Paris",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "58a229bcfd27163ad03ea582",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3929,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.848928,
+          "longitude": 2.290855
+        },
+        "main": {
+          "latitude": 48.848983,
+          "longitude": 2.290793
+        },
+        "roof": {
+          "latitude": 48.848983,
+          "longitude": 2.290793
+        }
+      },
+      "link": "/v3/places/58a229bcfd27163ad03ea582",
+      "location": {
+        "address": "28 rue de Lourmel",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Rouelle",
+        "formatted_address": "28 rue de Lourmel (Rue Rouelle), 75015 Paris",
+        "locality": "Paris",
+        "postcode": "75015",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Plan B",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "552bcfc4498e003e2da33ad0",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5395,
+      "geocodes": {
+        "main": {
+          "latitude": 48.884091,
+          "longitude": 2.332286
+        },
+        "roof": {
+          "latitude": 48.884091,
+          "longitude": 2.332286
+        }
+      },
+      "link": "/v3/places/552bcfc4498e003e2da33ad0",
+      "location": {
+        "address": "90 boulevard de Clichy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "La Machine du Moulin Rouge",
+        "formatted_address": "90 boulevard de Clichy (La Machine du Moulin Rouge), 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Bar \u00e0 Bulles",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4babcc3df964a52062ca3ae3",
+          "categories": [
+            {
+              "id": 10032,
+              "name": "Night Club",
+              "short_name": "Night Club",
+              "plural_name": "Night Clubs",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "La Machine du Moulin Rouge"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "51eaf458498e71cde524700b",
+      "categories": [
+        {
+          "id": 17080,
+          "name": "Wine Store",
+          "short_name": "Wine Store",
+          "plural_name": "Wine Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6120,
+      "geocodes": {
+        "main": {
+          "latitude": 48.891357,
+          "longitude": 2.343494
+        },
+        "roof": {
+          "latitude": 48.891357,
+          "longitude": 2.343494
+        }
+      },
+      "link": "/v3/places/51eaf458498e71cde524700b",
+      "location": {
+        "address": "65 rue du mont-Cenis",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "65 rue du mont-Cenis, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Comestibles et Marchand de Vins",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5c6622ff78782c002c04dd96",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2958,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.859016,
+          "longitude": 2.362169
+        },
+        "main": {
+          "latitude": 48.85897,
+          "longitude": 2.362052
+        },
+        "roof": {
+          "latitude": 48.85897,
+          "longitude": 2.362052
+        }
+      },
+      "link": "/v3/places/5c6622ff78782c002c04dd96",
+      "location": {
+        "address": "1 place de Thorigny",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "1 place de Thorigny, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "BrewDog le Marais",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50774a9be4b02bab185d282b",
+      "categories": [
+        {
+          "id": 13013,
+          "name": "Hotel Bar",
+          "short_name": "Hotel Bar",
+          "plural_name": "Hotel Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4381,
+      "geocodes": {
+        "main": {
+          "latitude": 48.871836,
+          "longitude": 2.315045
+        },
+        "roof": {
+          "latitude": 48.871836,
+          "longitude": 2.315045
+        }
+      },
+      "link": "/v3/places/50774a9be4b02bab185d282b",
+      "location": {
+        "address": "Hotel le Bristol",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "112 rue du Faubourg Saint-Honor\u00e9",
+        "formatted_address": "Hotel le Bristol (112 rue du Faubourg Saint-Honor\u00e9), 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Bar du Bristol",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda00f964a520e13021e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Le Bristol Paris"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "591624431b0ea52ea821c07b",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13007,
+          "name": "Beer Garden",
+          "short_name": "Beer Garden",
+          "plural_name": "Beer Gardens",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3046,
+      "geocodes": {
+        "main": {
+          "latitude": 48.843893,
+          "longitude": 2.381458
+        },
+        "roof": {
+          "latitude": 48.843893,
+          "longitude": 2.381458
+        }
+      },
+      "link": "/v3/places/591624431b0ea52ea821c07b",
+      "location": {
+        "address": "81 rue du Charolais, 12e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de Rambouillet",
+        "formatted_address": "81 rue du Charolais, 12e (Rue de Rambouillet), 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ground Control",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5ae36af8dd8442002c35edcd",
+            "categories": [
+              {
+                "id": 13297,
+                "name": "Latin American Restaurant",
+                "short_name": "Latin American",
+                "plural_name": "Latin American Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/latinamerican_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chilam"
+          },
+          {
+            "fsq_id": "5ae3724586f4cc0039af4daa",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Riviera Express"
+          },
+          {
+            "fsq_id": "5ae36eb9d3cce8002c3e1d82",
+            "categories": [
+              {
+                "id": 17101,
+                "name": "Garden Center",
+                "short_name": "Garden Center",
+                "plural_name": "Garden Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/gardencenter_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mama Petula"
+          },
+          {
+            "fsq_id": "5ae36d644b78c5002c764f8c",
+            "categories": [
+              {
+                "id": 13025,
+                "name": "Wine Bar",
+                "short_name": "Wine Bar",
+                "plural_name": "Wine Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le D\u00e9canteur"
+          },
+          {
+            "fsq_id": "5d3324918b4b4100081fefec",
+            "categories": [
+              {
+                "id": 13072,
+                "name": "Asian Restaurant",
+                "short_name": "Asian",
+                "plural_name": "Asian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Coin-Op-Table"
+          },
+          {
+            "fsq_id": "5ae36e560dd31f0024f3048b",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13029,
+                "name": "Brewery",
+                "short_name": "Brewery",
+                "plural_name": "Breweries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Douglas"
+          },
+          {
+            "fsq_id": "5a9c09c066fc65661d660f3e",
+            "categories": [
+              {
+                "id": 13309,
+                "name": "Middle Eastern Restaurant",
+                "short_name": "Middle Eastern",
+                "plural_name": "Middle Eastern Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La R\u00e9sidence"
+          },
+          {
+            "fsq_id": "5ae372a4c9a517002c6320f4",
+            "categories": [
+              {
+                "id": 13054,
+                "name": "Food Truck",
+                "short_name": "Food Truck",
+                "plural_name": "Food Trucks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Asado Club"
+          },
+          {
+            "fsq_id": "5ae36cc165211f00399502de",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Long Courrier"
+          },
+          {
+            "fsq_id": "5ae36c48c97f28002c734ad8",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Dedans Dehors"
+          },
+          {
+            "fsq_id": "5af2d9a097cf5a002c29d39a",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Caf\u00e9 Sumatra"
+          },
+          {
+            "fsq_id": "5ae36b3e112c6c002c347d9d",
+            "categories": [
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Solina"
+          },
+          {
+            "fsq_id": "5ae36b99a6031c002ca78238",
+            "categories": [
+              {
+                "id": 13029,
+                "name": "Brewery",
+                "short_name": "Brewery",
+                "plural_name": "Breweries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ground Epicerie"
+          },
+          {
+            "fsq_id": "5d20897469ad4f0023be29f8",
+            "categories": [
+              {
+                "id": 13177,
+                "name": "Greek Restaurant",
+                "short_name": "Greek",
+                "plural_name": "Greek Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Kalimera"
+          },
+          {
+            "fsq_id": "5dbb1d5433dff400087d20f2",
+            "categories": [
+              {
+                "id": 13350,
+                "name": "Syrian Restaurant",
+                "short_name": "Syrian Restaurant",
+                "plural_name": "Syrian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La R\u00e9sidence du Refugee"
+          },
+          {
+            "fsq_id": "5ae36f2386bc49002ca3b4b0",
+            "categories": [
+              {
+                "id": 17089,
+                "name": "Gift Store",
+                "short_name": "Gift Store",
+                "plural_name": "Gift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Objets Trouv\u00e9s"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b44d8eef964a52006fe25e3",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3947,
+      "geocodes": {
+        "main": {
+          "latitude": 48.869154,
+          "longitude": 2.320132
+        },
+        "roof": {
+          "latitude": 48.869154,
+          "longitude": 2.320132
+        }
+      },
+      "link": "/v3/places/4b44d8eef964a52006fe25e3",
+      "location": {
+        "address": "33 rue du Faubourg Saint-Honor\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "33 rue du Faubourg Saint-Honor\u00e9, 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Cercle de l'Union Interalli\u00e9e",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "52fd1a6a498e72d4549b57cd",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5744,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.886144,
+          "longitude": 2.320284
+        },
+        "main": {
+          "latitude": 48.886223,
+          "longitude": 2.320323
+        },
+        "roof": {
+          "latitude": 48.886223,
+          "longitude": 2.320323
+        }
+      },
+      "link": "/v3/places/52fd1a6a498e72d4549b57cd",
+      "location": {
+        "address": "2 rue Lamand\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "2 rue Lamand\u00e9, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Etabli",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ea428a1b6347b996880466f",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5798,
+      "geocodes": {
+        "main": {
+          "latitude": 48.886077,
+          "longitude": 2.318083
+        },
+        "roof": {
+          "latitude": 48.886077,
+          "longitude": 2.318083
+        }
+      },
+      "link": "/v3/places/4ea428a1b6347b996880466f",
+      "location": {
+        "address": "72 rue Boursault",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "72 rue Boursault, 75017 Paris",
+        "locality": "Paris",
+        "postcode": "75017",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Ebeniste du Vin",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d77b39caf63cbff3997be0f",
+      "categories": [
+        {
+          "id": 13306,
+          "name": "Taco Restaurant",
+          "short_name": "Tacos",
+          "plural_name": "Taco Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3429,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.863087,
+          "longitude": 2.364038
+        },
+        "main": {
+          "latitude": 48.863031,
+          "longitude": 2.364085
+        },
+        "roof": {
+          "latitude": 48.863031,
+          "longitude": 2.364085
+        }
+      },
+      "link": "/v3/places/4d77b39caf63cbff3997be0f",
+      "location": {
+        "address": "56 rue de Saintonge, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "56 rue de Saintonge, Paris, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Candelaria",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda08f964a5206f3321e3",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 938,
+      "geocodes": {
+        "main": {
+          "latitude": 48.844574,
+          "longitude": 2.341712
+        },
+        "roof": {
+          "latitude": 48.844574,
+          "longitude": 2.341712
+        }
+      },
+      "link": "/v3/places/4adcda08f964a5206f3321e3",
+      "location": {
+        "address": "30 rue Gay Lussac, 5e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "30 rue Gay Lussac, 5e, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Les Papilles",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "527d495611d201ce6ba8fb48",
+      "categories": [
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3504,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853652,
+          "longitude": 2.380774
+        },
+        "main": {
+          "latitude": 48.853568,
+          "longitude": 2.380792
+        },
+        "roof": {
+          "latitude": 48.853568,
+          "longitude": 2.380792
+        }
+      },
+      "link": "/v3/places/527d495611d201ce6ba8fb48",
+      "location": {
+        "address": "80 rue de Charonne, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "80 rue de Charonne, Paris, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Clamato",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda21f964a520fc3921e3",
+      "categories": [
+        {
+          "id": 17068,
+          "name": "Gourmet Store",
+          "short_name": "Gourmet",
+          "plural_name": "Gourmet Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17069,
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2039,
+      "geocodes": {
+        "main": {
+          "latitude": 48.850339,
+          "longitude": 2.32396
+        },
+        "roof": {
+          "latitude": 48.850339,
+          "longitude": 2.32396
+        }
+      },
+      "link": "/v3/places/4adcda21f964a520fc3921e3",
+      "location": {
+        "address": "38 rue de S\u00e8vres",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "38 rue de S\u00e8vres, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Grande Epicerie Paris",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "52d16a4e498e6da6fa6a289b",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17068,
+                "name": "Gourmet Store",
+                "short_name": "Gourmet",
+                "plural_name": "Gourmet Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Artisan de la Truffe"
+          },
+          {
+            "fsq_id": "58fcbdbcacc5f57ae5607495",
+            "categories": [
+              {
+                "id": 17069,
+                "name": "Grocery Store",
+                "short_name": "Grocery Store",
+                "plural_name": "Grocery Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Maison de la Truffe"
+          },
+          {
+            "fsq_id": "5b506c19b6eedb002c02d289",
+            "categories": [
+              {
+                "id": 13338,
+                "name": "Seafood Restaurant",
+                "short_name": "Seafood",
+                "plural_name": "Seafood Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Mar\u00e9e"
+          },
+          {
+            "fsq_id": "511f8ab4e4b093807afda565",
+            "categories": [
+              {
+                "id": 13041,
+                "name": "Creperie",
+                "short_name": "Creperie",
+                "plural_name": "Creperies",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/creperie_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17080,
+                "name": "Wine Store",
+                "short_name": "Wine Store",
+                "plural_name": "Wine Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cave de la Grande \u00c9picerie de Paris"
+          },
+          {
+            "fsq_id": "4c84fbc651ada1cdb2373310",
+            "categories": [
+              {
+                "id": 13042,
+                "name": "Cupcake Shop",
+                "short_name": "Cupcakes",
+                "plural_name": "Cupcake Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Caf\u00e9 de la Grande \u00c9picerie"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "547efe8d498e129542045673",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "short_name": "Asian",
+          "plural_name": "Asian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2996,
+      "geocodes": {
+        "main": {
+          "latitude": 48.85135,
+          "longitude": 2.374459
+        },
+        "roof": {
+          "latitude": 48.85135,
+          "longitude": 2.374459
+        }
+      },
+      "link": "/v3/places/547efe8d498e129542045673",
+      "location": {
+        "address": "21 rue St-Nicolas, 12e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "21 rue St-Nicolas, 12e, 75012 Paris",
+        "locality": "Paris",
+        "postcode": "75012",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Dersou",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda03f964a520d83121e3",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3711,
+      "geocodes": {
+        "main": {
+          "latitude": 48.868917,
+          "longitude": 2.3304
+        },
+        "roof": {
+          "latitude": 48.868917,
+          "longitude": 2.3304
+        }
+      },
+      "link": "/v3/places/4adcda03f964a520d83121e3",
+      "location": {
+        "address": "5 rue de la Paix",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "5 rue de la Paix, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Park Hyatt Paris-Vend\u00f4me",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "588b062dd6fe907ace3d189f",
+            "categories": [
+              {
+                "id": 11073,
+                "name": "Spa",
+                "short_name": "Spa",
+                "plural_name": "Spas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Spa at Park Hyatt Paris-Vendome"
+          },
+          {
+            "fsq_id": "4bc16eb5461576b021097c32",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Pur'"
+          },
+          {
+            "fsq_id": "580524ff38fa8ed3a7f821a6",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Bar at Park Hyatt Paris Vendome"
+          },
+          {
+            "fsq_id": "614f022868a30c309aadf1d2",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Caf\u00e9 Jeanne"
+          },
+          {
+            "fsq_id": "5358d7ac498e8a2fc7679886",
+            "categories": [
+              {
+                "id": 16045,
+                "name": "Roof Deck",
+                "short_name": "Roof Deck",
+                "plural_name": "Roof Decks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Chemin\u00e9e du Park Hyatt"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b817458f964a52024a730e3",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4271,
+      "geocodes": {
+        "main": {
+          "latitude": 48.866318,
+          "longitude": 2.304043
+        },
+        "roof": {
+          "latitude": 48.866318,
+          "longitude": 2.304043
+        }
+      },
+      "link": "/v3/places/4b817458f964a52024a730e3",
+      "location": {
+        "address": "25 avenue Montaigne, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Cl\u00e9ment Marot",
+        "formatted_address": "25 avenue Montaigne, Paris (Rue Cl\u00e9ment Marot), 75008 Paris",
+        "locality": "Paris",
+        "postcode": "75008",
+        "region": "\u00cele-de-France"
+      },
+      "name": "H\u00f4tel Plaza Ath\u00e9n\u00e9e",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4f52b281e4b0d3a8f5068bd1",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jean Imbert au Plaza Ath\u00e9n\u00e9e"
+          },
+          {
+            "fsq_id": "4adcda12f964a520713621e3",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Relais Plaza"
+          },
+          {
+            "fsq_id": "4adcda13f964a520cb3621e3",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurant Alain Ducasse"
+          },
+          {
+            "fsq_id": "4ec2c87a0aaff2ad8a0a9602",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Galerie des Gobelins"
+          },
+          {
+            "fsq_id": "545bcee3498ee895b51010c7",
+            "categories": [
+              {
+                "id": 18030,
+                "name": "Gymnastics Center",
+                "short_name": "Gymnastics Center",
+                "plural_name": "Gymnastics Centers",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Plaza Ath\u00e9n\u00e9e Fitness Center"
+          },
+          {
+            "fsq_id": "4ca70f33f47ea143209c6621",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Terrasse Montaigne"
+          },
+          {
+            "fsq_id": "4edd4cb00aaf49e02d08b0b5",
+            "categories": [
+              {
+                "id": 18056,
+                "name": "Skating Rink",
+                "short_name": "Skating Rink",
+                "plural_name": "Skating Rinks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skatingrink_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Patinoire du Plaza Ath\u00e9n\u00e9e"
+          },
+          {
+            "fsq_id": "4e3ae95cfa766e76ed483c94",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Cour Jardin"
+          },
+          {
+            "fsq_id": "57f48dbf498e0c9da180f672",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Galerie"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "51c5f55d498e59e2ebcc7742",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13049,
+          "name": "Diner",
+          "short_name": "Diner",
+          "plural_name": "Diners",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5629,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.886894,
+          "longitude": 2.338195
+        },
+        "main": {
+          "latitude": 48.886836,
+          "longitude": 2.338169
+        },
+        "roof": {
+          "latitude": 48.886836,
+          "longitude": 2.338169
+        }
+      },
+      "link": "/v3/places/51c5f55d498e59e2ebcc7742",
+      "location": {
+        "address": "108 rue Lepic",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "108 rue Lepic, 75018 Paris",
+        "locality": "Paris",
+        "postcode": "75018",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Boite aux Lettres",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "501ab9cfe4b089ae3961a041",
+      "categories": [
+        {
+          "id": 13338,
+          "name": "Seafood Restaurant",
+          "short_name": "Seafood",
+          "plural_name": "Seafood Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3563,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.864725,
+          "longitude": 2.363286
+        },
+        "main": {
+          "latitude": 48.864744,
+          "longitude": 2.363317
+        }
+      },
+      "link": "/v3/places/501ab9cfe4b089ae3961a041",
+      "location": {
+        "address": "4 rue de la Corderie",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "4 rue de la Corderie, 75003 Paris",
+        "locality": "Paris",
+        "postcode": "75003",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'ilot",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4ba8b203f964a520a6e739e3",
+      "categories": [
+        {
+          "id": 16017,
+          "name": "Garden",
+          "short_name": "Garden",
+          "plural_name": "Gardens",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1245,
+      "geocodes": {
+        "main": {
+          "latitude": 48.846813,
+          "longitude": 2.33602
+        }
+      },
+      "link": "/v3/places/4ba8b203f964a520a6e739e3",
+      "location": {
+        "address": "6e Arrondissement",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue de M\u00e9dicis",
+        "formatted_address": "6e Arrondissement (Rue de M\u00e9dicis), 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Luxembourg Garden (Jardin du Luxembourg)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4bc1c893461576b020517c32",
+            "categories": [
+              {
+                "id": 10028,
+                "name": "Art Museum",
+                "short_name": "Art Museum",
+                "plural_name": "Art Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16026,
+                "name": "Monument",
+                "short_name": "Monument",
+                "plural_name": "Monuments",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L'Orangerie"
+          },
+          {
+            "fsq_id": "596f3c41a4b51b482a4b43d2",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fontaine Delacroix"
+          },
+          {
+            "fsq_id": "53382880498ef9cde48fcd0d",
+            "categories": [
+              {
+                "id": 16030,
+                "name": "Other Great Outdoors",
+                "short_name": "Other Outdoors",
+                "plural_name": "Other Great Outdoors",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ruches du Jardin du Luxembourg"
+          },
+          {
+            "fsq_id": "5a6b506759c4232ee79a9cad",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Statue de George Sand du Luco"
+          },
+          {
+            "fsq_id": "4adcda10f964a5208c3521e3",
+            "categories": [
+              {
+                "id": 10027,
+                "name": "Museum",
+                "short_name": "Museum",
+                "plural_name": "Museums",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Mus\u00e9e du Luxembourg"
+          },
+          {
+            "fsq_id": "4bcc5629fb84c9b6ba27203e",
+            "categories": [
+              {
+                "id": 10039,
+                "name": "Music Venue",
+                "short_name": "Music Venue",
+                "plural_name": "Music Venues",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 10043,
+                "name": "Theater",
+                "short_name": "Theater",
+                "plural_name": "Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Th\u00e9\u00e2tre du Luxembourg"
+          },
+          {
+            "fsq_id": "5723371b498e0f352d46a08e",
+            "categories": [
+              {
+                "id": 13027,
+                "name": "Bistro",
+                "short_name": "Bistro",
+                "plural_name": "Bistros",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Table du Luxembourg"
+          },
+          {
+            "fsq_id": "55caf0ba498e8cb658d8c29d",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L'Acteur Grec"
+          },
+          {
+            "fsq_id": "5d18ab75d5d77a002374310a",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ludo Jardin"
+          },
+          {
+            "fsq_id": "4e415a85b0fb1399f6eb6d39",
+            "categories": [
+              {
+                "id": 16005,
+                "name": "Botanical Garden",
+                "short_name": "Botanical Garden",
+                "plural_name": "Botanical Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 16017,
+                "name": "Garden",
+                "short_name": "Garden",
+                "plural_name": "Gardens",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 19000,
+                "name": "Travel and Transportation",
+                "short_name": "Travel and Transportation",
+                "plural_name": "Travel and Transportation",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jardin de la Roseraie"
+          },
+          {
+            "fsq_id": "55536fca498e1bf662c2ed7d",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Grand Bassin du Jardin du Luxembourg"
+          },
+          {
+            "fsq_id": "5366029f11d2fc37aba3f03a",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Parc de jeux du Jardin du Luxembourg"
+          },
+          {
+            "fsq_id": "4adcda15f964a520bc3721e3",
+            "categories": [
+              {
+                "id": 18047,
+                "name": "Tennis Court",
+                "short_name": "Tennis Court",
+                "plural_name": "Tennis Courts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Tennis du Jardin du Luxembourg"
+          },
+          {
+            "fsq_id": "5096523c498ecb7e553bc676",
+            "categories": [
+              {
+                "id": 16016,
+                "name": "Fountain",
+                "short_name": "Fountain",
+                "plural_name": "Fountains",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Fontaine M\u00e9dicis"
+          },
+          {
+            "fsq_id": "4bcf19a4937ca5934382af92",
+            "categories": [
+              {
+                "id": 10047,
+                "name": "Public Art",
+                "short_name": "Public Art",
+                "plural_name": "Public Art",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Statue de la Libert\u00e9"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "583491ed6c682b6191d2a6ae",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1774,
+      "geocodes": {
+        "main": {
+          "latitude": 48.851787,
+          "longitude": 2.335417
+        },
+        "roof": {
+          "latitude": 48.851787,
+          "longitude": 2.335417
+        }
+      },
+      "link": "/v3/places/583491ed6c682b6191d2a6ae",
+      "location": {
+        "address": "15 rue Lobineau, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "March\u00e9 Saint-Germain",
+        "formatted_address": "15 rue Lobineau, 6e (March\u00e9 Saint-Germain), 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "L'Avant Comptoir du March\u00e9",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4af5a497f964a520b9fa21e3",
+          "categories": [
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "March\u00e9 Saint-Germain"
+        }
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4df27ab522718759f81c4fc7",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1981,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.852789,
+          "longitude": 2.330414
+        },
+        "main": {
+          "latitude": 48.852731,
+          "longitude": 2.330484
+        },
+        "roof": {
+          "latitude": 48.852731,
+          "longitude": 2.330484
+        }
+      },
+      "link": "/v3/places/4df27ab522718759f81c4fc7",
+      "location": {
+        "address": "27 rue du Dragon",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "27 rue du Dragon, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Aux Pr\u00e9s",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "509ceef329a664775e200554",
+      "categories": [
+        {
+          "id": 17058,
+          "name": "Beer Store",
+          "short_name": "Beer Store",
+          "plural_name": "Beer Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 17076,
+          "name": "Liquor Store",
+          "short_name": "Liquor Store",
+          "plural_name": "Liquor Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2807,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854553,
+          "longitude": 2.367371
+        },
+        "roof": {
+          "latitude": 48.854553,
+          "longitude": 2.367371
+        }
+      },
+      "link": "/v3/places/509ceef329a664775e200554",
+      "location": {
+        "address": "16 rue des Tournelles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "16 rue des Tournelles, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Moustache Blanche",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4adcda21f964a520f23921e3",
+      "categories": [
+        {
+          "id": 17018,
+          "name": "Bookstore",
+          "short_name": "Bookstore",
+          "plural_name": "Bookstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1873,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.852652,
+          "longitude": 2.347199
+        },
+        "main": {
+          "latitude": 48.852591,
+          "longitude": 2.347173
+        }
+      },
+      "link": "/v3/places/4adcda21f964a520f23921e3",
+      "location": {
+        "address": "37 rue de la B\u00fbcherie",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "37 rue de la B\u00fbcherie, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Shakespeare & Company",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "562a40c3498e425bd63baa85",
+            "categories": [
+              {
+                "id": 17018,
+                "name": "Bookstore",
+                "short_name": "Bookstore",
+                "plural_name": "Bookstores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Shakespeare & Company"
+          },
+          {
+            "fsq_id": "56d1a14fcd10d6b76bbf57d0",
+            "categories": [
+              {
+                "id": 17002,
+                "name": "Antique Store",
+                "short_name": "Antiques",
+                "plural_name": "Antique Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/antique_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Shakespeare Antiquarian Books"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4bbde5128a4fb713b57e3d9d",
+      "categories": [
+        {
+          "id": 13036,
+          "name": "Tea Room",
+          "short_name": "Tea Room",
+          "plural_name": "Tea Rooms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13152,
+          "name": "Brasserie",
+          "short_name": "Brasserie",
+          "plural_name": "Brasseries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1902,
+      "geocodes": {
+        "main": {
+          "latitude": 48.853239,
+          "longitude": 2.338964
+        },
+        "roof": {
+          "latitude": 48.853239,
+          "longitude": 2.338964
+        }
+      },
+      "link": "/v3/places/4bbde5128a4fb713b57e3d9d",
+      "location": {
+        "address": "59-61 rue St-Andr\u00e9 des Arts, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "59-61 rue St-Andr\u00e9 des Arts, 6e, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Jacobine",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "51a2445e5019c80b56934c75",
+      "categories": [
+        {
+          "id": 16007,
+          "name": "Structure",
+          "short_name": "Structure",
+          "plural_name": "Structures",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4179,
+      "geocodes": {
+        "main": {
+          "latitude": 48.858204,
+          "longitude": 2.294469
+        },
+        "roof": {
+          "latitude": 48.858293,
+          "longitude": 2.29445
+        }
+      },
+      "link": "/v3/places/51a2445e5019c80b56934c75",
+      "location": {
+        "address": "5 avenue Anatole France",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "5 avenue Anatole France, 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Eiffel Tower (Tour Eiffel)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4b5972b9f964a5208b8828e3",
+            "categories": [
+              {
+                "id": 13152,
+                "name": "Brasserie",
+                "short_name": "Brasserie",
+                "plural_name": "Brasseries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Jules Verne"
+          },
+          {
+            "fsq_id": "5de805768fc06100089a79e2",
+            "categories": [
+              {
+                "id": 13040,
+                "name": "Dessert Shop",
+                "short_name": "Desserts",
+                "plural_name": "Dessert Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ladur\u00e9e"
+          },
+          {
+            "fsq_id": "5c8239b2f870fd002cd36a17",
+            "categories": [
+              {
+                "id": 13000,
+                "name": "Dining and Drinking",
+                "short_name": "Dining and Drinking",
+                "plural_name": "Dining and Drinking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurant Jules Verne on top of the Eiffel Tower"
+          },
+          {
+            "fsq_id": "5dc7f5aa7ebb9e00089f3d20",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Bulle Parisienne"
+          },
+          {
+            "fsq_id": "4e54da6b091a4fa585f120e2",
+            "categories": [
+              {
+                "id": 12075,
+                "name": "Post Office",
+                "short_name": "Post Office",
+                "plural_name": "Post Offices",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/postoffice_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Poste"
+          },
+          {
+            "fsq_id": "5762add0498e7d20494bb984",
+            "categories": [
+              {
+                "id": 11038,
+                "name": "Event Service",
+                "short_name": "Event Services",
+                "plural_name": "Event Services",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/event/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Salon Gustave Eiffel"
+          },
+          {
+            "fsq_id": "596289d759c4234a4ced3319",
+            "categories": [
+              {
+                "id": 13030,
+                "name": "Buffet",
+                "short_name": "Buffet",
+                "plural_name": "Buffets",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Buffet Tour Eiffel"
+          },
+          {
+            "fsq_id": "62b460fa0a41d11b22235716",
+            "categories": [
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Madame Brasserie"
+          },
+          {
+            "fsq_id": "575886a5498eee35ef771349",
+            "categories": [
+              {
+                "id": 17089,
+                "name": "Gift Store",
+                "short_name": "Gift Store",
+                "plural_name": "Gift Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Boutique officielle"
+          },
+          {
+            "fsq_id": "4e078807e4cdefcff6dce4f6",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Restaurant 58 Tour Eiffel"
+          },
+          {
+            "fsq_id": "5d14bb96a18cd5002fc58027",
+            "categories": [
+              {
+                "id": 13047,
+                "name": "Pastry Shop",
+                "short_name": "Pastry",
+                "plural_name": "Pastry Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar \u00e0 Macarons"
+          },
+          {
+            "fsq_id": "63b5684d11ff683a293fa7c5",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Premier \u00c9tage"
+          },
+          {
+            "fsq_id": "4d55537db4deb1f71d41037a",
+            "categories": [
+              {
+                "id": 13008,
+                "name": "Champagne Bar",
+                "short_name": "Champagne Bar",
+                "plural_name": "Champagne Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar \u00e0 Champagne"
+          },
+          {
+            "fsq_id": "63b579c1667dff5b2132b342",
+            "categories": [
+              {
+                "id": 16046,
+                "name": "Scenic Lookout",
+                "short_name": "Scenic Lookout",
+                "plural_name": "Scenic Lookouts",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Deuxi\u00e8me \u00c9tage"
+          },
+          {
+            "fsq_id": "5cac6d2782a750002c291a1b",
+            "categories": [
+              {
+                "id": 10024,
+                "name": "Movie Theater",
+                "short_name": "Movie Theater",
+                "plural_name": "Movie Theaters",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Studio Gustave Eiffel"
+          },
+          {
+            "fsq_id": "64494c4b74ce4f0b3ccea2b6",
+            "categories": [
+              {
+                "id": 16037,
+                "name": "Playground",
+                "short_name": "Playground",
+                "plural_name": "Playgrounds",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ludo Park"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "599f10d89b04730cde6d8bf4",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3797,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.870264,
+          "longitude": 2.346426
+        },
+        "main": {
+          "latitude": 48.870123,
+          "longitude": 2.346706
+        },
+        "roof": {
+          "latitude": 48.870123,
+          "longitude": 2.346706
+        }
+      },
+      "link": "/v3/places/599f10d89b04730cde6d8bf4",
+      "location": {
+        "address": "30-32 rue du Sentier",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "30-32 rue du Sentier, 75002 Paris",
+        "locality": "Paris",
+        "postcode": "75002",
+        "region": "\u00cele-de-France"
+      },
+      "name": "The Hoxton Paris",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "59aaf730c824ae769283889a",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jacques"
+          },
+          {
+            "fsq_id": "59a2c2924c954c5afed081e1",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rivi\u00e9"
+          },
+          {
+            "fsq_id": "5d408642b5083d0008049248",
+            "categories": [
+              {
+                "id": 13016,
+                "name": "Lounge",
+                "short_name": "Lounge",
+                "plural_name": "Lounges",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17056,
+                "name": "Flower Store",
+                "short_name": "Flower Store",
+                "plural_name": "Flower Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/flowershop_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "A la Riviera"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b82c9adf964a520f7e430e3",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "short_name": "Plaza",
+          "plural_name": "Plazas",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2812,
+      "geocodes": {
+        "main": {
+          "latitude": 48.854828,
+          "longitude": 2.367452
+        },
+        "roof": {
+          "latitude": 48.854828,
+          "longitude": 2.367452
+        }
+      },
+      "link": "/v3/places/4b82c9adf964a520f7e430e3",
+      "location": {
+        "address": "24 rue des Tournelles",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "24 rue des Tournelles, 75004 Paris",
+        "locality": "Paris",
+        "postcode": "75004",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Place des Vosges",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5555f9c0498e20548f53ea09",
+            "categories": [
+              {
+                "id": 16032,
+                "name": "Park",
+                "short_name": "Park",
+                "plural_name": "Parks",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Square Louis XIII"
+          },
+          {
+            "fsq_id": "5dea2acc9ced1e0008c51d13",
+            "categories": [
+              {
+                "id": 19014,
+                "name": "Hotel",
+                "short_name": "Hotel",
+                "plural_name": "Hotels",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cour des Vosges"
+          },
+          {
+            "fsq_id": "5b9bb65ab6b04b002c0c6722",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Serpent \u00e0 Plume"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b2e385bf964a52067dd24e3",
+      "categories": [
+        {
+          "id": 17033,
+          "name": "Department Store",
+          "short_name": "Department Store",
+          "plural_name": "Department Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2045,
+      "geocodes": {
+        "main": {
+          "latitude": 48.850581,
+          "longitude": 2.324536
+        },
+        "roof": {
+          "latitude": 48.850581,
+          "longitude": 2.324536
+        }
+      },
+      "link": "/v3/places/4b2e385bf964a52067dd24e3",
+      "location": {
+        "address": "24 rue de S\u00e8vres",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Rue Velpeau",
+        "formatted_address": "24 rue de S\u00e8vres (Rue Velpeau), 75007 Paris",
+        "locality": "Paris",
+        "postcode": "75007",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Bon March\u00e9",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5d333252cadadc0008a4b675",
+            "categories": [
+              {
+                "id": 17051,
+                "name": "Watch Store",
+                "short_name": "Watch Store",
+                "plural_name": "Watch Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Z\u00e9nith"
+          },
+          {
+            "fsq_id": "59578eab95a72203b064bec6",
+            "categories": [
+              {
+                "id": 17135,
+                "name": "Toy Store",
+                "short_name": "Toys & Games",
+                "plural_name": "Toy Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/toys_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Bon March\u00e9 des Enfants"
+          },
+          {
+            "fsq_id": "5c766d6b1af852002cf7c894",
+            "categories": [
+              {
+                "id": 17025,
+                "name": "Electronics Store",
+                "short_name": "Electronics",
+                "plural_name": "Electronics Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Devialet"
+          },
+          {
+            "fsq_id": "55fd80cb498eb741a359bae0",
+            "categories": [
+              {
+                "id": 13035,
+                "name": "Coffee Shop",
+                "short_name": "Coffee Shop",
+                "plural_name": "Coffee Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sunlee Howard"
+          },
+          {
+            "fsq_id": "617d5c3529546b4223926196",
+            "categories": [
+              {
+                "id": 17109,
+                "name": "Perfume Store",
+                "short_name": "Perfume Store",
+                "plural_name": "Perfume Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Labo France"
+          },
+          {
+            "fsq_id": "4dd65d9fd1647fcf3e2f0b3d",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17045,
+                "name": "Jewelry Store",
+                "short_name": "Jewelry",
+                "plural_name": "Jewelry Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Chaumet"
+          },
+          {
+            "fsq_id": "5f06f5f48c8b3f2ec6de7d21",
+            "categories": [
+              {
+                "id": 13377,
+                "name": "Vegan and Vegetarian Restaurant",
+                "short_name": "Vegan and Vegetarian Restaurant",
+                "plural_name": "Vegan and Vegetarian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Season"
+          },
+          {
+            "fsq_id": "4f7c301fe4b02480065e34e5",
+            "categories": [
+              {
+                "id": 13000,
+                "name": "Dining and Drinking",
+                "short_name": "Dining and Drinking",
+                "plural_name": "Dining and Drinking",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cantine du Bon March\u00e9"
+          },
+          {
+            "fsq_id": "4d4d344172eba14352574012",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17044,
+                "name": "Fashion Accessories Store",
+                "short_name": "Fashion Accessories Store",
+                "plural_name": "Fashion Accessories Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_accessories_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17048,
+                "name": "Shoe Store",
+                "short_name": "Shoes",
+                "plural_name": "Shoe Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Christian Dior Couture"
+          },
+          {
+            "fsq_id": "5b6c75faf193c0002c74fd5f",
+            "categories": [
+              {
+                "id": 17052,
+                "name": "Women's Store",
+                "short_name": "Women's Store",
+                "plural_name": "Women's Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "C\u00e9line Boutique"
+          },
+          {
+            "fsq_id": "4bb5c2ac941ad13a2f7f1ee3",
+            "categories": [
+              {
+                "id": 13145,
+                "name": "Fast Food Restaurant",
+                "short_name": "Fast Food",
+                "plural_name": "Fast Food Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13236,
+                "name": "Italian Restaurant",
+                "short_name": "Italian",
+                "plural_name": "Italian Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Primo Piano"
+          },
+          {
+            "fsq_id": "5d531fcc7a81e400079f752d",
+            "categories": [
+              {
+                "id": 17020,
+                "name": "Boutique",
+                "short_name": "Boutique",
+                "plural_name": "Boutiques",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Yves Saint Laurent"
+          },
+          {
+            "fsq_id": "5ec53149507e0200089c630c",
+            "categories": [
+              {
+                "id": 17030,
+                "name": "Cosmetics Store",
+                "short_name": "Cosmetics",
+                "plural_name": "Cosmetics Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Jo Malone London"
+          },
+          {
+            "fsq_id": "4e6e2b9c52b1d151b7e71c1e",
+            "categories": [
+              {
+                "id": 17043,
+                "name": "Clothing Store",
+                "short_name": "Apparel",
+                "plural_name": "Clothing Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 17048,
+                "name": "Shoe Store",
+                "short_name": "Shoes",
+                "plural_name": "Shoe Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Free Lance"
+          },
+          {
+            "fsq_id": "5f43ecccd7321045ecd60b53",
+            "categories": [
+              {
+                "id": 17109,
+                "name": "Perfume Store",
+                "short_name": "Perfume Store",
+                "plural_name": "Perfume Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Diptyque"
+          },
+          {
+            "fsq_id": "5d9a14e0aa006a0008f90573",
+            "categories": [
+              {
+                "id": 17109,
+                "name": "Perfume Store",
+                "short_name": "Perfume Store",
+                "plural_name": "Perfume Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Penhaligon\u2019s"
+          },
+          {
+            "fsq_id": "5957a76c59fe5c1d1e7a8e9e",
+            "categories": [
+              {
+                "id": 17048,
+                "name": "Shoe Store",
+                "short_name": "Shoes",
+                "plural_name": "Shoe Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Les Chaussures du Bon March\u00e9"
+          },
+          {
+            "fsq_id": "5b9fa4dcd3cce8002cd6360c",
+            "categories": [
+              {
+                "id": 17048,
+                "name": "Shoe Store",
+                "short_name": "Shoes",
+                "plural_name": "Shoe Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Biondini Paris"
+          },
+          {
+            "fsq_id": "5b6c728ac9a517003908fa16",
+            "categories": [
+              {
+                "id": 17094,
+                "name": "Luggage Store",
+                "short_name": "Luggage Store",
+                "plural_name": "Luggage Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Rimowa"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4dc1490a22713750ba78c198",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3513,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.853661,
+          "longitude": 2.380815
+        },
+        "main": {
+          "latitude": 48.853515,
+          "longitude": 2.380847
+        },
+        "roof": {
+          "latitude": 48.853515,
+          "longitude": 2.380847
+        }
+      },
+      "link": "/v3/places/4dc1490a22713750ba78c198",
+      "location": {
+        "address": "80 rue de Charonne, 11e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "80 rue de Charonne, 11e, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Septime",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b62faecf964a520ff5b2ae3",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4379,
+      "geocodes": {
+        "main": {
+          "latitude": 48.87266,
+          "longitude": 2.363646
+        },
+        "roof": {
+          "latitude": 48.87266,
+          "longitude": 2.363646
+        }
+      },
+      "link": "/v3/places/4b62faecf964a520ff5b2ae3",
+      "location": {
+        "address": "100 quai de Valmy",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "Quai de Jemmapes",
+        "formatted_address": "100 quai de Valmy (Quai de Jemmapes), 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Canal Saint-Martin",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5581ba79498e2d654886dbad",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13258,
+          "name": "Trattoria",
+          "short_name": "Trattoria/Osteria",
+          "plural_name": "Trattorias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3805,
+      "geocodes": {
+        "main": {
+          "latitude": 48.864473,
+          "longitude": 2.370121
+        },
+        "roof": {
+          "latitude": 48.864473,
+          "longitude": 2.370121
+        }
+      },
+      "link": "/v3/places/5581ba79498e2d654886dbad",
+      "location": {
+        "address": "107 boulevard Richard Lenoir",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "107 boulevard Richard Lenoir, 75011 Paris",
+        "locality": "Paris",
+        "postcode": "75011",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ober Mamma",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "5238a8c711d28a3c7a057397",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4185,
+      "geocodes": {
+        "main": {
+          "latitude": 48.869692,
+          "longitude": 2.367094
+        },
+        "roof": {
+          "latitude": 48.869692,
+          "longitude": 2.367094
+        }
+      },
+      "link": "/v3/places/5238a8c711d28a3c7a057397",
+      "location": {
+        "address": "46 quai de Jemmapes, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "46 quai de Jemmapes, Paris, 75010 Paris",
+        "locality": "Paris",
+        "postcode": "75010",
+        "region": "\u00cele-de-France"
+      },
+      "name": "La Vache dans les Vignes",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "50d5be47e4b0fb6ff8363c5f",
+      "categories": [
+        {
+          "id": 13148,
+          "name": "French Restaurant",
+          "short_name": "French",
+          "plural_name": "French Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1550,
+      "geocodes": {
+        "main": {
+          "latitude": 48.849894,
+          "longitude": 2.345194
+        },
+        "roof": {
+          "latitude": 48.849894,
+          "longitude": 2.345194
+        }
+      },
+      "link": "/v3/places/50d5be47e4b0fb6ff8363c5f",
+      "location": {
+        "address": "69-73 rue Saint-Jacques",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "69-73 rue Saint-Jacques, 75005 Paris",
+        "locality": "Paris",
+        "postcode": "75005",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Le Bistro du P\u00e9rigord",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "53b65301498e8cb57224f80c",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3650,
+      "geocodes": {
+        "main": {
+          "latitude": 48.868092,
+          "longitude": 2.328868
+        },
+        "roof": {
+          "latitude": 48.868092,
+          "longitude": 2.328868
+        }
+      },
+      "link": "/v3/places/53b65301498e8cb57224f80c",
+      "location": {
+        "address": "15 place Vend\u00f4me, Paris",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "cross_street": "",
+        "formatted_address": "15 place Vend\u00f4me, Paris, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ritz Paris (H\u00f4tel Ritz)",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4adcda04f964a5204b3221e3",
+            "categories": [
+              {
+                "id": 13009,
+                "name": "Cocktail Bar",
+                "short_name": "Cocktail",
+                "plural_name": "Cocktail Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar Hemingway"
+          },
+          {
+            "fsq_id": "4adcda14f964a520203721e3",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "L'Espadon"
+          },
+          {
+            "fsq_id": "5fe37ba73c92ba53c7284746",
+            "categories": [
+              {
+                "id": 17115,
+                "name": "Shopping Plaza",
+                "short_name": "Shopping Plaza",
+                "plural_name": "Shopping Plazas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "La Gallerie"
+          },
+          {
+            "fsq_id": "5856628d30ecc632cae1f3fb",
+            "categories": [
+              {
+                "id": 11073,
+                "name": "Spa",
+                "short_name": "Spa",
+                "plural_name": "Spas",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Spa Ritz Club"
+          },
+          {
+            "fsq_id": "5b34ebd225fb7b002c34a719",
+            "categories": [
+              {
+                "id": 13036,
+                "name": "Tea Room",
+                "short_name": "Tea Room",
+                "plural_name": "Tea Rooms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13047,
+                "name": "Pastry Shop",
+                "short_name": "Pastry",
+                "plural_name": "Pastry Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Salon Proust"
+          },
+          {
+            "fsq_id": "60c3060715755366c0a9516b",
+            "categories": [
+              {
+                "id": 13047,
+                "name": "Pastry Shop",
+                "short_name": "Pastry",
+                "plural_name": "Pastry Shops",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ritz Paris le Comptoir"
+          },
+          {
+            "fsq_id": "63fa69434ce1566c29e56979",
+            "categories": [
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bacha Caf\u00e9"
+          },
+          {
+            "fsq_id": "4adcda06f964a520fa3221e3",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar Vend\u00f4me"
+          },
+          {
+            "fsq_id": "5fe37c323b37557090fb3cc9",
+            "categories": [
+              {
+                "id": 13036,
+                "name": "Tea Room",
+                "short_name": "Tea Room",
+                "plural_name": "Tea Rooms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "TWG Tea"
+          },
+          {
+            "fsq_id": "5fe37fd45d62323029a19022",
+            "categories": [
+              {
+                "id": 17111,
+                "name": "Pop-Up Store",
+                "short_name": "Pop-Up Store",
+                "plural_name": "Pop-Up Stores",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Le Petit Comptoir de No\u00ebl"
+          },
+          {
+            "fsq_id": "4b7479b7f964a520cede2de3",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Ritz Bar"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4b4b6fe4f964a520a19b26e3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2099,
+      "geocodes": {
+        "main": {
+          "latitude": 48.855241,
+          "longitude": 2.341296
+        },
+        "roof": {
+          "latitude": 48.855241,
+          "longitude": 2.341296
+        }
+      },
+      "link": "/v3/places/4b4b6fe4f964a520a19b26e3",
+      "location": {
+        "address": "4 rue des Grands Augustins, 6e",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "4 rue des Grands Augustins, 6e, 75006 Paris",
+        "locality": "Paris",
+        "postcode": "75006",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Ze Kitchen Galerie",
+      "related_places": {},
+      "timezone": "Europe/Paris"
+    },
+    {
+      "fsq_id": "4d61286a1ee8721e010db321",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3562,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 48.867112,
+          "longitude": 2.32709
+        },
+        "main": {
+          "latitude": 48.867092,
+          "longitude": 2.327057
+        },
+        "roof": {
+          "latitude": 48.867092,
+          "longitude": 2.327057
+        }
+      },
+      "link": "/v3/places/4d61286a1ee8721e010db321",
+      "location": {
+        "address": "251 rue Saint-Honor\u00e9",
+        "admin_region": "\u00cele-de-France",
+        "country": "FR",
+        "formatted_address": "251 rue Saint-Honor\u00e9, 75001 Paris",
+        "locality": "Paris",
+        "postcode": "75001",
+        "region": "\u00cele-de-France"
+      },
+      "name": "Mandarin Oriental",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "4f593369e4b07f0bf5903183",
+            "categories": [
+              {
+                "id": 13013,
+                "name": "Hotel Bar",
+                "short_name": "Hotel Bar",
+                "plural_name": "Hotel Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13034,
+                "name": "Caf\u00e9",
+                "short_name": "Caf\u00e9",
+                "plural_name": "Caf\u00e9s",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Bar 8"
+          },
+          {
+            "fsq_id": "4e204d5488774a43b75d77e0",
+            "categories": [
+              {
+                "id": 13002,
+                "name": "Bakery",
+                "short_name": "Bakery",
+                "plural_name": "Bakeries",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              },
+              {
+                "id": 13065,
+                "name": "Restaurant",
+                "short_name": "Restaurant",
+                "plural_name": "Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cake Shop"
+          },
+          {
+            "fsq_id": "4f4e0f30e4b0b0a215156629",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Cam\u00e9lia"
+          },
+          {
+            "fsq_id": "4ea6bb60b80336cb03974145",
+            "categories": [
+              {
+                "id": 13148,
+                "name": "French Restaurant",
+                "short_name": "French",
+                "plural_name": "French Restaurants",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Sur Mesure par Thierry Marx"
+          }
+        ]
+      },
+      "timezone": "Europe/Paris"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 48.836214,
+          "longitude": 2.340852
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

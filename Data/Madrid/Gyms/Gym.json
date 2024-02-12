@@ -1,0 +1,2189 @@
+{
+  "results": [
+    {
+      "fsq_id": "5638f1e3cd10cb685f484c8e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1721,
+      "geocodes": {
+        "main": {
+          "latitude": 40.416597,
+          "longitude": -3.705452
+        },
+        "roof": {
+          "latitude": 40.416597,
+          "longitude": -3.705452
+        }
+      },
+      "link": "/v3/places/5638f1e3cd10cb685f484c8e",
+      "location": {
+        "address": "Calle Mayor, 6",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Mayor, 6, 28013 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28013",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Myst Gym Club",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "50786045e4b034705252d68c",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3943,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.426258,
+          "longitude": -3.673993
+        },
+        "main": {
+          "latitude": 40.426269,
+          "longitude": -3.674121
+        },
+        "roof": {
+          "latitude": 40.426269,
+          "longitude": -3.674121
+        }
+      },
+      "link": "/v3/places/50786045e4b034705252d68c",
+      "location": {
+        "address": "Calle Alc\u00e1ntara, 5",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Alc\u00e1ntara, 5, 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Holiday Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ca43369d7c337047f8ba762",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4973,
+      "geocodes": {
+        "main": {
+          "latitude": 40.393793,
+          "longitude": -3.764777
+        }
+      },
+      "link": "/v3/places/4ca43369d7c337047f8ba762",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "28024 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28024",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Holiday Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ceac586fe90a35dee9c4f0e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2137,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.420197,
+          "longitude": -3.709623
+        },
+        "main": {
+          "latitude": 40.42009,
+          "longitude": -3.709722
+        },
+        "roof": {
+          "latitude": 40.42009,
+          "longitude": -3.709722
+        }
+      },
+      "link": "/v3/places/4ceac586fe90a35dee9c4f0e",
+      "location": {
+        "address": "Calle Fomento, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Fomento, 3, 28013 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28013",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Opera Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d81c5f0d95df04d4ec949bc",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4086,
+      "geocodes": {
+        "main": {
+          "latitude": 40.406983,
+          "longitude": -3.659217
+        },
+        "roof": {
+          "latitude": 40.406983,
+          "longitude": -3.659217
+        }
+      },
+      "link": "/v3/places/4d81c5f0d95df04d4ec949bc",
+      "location": {
+        "address": "Avenida Moratalaz, 40",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida Moratalaz, 40, 28030 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28030",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Holiday Gym Garden",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda41f964a520dc3e21e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5738,
+      "geocodes": {
+        "main": {
+          "latitude": 40.451526,
+          "longitude": -3.693638
+        },
+        "roof": {
+          "latitude": 40.451526,
+          "longitude": -3.693638
+        }
+      },
+      "link": "/v3/places/4adcda41f964a520dc3e21e3",
+      "location": {
+        "address": "Plaza Carlos Tr\u00edas Bertr\u00e1n, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Plaza Carlos Tr\u00edas Bertr\u00e1n, 4, 28020 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28020",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Holiday Gym",
+      "related_places": {
+        "parent": {
+          "fsq_id": "6152d4d087efcf17cf648955",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Canopy by Hilton Madrid Castellana"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5ade3f0db6b04b08b9fc9726",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1240,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.396156,
+          "longitude": -3.693591
+        },
+        "main": {
+          "latitude": 40.396044,
+          "longitude": -3.693598
+        },
+        "roof": {
+          "latitude": 40.396044,
+          "longitude": -3.693598
+        }
+      },
+      "link": "/v3/places/5ade3f0db6b04b08b9fc9726",
+      "location": {
+        "address": "Calle Juan de Vera, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Juan de Vera, 4, 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Fitup Shot Urban Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "6315b922161d05364bc3c3d4",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1872,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.418127,
+          "longitude": -3.706053
+        },
+        "main": {
+          "latitude": 40.417847,
+          "longitude": -3.70615
+        },
+        "roof": {
+          "latitude": 40.417847,
+          "longitude": -3.70615
+        }
+      },
+      "link": "/v3/places/6315b922161d05364bc3c3d4",
+      "location": {
+        "address": "Plaza de Celenque, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Plaza de Celenque, 2, 28013 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28013",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "The Gym At The Madrid Edition",
+      "related_places": {
+        "parent": {
+          "fsq_id": "60c1d5654650b14bd39b701e",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Madrid EDITION"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "64117435ee8b596f9ef62952",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4792,
+      "geocodes": {
+        "main": {
+          "latitude": 40.443375,
+          "longitude": -3.696102
+        }
+      },
+      "link": "/v3/places/64117435ee8b596f9ef62952",
+      "location": {
+        "address": "Calle de Modesto Lafuente, 49",
+        "address_extended": "Calle de Crist\u00f3bal Bordi\u00fa",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Calle de Crist\u00f3bal Bordi\u00fa",
+        "formatted_address": "Calle de Modesto Lafuente, 49 (Calle de Crist\u00f3bal Bordi\u00fa), 28003 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28003",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Rebel Gym",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "585976514287c92a8c5b5487",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4097,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.42794,
+          "longitude": -3.673848
+        },
+        "main": {
+          "latitude": 40.427924,
+          "longitude": -3.673652
+        },
+        "roof": {
+          "latitude": 40.427924,
+          "longitude": -3.673652
+        }
+      },
+      "link": "/v3/places/585976514287c92a8c5b5487",
+      "location": {
+        "address": "Alcantara, 26",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Alcantara, 26, 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Viding",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bf6e9484a67c92852a922cf",
+      "categories": [
+        {
+          "id": 18077,
+          "name": "Gym",
+          "short_name": "Gym",
+          "plural_name": "Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1548,
+      "geocodes": {
+        "main": {
+          "latitude": 40.4144579168501,
+          "longitude": -3.7019124627113342
+        }
+      },
+      "link": "/v3/places/4bf6e9484a67c92852a922cf",
+      "location": {
+        "address": "Plaza del \u00c1ngel, 6",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Plaza del \u00c1ngel, 6, 28012 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28012",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Palacio Santa Ana",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "539f2f99498e2365d2c7acd3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4424,
+      "geocodes": {
+        "main": {
+          "latitude": 40.44075,
+          "longitude": -3.709133
+        },
+        "roof": {
+          "latitude": 40.44075,
+          "longitude": -3.709133
+        }
+      },
+      "link": "/v3/places/539f2f99498e2365d2c7acd3",
+      "location": {
+        "address": "Avenida de Filipinas, 7",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Vallehermoso",
+        "formatted_address": "Avenida de Filipinas, 7 (Vallehermoso), 28003 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28003",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "GoFit Vallehermoso",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "541bf00e498eb661ff0c1656",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6571,
+      "geocodes": {
+        "main": {
+          "latitude": 40.458131,
+          "longitude": -3.685796
+        },
+        "roof": {
+          "latitude": 40.458131,
+          "longitude": -3.685796
+        }
+      },
+      "link": "/v3/places/541bf00e498eb661ff0c1656",
+      "location": {
+        "address": "Padre Dami\u00e1n, 23",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Padre Dami\u00e1n, 23, 28036 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28036",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Metropolitan Eurobuilding",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5484a273498e2316299140a8",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "NH Eurobuilding"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57752f64498e7468acd33cf5",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5539,
+      "geocodes": {
+        "main": {
+          "latitude": 40.433378,
+          "longitude": -3.656728
+        },
+        "roof": {
+          "latitude": 40.433378,
+          "longitude": -3.656728
+        }
+      },
+      "link": "/v3/places/57752f64498e7468acd33cf5",
+      "location": {
+        "address": "Calle Virgen de la Alegria, 10",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Virgen de la Alegria, 10, 28027 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28027",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "DreamFit Ventas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51fbe587498effc004b79c88",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4914,
+      "geocodes": {
+        "main": {
+          "latitude": 40.44221,
+          "longitude": -3.686156
+        },
+        "roof": {
+          "latitude": 40.44221,
+          "longitude": -3.686156
+        }
+      },
+      "link": "/v3/places/51fbe587498effc004b79c88",
+      "location": {
+        "address": "Serrano, 127",
+        "address_extended": "Jorge Manrique",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Jorge Manrique",
+        "formatted_address": "Serrano, 127 (Jorge Manrique), 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "AltaFit Estudiantes",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52f28465498e14c9371d7800",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4759,
+      "geocodes": {
+        "main": {
+          "latitude": 40.427032,
+          "longitude": -3.662392
+        },
+        "roof": {
+          "latitude": 40.427032,
+          "longitude": -3.662392
+        }
+      },
+      "link": "/v3/places/52f28465498e14c9371d7800",
+      "location": {
+        "address": "Calle Ram\u00f3n de Aguinaga, 13",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Ram\u00f3n de Aguinaga, 13, 28028 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28028",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Crossfit Singular Box",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b802a8af964a5207d5830e3",
+      "categories": [
+        {
+          "id": 18065,
+          "name": "Sports Club",
+          "short_name": "Sports Club",
+          "plural_name": "Sports Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4262,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.42978,
+          "longitude": -3.673012
+        },
+        "main": {
+          "latitude": 40.429602,
+          "longitude": -3.673021
+        },
+        "roof": {
+          "latitude": 40.429602,
+          "longitude": -3.673021
+        }
+      },
+      "link": "/v3/places/4b802a8af964a5207d5830e3",
+      "location": {
+        "address": "Jos\u00e9 Ortega y Gasset, 82",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Jos\u00e9 Ortega y Gasset, 82, 28006 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28006",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Arsenal Proyectos Deportivos",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f8bdbf9e4b013a982b19d8d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 5890,
+      "geocodes": {
+        "main": {
+          "latitude": 40.452965,
+          "longitude": -3.692915
+        }
+      },
+      "link": "/v3/places/4f8bdbf9e4b013a982b19d8d",
+      "location": {
+        "address": "Calle Capit\u00e1n Haya, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Capit\u00e1n Haya, 1, 28020 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28020",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Holmes Place Premium Fitness Clubs",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "58e8ab5c26a953247d796342",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1336,
+      "geocodes": {
+        "main": {
+          "latitude": 40.392457,
+          "longitude": -3.717857
+        }
+      },
+      "link": "/v3/places/58e8ab5c26a953247d796342",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "calle Miguel Soriano",
+        "formatted_address": "calle Miguel Soriano, 28019 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28019",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "GO \ufb01t Piscinas San Miguel",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc0456e461576b070f57932",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 9790,
+      "geocodes": {
+        "main": {
+          "latitude": 40.419827,
+          "longitude": -3.820189
+        },
+        "roof": {
+          "latitude": 40.419827,
+          "longitude": -3.820189
+        }
+      },
+      "link": "/v3/places/4bc0456e461576b070f57932",
+      "location": {
+        "address": "Calle Juan Antonio Samaranch Torell\u00f3 6B",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Juan Antonio Samaranch Torell\u00f3 6B, 28223 Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "postcode": "28223",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Fitness Sports Valle de las Ca\u00f1as",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "59dc7ed1f62e096d40bace40",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8498,
+      "geocodes": {
+        "main": {
+          "latitude": 40.47699,
+          "longitude": -3.717502
+        }
+      },
+      "link": "/v3/places/59dc7ed1f62e096d40bace40",
+      "location": {
+        "address": "Avenida Monforte de Lemos, 184",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Monforte de Lemos, 184, 28035 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28035",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "CDM Go Fit Pe\u00f1agrande",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54b025b6498ef6eb2e990827",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 747,
+      "geocodes": {
+        "main": {
+          "latitude": 40.402613,
+          "longitude": -3.697999
+        }
+      },
+      "link": "/v3/places/54b025b6498ef6eb2e990827",
+      "location": {
+        "address": "Paseo Santa Mar\u00eda de la Cabeza, 50",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Paseo Santa Mar\u00eda de la Cabeza, 50, 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "McFit",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5643b3b5498e2086ea98fded",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1534,
+      "geocodes": {
+        "main": {
+          "latitude": 40.388167,
+          "longitude": -3.700054
+        },
+        "roof": {
+          "latitude": 40.388167,
+          "longitude": -3.700054
+        }
+      },
+      "link": "/v3/places/5643b3b5498e2086ea98fded",
+      "location": {
+        "address": "Calle de Marcelo Usera, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Marcelo Usera, 1, 28026 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28026",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Basic-Fit Madrid Glorieta de C\u00e1diz",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bda6c4fc79cc928ffdc7ee9",
+      "categories": [
+        {
+          "id": 18077,
+          "name": "Gym",
+          "short_name": "Gym",
+          "plural_name": "Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4218,
+      "geocodes": {
+        "main": {
+          "latitude": 40.437979,
+          "longitude": -3.693837
+        },
+        "roof": {
+          "latitude": 40.437979,
+          "longitude": -3.693837
+        }
+      },
+      "link": "/v3/places/4bda6c4fc79cc928ffdc7ee9",
+      "location": {
+        "address": "Jos\u00e9 Abascal, 46",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Jos\u00e9 Abascal, 46, 28003 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28003",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Metropolitan",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cac261f2f08236ada838961",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 8445,
+      "geocodes": {
+        "main": {
+          "latitude": 40.41998,
+          "longitude": -3.803886
+        },
+        "roof": {
+          "latitude": 40.41998,
+          "longitude": -3.803886
+        }
+      },
+      "link": "/v3/places/4cac261f2f08236ada838961",
+      "location": {
+        "address": "Paseo Club Deportivo, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Paseo Club Deportivo, 4, 28223 Pozuelo de Alarc\u00f3n Comunidad de Madrid",
+        "locality": "Pozuelo de Alarc\u00f3n",
+        "postcode": "28223",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Reebok Sports Club la Finca",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51017e7fe4b05ffc30802a31",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 460,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.405042,
+          "longitude": -3.707688
+        },
+        "main": {
+          "latitude": 40.405164,
+          "longitude": -3.707666
+        },
+        "roof": {
+          "latitude": 40.405164,
+          "longitude": -3.707666
+        }
+      },
+      "link": "/v3/places/51017e7fe4b05ffc30802a31",
+      "location": {
+        "address": "Calle Cigarreras, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Ribera De Curtidores",
+        "formatted_address": "Calle Cigarreras, 3 (Ribera De Curtidores), Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "AltaFit Puerta de Toledo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57e32187498e4567133e92b9",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9506,
+      "geocodes": {
+        "main": {
+          "latitude": 40.472634,
+          "longitude": -3.768337
+        },
+        "roof": {
+          "latitude": 40.472634,
+          "longitude": -3.768337
+        }
+      },
+      "link": "/v3/places/57e32187498e4567133e92b9",
+      "location": {
+        "address": "Calle Vi\u00f1as de el Pardo, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Vi\u00f1as de el Pardo, 4, 28023 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28023",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "David Lloyd Aravaca",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "511a958be4b014fb1e4685f2",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 456,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.402943,
+          "longitude": -3.701952
+        },
+        "main": {
+          "latitude": 40.402866,
+          "longitude": -3.702051
+        },
+        "roof": {
+          "latitude": 40.402866,
+          "longitude": -3.702051
+        }
+      },
+      "link": "/v3/places/511a958be4b014fb1e4685f2",
+      "location": {
+        "address": "Calle Mart\u00edn de Vargas, 22",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Mart\u00edn de Vargas, 22, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Urban Box Crossfit",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52da5dcc498e72b00c6f01fb",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8514,
+      "geocodes": {
+        "main": {
+          "latitude": 40.324417,
+          "longitude": -3.714263
+        },
+        "roof": {
+          "latitude": 40.324417,
+          "longitude": -3.714263
+        }
+      },
+      "link": "/v3/places/52da5dcc498e72b00c6f01fb",
+      "location": {
+        "address": "Avenida Teresa de Calcuta, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Teresa de Calcuta, s/n, 28903 Getafe Comunidad de Madrid",
+        "locality": "Getafe",
+        "postcode": "28903",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Forus Getafe",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adcda43f964a5204f3f21e3",
+          "categories": [
+            {
+              "id": 10051,
+              "name": "Stadium",
+              "short_name": "Stadium",
+              "plural_name": "Stadiums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Coliseum Alfonso P\u00e9rez"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "560c0c03498ede2de9585bbb",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1555,
+      "geocodes": {
+        "main": {
+          "latitude": 40.4149,
+          "longitude": -3.709191
+        }
+      },
+      "link": "/v3/places/560c0c03498ede2de9585bbb",
+      "location": {
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "FitUp",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "57bc707a498e03c0b5f3c81e",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1151,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.404277,
+          "longitude": -3.693555
+        },
+        "main": {
+          "latitude": 40.404305,
+          "longitude": -3.693791
+        },
+        "roof": {
+          "latitude": 40.404305,
+          "longitude": -3.693791
+        }
+      },
+      "link": "/v3/places/57bc707a498e03c0b5f3c81e",
+      "location": {
+        "address": "Paseo de las Delicias, 32",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Delicias",
+        "formatted_address": "Paseo de las Delicias, 32 (Delicias), 28045 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28045",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Basic-Fit Madrid Delicias",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b6311f3f964a520e1602ae3",
+      "categories": [
+        {
+          "id": 18077,
+          "name": "Gym",
+          "short_name": "Gym",
+          "plural_name": "Gyms",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 14977,
+      "geocodes": {
+        "main": {
+          "latitude": 40.454959,
+          "longitude": -3.86867
+        },
+        "roof": {
+          "latitude": 40.454959,
+          "longitude": -3.86867
+        }
+      },
+      "link": "/v3/places/4b6311f3f964a520e1602ae3",
+      "location": {
+        "address": "Calle Azafr\u00e1n, 4",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle Azafr\u00e1n, 4, 28222 Majadahonda Comunidad de Madrid",
+        "locality": "Majadahonda",
+        "postcode": "28222",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "F\u00edsico",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4cd11163ca6c9c74e3706ba8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 14536,
+      "geocodes": {
+        "main": {
+          "latitude": 40.394937,
+          "longitude": -3.878359
+        }
+      },
+      "link": "/v3/places/4cd11163ca6c9c74e3706ba8",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Av. de Cantabria s/n",
+        "formatted_address": "Av. de Cantabria s/n, 28660 Boadilla del Monte Comunidad de Madrid",
+        "locality": "Boadilla del Monte",
+        "postcode": "28660",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro Deportivo el Sardinero",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bb9cf8a1261d13ad4dae998",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1779,
+      "geocodes": {
+        "main": {
+          "latitude": 40.406802,
+          "longitude": -3.726266
+        },
+        "roof": {
+          "latitude": 40.406802,
+          "longitude": -3.726266
+        }
+      },
+      "link": "/v3/places/4bb9cf8a1261d13ad4dae998",
+      "location": {
+        "address": "Calle Sepulveda, 3",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Sepulveda, 3, 28011 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28011",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Paidesport Center",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "51d1573b498e3b446f978187",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5571,
+      "geocodes": {
+        "main": {
+          "latitude": 40.435612,
+          "longitude": -3.659154
+        }
+      },
+      "link": "/v3/places/51d1573b498e3b446f978187",
+      "location": {
+        "address": "Virgen de la Paz, 22",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Virgen de la Paz, 22, 28027 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28027",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "McFit",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4ec2c97c775b802d1ffbddd6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 9114,
+      "geocodes": {
+        "main": {
+          "latitude": 40.368306,
+          "longitude": -3.607922
+        },
+        "roof": {
+          "latitude": 40.368306,
+          "longitude": -3.607922
+        }
+      },
+      "link": "/v3/places/4ec2c97c775b802d1ffbddd6",
+      "location": {
+        "address": "Avenida del Ensanche de Vallecas, 37",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Edificio Ortiz",
+        "formatted_address": "Avenida del Ensanche de Vallecas, 37 (Edificio Ortiz), 28051 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28051",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Body Factory La Gavia",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bc2dfdd74a9a59379ced3f6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11009,
+      "geocodes": {
+        "main": {
+          "latitude": 40.499932,
+          "longitude": -3.714117
+        }
+      },
+      "link": "/v3/places/4bc2dfdd74a9a59379ced3f6",
+      "location": {
+        "address": "Calle de Monasterio de el Paular, 2",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle de Monasterio de el Paular, 2, 28034 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28034",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "GoFit Montecarmelo",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4bed189d9868a59367e95c46",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 11294,
+      "geocodes": {
+        "main": {
+          "latitude": 40.45445,
+          "longitude": -3.593161
+        },
+        "roof": {
+          "latitude": 40.45445,
+          "longitude": -3.593161
+        }
+      },
+      "link": "/v3/places/4bed189d9868a59367e95c46",
+      "location": {
+        "address": "Calle la Rioja, s/n",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Calle la Rioja, s/n, 28042 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28042",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Spacio Deportivo el Capricho",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d30b415236aa143996f57eb",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 6189,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.42922,
+          "longitude": -3.643794
+        },
+        "main": {
+          "latitude": 40.429128,
+          "longitude": -3.643901
+        },
+        "roof": {
+          "latitude": 40.429128,
+          "longitude": -3.643901
+        }
+      },
+      "link": "/v3/places/4d30b415236aa143996f57eb",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "C. Francisco Villaespesa",
+        "formatted_address": "C. Francisco Villaespesa, 28017 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28017",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Gimnasio Urban Fitness",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b82edccf964a520beed30e3",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 18025,
+          "name": "Dance Studio",
+          "short_name": "Dance Studio",
+          "plural_name": "Dance Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1122,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.411072,
+          "longitude": -3.704521
+        },
+        "main": {
+          "latitude": 40.411033,
+          "longitude": -3.704505
+        },
+        "roof": {
+          "latitude": 40.411033,
+          "longitude": -3.704505
+        }
+      },
+      "link": "/v3/places/4b82edccf964a520beed30e3",
+      "location": {
+        "address": "Calle Esgrima, 11",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Esgrima, 11, 28012 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28012",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Centro de Ocio el Horno",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "500074b1e4b04575fd3ca059",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 19156,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.500233,
+          "longitude": -3.891933
+        },
+        "main": {
+          "latitude": 40.500245,
+          "longitude": -3.892088
+        },
+        "roof": {
+          "latitude": 40.500245,
+          "longitude": -3.892088
+        }
+      },
+      "link": "/v3/places/500074b1e4b04575fd3ca059",
+      "location": {
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Madrid",
+        "region": "Madrid"
+      },
+      "name": "Crossfit las Rozas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "562b631c498e7ab0be9acbc3",
+      "categories": [
+        {
+          "id": 18030,
+          "name": "Gymnastics Center",
+          "short_name": "Gymnastics Center",
+          "plural_name": "Gymnastics Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 597,
+      "geocodes": {
+        "main": {
+          "latitude": 40.405691,
+          "longitude": -3.699464
+        }
+      },
+      "link": "/v3/places/562b631c498e7ab0be9acbc3",
+      "location": {
+        "address": "Ronda de Valencia, 1",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Ronda de Valencia, 1, 28012 Madrid Madrid",
+        "locality": "Madrid",
+        "postcode": "28012",
+        "region": "Madrid"
+      },
+      "name": "VivaGym Embajadores | Gimnasio en Madrid",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "52dd2325498e066d7db859b7",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1455,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.413787,
+          "longitude": -3.702434
+        },
+        "main": {
+          "latitude": 40.41368,
+          "longitude": -3.70247
+        },
+        "roof": {
+          "latitude": 40.41368,
+          "longitude": -3.70247
+        }
+      },
+      "link": "/v3/places/52dd2325498e066d7db859b7",
+      "location": {
+        "address": "Calle de Atocha, 24",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Atocha, 24, 28012 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28012",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Basic-Fit Madrid",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c1a4d4963750f47df0ab367",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3773,
+      "geocodes": {
+        "main": {
+          "latitude": 40.429151,
+          "longitude": -3.681786
+        },
+        "roof": {
+          "latitude": 40.429151,
+          "longitude": -3.681786
+        }
+      },
+      "link": "/v3/places/4c1a4d4963750f47df0ab367",
+      "location": {
+        "address": "Don Ram\u00f3n de la Cruz, 33",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Don Ram\u00f3n de la Cruz, 33, 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "O2 Centro Wellness",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56158691498edf031f1ed473",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 640,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.40358,
+          "longitude": -3.713209
+        },
+        "main": {
+          "latitude": 40.403678,
+          "longitude": -3.71342
+        },
+        "roof": {
+          "latitude": 40.403678,
+          "longitude": -3.71342
+        }
+      },
+      "link": "/v3/places/56158691498edf031f1ed473",
+      "location": {
+        "address": "Calle de Toledo, 142",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Toledo, 142, 28005 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28005",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Basic-Fit Madrid",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "513dd7b6e4b010989688d8c8",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 7518,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.435418,
+          "longitude": -3.629988
+        },
+        "main": {
+          "latitude": 40.435286,
+          "longitude": -3.630201
+        },
+        "roof": {
+          "latitude": 40.435286,
+          "longitude": -3.630201
+        }
+      },
+      "link": "/v3/places/513dd7b6e4b010989688d8c8",
+      "location": {
+        "address": "Santa Leonor, 18",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Santa Leonor, 18, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Factory Fit",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f51206ee4b0f1f5ff031af6",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3154,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 40.410947,
+          "longitude": -3.671965
+        },
+        "main": {
+          "latitude": 40.411067,
+          "longitude": -3.671959
+        },
+        "roof": {
+          "latitude": 40.411067,
+          "longitude": -3.671959
+        }
+      },
+      "link": "/v3/places/4f51206ee4b0f1f5ff031af6",
+      "location": {
+        "address": "Calle Vicente Caballero, 10",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Vicente Caballero, 10, 28007 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28007",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "CrossFit Krig Retiro",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4f0172f9a69d45461f0c984d",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 12628,
+      "geocodes": {
+        "main": {
+          "latitude": 40.429592,
+          "longitude": -3.562352
+        },
+        "roof": {
+          "latitude": 40.429592,
+          "longitude": -3.562352
+        }
+      },
+      "link": "/v3/places/4f0172f9a69d45461f0c984d",
+      "location": {
+        "address": "Avenida Plant\u00edo, 11",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "formatted_address": "Avenida Plant\u00edo, 11, 28820 Coslada Comunidad de Madrid",
+        "locality": "Coslada",
+        "postcode": "28820",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Forus Coslada",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "507468a8e4b01059348c1ada",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 6359,
+      "geocodes": {
+        "main": {
+          "latitude": 40.457513,
+          "longitude": -3.694797
+        }
+      },
+      "link": "/v3/places/507468a8e4b01059348c1ada",
+      "location": {
+        "address": "Calle Orense, 67",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Orense, 67, Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "HealthCity",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "54d1ee12498e4fbfb6038f08",
+      "categories": [
+        {
+          "id": 18021,
+          "name": "Gym and Studio",
+          "short_name": "Gym and Studio",
+          "plural_name": "Gym and Studios",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 3375,
+      "geocodes": {
+        "main": {
+          "latitude": 40.42534,
+          "longitude": -3.682934
+        },
+        "roof": {
+          "latitude": 40.42534,
+          "longitude": -3.682934
+        }
+      },
+      "link": "/v3/places/54d1ee12498e4fbfb6038f08",
+      "location": {
+        "address": "Calle de Goya, 43",
+        "admin_region": "Comunidad de Madrid",
+        "country": "ES",
+        "cross_street": "Calle N\u00fa\u00f1ez de Balboa, 35",
+        "formatted_address": "Calle de Goya, 43 (Calle N\u00fa\u00f1ez de Balboa, 35), 28001 Madrid Comunidad de Madrid",
+        "locality": "Madrid",
+        "postcode": "28001",
+        "region": "Comunidad de Madrid"
+      },
+      "name": "Basic-Fit Madrid Goya",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.4010201,
+          "longitude": -3.7067751
+        },
+        "radius": 22000
+      }
+    }
+  }
+}
