@@ -1,15 +1,17 @@
-import pandas as pd
 import requests
 import json
 import pandas as pd
 from getpass import getpass
 from pymongo import MongoClient
 import folium
-
 from folium import Choropleth, Circle, Marker, Icon, Map
 from folium.plugins import HeatMap, MarkerCluster
+import pandas as pd
+# Insert the 4Square APi Key
 
-#  4 SQUAREAPi to retrieve Jsons
+token = getpass()
+
+# Select venue, latitude and longitude. Result will be sent to the "json_file path, update as needed"
 
 def places (venue, lat, lon):
     url = f"https://api.foursquare.com/v3/places/search?query={venue}&ll={lat}%2C{lon}&limit=50"
@@ -30,7 +32,12 @@ with open(json_file_path, "w") as json_file:
 
 print(f"Result has been saved to {json_file_path}")
 
-# Upload Jsons to Mongo DB and Transform them using to_csv function
+"""
+Connect to local client Mongo, to upload the Jsons downloaded, 
+use the next function to retrieve : Name, Latitude and Longitude of the venues found.
+This file will generate a CSV, please change the path as needed.
+"""
+client = MongoClient("localhost:27017")
 
 def to_csv(database_name, collection_name):
    
@@ -65,14 +72,18 @@ def to_csv(database_name, collection_name):
   
     df.to_csv("C:\\Users\\ateso\\Desktop\\Ironhack\\Project-3\\Data\\acsv\\new_csv.csv", index=False)
 
-    # Used to find information from "Companies" data set.
+"""
+This function was used to find information from a data set 
+already included in the Ironhack BootCamp, called Companies.
 
-    
-client = MongoClient("localhost:27017")
-db = client[database_name]
-c = db[collection_name]
+This will also generate another CSV file, change the destination address as needed.
 
+"""
 def company_city(database_name, collection_name):
+    
+    client = MongoClient("localhost:27017")
+    db = client[database_name]
+    c = db[collection_name]
 
     filter_2 = {"name": {"$exists": True}, "offices.city": "Barcelona", "category_code": "games_video"}
     projection = {"name": 1, "offices.city": 1, "category_code": 1, "offices.latitude": 1, "offices.longitude": 1}
@@ -95,3 +106,5 @@ def company_city(database_name, collection_name):
     df.to_csv(csv_filename, index=False)
 
     print(f"Data exported to {csv_filename}")
+
+    
