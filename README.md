@@ -1,6 +1,6 @@
 # Project-3 Move ON "GeoSpatial Data Project"
 
-Welcome to Project-3. In this project, we are presented with the task of finding a suitable city and spot to relocate our support team.
+Welcome to Project-3. In this project, we are presented with the task of finding a suitable city and a palce or neighbourhood to relocate our support team.
 
 The company will have the following scheme:
 
@@ -13,6 +13,7 @@ The company will have the following scheme:
 - 1 Maintenance guy who loves basketball
 - 10 Executives
 - 1 CEO/President.
+
 
 # As data analysts, we were tasked with the job of finding a place that meets some of the people's preferences.
 
@@ -30,6 +31,8 @@ The company will have the following scheme:
 
 - MongoDB: [https://docs.mongodb.com/manual/geospatial-queries/]
 - Foursquare API: [https://developer.foursquare.com/]
+
+
 
 # We also used the following Libraries:
 
@@ -58,19 +61,19 @@ We approached the cities one by one, extracting samples from Foursquare to deter
 
 # We created a map view with all these layers to interact as a first step.
 
-![alt text](<Bars Barcelona-1.png>)
+![alt text](<Images/Athens/All Athens.png>)
 
 This process was replicated for the other 4 cities in this project. Additionally, another type of map was used as a "HeatMap" to better appreciate the concentration of the volume, and a layer with a 4km square radius was added to verify the proximity of the results.
 
-# The HeatMap determined the concentration level of the cities and their quarters with the most activity.
+# The HeatMap determined the concentration level of the cities and the quarters with the most activity.
 
-![alt text](BCN-1.png)
+![alt text](Images/Barcelona/BCN.png)
 
 These maps revealed the concentration area of each city, and that the most suitable places are closer to the radius center, but it was not enough to decide yet what was the most optimal city to move to.
 
 # Taking other companies as a reference in the cities, considering perhaps buying one of them.
 
-![alt text](<Barcelona Radious-1.png>)
+!![alt text](<Images/Barcelona/Barcelona Radious.png>)
 
 After exploring a record of data based on companies with tags "Gaming or Software," we decided to add another layer with all the companies found in each city, by adding a green marker.
 
@@ -78,9 +81,9 @@ This last step also gave a certain validation point to our previously conceived 
 
 # Paris came up as the city with the most companies found out of the 5 cities, and most of the companies are in the same radius.
 
-![alt text](<Paris Radious-2.png>)
+![alt text](<Images/Paris/Paris Radious.png>)
 
-# Independent Location Decision within a 4km Radius Square:
+# Independent location decision within a 4km radius square:
 
 This suggests that our decision is to be taken within a 4km radius for our business. We also need to consider the following factors:
 
@@ -89,7 +92,7 @@ This suggests that our decision is to be taken within a 4km radius for our busin
 - Competition: Evaluate the level of competition in the area.
 - Cost: Assess the cost of acquiring or leasing property in the selected square.
 
-# Consideration of Purchasing a Company in a Specific City:
+# Considering to buy a company in a specific city:
 
 This option involves acquiring an already established business in a particular city. Key considerations include:
 
